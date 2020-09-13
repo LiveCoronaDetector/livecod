@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Coronavirus closure? At cabinet meeting, hospital heads disagree",
+        "title": "Coronavirus closure? Ministers accuse Gamzu of 'zigzagging all the time'",
         "link": "https://www.jpost.com/breaking-news/coronavirus-2651-new-cases-on-saturday-death-toll-1103-642074"
     },
     {
