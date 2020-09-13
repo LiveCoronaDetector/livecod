@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
-        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
-    },
-    {
         "title": "서울 코로나 확진자 30명대로 줄었지만...'불안함 여전하다'(종합)",
         "link": "http://www.fnnews.com/news/202009131347148565"
+    },
+    {
+        "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     },
     {
         "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
