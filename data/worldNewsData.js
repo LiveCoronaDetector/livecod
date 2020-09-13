@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.businessinsider.com/israel-shutdown-again-covid-19-coronavirus-2020-9"
     },
     {
-        "title": "Coronavirus live news: France cases top 10,000 in one day; Victoria records 41 new infections",
+        "title": "Coronavirus live news: France daily cases top 10,000; Victoria reports 41 new infections",
         "link": "https://www.theguardian.com/world/live/2020/sep/13/coronavirus-live-news-france-cases-top-10000-in-one-day-victoria-records-41-new-infections"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=bwNHhjx3mZk"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html"
+    },
+    {
         "title": "Trump officials interfered with CDC reports on Covid-19",
         "link": "https://www.politico.com/news/2020/09/11/exclusive-trump-officials-interfered-with-cdc-reports-on-covid-19-412809"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
-    },
-    {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
