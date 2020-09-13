@@ -9,35 +9,35 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5411241"
     },
     {
-        "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
-        "link": "http://www.fnnews.com/news/202009112029479098"
-    },
-    {
         "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
-        "title": "[종합] 추석 앞두고 제주 코로나19 방역 '총력전'",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150929"
-    },
-    {
-        "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
-        "link": "https://www.news1.kr/articles/?4056378"
+        "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
+        "link": "http://www.fnnews.com/news/202009112029479098"
     },
     {
         "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
     },
     {
-        "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350436"
+        "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
+        "link": "https://www.news1.kr/articles/?4056378"
+    },
+    {
+        "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
+    },
+    {
+        "title": "제주 35번 코로나19 확진자 퇴원…입원환자 17명",
+        "link": "http://www.newsis.com/view/?id=NISX20200912_0001163871&cID=10813&pID=10800"
     },
     {
         "title": "제주도, 라스베이거스 포커대회 집합금지 명령 발동",
         "link": "http://www.fnnews.com/news/202009121506204421"
     },
     {
-        "title": "제주도 35번.42번 코로나 확진자 퇴원...'남은 입원치료 환자 17명'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427151"
+        "title": "[종합] 추석 앞두고 제주 코로나19 방역 '총력전'",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=150929"
     }
 ];

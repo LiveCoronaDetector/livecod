@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/961900.html"
     },
     {
+        "title": "전세계 코로나 확진자 2천900만명 육박",
+        "link": "http://yna.kr/AKR20200913024900009?did=1195m"
+    },
+    {
         "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
-    },
-    {
-        "title": "전세계 코로나 확진자 2천900만명 육박",
-        "link": "http://yna.kr/AKR20200913024900009?did=1195m"
     },
     {
         "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
     },
     {
+        "title": "인천 70대 코로나19 확진자 사망…배우자는 완치돼 퇴원",
+        "link": "http://yna.kr/AKR20200913024800065?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 121명...'2.5단계' 연장 여부 오후 결정",
         "link": "https://www.ytn.co.kr/_ln/0103_202009131008381315"
     },
     {
         "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
-    },
-    {
-        "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
-        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     }
 ];
