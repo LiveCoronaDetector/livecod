@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Coronavirus closure? Ministers accuse Gamzu of 'zigzagging all the time'",
+        "title": "Closure? Senior official says likely to be 'softened significantly'",
         "link": "https://www.jpost.com/breaking-news/coronavirus-2651-new-cases-on-saturday-death-toll-1103-642074"
     },
     {
@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/weve-learned-how-we-need-to-act-spain-braces-for-second-wave-of-covid"
     },
     {
-        "title": "Coronavirus: How the lockdown has changed schooling in South Asia",
-        "link": "https://www.bbc.com/news/world-south-asia-54009306"
+        "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
+        "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
         "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
-        "link": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnNmZ2F0ZS5jb20vbmV3cy9lZGl0b3JzcGlja3MvYXJ0aWNsZS9jb3JvbmF2aXJ1cy1zdHVkeS1DYWxpZm9ybmlhLURlY2VtYmVyLUNoaW5hLXNwcmVhZC0xNTU2MjQ0OS5waHDSAWxodHRwczovL3d3dy5zZmdhdGUuY29tL25ld3MvZWRpdG9yc3BpY2tzL2FtcC9jb3JvbmF2aXJ1cy1zdHVkeS1DYWxpZm9ybmlhLURlY2VtYmVyLUNoaW5hLXNwcmVhZC0xNTU2MjQ0OS5waHA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.sfgate.com/news/editorspicks/article/coronavirus-study-California-December-China-spread-15562449.php"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://news.google.com/articles/CAIiEHcMDK5tYdd6JbOP0-31RKQqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTEzLTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xMy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     },
     {
         "title": "Trump officials interfered with CDC reports: Politico",
-        "link": "https://www.yahoo.com/gma/trump-officials-interfered-cdc-reports-232114227.html"
+        "link": "https://www.yahoo.com/gma/trump-officials-interfered-cdc-reports-232114037.html"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
