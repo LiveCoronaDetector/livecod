@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
+        "title": "\"미국은 실패했다\" 타임지, 흑백 표지로 코로나 위기 부각",
+        "link": "https://www.hankyung.com/life/article/2020091343327"
+    },
+    {
+        "title": "中학자 \"코로나, 우한 연구소서 나왔다…과학적 증거 곧 공개\"",
+        "link": "https://news.joins.com/article/olink/23465409"
+    },
+    {
         "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
-    },
-    {
-        "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
-        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     }
 ];

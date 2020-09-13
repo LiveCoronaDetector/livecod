@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/weve-learned-how-we-need-to-act-spain-braces-for-second-wave-of-covid"
     },
     {
-        "title": "What explains surge in coronavirus numbers in India?",
-        "link": "https://www.aljazeera.com/news/2020/09/explains-surge-coronavirus-numbers-india-200910091456721.html"
+        "title": "Coronavirus: How the lockdown has changed schooling in South Asia",
+        "link": "https://www.bbc.com/news/world-south-asia-54009306"
     },
     {
         "title": "The coronavirus may have been in California before China announced outbreak, study suggests",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
+    },
+    {
         "title": "Trump officials interfered with CDC reports: Politico",
         "link": "https://www.yahoo.com/gma/trump-officials-interfered-cdc-reports-232114227.html"
     },
     {
         "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
         "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
-    },
-    {
-        "title": "Coronavirus Global Response: Access to COVID-19 Tools-Accelerator Facilitation Council holds inaugural meeting",
-        "link": "https://www.who.int/news-room/detail/10-09-2020-coronavirus-global-response-access-to-covid-19-tools-accelerator-facilitation-council-holds-inaugural-meeting"
     }
 ];
