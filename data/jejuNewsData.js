@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
+        "title": "산방탄산온천 방문 숨긴 목사 부부 퇴원...제주도 고발 예정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320109"
+    },
+    {
         "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 자체 재난안전문자 가입율 저조",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
-    },
-    {
-        "title": "길어지는 코로나 불황…지자체들, 하반기도 재난지원금 지급",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/962113.html"
     }
 ];

@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "100+ US law enforcement deaths from COVID-19",
-        "link": "https://www.youtube.com/watch?v=lXbNba6IU1k"
+        "title": "World Health Organization reports new daily record in COVID-19 cases",
+        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54137319"
     },
     {
-        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
-        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
+        "title": "Covid-19 Live Updates: U.S. Experts Play Down Value of Public Temperature Checks",
+        "link": "https://www.nytimes.com/2020/09/13/world/coronavirus-covid-19.html"
     }
 ];
