@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
     },
     {
-        "title": "Coronavirus: WHO reports record daily rise in new infections",
-        "link": "https://www.bbc.com/news/world-54142502"
+        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
+        "link": "https://news.google.com/articles/CAIiEEU7fXUjRKafdz0pHCZaC4oqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Italy's former PM Berlusconi leaves hospital after testing positive for COVID-19 | Daily Sabah",
@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTE0LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xNC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Global coronavirus report: WHO sees record daily rise in cases around world",
-        "link": "https://www.theguardian.com/world/2020/sep/14/global-coronavirus-report-who-record-daily-rise-cases-world"
+        "link": "https://news.google.com/articles/CAIiECl9oj7ZadWH5oCLvUiSezYqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

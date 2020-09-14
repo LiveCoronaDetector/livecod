@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200910022951530?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 109명 증가...서울 41명, 경기 30명, 인천 10명",
-        "link": "http://www.fnnews.com/news/202009140934329359"
-    },
-    {
         "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
         "link": "https://www.hankyung.com/life/article/2020091461517"
     },
@@ -25,8 +21,16 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020091409543113760"
     },
     {
+        "title": "[속보] 전북 100번째 확진자 발생…우즈베키스탄 국적 20대",
+        "link": "http://www.fnnews.com/news/202009140849202971"
+    },
+    {
         "title": "대구서 우즈벡 일가족 3명 등 확진자 4명 추가(종합)",
         "link": "http://yna.kr/AKR20200914024651053?did=1195m"
+    },
+    {
+        "title": "청주서 60대 부부 코로나19 확진…충북 누적 확진자 149명(종합)",
+        "link": "http://yna.kr/AKR20200914089551064?did=1195m"
     },
     {
         "title": "이스라엘, 코로나19 급증에 3주간 전국봉쇄 결정",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 109명…국내 발생은 이틀째 두 자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
-    },
-    {
-        "title": "신규 확진자 109명…사망자 5명 늘어",
-        "link": "https://www.dailian.co.kr/news/view/919474/?sc=Naver"
     }
 ];
