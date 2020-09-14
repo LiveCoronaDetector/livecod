@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200914002100079?did=1195m"
     },
     {
-        "title": "코로나 항체조사 1천440명중 서울서 단 1명 검출…집단면역 불가(종합)",
-        "link": "http://yna.kr/AKR20200910022951530?did=1195m"
-    },
-    {
-        "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020091461517"
-    },
-    {
         "title": "전남 코로나 확진자 166명, 최근 3일간 ‘제로’",
         "link": "https://www.pressian.com/pages/articles/2020091414275978405?utm_source=naver&utm_medium=search"
     },
@@ -21,8 +13,16 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300160"
     },
     {
-        "title": "광주시, 코로나19 거리두기 2.5→2단계…7개 시설 완화(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200914_0001164836&cID=10201&pID=10200"
+        "title": "코로나19 신규 확진자 109명…국내 발생은 이틀째 두 자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
+    },
+    {
+        "title": "코로나 항체조사 1천440명중 서울서 단 1명 검출…집단면역 불가(종합)",
+        "link": "http://yna.kr/AKR20200910022951530?did=1195m"
+    },
+    {
+        "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020091461517"
     },
     {
         "title": "함양에서 코로나19 확진자 2명 추가…택시기사 이후 모두 6명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009140849202971"
     },
     {
-        "title": "대구서 우즈벡 일가족 3명 등 확진자 4명 추가(종합)",
-        "link": "http://yna.kr/AKR20200914024651053?did=1195m"
+        "title": "광주시, 코로나19 거리두기 2.5→2단계…7개 시설 완화(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200914_0001164836&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 신규 확진자 109명…국내 발생은 이틀째 두 자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
+        "title": "대구서 우즈벡 일가족 3명 등 확진자 4명 추가(종합)",
+        "link": "http://yna.kr/AKR20200914024651053?did=1195m"
     }
 ];

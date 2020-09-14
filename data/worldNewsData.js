@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
     },
     {
-        "title": "Canada reports no new deaths from coronavirus for the first time since March",
-        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
+        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
+        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
     },
     {
-        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
-        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
+        "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
+        "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "U.S. Woman Accused of Infecting Over 50 People With Coronavirus in Bavaria",
-        "link": "https://www.newsweek.com/us-woman-accused-infecting-over-50-people-coronavirus-bavaria-1531717"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
+        "title": "100+ US law enforcement deaths from COVID-19",
+        "link": "https://www.youtube.com/watch?v=lXbNba6IU1k"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "100+ US law enforcement deaths from COVID-19",
-        "link": "https://www.youtube.com/watch?v=lXbNba6IU1k"
+        "title": "Coronavirus: Cases in France leap past 10,000 a day",
+        "link": "https://www.bbc.com/news/world-europe-54137319"
+    },
+    {
+        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
+        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
     }
 ];
