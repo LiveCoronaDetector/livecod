@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=E7CHbH3Cd1s"
     },
     {
-        "title": "September 13 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
-    },
-    {
         "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
         "link": "https://www.reuters.com/article/health-coronavirus-who-cases/who-reports-record-one-day-increase-in-global-coronavirus-cases-up-over-307000-idINKBN265069"
     },
     {
-        "title": "Covid-19 Live Updates: Virus May Upend U.S. for Another Year, Fauci Says",
-        "link": "https://www.nytimes.com/2020/09/12/world/covid-19-coronavirus.html"
+        "title": "September 13 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+    },
+    {
+        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
+        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
     }
 ];
