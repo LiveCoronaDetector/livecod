@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
     },
     {
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
+        "link": "https://www.nocutnews.co.kr/news/5412260"
+    },
+    {
         "title": "14일 국내 코로나19 신규 확진자 109명…12일간 연속 100대 유지",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
     },
     {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
+        "title": "확진자 여전히 100명대…거리두기 완화에 밤거리 '북적'",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/15/2020091590003.html"
     },
     {
         "title": "[유럽증시] 코로나19 재확산 주시하며 혼조세로 마감",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
     },
     {
-        "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "국민 1440명 중 코로나19 항체 보유자는 1명꼴",
-        "link": "https://www.pressian.com/pages/articles/2020091416125951314?utm_source=naver&utm_medium=search"
+        "title": "함양에서 코로나19 확진자 2명 추가…택시기사 이후 모두 6명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091409543113760"
     }
 ];

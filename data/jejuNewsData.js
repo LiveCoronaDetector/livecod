@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091420224948787"
     },
     {
+        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
+        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
+    },
+    {
         "title": "방문사실 숨긴 부부에 제주 코로나19 확산 가속",
         "link": "https://www.nocutnews.co.kr/news/5411241"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
-        "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
-        "link": "http://www.fnnews.com/news/202009112029479098"
-    },
-    {
-        "title": "제주도 자체 재난안전문자 가입율 저조",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
+        "title": "제주 방문 성남 377번 확진자, 역학조사 결과 공개",
+        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=330084"
     }
 ];
