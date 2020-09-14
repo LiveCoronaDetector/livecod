@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200914002100079?did=1195m"
     },
     {
+        "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020091461517"
+    },
+    {
         "title": "전남 코로나 확진자 166명, 최근 3일간 ‘제로’",
         "link": "https://www.pressian.com/pages/articles/2020091414275978405?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "국민 1,440명 중 서울서 단 1명만 코로나19 항체 보유…의미는?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003830&ref=A"
     },
     {
         "title": "횡성 3번째 코로나19 확진자 발생",
@@ -21,10 +29,6 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
     },
     {
-        "title": "코로나19 항체조사 결과 1440명 중 단 1명만 양성",
-        "link": "http://www.etnews.com/20200914000261"
-    },
-    {
         "title": "사업 설명회 관련 확진자 속출…당국 \"자제해야\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200914021100641/?did=1825m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "집단면역 불가…1440명 중 1명만 ‘코로나19 항체’ 보유",
-        "link": "https://www.donga.com/news/article/all/20200914/102925666/2"
     }
 ];
