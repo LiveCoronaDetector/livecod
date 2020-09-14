@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Israel to reinstate strict three-week coronavirus lockdown | TheHill",
-        "link": "https://news.google.com/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvbWlkZGxlLWVhc3Qtbm9ydGgtYWZyaWNhLzUxNjIxNC1pc3JhZWwtdG8tcmVpbnN0YXRlLXN0cmljdC10aHJlZS13ZWVr0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvaW50ZXJuYXRpb25hbC9taWRkbGUtZWFzdC1ub3J0aC1hZnJpY2EvNTE2MjE0LWlzcmFlbC10by1yZWluc3RhdGUtc3RyaWN0LXRocmVlLXdlZWs_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://thehill.com/policy/international/middle-east-north-africa/516214-israel-to-reinstate-strict-three-week"
     },
     {
         "title": "Canada reports no new deaths from coronavirus for the first time since March",
@@ -14,30 +14,30 @@ var worldNewsData = [
     },
     {
         "title": "Italy reopens schools despite coronavirus concerns: Live news",
-        "link": "https://news.google.com/articles/CAIiEOEI6MDWoEYWDOHUmX6uf5kqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
     },
     {
-        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
-        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "Israel Protests: Thousands Demand PM Netanyahu Resign Before Second Lockdown",
-        "link": "https://www.youtube.com/watch?v=E7CHbH3Cd1s"
-    },
-    {
-        "title": "WHO expects Europe to see rise in daily number of COVID-19 deaths in October, November | Daily Sabah",
-        "link": "https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2V1cm9wZS93aG8tZXhwZWN0cy1ldXJvcGUtdG8tc2VlLXJpc2UtaW4tZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWRlYXRocy1pbi1vY3RvYmVyLW5vdmVtYmVy0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2V1cm9wZS93aG8tZXhwZWN0cy1ldXJvcGUtdG8tc2VlLXJpc2UtaW4tZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWRlYXRocy1pbi1vY3RvYmVyLW5vdmVtYmVyL2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
         "title": "September 13 coronavirus news",
-        "link": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTEzLTIwLWludGwvaF8yODI0YzRmNTcxMzVlNThkYzE2MDliYTUxZTA3N2YxMNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xMy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+    },
+    {
+        "title": "Coronavirus: Israeli minister resigns over plans for second lockdown",
+        "link": "https://www.bbc.com/news/world-middle-east-54134869"
+    },
+    {
+        "title": "Coronavirus: Cases in France leap past 10,000 a day",
+        "link": "https://www.bbc.com/news/world-europe-54137319"
     },
     {
         "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
-        "link": "https://news.google.com/articles/CAIiELbsqnvtDjWC7ULIxJo6ZikqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
     }
 ];
