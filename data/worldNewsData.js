@@ -2,42 +2,42 @@
 var worldNewsData = [
     {
         "title": "Iran considering plot to assassinate US ambassador to South Africa, report says",
-        "link": "https://www.foxnews.com/politics/report-iran-considering-plot-to-assassinate-us-ambassador-to-south-africa"
+        "link": "https://news.google.com/articles/CAIiEAVwrRj_6zD0hGFWpQ_t5W0qGQgEKhAIACoHCAowwL2ICzCckocDMMaPqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Canada reports no new deaths from coronavirus for the first time since March",
-        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
+        "link": "https://news.google.com/articles/CAIiEFfIS7WH_chdSJ-eEkYhoW8qGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus live news: 14 refugees test positive after Lesbos fire; Silvio Berlusconi leaves hospital",
-        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
+        "title": "Israel is going into a second nationwide lockdown over Covid-19",
+        "link": "https://news.google.com/articles/CAIiEEwxUyzMrNlfOR8qjdU2KUkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Italy reopens schools despite coronavirus concerns: Live news",
         "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
     },
     {
-        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
-        "link": "https://news.google.com/articles/CAIiEEU7fXUjRKafdz0pHCZaC4oqGQgEKhAIACoHCAow2Nb3CjDivdcCMP3ungY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
         "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Italy's former PM Berlusconi leaves hospital after testing positive for COVID-19 | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/europe/italys-former-pm-berlusconi-leaves-hospital-after-testing-positive-for-covid-19"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTE0LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xNC0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
+        "link": "https://www.cnbc.com/2020/09/14/who-reports-record-one-day-increase-in-global-coronavirus-cases-.html"
     },
     {
-        "title": "Global coronavirus report: WHO sees record daily rise in cases around world",
-        "link": "https://news.google.com/articles/CAIiECl9oj7ZadWH5oCLvUiSezYqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Trump ignores science at dangerous indoor rally",
+        "link": "https://www.cnn.com/2020/09/14/politics/donald-trump-coronavirus-indoor-rally-wildfires/index.html"
+    },
+    {
+        "title": "Coronavirus: Cases in France leap past 10,000 a day",
+        "link": "https://www.bbc.com/news/world-europe-54137319"
     }
 ];

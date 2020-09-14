@@ -13,14 +13,6 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091420224948787"
     },
     {
-        "title": "제주도 자체 재난안전문자 가입율 저조",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
-    },
-    {
-        "title": "산방탄산온천 방문 숨긴 목사 부부 퇴원...제주도 고발 예정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320109"
-    },
-    {
         "title": "방문사실 숨긴 부부에 제주 코로나19 확산 가속",
         "link": "https://www.nocutnews.co.kr/news/5411241"
     },
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "길어지는 코로나 불황…지자체들, 하반기도 재난지원금 지급",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/962113.html"
+    },
+    {
+        "title": "제주도 자체 재난안전문자 가입율 저조",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
+    },
+    {
+        "title": "코로나 폭탄에 폭망 위기…'풍전등화' 된 리조트사업",
+        "link": "http://realty.chosun.com/site/data/html_dir/2020/09/13/2020091301168.html"
     }
 ];
