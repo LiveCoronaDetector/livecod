@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
-        "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
-        "link": "http://www.newspim.com/news/view/20200913000099"
-    },
-    {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
@@ -27,6 +23,10 @@ var jejuNewsData = [
     {
         "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
         "link": "http://www.fnnews.com/news/202009112029479098"
+    },
+    {
+        "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
+        "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
         "title": "코로나 폭탄에 폭망 위기…'풍전등화' 된 리조트사업",

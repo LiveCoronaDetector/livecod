@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
     },
     {
-        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
+        "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "CNN kicks Trump adviser off air after he refuses to address Woodward revelations",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/cnn-jake-tapper-trump-adviser-peter-navarro-kick-woodward-b434297.html"
+        "title": "Top White House aide's interview goes haywire over Trump coronavirus remarks",
+        "link": "https://news.yahoo.com/top-white-house-aides-interview-153444133.html"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54142502"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
+        "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     }
 ];
