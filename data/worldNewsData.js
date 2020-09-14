@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
-        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
-        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
+        "title": "India has virus jump but recovery improves",
+        "link": "https://www.cowraguardian.com.au/story/6923790/india-has-virus-jump-but-recovery-improves/?cs=5461"
     },
     {
         "title": "Coronavirus: not everyone in China will need vaccine, CDC chief says",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
+        "title": "Top White House aide's interview goes haywire over Trump coronavirus remarks",
+        "link": "https://news.yahoo.com/top-white-house-aides-interview-153444133.html"
+    },
+    {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     },
     {
         "title": "Coronavirus: WHO reports record daily rise in new infections",
         "link": "https://www.bbc.com/news/world-54142502"
-    },
-    {
-        "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     }
 ];
