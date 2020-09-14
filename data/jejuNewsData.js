@@ -25,8 +25,8 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
-        "title": "산방탄산온천 방문 숨긴 목사 부부 퇴원...제주도 고발 예정",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320109"
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
     },
     {
         "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",

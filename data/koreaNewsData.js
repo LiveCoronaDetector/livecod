@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
     },
     {
+        "title": "전 세계 코로나 확진자 3천만명 눈앞…인도 확산 거점으로",
+        "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
+    },
+    {
         "title": "코로나 항체조사 1천440명중 서울서 단 1명 검출…집단면역 불가(종합)",
         "link": "http://yna.kr/AKR20200910022951530?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 전북 100번째 확진자 발생…우즈베키스탄 국적 20대",
         "link": "http://www.fnnews.com/news/202009140849202971"
-    },
-    {
-        "title": "광주시, 코로나19 거리두기 2.5→2단계…7개 시설 완화(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200914_0001164836&cID=10201&pID=10200"
     }
 ];

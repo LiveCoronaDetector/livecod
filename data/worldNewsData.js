@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "World Health Organization reports new daily record in COVID-19 cases",
-        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
+        "title": "100+ US law enforcement deaths from COVID-19",
+        "link": "https://www.youtube.com/watch?v=lXbNba6IU1k"
+    },
+    {
+        "title": "The Latest: Berlusconi released from COVID hospitalization",
+        "link": "https://thepublicsradio.org/article/the-latest-berlusconi-released-from-covid-hospitalization"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Cases in France leap past 10,000 a day",
-        "link": "https://www.bbc.com/news/world-europe-54137319"
-    },
-    {
-        "title": "Covid-19 Live Updates: U.S. Experts Play Down Value of Public Temperature Checks",
-        "link": "https://www.nytimes.com/2020/09/13/world/coronavirus-covid-19.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/h_79918bcb8f8e680bafe0a8dfdce36f03"
     }
 ];
