@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
-        "link": "https://in.news.yahoo.com/reports-record-one-day-increase-022406313.html"
-    },
-    {
-        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
+        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
+        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
     },
     {
         "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
         "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
     },
     {
-        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
-        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
+        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
+        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
+    },
+    {
+        "title": "US health care workers prepare for potential 2nd COVID-19 wave",
+        "link": "https://www.youtube.com/watch?v=uqvtlZPDctQ"
     }
 ];
