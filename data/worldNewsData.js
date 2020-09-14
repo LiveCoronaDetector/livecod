@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
-        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
-        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
     },
     {
         "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
-        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
+        "title": "On Sunday, a Grim COVID Number",
+        "link": "https://www.newser.com/story/296152/on-sunday-a-grim-covid-number.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     },
     {
         "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
         "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
     },
     {
-        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
-    },
-    {
-        "title": "US health care workers prepare for potential 2nd COVID-19 wave",
-        "link": "https://www.youtube.com/watch?v=uqvtlZPDctQ"
+        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
+        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
     }
 ];

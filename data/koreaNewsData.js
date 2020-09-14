@@ -17,20 +17,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
     },
     {
-        "title": "14일 국내 코로나19 신규 확진자 109명…12일간 연속 100대 유지",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
-    },
-    {
         "title": "청주 60대 1명 코로나19 확진…보령 확진자 접촉",
         "link": "https://www.news1.kr/articles/?4057837"
-    },
-    {
-        "title": "서울 확진자 41명 증가…경로미확인·무증상자 비중 높아(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200914_0001165074&cID=14001&pID=14000"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 109명 증가...서울 41명, 경기 30명, 인천 10명",
-        "link": "http://www.fnnews.com/news/202009140934329359"
     },
     {
         "title": "횡성 3번째 코로나19 확진자 발생",
@@ -39,5 +27,17 @@ var koreaNewsData = [
     {
         "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "수도권 유행 직전 일반인 1440명 중 서울 1명만 코로나19 항체 보유(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200914_0001165244&cID=10201&pID=10200"
+    },
+    {
+        "title": "신규 확진자 109명…사망자 5명 늘어",
+        "link": "https://www.dailian.co.kr/news/view/919474/?sc=Naver"
+    },
+    {
+        "title": "세계 코로나19 하루 신규확진 30만명…\"역대 최다\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009140029&t=NN"
     }
 ];
