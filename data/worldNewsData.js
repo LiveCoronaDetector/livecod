@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
-        "link": "https://news.google.com/articles/CAIiEEwxUyzMrNlfOR8qjdU2KUkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
     },
     {
         "title": "Germany may fine US woman over coronavirus outbreak in Alpine resort",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54142502"
     },
     {
-        "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
-        "link": "https://news.google.com/articles/CAIiEFKhKzRwmpbWdwyqxdEPypoqGQgEKhAIACoHCAowief2CjCJ2dUCMKqaxwU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
+        "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "Number of global COVID-19 cases surpasses 29 million",
-        "link": "https://www.youtube.com/watch?v=CeKIV8NeOyE"
+        "title": "WHO reports new daily record in COVID-19 cases",
+        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?ocid=a2hs"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
         "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
