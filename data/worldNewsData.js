@@ -2,42 +2,42 @@
 var worldNewsData = [
     {
         "title": "Israel to reinstate strict three-week coronavirus lockdown | TheHill",
-        "link": "https://thehill.com/policy/international/middle-east-north-africa/516214-israel-to-reinstate-strict-three-week"
+        "link": "https://news.google.com/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvbWlkZGxlLWVhc3Qtbm9ydGgtYWZyaWNhLzUxNjIxNC1pc3JhZWwtdG8tcmVpbnN0YXRlLXN0cmljdC10aHJlZS13ZWVr0gFyaHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvaW50ZXJuYXRpb25hbC9taWRkbGUtZWFzdC1ub3J0aC1hZnJpY2EvNTE2MjE0LWlzcmFlbC10by1yZWluc3RhdGUtc3RyaWN0LXRocmVlLXdlZWs_YW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
-        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
+        "title": "Canada reports no new deaths from coronavirus for the first time since March",
+        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
         "title": "Coronavirus live news: WHO reports record new global cases; Israel first country to reimpose national lockdown",
         "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
     },
     {
-        "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
-        "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
+        "title": "Italy reopens schools despite coronavirus concerns: Live news",
+        "link": "https://news.google.com/articles/CAIiEOEI6MDWoEYWDOHUmX6uf5kqFAgEKgwIACoFCAowhgIwkDgw0O8B?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
         "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
     },
     {
-        "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
-        "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
+        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israel Protests: Thousands Demand PM Netanyahu Resign Before Second Lockdown",
         "link": "https://www.youtube.com/watch?v=E7CHbH3Cd1s"
     },
     {
-        "title": "Italy reopens schools despite coronavirus concerns: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
+        "title": "WHO expects Europe to see rise in daily number of COVID-19 deaths in October, November | Daily Sabah",
+        "link": "https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2V1cm9wZS93aG8tZXhwZWN0cy1ldXJvcGUtdG8tc2VlLXJpc2UtaW4tZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWRlYXRocy1pbi1vY3RvYmVyLW5vdmVtYmVy0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2FiYWguY29tL3dvcmxkL2V1cm9wZS93aG8tZXhwZWN0cy1ldXJvcGUtdG8tc2VlLXJpc2UtaW4tZGFpbHktbnVtYmVyLW9mLWNvdmlkLTE5LWRlYXRocy1pbi1vY3RvYmVyLW5vdmVtYmVyL2FtcA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "September 13 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+        "link": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTEzLTIwLWludGwvaF8yODI0YzRmNTcxMzVlNThkYzE2MDliYTUxZTA3N2YxMNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xMy0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Washington Square Park is left littered with trash after young revelers packed the space AGAIN",
-        "link": "https://www.dailymail.co.uk/news/article-8727885/Washington-Square-Park-left-littered-trash-young-revelers-packed-space-AGAIN.html"
+        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
+        "link": "https://news.google.com/articles/CAIiELbsqnvtDjWC7ULIxJo6ZikqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
