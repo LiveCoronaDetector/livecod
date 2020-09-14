@@ -13,6 +13,18 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
+        "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
+    },
+    {
+        "title": "온천발 코로나19 확진자 발생… 52번 확진자 가족",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171532"
+    },
+    {
+        "title": "꼬리무는 산방산온천發 코로나19 확진자… 제주 53번째 확진자 발생",
+        "link": "https://view.asiae.co.kr/article/2020091121451294210"
+    },
+    {
         "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
         "link": "http://www.fnnews.com/news/202009112029479098"
     },
@@ -27,17 +39,5 @@ var jejuNewsData = [
     {
         "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
         "link": "https://www.news1.kr/articles/?4056378"
-    },
-    {
-        "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
-    },
-    {
-        "title": "제주도, 라스베이거스 포커대회 집합금지 명령 발동",
-        "link": "http://www.fnnews.com/news/202009121506204421"
-    },
-    {
-        "title": "제주 50번 코로나19 확진자 발생…게스트하우스발 감염",
-        "link": "http://yna.kr/AKR20200910010300056?did=1195m"
     }
 ];

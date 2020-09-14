@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "President of North Georgia Technical College loses battle with COVID-19",
-        "link": "https://newschannel9.com/news/local/president-of-north-georgia-technical-college-loses-battle-with-covid-19"
-    },
-    {
-        "title": "Botany girl the latest COVID-19 case in New Zealand",
-        "link": "https://www.msn.com/en-nz/news/national/botany-girl-the-latest-covid-19-case-in-new-zealand/ar-BB18ZF3P"
-    },
-    {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
+    },
+    {
+        "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     }
 ];
