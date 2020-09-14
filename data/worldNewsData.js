@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "COVID-19 in Africa: Milder-than-expected pandemic has experts puzzled",
-        "link": "https://news.google.com/articles/CAIiELwno2gLiT6X7tIBU_rKWG4qFwgEKg8IACoHCAoww5LyAzD2zh0wlqpV?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
     },
     {
         "title": "Why Covid-19 case numbers are falling in the US",
@@ -10,23 +10,23 @@ var worldNewsData = [
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
-        "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEEwxUyzMrNlfOR8qjdU2KUkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Covid-19: French regions to announce new restrictions",
-        "link": "https://www.theguardian.com/world/2020/sep/14/covid-19-french-regions-to-announce-new-restrictions"
+        "title": "Germany may fine US woman over coronavirus outbreak in Alpine resort",
+        "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
     },
     {
-        "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
-        "link": "https://news.google.com/articles/CAIiEEg2T1k73A1QSED1E6kGP-sqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
     },
     {
-        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
+        "link": "https://news.google.com/articles/CAIiEFKhKzRwmpbWdwyqxdEPypoqGQgEKhAIACoHCAowief2CjCJ2dUCMKqaxwU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "WHO reports new daily record in COVID-19 cases",
-        "link": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy93aG8tcmVwb3J0cy1uZXctZGFpbHktcmVjb3JkLWluLWNvdmlkLTE5LWNhc2VzL2FyLUJCMTkxaTBuP29jaWQ9YTJoc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Number of global COVID-19 cases surpasses 29 million",
+        "link": "https://www.youtube.com/watch?v=CeKIV8NeOyE"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Covid-19 News: Live Updates",
-        "link": "https://news.google.com/articles/CAIiENBh1KW-y-CZHSdLhrSC9C0qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
-        "link": "https://news.google.com/articles/CAIiEPg7CNURUm8d-Pw_ugi6xakqGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
     }
 ];
