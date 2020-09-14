@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
     },
     {
-        "title": "Coronavirus live news: WHO reports record new global cases; Israel first country to reimpose national lockdown",
+        "title": "Coronavirus live news: 14 refugees test positive after Lesbos fire; Silvio Berlusconi leaves hospital",
         "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "Israel to reimpose virus lockdown as European cases mount",
-        "link": "https://www.france24.com/en/20200913-israel-to-reimpose-virus-lockdown-as-european-cases-mount"
+        "title": "WHO expects Europe to see rise in daily number of COVID-19 deaths in October, November | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/europe/who-expects-europe-to-see-rise-in-daily-number-of-covid-19-deaths-in-october-november"
     },
     {
-        "title": "US health care workers prepare for potential 2nd COVID-19 wave",
-        "link": "https://www.youtube.com/watch?v=uqvtlZPDctQ"
+        "title": "Italy's former PM Berlusconi leaves hospital after testing positive for COVID-19 | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/europe/italys-former-pm-berlusconi-leaves-hospital-after-testing-positive-for-covid-19"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
