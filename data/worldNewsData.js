@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "Trump finally releases controversial drug price executive order",
-        "link": "https://www.cnn.com/2020/09/13/politics/trump-drug-prices-executive-order/index.html"
+        "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
+        "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
     },
     {
-        "title": "September 13 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
+        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
     }
 ];
