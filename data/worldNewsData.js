@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "Top White House aide's interview goes haywire over Trump coronavirus remarks",
-        "link": "https://news.yahoo.com/top-white-house-aides-interview-153444133.html"
+        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
+        "link": "https://in.news.yahoo.com/reports-record-one-day-increase-022406313.html"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "Coronavirus: WHO reports record daily rise in new infections",
-        "link": "https://www.bbc.com/news/world-54142502"
+        "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
+        "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
     },
     {
         "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",

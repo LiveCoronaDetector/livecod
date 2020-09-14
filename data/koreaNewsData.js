@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
     },
     {
+        "title": "함양에서 코로나19 확진자 2명 추가…택시기사 이후 모두 6명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091409543113760"
+    },
+    {
         "title": "[종합] 코로나19 확진자 109명 증가...서울 41명, 경기 30명, 인천 10명",
         "link": "http://www.fnnews.com/news/202009140934329359"
     },
     {
         "title": "이스라엘, 코로나19 급증에 3주간 전국봉쇄 결정",
         "link": "http://yna.kr/AKR20200914002100079?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진 109명…국내발생 98명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219484"
     },
     {
         "title": "세계 코로나19 하루 신규확진 30만명…\"역대 최다\"",
