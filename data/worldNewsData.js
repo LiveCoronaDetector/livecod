@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://thehill.com/policy/international/middle-east-north-africa/516214-israel-to-reinstate-strict-three-week"
     },
     {
-        "title": "Canada reports no new deaths from coronavirus for the first time since March",
-        "link": "https://www.cbsnews.com/news/canada-zero-coronavirus-covid-deaths-first-time/"
+        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
+        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
     },
     {
         "title": "Israeli government to impose second Covid-19 national lockdown",
@@ -17,12 +17,20 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
-        "title": "Domestic Air Travel Resumes in Wuhan as Chinese City Returns to Pre-pandemic Levels",
-        "link": "https://www.news18.com/news/world/domestic-air-travel-resumes-in-wuhan-as-chinese-city-returns-to-pre-pandemic-levels-2872837.html"
+        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
+        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
     },
     {
         "title": "Coronavirus: not everyone in China will need vaccine, CDC chief says",
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3101369/coronavirus-not-everyone-china-will-need-vaccine-cdc"
+    },
+    {
+        "title": "French Polynesia Covid-19 cases top 1000",
+        "link": "https://www.rnz.co.nz/international/pacific-news/425968/french-polynesia-covid-19-cases-top-1000"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "President of North Georgia Technical College loses battle with COVID-19",
         "link": "https://newschannel9.com/news/local/president-of-north-georgia-technical-college-loses-battle-with-covid-19"
-    },
-    {
-        "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
-        "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
-    },
-    {
-        "title": "Washington Square Park is left littered with trash after young revelers packed the space AGAIN",
-        "link": "https://www.dailymail.co.uk/news/article-8727885/Washington-Square-Park-left-littered-trash-young-revelers-packed-space-AGAIN.html"
     }
 ];
