@@ -26,15 +26,15 @@ var worldNewsData = [
     },
     {
         "title": "WHO reports new daily record in COVID-19 cases",
-        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?ocid=a2hs"
+        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?li=BBnb7Kz"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     },
     {
-        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
-        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
