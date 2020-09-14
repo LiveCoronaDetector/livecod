@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
     },
     {
+        "title": "코로나19 항체조사 결과 1440명 중 단 1명만 양성",
+        "link": "http://www.etnews.com/20200914000261"
+    },
+    {
+        "title": "집단면역 불가…1440명 중 1명만 ‘코로나19 항체’ 보유",
+        "link": "https://www.donga.com/news/article/all/20200914/102925666/2"
+    },
+    {
         "title": "사업 설명회 관련 확진자 속출…당국 \"자제해야\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200914021100641/?did=1825m"
     },
     {
-        "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나 항체조사 1천440명중 서울서 단 1명 검출…집단면역 불가(종합)",
-        "link": "http://yna.kr/AKR20200910022951530?did=1195m"
-    },
-    {
-        "title": "함양 택시기사發 'n차 감염' 2명 추가…확진자 운영 식당 접촉",
-        "link": "https://www.hankyung.com/life/article/2020091467887"
+        "title": "함양에서 코로나19 확진자 2명 추가…택시기사 이후 모두 6명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020091409543113760"
     }
 ];

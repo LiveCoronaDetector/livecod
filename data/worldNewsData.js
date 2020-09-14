@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://news.google.com/articles/CAIiELwno2gLiT6X7tIBU_rKWG4qFwgEKg8IACoHCAoww5LyAzD2zh0wlqpV?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
-        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
+        "title": "Why Covid-19 case numbers are falling in the US",
+        "link": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
         "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
     },
     {
-        "title": "Italy reopens schools despite coronavirus concerns: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
+        "title": "Covid-19: French regions to announce new restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/14/covid-19-french-regions-to-announce-new-restrictions"
     },
     {
         "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
-        "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
+        "link": "https://news.google.com/articles/CAIiEEg2T1k73A1QSED1E6kGP-sqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
         "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "World Health Organization reports new daily record in COVID-19 cases",
-        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
+        "title": "WHO reports new daily record in COVID-19 cases",
+        "link": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy93aG8tcmVwb3J0cy1uZXctZGFpbHktcmVjb3JkLWluLWNvdmlkLTE5LWNhc2VzL2FyLUJCMTkxaTBuP29jaWQ9YTJoc9IBAA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The Latest: Berlusconi released from COVID hospitalization",
-        "link": "https://thepublicsradio.org/article/the-latest-berlusconi-released-from-covid-hospitalization"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     },
     {
         "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "link": "https://news.google.com/articles/CAIiENBh1KW-y-CZHSdLhrSC9C0qFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Coronavirus: Israel to impose three-week national lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54134869"
+        "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
+        "link": "https://news.google.com/articles/CAIiEPg7CNURUm8d-Pw_ugi6xakqGAgEKg8IACoHCAowjujJATDXzBUwiJS0AQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
