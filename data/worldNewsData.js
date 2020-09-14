@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
-        "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
+        "title": "Temple University students move out amid COVID-19 concerns",
+        "link": "https://abcnews.go.com/US/temple-university-students-move-amid-covid-19-concerns/story?id=72984709"
     },
     {
         "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
