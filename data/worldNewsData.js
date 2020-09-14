@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
         "title": "WHO reports new daily record in COVID-19 cases",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
-        "title": "Coronavirus live news: UK reports 2,621 new infections as global cases hit one-day record high",
-        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
-    },
-    {
         "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
         "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
+    },
+    {
+        "title": "UK implements gathering restrictions to curb spread of COVID-19",
+        "link": "https://www.youtube.com/watch?v=7fgzP1_sTBc"
     }
 ];

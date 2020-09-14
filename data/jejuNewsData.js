@@ -9,8 +9,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
-        "title": "제주 코로나19 확진자 3명 추가",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11479?feed=na"
+        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     },
     {
         "title": "온천방문 숨긴 제주 목사부부 퇴원…제주도 \"무관용 원칙…형사고발\"",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
-        "title": "제주에 이틀간 머물다 간 후 지난 11일 코로나19 확진",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325857"
-    },
-    {
         "title": "제주도 53번 코로나19 환자 발생…온천발 9명째",
         "link": "http://www.fnnews.com/news/202009112029479098"
+    },
+    {
+        "title": "제주도 자체 재난안전문자 가입율 저조",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
     }
 ];
