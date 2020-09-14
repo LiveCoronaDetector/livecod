@@ -5,7 +5,7 @@ var marker = [
         "Name_ch": "美国",
         "Name_en": "United States",
         "확진자수": 6710588,
-        "사망자수": 198542,
+        "사망자수": 198543,
         "완치자수": 3975154
     },
     {
@@ -764,9 +764,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 9049,
+        "확진자수": 9088,
         "사망자수": 72,
-        "완치자수": 7816
+        "완치자수": 7853
     },
     {
         "Name": "Gabon",
@@ -1582,7 +1582,7 @@ var marker = [
         "Name_en": "Timor-Leste",
         "확진자수": 27,
         "사망자수": 0,
-        "완치자수": 25
+        "완치자수": 26
     },
     {
         "Name": "New Caledonia",
