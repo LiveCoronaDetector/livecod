@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200914024651053?did=1195m"
     },
     {
-        "title": "청주서 60대 부부 코로나19 확진…충북 누적 확진자 149명(종합)",
-        "link": "http://yna.kr/AKR20200914089551064?did=1195m"
+        "title": "코로나19 신규 확진자 109명…국내 발생은 이틀째 두 자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
     }
 ];
