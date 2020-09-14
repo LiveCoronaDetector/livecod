@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "On Sunday, a Grim COVID Number",
-        "link": "https://www.newser.com/story/296152/on-sunday-a-grim-covid-number.html"
+        "title": "Pandemic panel condemns global failure to heed COVID-19 warnings",
+        "link": "https://www.aljazeera.com/news/2020/09/pandemic-panel-condemns-global-failure-heed-covid-19-warnings-200914044909852.html"
+    },
+    {
+        "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+    },
+    {
+        "title": "Global coronavirus report: WHO sees record daily rise in cases around world",
+        "link": "https://www.theguardian.com/world/2020/sep/14/global-coronavirus-report-who-record-daily-rise-cases-world"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
-    },
-    {
-        "title": "Public health experts grew increasingly uncomfortable as Trump continued to minimize severity of coronavirus crisis",
-        "link": "https://www.marketwatch.com/story/public-health-experts-grew-increasingly-uncomfortable-as-trump-continued-to-minimize-severity-of-coronavirus-crisis-2020-09-13"
-    },
-    {
-        "title": "Pandemic preparedness panel slams collective failure to heed warnings",
-        "link": "https://www.channelnewsasia.com/news/world/covid-19-pandemic-preparedness-panel-slams-collective-failure-13108480"
     }
 ];
