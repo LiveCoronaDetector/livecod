@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
     },
     {
-        "title": "Israel to Shut Down Again as Second Coronavirus Wave Hits",
-        "link": "https://www.wsj.com/articles/israel-to-shut-down-again-as-second-coronavirus-wave-hits-11600028298"
+        "title": "Coronavirus live news: WHO reports record new global cases; Israel first country to reimpose national lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
     },
     {
         "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
     },
     {
-        "title": "Coronavirus: not everyone in China will need vaccine, CDC chief says",
-        "link": "https://www.scmp.com/coronavirus/greater-china/article/3101369/coronavirus-not-everyone-china-will-need-vaccine-cdc"
+        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
+        "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "Coronavirus: WHO reports record daily rise in new infections",
-        "link": "https://www.bbc.com/news/world-54142502"
+        "title": "CNN kicks Trump adviser off air after he refuses to address Woodward revelations",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/cnn-jake-tapper-trump-adviser-peter-navarro-kick-woodward-b434297.html"
     },
     {
         "title": "I was infected with coronavirus in March, six months on I’m still unwell",
         "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
-        "title": "Temple University students move out amid COVID-19 concerns",
-        "link": "https://abcnews.go.com/US/temple-university-students-move-amid-covid-19-concerns/story?id=72984709"
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
     },
     {
-        "title": "Covid-19 Live Updates: Virus May Upend U.S. for Another Year, Fauci Says",
-        "link": "https://www.nytimes.com/2020/09/12/world/covid-19-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     }
 ];
