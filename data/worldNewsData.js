@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
     },
     {
-        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
-        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
+        "title": "Why Covid-19 case numbers are falling in the US",
+        "link": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
     },
     {
-        "title": "Anti-maskers forced to dig graves for COVID-19 victims in Indonesia",
-        "link": "https://nypost.com/2020/09/14/anti-maskers-forced-to-dig-graves-for-covid-19-victims-in-indonesia/"
+        "title": "At Least 25 Indian Lawmakers Test Positive For Coronavirus As Parliament Reopens",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
     },
     {
-        "title": "UK implements gathering restrictions to curb spread of COVID-19",
-        "link": "https://www.youtube.com/watch?v=7fgzP1_sTBc"
+        "title": "UK coronavirus cases surge by 2621 as death toll rises by nine",
+        "link": "https://www.youtube.com/watch?v=SrgJEP6H1Tw"
     }
 ];
