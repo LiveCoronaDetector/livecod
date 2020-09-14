@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "COVID-19 in Africa: Milder-than-expected pandemic has experts puzzled",
-        "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
+        "link": "https://news.google.com/articles/CAIiELwno2gLiT6X7tIBU_rKWG4qFwgEKg8IACoHCAoww5LyAzD2zh0wlqpV?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
@@ -22,11 +22,11 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "100+ US law enforcement deaths from COVID-19",
-        "link": "https://www.youtube.com/watch?v=lXbNba6IU1k"
+        "title": "World Health Organization reports new daily record in COVID-19 cases",
+        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
     },
     {
         "title": "The Latest: Berlusconi released from COVID hospitalization",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/h_79918bcb8f8e680bafe0a8dfdce36f03"
+        "title": "Coronavirus: Israel to impose three-week national lockdown",
+        "link": "https://www.bbc.com/news/world-middle-east-54134869"
     }
 ];
