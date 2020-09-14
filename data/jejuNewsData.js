@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009121506204421"
     },
     {
-        "title": "제주 코로나 35번 확진자, 17일 만에 퇴원",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350436"
+        "title": "제주 50번 코로나19 확진자 발생…게스트하우스발 감염",
+        "link": "http://yna.kr/AKR20200910010300056?did=1195m"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
     },
     {
-        "title": "Israeli government to impose second Covid-19 national lockdown",
-        "link": "https://www.theguardian.com/world/2020/sep/13/israeli-government-set-to-vote-on-second-covid-19-national-lockdown"
+        "title": "Coronavirus live news: WHO reports record new global cases; Israel first country to reimpose national lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
     },
     {
         "title": "France reports highest daily coronavirus spike since pandemic began, India sees record rise",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/coronavirus/greater-china/article/3101369/coronavirus-not-everyone-china-will-need-vaccine-cdc"
     },
     {
-        "title": "No new Covid-19 cases in New Zealand",
-        "link": "https://www.youtube.com/watch?v=FkUTKclyl3M"
+        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
+        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
     },
     {
         "title": "President of North Georgia Technical College loses battle with COVID-19",
         "link": "https://newschannel9.com/news/local/president-of-north-georgia-technical-college-loses-battle-with-covid-19"
     },
     {
-        "title": "I was infected with coronavirus in March, six months on I’m still unwell",
-        "link": "https://www.theguardian.com/world/2020/sep/13/i-was-infected-with-coronavirus-in-march-six-months-on-im-still-unwell"
+        "title": "Botany girl the latest COVID-19 case in New Zealand",
+        "link": "https://www.msn.com/en-nz/news/national/botany-girl-the-latest-covid-19-case-in-new-zealand/ar-BB18ZF3P"
     },
     {
-        "title": "Teachers unions around the world clash with governments over coronavirus and school reopening plans",
-        "link": "https://www.washingtonpost.com/world/2020/09/12/teachers-unions-coronavirus-schools-reopening-international/"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/index.html"
     }
 ];
