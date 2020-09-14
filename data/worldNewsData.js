@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
     },
     {
-        "title": "Why Covid-19 case numbers are falling in the US",
-        "link": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart"
+        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
+        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -17,16 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/14/europe/germany-bavaria-outbreak-coronavirus-intl/index.html"
     },
     {
-        "title": "At Least 25 Indian Lawmakers Test Positive For Coronavirus As Parliament Reopens",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens"
+        "title": "Anti-maskers forced to dig graves for COVID-19 victims in Indonesia",
+        "link": "https://nypost.com/2020/09/14/anti-maskers-forced-to-dig-graves-for-covid-19-victims-in-indonesia/"
     },
     {
-        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "title": "US updates China travel advisory over coronavirus",
+        "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
     },
     {
-        "title": "Health expert provides update on global coronavirus trends",
-        "link": "https://www.youtube.com/watch?v=iXPqjbSV-qI"
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+    },
+    {
+        "title": "WHO reports new daily record in COVID-19 cases",
+        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?ocid=a2hs"
     },
     {
         "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
-    },
-    {
-        "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
     }
 ];

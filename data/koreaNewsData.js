@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200914002100079?did=1195m"
     },
     {
-        "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020091461517"
-    },
-    {
-        "title": "전남 코로나 확진자 166명, 최근 3일간 ‘제로’",
-        "link": "https://www.pressian.com/pages/articles/2020091414275978405?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "횡성 3번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300160"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "전 세계 코로나 확진자 3천만명 눈앞…인도 확산 거점으로",
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
+    },
+    {
+        "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "국민 1440명 중 코로나19 항체 보유자는 1명꼴",
+        "link": "https://www.pressian.com/pages/articles/2020091416125951314?utm_source=naver&utm_medium=search"
     }
 ];
