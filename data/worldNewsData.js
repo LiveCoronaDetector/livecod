@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
     },
     {
-        "title": "Germany may fine US woman over coronavirus outbreak in Alpine resort",
-        "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
+        "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
+        "link": "https://www.cnn.com/2020/09/14/europe/germany-bavaria-outbreak-coronavirus-intl/index.html"
     },
     {
         "title": "At Least 25 Indian Lawmakers Test Positive For Coronavirus As Parliament Reopens",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "WHO reports new daily record in COVID-19 cases",
-        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?li=BBnb7Kz"
-    },
-    {
-        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
-        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+        "title": "Health expert provides update on global coronavirus trends",
+        "link": "https://www.youtube.com/watch?v=iXPqjbSV-qI"
     },
     {
         "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
         "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
     },
     {
-        "title": "UK coronavirus cases surge by 2621 as death toll rises by nine",
-        "link": "https://www.youtube.com/watch?v=SrgJEP6H1Tw"
+        "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
+        "link": "https://www.bbc.com/news/world-europe-54151281"
+    },
+    {
+        "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
     }
 ];

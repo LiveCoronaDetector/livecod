@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
     },
     {
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
+    },
+    {
         "title": "[유럽증시] 코로나19 재확산 주시하며 혼조세로 마감",
         "link": "http://yna.kr/AKR20200915002800088?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "전 세계 코로나 확진자 3천만명 눈앞…인도 확산 거점으로",
         "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
-    },
-    {
-        "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
