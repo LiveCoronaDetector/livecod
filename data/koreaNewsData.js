@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/international/article/202009145439i"
     },
     {
-        "title": "코로나19 확진 109명 추가…12일째 100명대 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020091461517"
-    },
-    {
-        "title": "수도권 유행 직전 일반인 1440명 중 서울 1명만 코로나19 항체 보유(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200914_0001165244&cID=10201&pID=10200"
-    },
-    {
-        "title": "1440명 중 단 1건… 코로나 2차 항체 검사 '양성' 비율",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/14/2020091402013.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "청주 60대 1명 코로나19 확진…보령 확진자 접촉",
         "link": "https://www.news1.kr/articles/?4057837"
+    },
+    {
+        "title": "전남 코로나 확진자 166명, 최근 3일간 ‘제로’",
+        "link": "https://www.pressian.com/pages/articles/2020091414275978405?utm_source=naver&utm_medium=search"
     },
     {
         "title": "횡성 3번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300160"
     },
     {
-        "title": "[속보] 전북 100번째 확진자 발생…우즈베키스탄 국적 20대",
-        "link": "http://www.fnnews.com/news/202009140849202971"
-    },
-    {
         "title": "코로나19 신규 확진자 109명…국내 발생은 이틀째 두 자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5003505&ref=A"
+    },
+    {
+        "title": "[속보] 홍성군청 21번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380196"
+    },
+    {
+        "title": "청주서 60대 부부 코로나19 확진…충북 누적 확진자 149명(종합)",
+        "link": "http://yna.kr/AKR20200914089551064?did=1195m"
+    },
+    {
+        "title": "신규 확진자 109명…사망자 5명 늘어",
+        "link": "https://www.dailian.co.kr/news/view/919474/?sc=Naver"
     }
 ];

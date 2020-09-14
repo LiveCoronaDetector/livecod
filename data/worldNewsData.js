@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54139669"
     },
     {
-        "title": "September 13 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+        "title": "Israel to reimpose virus lockdown as European cases mount",
+        "link": "https://www.france24.com/en/20200913-israel-to-reimpose-virus-lockdown-as-european-cases-mount"
     },
     {
-        "title": "Coronavirus: Israeli minister resigns over plans for second lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54134869"
+        "title": "US health care workers prepare for potential 2nd COVID-19 wave",
+        "link": "https://www.youtube.com/watch?v=uqvtlZPDctQ"
     },
     {
-        "title": "Coronavirus: Cases in France leap past 10,000 a day",
-        "link": "https://www.bbc.com/news/world-europe-54137319"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     },
     {
-        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
-        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
+        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/sep/14/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     }
 ];
