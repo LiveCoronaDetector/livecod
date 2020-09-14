@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
-        "title": "코로나 폭탄에 폭망 위기…'풍전등화' 된 리조트사업",
-        "link": "http://realty.chosun.com/site/data/html_dir/2020/09/13/2020091301168.html"
+        "title": "길어지는 코로나 불황…지자체들, 하반기도 재난지원금 지급",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/962113.html"
     },
     {
-        "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
+        "title": "코로나 폭탄에 폭망 위기…'풍전등화' 된 리조트사업",
+        "link": "http://realty.chosun.com/site/data/html_dir/2020/09/13/2020091301168.html"
     }
 ];

@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
-        "link": "https://www.reuters.com/article/health-coronavirus-who-cases/who-reports-record-one-day-increase-in-global-coronavirus-cases-up-over-307000-idINKBN265069"
+        "title": "Israel Protests: Thousands Demand PM Netanyahu Resign Before Second Lockdown",
+        "link": "https://www.youtube.com/watch?v=E7CHbH3Cd1s"
     },
     {
         "title": "September 13 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     },
     {
-        "title": "Coronavirus latest: India logs over 90000 cases for 5th day",
-        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-India-logs-over-90-000-cases-for-5th-day"
+        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
+        "link": "https://www.reuters.com/article/health-coronavirus-who-cases/who-reports-record-one-day-increase-in-global-coronavirus-cases-up-over-307000-idINKBN265069"
     },
     {
         "title": "Covid-19 Live Updates: Virus May Upend U.S. for Another Year, Fauci Says",
