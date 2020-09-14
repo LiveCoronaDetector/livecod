@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091414275978405?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "국민 1,440명 중 서울서 단 1명만 코로나19 항체 보유…의미는?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5003830&ref=A"
-    },
-    {
         "title": "횡성 3번째 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300160"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "14일 국내 코로나19 신규 확진자 109명…12일간 연속 100대 유지",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091300155"
+    },
+    {
+        "title": "[유럽증시] 코로나19 재확산 주시하며 혼조세로 마감",
+        "link": "http://yna.kr/AKR20200915002800088?did=1195m"
     },
     {
         "title": "사업 설명회 관련 확진자 속출…당국 \"자제해야\"",

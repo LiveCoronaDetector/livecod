@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
     },
     {
-        "title": "At Least 25 Indian Lawmakers Test Positive For Coronavirus As Parliament Reopens",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens"
+        "title": "Anti-maskers forced to dig graves for COVID-19 victims in Indonesia",
+        "link": "https://nypost.com/2020/09/14/anti-maskers-forced-to-dig-graves-for-covid-19-victims-in-indonesia/"
     },
     {
         "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQxMzk2NjnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDEzOTY2OQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "WHO reports new daily record in COVID-19 cases",
-        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?ocid=a2hs"
+        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?li=BBnb7Kz"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
-        "title": "Coronavirus: Israel to impose three-week national lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54134869"
+        "title": "Coronavirus live news: UK reports 2,621 new infections as global cases hit one-day record high",
+        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
     },
     {
-        "title": "Covid-19 Live Updates: U.S. Experts Play Down Value of Public Temperature Checks",
-        "link": "https://www.nytimes.com/2020/09/13/world/coronavirus-covid-19.html"
+        "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
+        "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
     }
 ];
