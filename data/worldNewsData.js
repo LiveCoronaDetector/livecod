@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/pandemic-panel-condemns-global-failure-heed-covid-19-warnings-200914044909852.html"
     },
     {
-        "title": "Ohio State University cancels spring break in 2021 over coronavirus concerns",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live Updates: Virus May Upend U.S. for Another Year, Fauci Says",
+        "link": "https://www.nytimes.com/2020/09/12/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global coronavirus report: WHO sees record daily rise in cases around world",
         "link": "https://www.theguardian.com/world/2020/sep/14/global-coronavirus-report-who-record-daily-rise-cases-world"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
     }
 ];
