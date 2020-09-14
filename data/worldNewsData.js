@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=E7CHbH3Cd1s"
     },
     {
-        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
-        "link": "https://www.reuters.com/article/health-coronavirus-who-cases/who-reports-record-one-day-increase-in-global-coronavirus-cases-up-over-307000-idINKBN265069"
+        "title": "Italy reopens schools despite coronavirus concerns: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/sees-record-single-day-jump-coronavirus-cases-live-news-200913231611514.html"
     },
     {
         "title": "September 13 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
     },
     {
-        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
-        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
+        "title": "Washington Square Park is left littered with trash after young revelers packed the space AGAIN",
+        "link": "https://www.dailymail.co.uk/news/article-8727885/Washington-Square-Park-left-littered-trash-young-revelers-packed-space-AGAIN.html"
     }
 ];
