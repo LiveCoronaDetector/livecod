@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-spikes-india-france-united-kingdom-south-korea"
     },
     {
-        "title": "Coronavirus: WHO reports record daily rise in new infections",
-        "link": "https://www.bbc.com/news/world-54142502"
+        "title": "For Doctor in India, Coronavirus Waves Just Keep Coming",
+        "link": "https://www.wsj.com/articles/for-doctor-in-india-coronavirus-waves-just-keep-coming-11600025606"
     },
     {
         "title": "China tightens surveillance of chilled food imports to keep out Covid-19",
         "link": "https://www.scmp.com/economy/china-economy/article/3101368/coronavirus-china-tightens-surveillance-chilled-food-imports"
     },
     {
-        "title": "Pandemic panel condemns global failure to heed COVID-19 warnings",
-        "link": "https://www.aljazeera.com/news/2020/09/pandemic-panel-condemns-global-failure-heed-covid-19-warnings-200914044909852.html"
+        "title": "WHO reports record one-day increase in global coronavirus cases, up over 307,000",
+        "link": "https://www.reuters.com/article/health-coronavirus-who-cases/who-reports-record-one-day-increase-in-global-coronavirus-cases-up-over-307000-idINKBN265069"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html"
+        "title": "September 13 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-13-20-intl/h_2824c4f57135e58dc1609ba51e077f10"
+    },
+    {
+        "title": "Coronavirus latest: India logs over 90000 cases for 5th day",
+        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-India-logs-over-90-000-cases-for-5th-day"
     },
     {
         "title": "Covid-19 Live Updates: Virus May Upend U.S. for Another Year, Fauci Says",
         "link": "https://www.nytimes.com/2020/09/12/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Global coronavirus report: WHO sees record daily rise in cases around world",
-        "link": "https://www.theguardian.com/world/2020/sep/14/global-coronavirus-report-who-record-daily-rise-cases-world"
     }
 ];

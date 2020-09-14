@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     },
     {
+        "title": "산방탄산온천 방문 숨긴 목사 부부 퇴원...제주도 고발 예정",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320109"
+    },
+    {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 53번째 확진자 나와…52번째 확진자 동선 공개",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5002616&ref=A"
-    },
-    {
-        "title": "충북해양교육원 제주분원, 코로나19 확진자의 접촉자 격리시설로 사용",
-        "link": "https://www.news1.kr/articles/?4056378"
     }
 ];
