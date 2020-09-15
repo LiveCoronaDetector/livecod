@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091511637"
     },
     {
-        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
+        "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
     },
     {
-        "title": "[속보]대면예배 강행하다…송파구 우리교회 6명 무더기 확진·서울 코로나19 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
     {
         "title": "코로나19 어제 신규 확진자 106명…지역발생 ‘91명’",

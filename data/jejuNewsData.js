@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915011951056?did=1195m"
     },
     {
+        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
+    },
+    {
         "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
@@ -13,31 +17,27 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
+        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
+    },
+    {
         "title": "성남 코로나19 확진자, 1박 2일 제주도 여행",
         "link": "http://www.obsnews.co.kr/news/articleView.html?idxno=1232640"
-    },
-    {
-        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
-    },
-    {
-        "title": "코로나 확진자로 한라산 대피소·쉼터 임시 폐쇄…\"등산은 가능\"",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
     {
-        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
-    },
-    {
-        "title": "제주 일가족 3명 코로나19 확진…성남 확진자 제주 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004559&ref=A"
-    },
-    {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
+    },
+    {
+        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
+    },
+    {
+        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     }
 ];
