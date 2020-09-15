@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/covid-19-in-africa-milder-than-expected-pandemic-has-experts-puzzled/a-54918467"
     },
     {
-        "title": "Why Covid-19 case numbers are falling in the US",
-        "link": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart"
+        "title": "Covid-19 death rate slows slightly as U.S. nears grim 200,000th fatality milestone",
+        "link": "https://www.nbcnews.com/news/us-news/covid-19-death-rate-slows-slightly-u-s-nears-grim-n1240043"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+    },
+    {
         "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
-        "link": "https://news.google.com/articles/CCAiC1ktcUszbjRtejJJmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
     },
     {
         "title": "Covid-19 Live Updates: Thousands Attend a Trump Rally Indoors",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "World Health Organization reports new daily record in COVID-19 cases",
         "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     }
 ];
