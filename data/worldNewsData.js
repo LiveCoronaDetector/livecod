@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "Covid-19 death rate slows slightly as U.S. nears grim 200,000th fatality milestone",
-        "link": "https://www.nbcnews.com/news/us-news/covid-19-death-rate-slows-slightly-u-s-nears-grim-n1240043"
+        "link": "https://news.google.com/articles/CAIiEDNQpsq7g1yA2SBFteI-HlwqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
     },
     {
-        "title": "Covid-19 Live Updates: Thousands Attend a Trump Rally Indoors",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://news.google.com/articles/CAIiECLuUUQC-VikcHk_jSar1VIqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "World Health Organization reports new daily record in COVID-19 cases",
-        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
+        "link": "https://news.google.com/articles/CAIiELZMjcfQEM6aaGhvdPgYKMYqGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
