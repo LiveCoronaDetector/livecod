@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
-        "title": "Covid-19 death rate slows slightly as U.S. nears grim 200,000th fatality milestone",
-        "link": "https://www.nbcnews.com/news/us-news/covid-19-death-rate-slows-slightly-u-s-nears-grim-n1240043"
+        "title": "COMIC: How the United States lost control of the coronavirus pandemic - Insider",
+        "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
-    },
-    {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
-        "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
-        "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
+        "title": "Live updates: Trump cheers judge’s ruling overturning Pennsylvania coronavirus restrictions",
+        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Covid-19 Live Updates: Thousands Attend a Trump Rally Indoors",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "Live Covid-19 Updates and Tracker",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
+        "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
     }
 ];

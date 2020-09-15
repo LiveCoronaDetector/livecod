@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
-        "title": "[속보]'양성' 판정 직전 1박2일 제주 다녀온 성남 확진자…\"제주 떠난 후 증상...",
-        "link": "https://view.asiae.co.kr/article/2020091508335638460"
-    },
-    {
         "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
@@ -17,16 +13,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
-        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
-    },
-    {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
-    },
-    {
-        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
+        "title": "제주 3명 가족 확진자 역학조사, 접촉자 25명 확인 '격리'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427431"
     },
     {
         "title": "제주 일가족 확진자 접촉자 25명…1명 신원파악중",
@@ -37,7 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     },
     {
+        "title": "제주 30-31번 확진자 JDC 직원 부부 완치 '퇴원'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320130"
+    },
+    {
+        "title": "제주서 가족 3명 코로나 확진…\"자녀 등교자제 학교 접촉 막아\"(종합)",
+        "link": "http://yna.kr/AKR20200915011951056?did=1195m"
+    },
+    {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
+    },
+    {
+        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
+        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
     }
 ];
