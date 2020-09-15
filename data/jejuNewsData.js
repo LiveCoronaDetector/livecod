@@ -13,6 +13,18 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
+        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
+    },
+    {
+        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
+    },
+    {
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
+    },
+    {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
@@ -27,17 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
-    },
-    {
-        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
-    },
-    {
-        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
-    },
-    {
-        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     }
 ];
