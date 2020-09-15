@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-in-syria-deaths-under-counted-amid-civil-war-bashar-assad-regime-blames-sanctions/"
     },
     {
-        "title": "Covid-19 Live Updates: Gates Foundation Report Paints a Grim Global Picture",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+        "title": "Even as Cases Rise, Europe Is Learning to Live With the Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/15/world/europe/coronavirus-europe.html"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dd5e5780-f785-11ea-be37-dda437a52a46&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "Covid-19 Live Global Cases and Deaths Tracker and Updates",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "President Trump delivers remarks on California wildfires | USA TODAY",
+        "link": "https://www.youtube.com/watch?v=qcxPvaeOH4w"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
-    },
-    {
-        "title": "Survey: US's international reputation takes a virus hit",
-        "link": "https://apnews.com/452aa6fcfda71c3e47857752aea79395"
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://news.google.com/articles/CAIiEIqHuWj8uDis99o2v14OZsIqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
