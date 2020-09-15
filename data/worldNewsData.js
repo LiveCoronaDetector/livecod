@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54142502"
     },
     {
-        "title": "Germany may fine US woman over coronavirus outbreak in Alpine resort",
-        "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
+        "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
+        "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
     },
     {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
