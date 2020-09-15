@@ -5,24 +5,20 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
-        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
-    },
-    {
         "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
     {
-        "title": "코로나19에도 탐방객 ‘북적’…제주 한라산 ‘5개 대피소’ 일시 폐쇄",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151650001&code=620117"
+        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
     },
     {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
-        "title": "수도권 방문한 제주도 일가족 3명 코로나 확진…\"역학조사 중\"",
-        "link": "https://news.joins.com/article/olink/23466821"
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
     },
     {
         "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
@@ -33,8 +29,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
     {
-        "title": "코로나19 확진 일가족 농협·내과 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
+        "title": "'수도권 방문' 제주 일가족 확진자 접촉자 25명 확인",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320137"
+    },
+    {
+        "title": "제주 3명 가족 확진자 역학조사, 접촉자 25명 확인 '격리'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427431"
     },
     {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
