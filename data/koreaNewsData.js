@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091506147"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+    },
+    {
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
         "title": "세브란스병원 관련 확진자 3명 추가…총 32명",
@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091502495.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 송파구 우리교회 관련 10명 코로나 확진…새 집단감염 사례",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091400159"
-    },
-    {
         "title": "부천시, 동선 숨긴 50대 코로나 확진자 적발···경찰 고발",
         "link": "https://www.sedaily.com/NewsView/1Z7V6J6XYM"
+    },
+    {
+        "title": "서울 송파구 우리교회 관련 10명 코로나 확진…새 집단감염 사례",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091400159"
     },
     {
         "title": "[속보] 미 법원 \"코로나 셧다운은 위헌…영업규제 과해\"",
