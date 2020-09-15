@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/15/2020091501269.html"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
-    },
-    {
         "title": "세브란스병원 관련 코로나19 확진자 3명 추가…누적 32명",
         "link": "https://www.hankyung.com/life/article/2020091511637"
+    },
+    {
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
         "title": "코로나 환자 10명 중 4명은 감염경로 몰라…역대 최고치",

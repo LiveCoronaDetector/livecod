@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     },
     {
-        "title": "Gov't evaluating possibility of closing schools tomorrow",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-4973-new-cases-in-the-last-day-642338"
+        "title": "Syria may only be counting 1.25% of its actual coronavirus deaths, study says",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-syria-deaths-under-counted-amid-civil-war-bashar-assad-regime-blames-sanctions/"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
-    },
-    {
         "title": "Covid-19 Live Updates: Gates Foundation Report Paints a Grim Global Picture",
         "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
     },
     {
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+    },
+    {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3ecd8020-f779-11ea-8e06-c3c6d3a2c9ad&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=900571b0-f77d-11ea-9419-a7fd796371f3&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
