@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Did Covid-19 lockdowns work in Africa?",
-        "link": "https://news.google.com/articles/CAIiEBagFSK45PmdXKWO9z3IHGsqGQgEKhAIACoHCAowkcPeCjDDiNYBMLC8oAM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
         "title": "COMIC: How the United States lost control of the coronavirus pandemic - Insider",
@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israel’s most up-to-date coronavirus lockdown directives",
-        "link": "https://news.google.com/articles/CAIiELiO1I9urBOnk5zpmuj17mgqGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.jpost.com/israel-news/israels-most-up-to-date-coronavirus-lockdown-directives-642352"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
-        "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
+        "link": "https://news.google.com/articles/CAIiEOwPvaXcb3LwJ6ZzmHjyqesqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
-    },
-    {
-        "title": "Live Covid-19 Tracker",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+        "link": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9oZWFsdGhjYXJlL25vLWNvcm9uYXZpcnVzLXZhY2NpbmUtZm9yLWVudGlyZS13b3JsZC11bnRpbC0yMDI0LWF0LWJlc3QtY2VvLW9mLXByb2R1Y2Vy0gF1aHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2hlYWx0aGNhcmUvbm8tY29yb25hdmlydXMtdmFjY2luZS1mb3ItZW50aXJlLXdvcmxkLXVudGlsLTIwMjQtYXQtYmVzdC1jZW8tb2YtcHJvZHVjZXIuYW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Live updates: Trump cheers judge’s ruling overturning Pennsylvania coronavirus restrictions",
-        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
+        "link": "https://news.google.com/articles/CAIiEKx1FuxoDlkmxaRirb0KL8sqGAgEKg8IACoHCAowjtSUCjC30XQw1o3TBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
         "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
+    },
+    {
+        "title": "Covid-19 Tracker: Live Updates",
+        "link": "https://news.google.com/articles/CAIiEHqxTJWAxnlYq2NX_IjGbHgqFwgEKg8IACoHCAowjuuKAzCWrzwwloEY?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
