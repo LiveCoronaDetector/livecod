@@ -1033,20 +1033,20 @@ var marker = [
         "완치자수": 2964
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 3299,
+        "사망자수": 32,
+        "완치자수": 790
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "확진자수": 3262,
         "사망자수": 13,
         "완치자수": 3005
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 3195,
-        "사망자수": 32,
-        "완치자수": 790
     },
     {
         "Name": "Trinidad and Tobago",

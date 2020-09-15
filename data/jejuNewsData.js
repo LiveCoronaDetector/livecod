@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
-        "title": "제주 54~56번 확진자 가족, 수도권 감염으로 추정",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325871"
-    },
-    {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     },
     {
         "title": "[속보]'양성' 판정 직전 1박2일 제주 다녀온 성남 확진자…\"제주 떠난 후 증상...",
         "link": "https://view.asiae.co.kr/article/2020091508335638460"
+    },
+    {
+        "title": "제주도 자체 재난안전문자 가입율 저조",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
     }
 ];

@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091506147"
     },
     {
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
+    },
+    {
+        "title": "코로나19 어제 신규 확진자 106명…지역발생 ‘91명’",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
+    },
+    {
         "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
         "link": "http://www.fnnews.com/news/202009150935490310"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091511131453148"
     },
     {
-        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
-    },
-    {
         "title": "세브란스병원 관련 확진자 3명 추가…총 32명",
         "link": "https://www.news1.kr/articles/?4059011"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 106명…지역발생 ‘91명’",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
     },
     {
         "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
     },
     {
-        "title": "충북 진천에서 코로나19 확진자 2명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020091509075923285?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
+    },
+    {
+        "title": "코로나 신규확진 106명·지역발생91명...사흘째 100명대 초반(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091500928.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
