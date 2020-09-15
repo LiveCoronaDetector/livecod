@@ -2,19 +2,19 @@
 var worldNewsData = [
     {
         "title": "Did Covid-19 lockdowns work in Africa?",
-        "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
+        "link": "https://news.google.com/articles/CAIiEBagFSK45PmdXKWO9z3IHGsqGQgEKhAIACoHCAowkcPeCjDDiNYBMLC8oAM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "COMIC: How the United States lost control of the coronavirus pandemic - Insider",
         "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
     },
     {
-        "title": "Israel is going into a second nationwide lockdown over Covid-19",
-        "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
+        "title": "Israel’s most up-to-date coronavirus lockdown directives",
+        "link": "https://news.google.com/articles/CAIiELiO1I9urBOnk5zpmuj17mgqGAgEKg8IACoHCAowr9eeCTDYlm4wg-rNBg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
-        "link": "https://www.cnn.com/2020/09/14/europe/germany-bavaria-outbreak-coronavirus-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEIidFKRaX3xbnhHv58EySkgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
-        "title": "Live updates: Trump cheers judge’s ruling overturning Pennsylvania coronavirus restrictions",
-        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
+        "title": "Live Covid-19 Tracker",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Live Covid-19 Updates and Tracker",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+        "title": "Live updates: Trump cheers judge’s ruling overturning Pennsylvania coronavirus restrictions",
+        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Trial finds medicine helps shorten COVID-19 hospital stay",

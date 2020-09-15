@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
-        "title": "제주 3명 가족 확진자 역학조사, 접촉자 25명 확인 '격리'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427431"
+        "title": "수도권 방문한 제주도 일가족 3명 코로나 확진…\"역학조사 중\"",
+        "link": "https://news.joins.com/article/olink/23466821"
     },
     {
         "title": "제주 일가족 확진자 접촉자 25명…1명 신원파악중",
@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     },
     {
-        "title": "제주 30-31번 확진자 JDC 직원 부부 완치 '퇴원'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320130"
-    },
-    {
-        "title": "제주서 가족 3명 코로나 확진…\"자녀 등교자제 학교 접촉 막아\"(종합)",
-        "link": "http://yna.kr/AKR20200915011951056?did=1195m"
-    },
-    {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
     },
     {
-        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
-        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
+    },
+    {
+        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
+    },
+    {
+        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     }
 ];
