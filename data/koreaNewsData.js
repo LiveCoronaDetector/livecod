@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091509421528320?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
+    },
+    {
         "title": "세브란스병원 관련 코로나19 확진자 3명 추가…누적 32명",
         "link": "https://www.hankyung.com/life/article/2020091511637"
     },
     {
         "title": "코로나 환자 10명 중 4명은 감염경로 몰라…역대 최고치",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091502495.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
     }
 ];

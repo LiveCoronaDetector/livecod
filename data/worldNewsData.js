@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
     },
     {
-        "title": "Even as Cases Rise, Europe Is Learning to Live With the Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/15/world/europe/coronavirus-europe.html"
+        "title": "American woman's bar crawl spreads Covid in southern Germany",
+        "link": "https://www.nbcnews.com/health/health-news/american-woman-s-bar-crawl-spreads-covid-southern-germany-n1240149"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/15/global-report-covid-cases-near-30m-as-chinese-health-official-expects-vaccine-as-soon-as-november"
     },
     {
-        "title": "Trump less trusted internationally than Putin and Xi after Covid-19 response",
-        "link": "https://www.cnn.com/2020/09/15/politics/trump-us-global-image-coronavirus-pew-survey-intl/index.html"
+        "title": "Trump is less trusted than Putin and Xi and the US is hitting historic lows of approval from its closest allies",
+        "link": "https://www.msn.com/en-us/news/world/trump-is-less-trusted-than-putin-and-xi-and-the-us-is-hitting-historic-lows-of-approval-from-its-closest-allies/ar-BB194Kdq"
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6c463140-f7a7-11ea-a346-9f06caff3b82&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=89231ef0-f7ab-11ea-9672-cb9774eefe08&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",

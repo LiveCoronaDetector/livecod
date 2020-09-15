@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4059737"
     },
     {
-        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
+        "title": "제주 3명 가족 확진자 역학조사, 접촉자 25명 확인 '격리'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427431"
     },
     {
-        "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
-        "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
+        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     }
 ];
