@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
     },
     {
-        "title": "Dr. Siegel on potential COVID vaccine effectiveness: Unlike annual flu, virus is not 'a moving target'",
-        "link": "https://www.foxnews.com/media/dr-siegel-on-potential-covid-vaccine-effectiveness-unlike-annual-flu-virus-is-not-a-moving-target"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     }
 ];
