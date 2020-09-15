@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
+        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
+        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
+    },
+    {
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
+    },
+    {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     },
@@ -21,20 +29,12 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020091420224948787"
     },
     {
-        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
-        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
-    },
-    {
         "title": "방문사실 숨긴 부부에 제주 코로나19 확산 가속",
         "link": "https://www.nocutnews.co.kr/news/5411241"
     },
     {
         "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
-    },
-    {
-        "title": "충북교육청 제주해양교육원 코로나19 격리시설 활용",
-        "link": "http://www.newspim.com/news/view/20200913000099"
     },
     {
         "title": "제주 방문 성남 377번 확진자, 역학조사 결과 공개",

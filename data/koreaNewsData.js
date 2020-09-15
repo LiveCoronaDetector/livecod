@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200915002800088?did=1195m"
     },
     {
+        "title": "[전문] 용인시청 343번째 확진자 발생...동천동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380212"
+    },
+    {
         "title": "사업 설명회 관련 확진자 속출…당국 \"자제해야\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200914021100641/?did=1825m"
     },
     {
-        "title": "전 세계 코로나 확진자 3천만명 눈앞…인도 확산 거점으로",
-        "link": "http://www.hani.co.kr/arti/international/international_general/962000.html"
-    },
-    {
-        "title": "함양에서 코로나19 확진자 2명 추가…택시기사 이후 모두 6명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091409543113760"
+        "title": "아파트 같은 동·라인에 확진자 나왔다… 어떻게 해야 할까?",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/14/2020091402836.html"
     }
 ];
