@@ -5,26 +5,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
-        "title": "경남, 오늘 코로나 확진자 3명 추가…총 272명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001167254&cID=10812&pID=10800"
-    },
-    {
-        "title": "인천시, 역학조사 거부한 50대 확진자 경찰 고발",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091502763.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 日, 코로나19 신규 확진자 다시 500명대로 증가",
-        "link": "https://www.hankyung.com/international/article/2020091539617"
-    },
-    {
-        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
-    },
-    {
-        "title": "충북 진천에서 코로나19 확진자 2명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020091509075923285?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "코로나19 신규 확진 106명…누적 확진자 2만 2,391명",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005980463&plink=ORI&cooper=NAVER"
     },
@@ -33,11 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 106명...사흘째 100명대 초반",
-        "link": "http://www.hani.co.kr/arti/society/health/962182.html"
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
+        "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
+    },
+    {
+        "title": "코로나19 신규확진 106명…지역발생 사흘째 두자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5412323"
+    },
+    {
+        "title": "코로나19 어제 신규 확진자 106명…지역발생 ‘91명’",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
+    },
+    {
+        "title": "\"확진자 40%가 치명률 높은 60대 이상\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/15/2020091501269.html"
+    },
+    {
+        "title": "세브란스병원 관련 코로나19 확진자 3명 추가…누적 32명",
+        "link": "https://www.hankyung.com/life/article/2020091511637"
+    },
+    {
+        "title": "경남, 오늘 코로나 확진자 3명 추가…총 272명(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001167254&cID=10812&pID=10800"
     }
 ];

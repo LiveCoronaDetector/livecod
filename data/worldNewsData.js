@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
     },
     {
-        "title": "Israel is going into a second nationwide lockdown over Covid-19",
-        "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
+        "title": "Coronavirus commissioner requests schools close ASAP",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-4973-new-cases-in-the-last-day-642338"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
@@ -18,26 +18,26 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTU0MTM5MTEy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTU0MTM5MTEy?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-asia-india-54139112"
     },
     {
         "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
-        "link": "https://news.google.com/articles/CAIiEOwPvaXcb3LwJ6ZzmHjyqesqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9oZWFsdGhjYXJlL25vLWNvcm9uYXZpcnVzLXZhY2NpbmUtZm9yLWVudGlyZS13b3JsZC11bnRpbC0yMDI0LWF0LWJlc3QtY2VvLW9mLXByb2R1Y2Vy0gF1aHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2hlYWx0aGNhcmUvbm8tY29yb25hdmlydXMtdmFjY2luZS1mb3ItZW50aXJlLXdvcmxkLXVudGlsLTIwMjQtYXQtYmVzdC1jZW8tb2YtcHJvZHVjZXIuYW1w?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
         "title": "Covid-19 Tracker: Live Updates",
         "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Live updates: NYC lockdown reduced coronavirus spread by 70 percent, study shows",
-        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=159af7a0-f760-11ea-abd5-eb33cd756183&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=17aee050-f75c-11ea-9844-e9ac5bc31aeb&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "Live updates: NYC lockdown reduced coronavirus spread by 70 percent, study shows",
+        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
     }
 ];
