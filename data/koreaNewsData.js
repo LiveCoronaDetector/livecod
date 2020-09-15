@@ -5,8 +5,24 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091506147"
     },
     {
+        "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
+        "link": "http://www.fnnews.com/news/202009150935490310"
+    },
+    {
         "title": "코로나19 신규 확진 106명…누적 확진자 2만 2,391명",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005980463&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "코로나19 신규확진 106명…지역발생 사흘째 두자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5412323"
+    },
+    {
+        "title": "정부 \"코로나19 60대 이상 환자 비율 약 40%…중증 진행 우려\"",
+        "link": "http://yna.kr/AKR20200915032300530?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 106명…지역발생 사흘째 두자릿수",
@@ -17,27 +33,11 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
     },
     {
-        "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
-        "link": "http://www.fnnews.com/news/202009150935490310"
-    },
-    {
-        "title": "[코로나19] 신규확진 106명…사흘째 100명대 초반 (상보)",
-        "link": "http://www.ajunews.com/view/20200915101421181"
-    },
-    {
-        "title": "정부 \"코로나19 60대 이상 환자 비율 약 40%…중증 진행 우려\"",
-        "link": "http://yna.kr/AKR20200915032300530?did=1195m"
-    },
-    {
-        "title": "코로나19 어제 106명 신규확진…지역감염 91명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091509303770891"
-    },
-    {
         "title": "코로나 신규확진 106명·지역발생91명...사흘째 100명대 초반(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091500928.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 106명...사흘째 100명대 초반",
-        "link": "http://www.hani.co.kr/arti/society/health/962182.html"
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     }
 ];

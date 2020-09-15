@@ -5,12 +5,8 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
-        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
-    },
-    {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
     {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
@@ -21,23 +17,27 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
-        "title": "[속보]'양성' 판정 직전 1박2일 제주 다녀온 성남 확진자…\"제주 떠난 후 증상...",
-        "link": "https://view.asiae.co.kr/article/2020091508335638460"
+        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     },
     {
-        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
+        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     },
     {
-        "title": "제주도 자체 재난안전문자 가입율 저조",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
+        "title": "경기 성남 코로나19 확진자 1박 2일 제주여행",
+        "link": "http://yna.kr/AKR20200915013200056?did=1195m"
     },
     {
         "title": "온천방문 숨긴 제주 목사부부 퇴원…제주도 \"무관용 원칙…형사고발\"",
         "link": "https://view.asiae.co.kr/article/2020091420224948787"
     },
     {
-        "title": "제주 코로나 53번 확진자 이동동선 중간 공개",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350432"
+        "title": "제주 53번 확진자…산방산탄산온천 직원 동선 공개",
+        "link": "http://www.fnnews.com/news/202009121428479685"
+    },
+    {
+        "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     }
 ];
