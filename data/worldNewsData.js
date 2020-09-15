@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
-        "title": "Covid-19 death rate slows slightly as U.S. nears grim 200,000th fatality milestone",
-        "link": "https://www.nbcnews.com/news/us-news/covid-19-death-rate-slows-slightly-u-s-nears-grim-n1240043"
+        "title": "Why Covid-19 case numbers are falling in the US",
+        "link": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54139112"
     },
     {
-        "title": "US updates China travel advisory over coronavirus",
-        "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
-    },
-    {
-        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
-        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+        "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
+        "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
+    },
+    {
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
         "title": "World Health Organization reports new daily record in COVID-19 cases",
