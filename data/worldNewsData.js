@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "COMIC: How the United States lost control of the coronavirus pandemic - Insider",
-        "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
+        "link": "https://news.google.com/articles/CAIiECkcCRfURtQKf79dRWckaq4qGQgEKhAIACoHCAow9qOFCzDSvIIDMLD-hQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
-    },
-    {
         "title": "Live Covid-19 Global Tracker",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+        "link": "https://news.google.com/articles/CAIiEHqxTJWAxnlYq2NX_IjGbHgqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9oZWFsdGhjYXJlL25vLWNvcm9uYXZpcnVzLXZhY2NpbmUtZm9yLWVudGlyZS13b3JsZC11bnRpbC0yMDI0LWF0LWJlc3QtY2VvLW9mLXByb2R1Y2Vy0gF1aHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2hlYWx0aGNhcmUvbm8tY29yb25hdmlydXMtdmFjY2luZS1mb3ItZW50aXJlLXdvcmxkLXVudGlsLTIwMjQtYXQtYmVzdC1jZW8tb2YtcHJvZHVjZXIuYW1w?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7b95dd60-f768-11ea-94ec-dfb961193323&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://news.google.com/articles/CAIiEIqHuWj8uDis99o2v14OZsIqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTE1LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xNS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

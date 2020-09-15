@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005980463&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+    },
+    {
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
         "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091511637"
     },
     {
-        "title": "[단독]YTN 상암동 사옥 코로나 확진자 다녀가...건물 일부 폐쇄, 긴급 방역 조...",
-        "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나 환자 10명 중 4명은 감염경로 몰라…역대 최고치",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091502495.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
