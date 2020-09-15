@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
+        "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
+        "link": "https://www.bbc.com/news/world-europe-54151281"
+    },
+    {
         "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
         "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
         "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
         "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     },
     {
         "title": "World Health Organization reports new daily record in COVID-19 cases",
