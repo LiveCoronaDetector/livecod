@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
+    },
+    {
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
         "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",

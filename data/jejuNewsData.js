@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
     },
     {
-        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
-    },
-    {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
+    },
+    {
+        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
     },
     {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
