@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
     {
-        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
-    },
-    {
         "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "\"확진자 40%가 치명률 높은 60대 이상\"",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/15/2020091501269.html"
+    },
+    {
+        "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200915_0001166309&cID=10812&pID=10800"
     },
     {
         "title": "세브란스병원 관련 코로나19 확진자 3명 추가…누적 32명",
