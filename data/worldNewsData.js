@@ -14,30 +14,30 @@ var worldNewsData = [
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
-        "link": "https://news.google.com/articles/CAIiEIidFKRaX3xbnhHv58EySkgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/14/europe/germany-bavaria-outbreak-coronavirus-intl/index.html"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
-        "link": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWluZGlhLTU0MTM5MTEy0gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC93b3JsZC1hc2lhLWluZGlhLTU0MTM5MTEy?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-asia-india-54139112"
     },
     {
         "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
-        "link": "https://news.google.com/articles/CAIiEOwPvaXcb3LwJ6ZzmHjyqesqGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
+        "title": "Covid-19 Live Updates: Gates Foundation Report Paints a Grim Global Picture",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
+    },
+    {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://news.google.com/articles/CAIiEIqHuWj8uDis99o2v14OZsIqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3ecd8020-f779-11ea-8e06-c3c6d3a2c9ad&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
-        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNTQxNTEyODHSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWV1cm9wZS01NDE1MTI4MQ?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
