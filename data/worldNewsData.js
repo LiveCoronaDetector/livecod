@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
     },
     {
-        "title": "Syria may only be counting 1.25% of its actual coronavirus deaths, study says",
-        "link": "https://www.cbsnews.com/news/coronavirus-in-syria-deaths-under-counted-amid-civil-war-bashar-assad-regime-blames-sanctions/"
+        "title": "Israel is going into a second nationwide lockdown over Covid-19",
+        "link": "https://www.cnn.com/2020/09/14/middleeast/israel-second-lockdown-coronavirus-intl/index.html"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6415ec10-f764-11ea-814a-9fe5e857d53c&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7b95dd60-f768-11ea-94ec-dfb961193323&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];
