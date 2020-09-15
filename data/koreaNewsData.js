@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091506147"
     },
     {
+        "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
+        "link": "http://www.fnnews.com/news/202009150935490310"
+    },
+    {
         "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
@@ -13,24 +17,20 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
     },
     {
-        "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
-        "link": "http://www.fnnews.com/news/202009150935490310"
-    },
-    {
         "title": "\"확진자 40%가 치명률 높은 60대 이상\"",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/15/2020091501269.html"
-    },
-    {
-        "title": "서울 어제 확진자 32명 증가 … '대면예배' 송파구 우리교회서 10명 확진(상보...",
-        "link": "https://view.asiae.co.kr/article/2020091511131453148"
     },
     {
         "title": "세브란스병원 관련 확진자 3명 추가…총 32명",
         "link": "https://www.news1.kr/articles/?4059011"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
+        "title": "서울 어제 확진자 32명 증가 … '대면예배' 송파구 우리교회서 10명 확진(상보...",
+        "link": "https://view.asiae.co.kr/article/2020091511131453148"
+    },
+    {
+        "title": "코로나19 신규확진자 106명, 지역 발생 91명",
+        "link": "http://yna.kr/PYH20200915041500013?did=1196m"
     },
     {
         "title": "경남, 코로나19 확진자 2명 추가…총 271명(종합)",

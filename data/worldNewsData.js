@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
+        "title": "American accused of ignoring Covid-19 quarantine to go on Bavaria bar crawl",
+        "link": "https://www.theguardian.com/world/2020/sep/14/american-accused-of-ignoring-covid-19-quarantine-to-go-on-bavaria-bar-crawl"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/14/europe/germany-bavaria-outbreak-coronavirus-intl/index.html"
     },
     {
-        "title": "Anti-maskers forced to dig graves for COVID-19 victims in Indonesia",
-        "link": "https://nypost.com/2020/09/14/anti-maskers-forced-to-dig-graves-for-covid-19-victims-in-indonesia/"
+        "title": "Coronavirus: India faces oxygen scarcity as cases surge",
+        "link": "https://www.bbc.com/news/world-asia-india-54139112"
     },
     {
-        "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
-        "link": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/"
-    },
-    {
-        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
-        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+        "title": "US updates China travel advisory over coronavirus",
+        "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
     },
     {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
         "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
+    },
+    {
+        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
+        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
     }
 ];
