@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
+        "title": "코로나19 확진 일가족 농협·내과 등 방문",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
+    },
+    {
+        "title": "제주, 코로나19 확진자 가족 이동동선 공개...\"접촉자 4명 격리\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427348"
+    },
+    {
         "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "온천방문 숨긴 제주 목사부부 퇴원…제주도 \"무관용 원칙…형사고발\"",
         "link": "https://view.asiae.co.kr/article/2020091420224948787"
-    },
-    {
-        "title": "제주 53번 확진자…산방산탄산온천 직원 동선 공개",
-        "link": "http://www.fnnews.com/news/202009121428479685"
-    },
-    {
-        "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
     }
 ];

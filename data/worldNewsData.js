@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
-        "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of 'disturbing' data",
-        "link": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
+        "title": "Coronavirus: WHO reports record daily rise in new infections",
+        "link": "https://www.bbc.com/news/world-54142502"
+    },
+    {
+        "title": "Germany may fine US woman over coronavirus outbreak in Alpine resort",
+        "link": "https://www.foxnews.com/world/germany-us-woman-coronavirus-outbreak-alpine-resort"
+    },
+    {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
-    },
-    {
-        "title": "World Health Organization reports new daily record in COVID-19 cases",
-        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
-    },
-    {
-        "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
-        "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
     }
 ];
