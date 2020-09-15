@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
     },
     {
-        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
-        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
-    },
-    {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
     },
     {
-        "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+    },
+    {
+        "title": "World Health Organization reports new daily record in COVID-19 cases",
+        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
     },
     {
         "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
