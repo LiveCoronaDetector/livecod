@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915011951056?did=1195m"
     },
     {
-        "title": "제주 일가족 3명 코로나19 확진…성남 확진자 제주 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004559&ref=A"
-    },
-    {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "[속보]'양성' 판정 직전 1박2일 제주 다녀온 성남 확진자…\"제주 떠난 후 증상...",
         "link": "https://view.asiae.co.kr/article/2020091508335638460"
+    },
+    {
+        "title": "제주도 자체 재난안전문자 가입율 저조",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171671"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1902353/did-covid-19-lockdowns-work-in-africa/"
     },
     {
-        "title": "American accused of ignoring Covid-19 quarantine to go on Bavaria bar crawl",
-        "link": "https://www.theguardian.com/world/2020/sep/14/american-accused-of-ignoring-covid-19-quarantine-to-go-on-bavaria-bar-crawl"
+        "title": "Covid-19 death rate slows slightly as U.S. nears grim 200,000th fatality milestone",
+        "link": "https://www.nbcnews.com/news/us-news/covid-19-death-rate-slows-slightly-u-s-nears-grim-n1240043"
     },
     {
         "title": "Israel is going into a second nationwide lockdown over Covid-19",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
     },
     {
+        "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
+        "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+    },
+    {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
     },
     {
-        "title": "World Health Organization reports new daily record in COVID-19 cases",
-        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
+        "title": "Coronavirus update: WHO says record number of new cases — 307,930 — counted worldwide on Sunday",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-says-record-number-of-new-cases-307930-counted-worldwide-on-sunday-2020-09-14"
     },
     {
-        "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
-        "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
-    },
-    {
-        "title": "Coronavirus pandemic fuelling plant poaching in Philippines",
-        "link": "https://www.theguardian.com/world/2020/sep/14/coronavirus-pandemic-fuelling-plant-poaching-philippines"
+        "title": "Trial finds medicine helps shorten COVID-19 hospital stay",
+        "link": "https://www.youtube.com/watch?v=Y-qK3n4mz2I"
     }
 ];
