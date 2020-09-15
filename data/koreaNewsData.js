@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005980463&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "세브란스병원 관련 코로나19 확진자 3명 추가…누적 32명",
-        "link": "https://www.hankyung.com/life/article/2020091511637"
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
     },
     {
         "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
     },
     {
-        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
-    },
-    {
         "title": "코로나19 어제 신규 확진자 106명…지역발생 ‘91명’",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219661"
     },
     {
-        "title": "부천시, 동선 숨긴 50대 코로나 확진자 적발···경찰 고발",
-        "link": "https://www.sedaily.com/NewsView/1Z7V6J6XYM"
+        "title": "부천 50대 코로나19 확진자, 동선 숨겼다가 방역당국에 적발",
+        "link": "https://www.hankyung.com/life/article/2020091508267"
     },
     {
         "title": "[속보] '코로나19' 신규 확진자 106명 · 지역발생 91명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406224&class=33&grp="
     },
     {
-        "title": "충북 진천에서 코로나19 확진자 2명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020091509075923285?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "[종합] 코로나19 확진자 106명 증가...서울 32명, 경기 31명",
         "link": "http://www.fnnews.com/news/202009150935490310"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 106명…지역발생 91명·사망 4명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009150085&t=NN"
+    },
+    {
+        "title": "\"확진자 40%가 치명률 높은 60대 이상\"",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/15/2020091501269.html"
     }
 ];
