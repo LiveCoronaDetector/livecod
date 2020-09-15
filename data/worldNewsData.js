@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/14/anti-maskers-forced-to-dig-graves-for-covid-19-victims-in-indonesia/"
     },
     {
-        "title": "Coronavirus: Melbourne police arrest 74 anti-lockdown protesters",
-        "link": "https://www.bbc.com/news/world-australia-54139669"
+        "title": "US updates China travel advisory over coronavirus",
+        "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
+    },
+    {
+        "title": "Coronavirus live news: global cases near 30m as WHO warns of more deaths in European autumn",
+        "link": "https://www.theguardian.com/world/live/2020/sep/15/coronavirus-live-news-global-cases-near-30m-as-who-warns-of-more-deaths-in-european-autumn"
     },
     {
         "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
         "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
     },
     {
-        "title": "WHO reports new daily record in COVID-19 cases",
-        "link": "https://www.msn.com/en-us/news/us/who-reports-new-daily-record-in-covid-19-cases/ar-BB191i0n?li=BBnb7Kz"
-    },
-    {
-        "title": "The president who says the coronavirus will go away makes the same prediction about global warming",
-        "link": "https://www.washingtonpost.com/politics/2020/09/14/president-who-says-coronavirus-will-go-away-makes-same-prediction-about-global-warming/"
-    },
-    {
         "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
         "link": "https://www.bbc.com/news/world-europe-54151281"
+    },
+    {
+        "title": "World Health Organization reports new daily record in COVID-19 cases",
+        "link": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/"
     }
 ];
