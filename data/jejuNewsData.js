@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
     {
+        "title": "성남 코로나19 확진자, 1박 2일 제주도 여행",
+        "link": "http://www.obsnews.co.kr/news/articleView.html?idxno=1232640"
+    },
+    {
         "title": "제주서 가족 3명 코로나 확진…\"자녀 등교자제 학교 접촉 막아\"(종합)",
         "link": "http://yna.kr/AKR20200915011951056?did=1195m"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
     },
     {
-        "title": "제주 일가족 3명 코로나19 확진…성남 확진자 제주 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004559&ref=A"
-    },
-    {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
-        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
+        "title": "제주 54~56번 확진자 가족, 수도권 감염으로 추정",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325871"
     },
     {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
