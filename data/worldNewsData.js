@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.insider.com/comic-how-united-states-lost-control-of-coronavirus-pandemic-2020-9"
     },
     {
-        "title": "Coronavirus commissioner requests schools close ASAP",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-4973-new-cases-in-the-last-day-642338"
+        "title": "Syria may only be counting 1.25% of its actual coronavirus deaths, study says",
+        "link": "https://www.cbsnews.com/news/coronavirus-in-syria-deaths-under-counted-amid-civil-war-bashar-assad-regime-blames-sanctions/"
     },
     {
         "title": "Germany links Covid-19 outbreak at ski resort to US citizen who failed to quarantine",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     },
     {
-        "title": "Covid-19 Tracker: Live Updates",
+        "title": "Live Covid-19 Global Tracker",
         "link": "https://www.nytimes.com/2020/09/15/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=159af7a0-f760-11ea-abd5-eb33cd756183&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     },
     {
-        "title": "Live updates: NYC lockdown reduced coronavirus spread by 70 percent, study shows",
-        "link": "https://www.washingtonpost.com/nation/2020/09/15/coronavirus-covid-live-updates-us/"
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6415ec10-f764-11ea-814a-9fe5e857d53c&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];

@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091511637"
     },
     {
-        "title": "경남, 오늘 코로나 확진자 3명 추가…총 272명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20200915_0001167254&cID=10812&pID=10800"
+        "title": "코로나 환자 10명 중 4명은 감염경로 몰라…역대 최고치",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/15/2020091502495.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
