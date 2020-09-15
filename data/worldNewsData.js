@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/us/us-issues-new-china-travel-advisory-over-coronavirus"
     },
     {
-        "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
-        "link": "https://www.bbc.com/news/world-europe-54151281"
-    },
-    {
         "title": "'Nothing more could have been done': Trump's final phone call to Woodward",
         "link": "https://www.cnn.com/2020/09/14/politics/trump-bob-woodward-final-phone-call/index.html"
+    },
+    {
+        "title": "Coronavirus: Marseille's Covid-19 hospital beds 'close to saturation'",
+        "link": "https://www.bbc.com/news/world-europe-54151281"
     },
     {
         "title": "World Health Organization reports new daily record in COVID-19 cases",
