@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
-        "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
+        "link": "https://news.google.com/articles/CAIiECpEfA7BRAfdpOEu1BmrhR8qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/its-getting-worse-by-the-day-indias-covid-battle-rages-on"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "US virologists dispute Chinese whistleblower's claim that COVID-19 is man made",
+        "link": "https://news.google.com/articles/CAIiEDn7QMu2spGkJeyi3AHKkd8qGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
+        "link": "https://news.google.com/articles/CAIiEDih55IKTZ6myZ-MmUOg_4MqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Trump Is One of the Worst Leaders on Earth, According to the Rest of the World",
-        "link": "https://www.vice.com/en_us/article/xg89e4/trump-is-one-of-the-worst-world-leaders-on-earth-according-to-the-rest-of-the-world"
+        "title": "U.S. reputation approaching record lows with European allies, survey finds",
+        "link": "https://news.google.com/articles/CAIiECWwDcQW_5oLUwgMHucrLYEqGQgEKhAIACoHCAowjo7_CjC6hPgCMNvF5AU?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
