@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     },
     {
+        "title": "거짓말해 제주도에 코로나19 확산 시킨 목사부부 고발",
+        "link": "http://www.newsis.com/view/?id=NISX20200916_0001167436&cID=10813&pID=10800"
+    },
+    {
         "title": "추석 연휴에 20만명 제주도 찾는다…'여름 휴가철 수준'",
         "link": "http://www.busan.com/view/busan/view.php?code=2020091610233633493"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 53번 확진자, 서귀포매일올레시장 1곳만 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320189"
-    },
-    {
-        "title": "수도권 방문한 제주도 일가족 3명 코로나 확진…\"역학조사 중\"",
-        "link": "https://news.joins.com/article/olink/23466821"
     }
 ];
