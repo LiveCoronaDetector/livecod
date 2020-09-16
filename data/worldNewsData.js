@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
-        "title": "Coronavirus live news: Trump says Covid-19 will 'go away' because of 'herd mentality'",
+        "title": "Coronavirus live news: Madrid to introduce targeted lockdowns; Trump says 'herd mentality' will beat Covid",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
-    },
-    {
-        "title": "India surpasses 5 million coronavirus cases, 82,066 deaths",
+        "title": "5M people infected, India's virus outbreak still soaring",
         "link": "https://apnews.com/8d68ae66503fe4f18f91ffb980baac68"
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bc17fe50-f807-11ea-9bfa-0fdaadbf06d7&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=09bb7e80-f80c-11ea-9e67-759a9877b13b&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+    },
+    {
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     }
 ];

@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200916095500004?did=1195m"
     },
     {
-        "title": "신규 확진 113명, 국내 발생 다시 100명↑…‘확진자 접촉’ 감염 증가",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
-    },
-    {
         "title": "KBS에서 코로나19 확진자 발생",
         "link": "https://www.news1.kr/photos/view/?4385918"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
-        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
+        "title": "익산지역 코로나19 확진자 5명 발생 [종합]",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
+    },
+    {
+        "title": "[종합] 인천서 6명 확진…감염경로 불면 확진자 직장 동료도",
+        "link": "http://www.newspim.com/news/view/20200916001115"
+    },
+    {
+        "title": "[종합] 포항서 코로나19 확진자 2명 추가 발생",
+        "link": "http://www.kukinews.com/newsView/kuk202009160413"
     },
     {
         "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
         "link": "http://yna.kr/AKR20200916111051005?did=1195m"
     },
     {
-        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규 확진자 113명…지역발생 105명",
-        "link": "http://www.hani.co.kr/arti/society/health/962336.html"
+        "title": "보령 여고생 등 충남서 코로나19 확진자 6명 늘어(종합2보)",
+        "link": "http://yna.kr/AKR20200916178000063?did=1195m"
     }
 ];
