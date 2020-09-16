@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
-    },
-    {
-        "title": "WATCH: Biden speaks on developing, 'equitably distributing' coronavirus vaccine",
-        "link": "https://www.youtube.com/watch?v=uydO8lW5zCk"
+        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
+        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
+        "title": "WATCH LIVE: Biden delivers remarks on COVID-19 vaccine in Wilmington, Delaware",
+        "link": "https://www.youtube.com/watch?v=PQqvJHOQ0os"
     },
     {
-        "title": "India's coronavirus infections top five million mark",
-        "link": "https://www.bbc.com/news/world-asia-india-54172321"
+        "title": "Global perception of US falls to two-decade low",
+        "link": "https://www.bbc.com/news/world-us-canada-54169732"
+    },
+    {
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8bb04980-f85b-11ea-9e8e-5986b39263f5&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];
