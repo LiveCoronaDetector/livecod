@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7VMTR3DV"
     },
     {
+        "title": "KBS에서 코로나19 확진자 발생",
+        "link": "https://www.news1.kr/photos/view/?4385918"
+    },
+    {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
         "title": "확진자 40%가 60대 이상…\"중환자 병상 확충\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200916015900641/?did=1825m"
-    },
-    {
-        "title": "대구소방, 코로나19 확진자 이송 준비 완료",
-        "link": "https://www.news1.kr/photos/view/?4386184"
     }
 ];
