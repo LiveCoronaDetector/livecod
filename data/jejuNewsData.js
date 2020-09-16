@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
     },
     {
-        "title": "고영권 정무부지사, 제주도 자체 재난안전문자 가입 확대 지시",
-        "link": "https://www.pressian.com/pages/articles/2020091618084033293?utm_source=naver&utm_medium=search"
+        "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
     },
     {
         "title": "제주 53번 확진자, 서귀포매일올레시장 1곳만 방문",

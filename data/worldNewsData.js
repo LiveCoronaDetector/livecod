@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "A Maine wedding is linked to the deaths of 7 people who didn't attend",
+        "link": "https://news.google.com/articles/CAIiED1tEyJsAFWL9pP-OhHz8FMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
+        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
+        "link": "https://news.google.com/articles/CAIiEEN_Yb2hymuOAeCGT3EeU3IqGQgEKhAIACoHCAowmICNCzDjmZ4DMMncuQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
-        "link": "https://news.google.com/articles/CAIiEJChZU3Ws4Q_yu1WHIZDVtwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
         "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2NoaW5lc2Utdmlyb2xvZ2lzdC1nb3Zlcm5tZW50LWludGVudGlvbmFsbHktY29yb25hdmlydXPSAVlodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9jaGluZXNlLXZpcm9sb2dpc3QtZ292ZXJubWVudC1pbnRlbnRpb25hbGx5LWNvcm9uYXZpcnVzLmFtcA?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
-        "title": "Coronavirus live news: Madrid to introduce targeted lockdowns; Trump says 'herd mentality' will beat Covid",
+        "title": "Coronavirus live news: Netherlands records second successive daily case high; targeted lockdowns in Madrid",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
         "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
         "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
+    },
+    {
         "title": "Global perception of US falls to two-decade low",
-        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTQxNjk3MzLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01NDE2OTczMg?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bbc.com/news/world-us-canada-54169732"
     }
 ];
