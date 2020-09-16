@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "'Confounding': Covid may have already peaked in many African countries",
-        "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
+        "link": "https://news.google.com/articles/CAIiEDvYuJ2WdTSoFRqdJmy3g0AqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
+        "link": "https://news.google.com/articles/CAIiEDEWr1wneYwgx-ERSSHepSMqGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -18,26 +18,26 @@ var worldNewsData = [
     },
     {
         "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
-        "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
+        "link": "https://news.google.com/articles/CAIiEHVX_xUaI_JS_FDhquXX1CAqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
-        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2NoaW5lc2Utdmlyb2xvZ2lzdC1nb3Zlcm5tZW50LWludGVudGlvbmFsbHktY29yb25hdmlydXPSAVlodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9jaGluZXNlLXZpcm9sb2dpc3QtZ292ZXJubWVudC1pbnRlbnRpb25hbGx5LWNvcm9uYXZpcnVzLmFtcA?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "Coronavirus live news: hospitalisations of 15 to 49-year-olds rising, says WHO; 9,784 new cases in France",
+        "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "WATCH LIVE: Biden delivers remarks on COVID-19 vaccine in Wilmington, Delaware",
-        "link": "https://www.youtube.com/watch?v=PQqvJHOQ0os"
+        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
+        "link": "https://news.google.com/articles/CAIiEDih55IKTZ6myZ-MmUOg_4MqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global perception of US falls to two-decade low",
-        "link": "https://www.bbc.com/news/world-us-canada-54169732"
-    },
-    {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8bb04980-f85b-11ea-9e8e-5986b39263f5&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "India's coronavirus infections top five million mark",
+        "link": "https://www.bbc.com/news/world-asia-india-54172321"
     }
 ];
