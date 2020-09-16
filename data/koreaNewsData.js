@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
-        "title": "익산지역 코로나19 확진자 5명 발생 [종합]",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
-    },
-    {
         "title": "코로나 '감염경로 불명' 환자 비율 25.4%…최대치 경신",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091602208.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "대구소방, 코로나19 확진자 이송 준비 완료",
         "link": "https://www.news1.kr/photos/view/?4386184"
+    },
+    {
+        "title": "익산지역 코로나19 확진자 5명 발생 [종합]",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
     },
     {
         "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
