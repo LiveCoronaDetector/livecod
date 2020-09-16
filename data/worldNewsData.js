@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
-        "link": "https://news.google.com/articles/CAIiECpEfA7BRAfdpOEu1BmrhR8qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
-        "link": "https://news.google.com/articles/CAIiEDEWr1wneYwgx-ERSSHepSMqGQgEKhAIACoHCAowyNj6CjDyiPICMJyFxQU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -22,7 +22,7 @@ var worldNewsData = [
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2NoaW5lc2Utdmlyb2xvZ2lzdC1nb3Zlcm5tZW50LWludGVudGlvbmFsbHktY29yb25hdmlydXPSAVlodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9jaGluZXNlLXZpcm9sb2dpc3QtZ292ZXJubWVudC1pbnRlbnRpb25hbGx5LWNvcm9uYXZpcnVzLmFtcA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://news.google.com/articles/CAIiEDih55IKTZ6myZ-MmUOg_4MqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     },
     {
         "title": "Trump Is One of the Worst Leaders on Earth, According to the Rest of the World",
-        "link": "https://news.google.com/articles/CAIiEE1YQrzu7TH0oNwfiCxA6L4qFwgEKg4IACoGCAowis8wMLmCBjD_oNQD?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.vice.com/en_us/article/xg89e4/trump-is-one-of-the-worst-world-leaders-on-earth-according-to-the-rest-of-the-world"
     }
 ];
