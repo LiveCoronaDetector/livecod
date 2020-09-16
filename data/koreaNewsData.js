@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962336.html"
     },
     {
-        "title": "60대 확진자, 서울서 KTX…동대구역까지 가서야 잡아",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11969820"
-    },
-    {
         "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "기아차 소하리2공장 코로나19 확진자 발생···생산 중단",
         "link": "https://www.sedaily.com/NewsView/1Z7VMTR3DV"
+    },
+    {
+        "title": "60대 확진자, 서울서 KTX…동대구역까지 가서야 잡아",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11969820"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",

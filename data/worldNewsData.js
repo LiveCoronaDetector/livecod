@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
-        "title": "Israel’s latest coronavirus peak: 5,523 patients in a single day",
-        "link": "https://www.jpost.com/health-science/israels-latest-coronavirus-peak-5523-patients-in-a-single-day-642489"
+        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Australia’s coronavirus ‘dictator’ enforces a drastic lockdown. He’s still popular.",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/australia-coronavirus-melbourne-lockdown-daniel-andrews/2020/09/15/8440d9bc-f243-11ea-8025-5d3489768ac8_story.html"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+    },
+    {
+        "title": "WATCH: Biden speaks on developing, 'equitably distributing' coronavirus vaccine",
+        "link": "https://www.youtube.com/watch?v=uydO8lW5zCk"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     },
     {
-        "title": "Global perception of US falls to two-decade low",
-        "link": "https://www.bbc.com/news/world-us-canada-54169732"
-    },
-    {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1eb589a0-f84f-11ea-98f1-3308f492deaf&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "India's coronavirus infections top five million mark",
+        "link": "https://www.bbc.com/news/world-asia-india-54172321"
     }
 ];
