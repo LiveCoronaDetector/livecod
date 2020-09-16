@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601946.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "KBS에서 코로나19 확진자 발생",
-        "link": "https://www.news1.kr/photos/view/?4385918"
+        "title": "신규 확진 113명, 국내 발생 다시 100명↑…‘확진자 접촉’ 감염 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200916015900641/?did=1825m"
     },
     {
-        "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
-        "link": "http://yna.kr/AKR20200916111051005?did=1195m"
+        "title": "대구소방, 코로나19 확진자 이송 준비 완료",
+        "link": "https://www.news1.kr/photos/view/?4386184"
     }
 ];
