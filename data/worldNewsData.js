@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
-        "title": "A Maine wedding is linked to the deaths of 7 people who didn't attend",
-        "link": "https://www.cnn.com/2020/09/16/health/us-coronavirus-wednesday/index.html"
+        "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
+        "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Coronavirus live news: hospitalisations of 15 to 49-year-olds rising, says WHO; new Netherlands cases record",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
+        "title": "Global perception of US falls to two-decade low",
+        "link": "https://www.bbc.com/news/world-us-canada-54169732"
+    },
+    {
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=65c39d30-f842-11ea-85d9-13ab84eeba98&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
-    },
-    {
-        "title": "Global perception of US falls to two-decade low",
-        "link": "https://www.bbc.com/news/world-us-canada-54169732"
     }
 ];
