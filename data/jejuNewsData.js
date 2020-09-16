@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
+        "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
+        "link": "https://www.nocutnews.co.kr/news/5413425"
+    },
+    {
         "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
@@ -17,27 +21,23 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     },
     {
-        "title": "온천 방문 숨긴 코로나19 확진 은퇴 목사 부부 고발돼",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005703&ref=A"
-    },
-    {
         "title": "추석 연휴에 20만명 제주도 찾는다…'여름 휴가철 수준'",
         "link": "http://www.busan.com/view/busan/view.php?code=2020091610233633493"
     },
     {
-        "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
-        "link": "https://www.nocutnews.co.kr/news/5412260"
+        "title": "코로나19 속 추석 연휴 20만명 제주 찾는다…방역 고비",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
+    },
+    {
+        "title": "수도권 방문한 제주도 일가족 3명 코로나 확진…\"역학조사 중\"",
+        "link": "https://news.joins.com/article/olink/23466821"
+    },
+    {
+        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
-    },
-    {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
-    },
-    {
-        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
     }
 ];

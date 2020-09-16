@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202009166347H"
     },
     {
-        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
-        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진 113명…지역 105명 다시 늘어",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009160091&t=NN"
     },
     {
-        "title": "코로나 '감염경로 불명' 환자 비율 25.4%…최대치 경신",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091602208.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
+        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
     },
     {
-        "title": "마스크업체 관련 7명 늘어…서울 확진자 4일만에 50명대",
-        "link": "http://www.fnnews.com/news/202009161125046686"
+        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
+        "link": "http://www.fnnews.com/news/202009161431413815"
+    },
+    {
+        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
-        "title": "코로나19 신규 환자 113명...14일째 백 명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009160947174515"
-    },
-    {
-        "title": "대구 신규확진자 4명 중 3명…\"감염경로 미궁\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020091610190669070"
-    },
-    {
         "title": "KBS에서 코로나19 확진자 발생",
         "link": "https://www.news1.kr/photos/view/?4385918"
+    },
+    {
+        "title": "천안서 60대 2명 코로나19 감염…기존 확진자 접촉(종합)",
+        "link": "http://yna.kr/AKR20200916071551063?did=1195m"
     }
 ];
