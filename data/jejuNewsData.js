@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
-    },
-    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
+        "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
         "title": "코로나19 확진 일가족 농협·내과 등 방문",

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/former-nsc-spokesman-on-pelosi-calling-trumps-arab-israel-deal-a-covid-distraction-sour-grapes"
     },
     {
-        "title": "Even as Cases Rise, Europe Is Learning to Live With the Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/15/world/europe/coronavirus-europe.html"
+        "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=62974dd0-f7d1-11ea-91ef-079323eb9a8e&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=6e4c99b0-f7d5-11ea-a9a5-e33e9370fdac&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+    },
+    {
+        "title": "Coronavirus live updates: Student dropout crisis looms, UN says; Pelosi renews call for large stimulus package",
+        "link": "https://www.cnbc.com/2020/09/15/coronavirus-live-updates.html"
     }
 ];
