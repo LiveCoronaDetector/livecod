@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://apnews.com/66781baa84f363988ecc5c5d30e23933"
     },
     {
-        "title": "Global perception of US falls to two-decade low",
-        "link": "https://www.bbc.com/news/world-us-canada-54169732"
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=fc4aafb0-f7f6-11ea-a7ff-b50bed4b5192&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];

@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020091610233633493"
     },
     {
+        "title": "\"코로나 막연한 불안감 해소 행정 기본 책무＂",
+        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=144305"
+    },
+    {
         "title": "코로나19 속 추석 연휴 20만명 제주 찾는다…방역 고비",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
-    },
-    {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
     }
 ];
