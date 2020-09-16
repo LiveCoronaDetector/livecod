@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23466821"
     },
     {
-        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
+        "title": "제주 53번 확진자, 서귀포매일올레시장 1곳만 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320189"
     }
 ];

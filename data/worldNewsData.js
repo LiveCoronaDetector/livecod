@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Coronavirus live news: Trump says Covid-19 will 'go away' because of 'herd mentality'",
@@ -34,7 +34,7 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3d1a7ee0-f7fb-11ea-9ed7-07958b2e99ed&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5a2de5e0-f7ff-11ea-9e18-cba903f44c18&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
