@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202009166347H"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
+        "title": "서울서 코로나19 확진 60대 귀가 요청 불구 KTX타고 이동",
+        "link": "http://yna.kr/AKR20200916064600053?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
+        "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
         "title": "기아차 소하리2공장 코로나19 확진자 발생···생산 중단",
         "link": "https://www.sedaily.com/NewsView/1Z7VMTR3DV"
     },
     {
-        "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
-        "link": "http://yna.kr/AKR20200916111051005?did=1195m"
+        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
+    },
+    {
+        "title": "서울대서 확진자 1명 발생… 경영대 도서관 등 주요 시설 통제",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601946.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "KBS에서 코로나19 확진자 발생",
+        "link": "https://www.news1.kr/photos/view/?4385918"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
-        "title": "코로나 '감염경로 불명' 환자 비율 25.4%…최대치 경신",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091602208.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "확진자 40%가 60대 이상…\"중환자 병상 확충\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200916015900641/?did=1825m"
     },
     {
-        "title": "코로나19 신규 환자 113명...14일째 백 명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009160947174515"
-    },
-    {
-        "title": "대구소방, 코로나19 확진자 이송 준비 완료",
-        "link": "https://www.news1.kr/photos/view/?4386184"
-    },
-    {
-        "title": "익산지역 코로나19 확진자 5명 발생 [종합]",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
-    },
-    {
-        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
-        "link": "http://www.fnnews.com/news/202009161431413815"
+        "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
+        "link": "http://yna.kr/AKR20200916111051005?did=1195m"
     }
 ];

@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Coronavirus live news: Madrid to introduce targeted lockdowns; Trump says 'herd mentality' will beat Covid",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     },
     {
-        "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
-        "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
+        "title": "India surpasses 5 million coronavirus cases, 82,066 deaths",
+        "link": "https://www.msn.com/en-us/news/world/india-surpasses-5-million-coronavirus-cases-82066-deaths/ar-BB1957lR?li=BBnb7Kz"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
