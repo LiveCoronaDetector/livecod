@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
-        "title": "Global report: India's coronavirus cases pass 5 million",
-        "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
+        "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
+        "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
