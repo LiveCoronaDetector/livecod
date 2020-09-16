@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
     },
     {
-        "title": "Covid-19 Live Updates: As Cases Rise, Europe Enters 'Living-With-the-Virus Phase'",
+        "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
         "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
     },
     {
-        "title": "Coronavirus cases in India cross 5 million: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/melbourne-track-easing-coronavirus-lockdown-live-news-200916004405503.html"
+        "title": "Global report: India's coronavirus cases pass 5 million",
+        "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1e6ab280-f7e2-11ea-bbf9-bf7691bccaa1&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "US allies trust Trump less than Russian and Chinese leaders: Poll - Business Insider",
+        "link": "https://www.businessinsider.com/trump-less-trusted-than-russia-china-leaders-poll-us-image-2020-9"
     },
     {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=33629960-f7e6-11ea-af26-315383fbb548&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];

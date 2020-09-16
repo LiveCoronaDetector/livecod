@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202009166347H"
     },
     {
-        "title": "코로나19 지역 발생 다시 1백 명대…집단 감염 지속",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5911514_32496.html"
-    },
-    {
         "title": "코로나19 신규 확진자 113명…지역발생 105명",
         "link": "http://www.hani.co.kr/arti/society/health/962336.html"
     },
     {
-        "title": "서울대 코로나19 확진자 1명 발생…일부 건물 출입 통제(상보)",
-        "link": "https://view.asiae.co.kr/article/2020091614290740441"
+        "title": "코로나19 지역 발생 다시 1백 명대…집단 감염 지속",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5911514_32496.html"
     },
     {
-        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[2보] 코로나19 어제 113명 신규확진…지역발생 105명 다시 세자릿수",
-        "link": "http://yna.kr/AKR20200916032600530?did=1195m"
+        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
+        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
+        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
         "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
-        "title": "KBS에서 코로나19 확진자 발생",
-        "link": "https://www.news1.kr/photos/view/?4385918"
+        "title": "KBS \"본관 직원 코로나19 확진, 긴급 방역 조치\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202009161408141884"
     },
     {
-        "title": "코로나19 신규 환자 113명...14일째 백 명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009160947174515"
+        "title": "서울서 코로나19 확진 60대 귀가 요청 불구 KTX타고 이동",
+        "link": "http://yna.kr/AKR20200916064600053?did=1195m"
+    },
+    {
+        "title": "대구 신규확진자 4명 중 3명…\"감염경로 미궁\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020091610190669070"
     }
 ];
