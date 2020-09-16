@@ -4,8 +4,8 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6791999,
-        "사망자수": 200465,
+        "확진자수": 6796567,
+        "사망자수": 200650,
         "완치자수": 4069609
     },
     {
@@ -108,8 +108,8 @@ var marker = [
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "확진자수": 374228,
-        "사망자수": 41664,
+        "확진자수": 378219,
+        "사망자수": 41684,
         "완치자수": 0
     },
     {
@@ -1041,20 +1041,20 @@ var marker = [
         "완치자수": 2964
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 3293,
+        "사망자수": 57,
+        "완치자수": 810
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "확진자수": 3271,
         "사망자수": 13,
         "완치자수": 3021
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 3223,
-        "사망자수": 56,
-        "완치자수": 798
     },
     {
         "Name": "Aruba",

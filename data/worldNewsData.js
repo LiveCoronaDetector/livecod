@@ -6,19 +6,19 @@ var worldNewsData = [
     },
     {
         "title": "A Maine wedding is linked to the deaths of 7 people who didn't attend",
-        "link": "https://news.google.com/articles/CAIiED1tEyJsAFWL9pP-OhHz8FMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/16/health/us-coronavirus-wednesday/index.html"
     },
     {
         "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
-        "link": "https://news.google.com/articles/CAIiEEN_Yb2hymuOAeCGT3EeU3IqGQgEKhAIACoHCAowmICNCzDjmZ4DMMncuQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
-        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEJChZU3Ws4Q_yu1WHIZDVtwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
-        "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
+        "title": "Global report: India's coronavirus cases pass 5 million",
+        "link": "https://news.google.com/articles/CAIiEJY8zUi65W_CRCRCL5ucOuEqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
+        "title": "Global perception of US falls to two-decade low",
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTQxNjk3MzLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01NDE2OTczMg?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global perception of US falls to two-decade low",
-        "link": "https://www.bbc.com/news/world-us-canada-54169732"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTE2LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xNi0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];
