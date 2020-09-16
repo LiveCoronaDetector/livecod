@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "서울 신규확진자 51명…마스크 유통업체서 7명 추가 감염(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02719126625900776"
+        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "방문판매업 확진자 만난 익산시민 4명 코로나19 확진(종합)",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009160947174515"
     },
     {
-        "title": "[속보]서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
+        "title": "코로나19 신규 확진자 113명…지역발생 105명 다시 세자릿수",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=202401"
     },
     {
-        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+        "title": "[속보]서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     }
 ];

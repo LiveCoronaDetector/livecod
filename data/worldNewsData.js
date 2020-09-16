@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/former-nsc-spokesman-on-pelosi-calling-trumps-arab-israel-deal-a-covid-distraction-sour-grapes"
     },
     {
-        "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
+        "title": "Even as Cases Rise, Europe Is Learning to Live With the Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/15/world/europe/coronavirus-europe.html"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=06199e40-f7cd-11ea-b1cd-0b1d0450255c&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
-    },
-    {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=62974dd0-f7d1-11ea-91ef-079323eb9a8e&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
+    },
+    {
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     }
 ];

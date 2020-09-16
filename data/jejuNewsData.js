@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
+        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
+        "link": "http://www.fnnews.com/news/202009161235467580"
+    },
+    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
-        "link": "http://www.fnnews.com/news/202009151114117192"
-    },
-    {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+        "title": "코로나19 확진 일가족 농협·내과 등 방문",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     },
     {
         "title": "거짓말해 제주도에 코로나19 확산 시킨 목사부부 고발",
