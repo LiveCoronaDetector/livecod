@@ -14,30 +14,30 @@ var worldNewsData = [
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
-        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEJChZU3Ws4Q_yu1WHIZDVtwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Global report: India's coronavirus cases pass 5 million",
-        "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
+        "title": "India’s coronavirus cases surpass 5 million, outbreak still soaring",
+        "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2NoaW5lc2Utdmlyb2xvZ2lzdC1nb3Zlcm5tZW50LWludGVudGlvbmFsbHktY29yb25hdmlydXPSAVlodHRwczovL3d3dy5mb3huZXdzLmNvbS9tZWRpYS9jaGluZXNlLXZpcm9sb2dpc3QtZ292ZXJubWVudC1pbnRlbnRpb25hbGx5LWNvcm9uYXZpcnVzLmFtcA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus live news: Madrid to introduce targeted lockdowns; Trump says 'herd mentality' will beat Covid",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=320a84d0-f825-11ea-b9a2-79a2bd132fdd&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
+        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
+    },
+    {
+        "title": "Global perception of US falls to two-decade low",
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTQxNjk3MzLSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01NDE2OTczMg?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

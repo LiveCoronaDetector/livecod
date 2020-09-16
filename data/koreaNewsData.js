@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200916064600053?did=1195m"
     },
     {
-        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
-        "link": "http://www.fnnews.com/news/202009161431413815"
-    },
-    {
         "title": "기아차 소하리2공장 코로나19 확진자 발생···생산 중단",
         "link": "https://www.sedaily.com/NewsView/1Z7VMTR3DV"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "신규 확진 113명, 국내 발생 다시 100명↑…‘확진자 접촉’ 감염 증가",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
+    },
+    {
+        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
+        "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
