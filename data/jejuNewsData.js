@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5413425"
     },
     {
-        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
-    },
-    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
+        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
         "title": "코로나19 확진 일가족 농협·내과 등 방문",

@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
-    },
-    {
         "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,12 +21,12 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/photos/view/?4385918"
     },
     {
-        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
+        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
+        "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
-        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
+        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
         "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "천안서 60대 2명 코로나19 감염…기존 확진자 접촉(종합)",
         "link": "http://yna.kr/AKR20200916071551063?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 113명…지역발생 다시 세자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009160932001&code=940601"
     }
 ];
