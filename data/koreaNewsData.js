@@ -9,8 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009160932001&code=940601"
     },
     {
-        "title": "경북서 코로나19 확진자 2명 추가",
-        "link": "http://yna.kr/AKR20200916025500053?did=1195m"
+        "title": "대구서 코로나19 확진자 4명 추가",
+        "link": "http://yna.kr/AKR20200916045900053?did=1195m"
+    },
+    {
+        "title": "경북 장뇌삼 설명회 관련 확진자 등 2명 추가",
+        "link": "https://news.imaeil.com/Society/2020091608225938404"
+    },
+    {
+        "title": "[전문] 대구서 확진자 4명 발생…동충하초 1명·경로 불명 3명",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=287772&part_idx=320"
     },
     {
         "title": "코로나19 신규 확진자 113명…지역발생 105명",
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+        "title": "전북 103~106번 확진자…101번 방판업 확진자 접촉 ‘같은 동선’ (종합)",
+        "link": "http://www.fnnews.com/news/202009160725329008"
     },
     {
-        "title": "코로나19 신규 확진 113명…지역발생 105명 다시 세 자리",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5911398_32633.html"
+        "title": "대구·경북서 지역감염 신규 확진자 ‘6명’ 발생(종합)",
+        "link": "http://www.kukinews.com/newsView/kuk202009160083"
     },
     {
-        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 106명…지역발생 91명·사망 4명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009150085&t=NN"
-    },
-    {
-        "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
+        "title": "[속보]서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     }
 ];

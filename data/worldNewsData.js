@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
+        "title": "Coronavirus live news: Trump says Covid-19 will 'go away' because of 'herd mentality'",
+        "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
+    },
+    {
         "title": "Trump less trusted internationally than Putin and Xi after Covid-19 response",
         "link": "https://www.cnn.com/2020/09/15/politics/trump-us-global-image-coronavirus-pew-survey-intl/index.html"
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012Wm1WaGRIVnlaWE12TWpBeU1DMHdPUzB4TlM5allYSnVhWFpoYkMxekxYSjFZbmt0Y0hKcGJtTmxjM010WTNKMWFYTmxMWE5vYVhBdGMzQnlaV0ZrTFdOdmNtOXVZWFpwY25WekxXRnliM1Z1WkMxMGFHVXRkMjl5YkdRJTNEJnZpZD0mdXVpZD05NDE0YmNmMC1mN2MwLTExZWEtYjg1NS01YjUzZDk2NWNiMGI=&uuid=9423d820-f7c0-11ea-804e-8f21481cec52&vid="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b337f120-f7c4-11ea-962f-0354ad098765&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
-    },
-    {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
     }
 ];
