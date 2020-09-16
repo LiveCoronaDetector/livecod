@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
     {
-        "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
-        "link": "https://www.nocutnews.co.kr/news/5412260"
+        "title": "제주도청사 출입제한 조치 연장…공적업무 외 방문 제한",
+        "link": "https://www.news1.kr/articles/?4060215"
     },
     {
-        "title": "제주도, 도청사 출입제한조치 계속 유지된다",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320154"
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
+        "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009150034363185"
     },
     {
+        "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004602&ref=A"
+    },
+    {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
     {
         "title": "제주 일가족 확진자 접촉자 25명…1명 신원파악중",
         "link": "https://www.news1.kr/articles/?4059737"
-    },
-    {
-        "title": "제주 3명 가족 확진자 역학조사, 접촉자 25명 확인 '격리'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427431"
     }
 ];

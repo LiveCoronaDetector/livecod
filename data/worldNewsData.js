@@ -10,11 +10,11 @@ var worldNewsData = [
     },
     {
         "title": "Former NSC spokesman on Pelosi calling Trump's Arab-Israel deal a COVID 'distraction': 'Sour grapes'",
-        "link": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2Zvcm1lci1uc2Mtc3Bva2VzbWFuLW9uLXBlbG9zaS1jYWxsaW5nLXRydW1wcy1hcmFiLWlzcmFlbC1kZWFsLWEtY292aWQtZGlzdHJhY3Rpb24tc291ci1ncmFwZXPSAYABaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vbWVkaWEvZm9ybWVyLW5zYy1zcG9rZXNtYW4tb24tcGVsb3NpLWNhbGxpbmctdHJ1bXBzLWFyYWItaXNyYWVsLWRlYWwtYS1jb3ZpZC1kaXN0cmFjdGlvbi1zb3VyLWdyYXBlcy5hbXA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/media/former-nsc-spokesman-on-pelosi-calling-trumps-arab-israel-deal-a-covid-distraction-sour-grapes"
     },
     {
-        "title": "Even as Cases Rise, Europe Is Learning to Live With the Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/15/world/europe/coronavirus-europe.html"
+        "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
+        "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
     },
     {
         "title": "Coronavirus: India faces oxygen scarcity as cases surge",
@@ -30,11 +30,11 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://news.google.com/articles/CAIiEIqHuWj8uDis99o2v14OZsIqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012Wm1WaGRIVnlaWE12TWpBeU1DMHdPUzB4TlM5allYSnVhWFpoYkMxekxYSjFZbmt0Y0hKcGJtTmxjM010WTNKMWFYTmxMWE5vYVhBdGMzQnlaV0ZrTFdOdmNtOXVZWFpwY25WekxXRnliM1Z1WkMxMGFHVXRkMjl5YkdRJTNEJnZpZD0mdXVpZD05NDE0YmNmMC1mN2MwLTExZWEtYjg1NS01YjUzZDk2NWNiMGI=&uuid=9423d820-f7c0-11ea-804e-8f21481cec52&vid="
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vd29ybGQvbGl2ZS1uZXdzL2Nvcm9uYXZpcnVzLXBhbmRlbWljLTA5LTE1LTIwLWludGwvaW5kZXguaHRtbNIBVWh0dHBzOi8vYW1wLmNubi5jb20vY25uL3dvcmxkL2xpdmUtbmV3cy9jb3JvbmF2aXJ1cy1wYW5kZW1pYy0wOS0xNS0yMC1pbnRsL2luZGV4Lmh0bWw?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",

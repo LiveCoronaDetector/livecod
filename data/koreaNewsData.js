@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091650517"
     },
     {
-        "title": "[단독]YTN 상암동 사옥 코로나 확진자 방문... 건물 일부 폐쇄, 긴급 방역 조...",
-        "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 113명…지역발생 다시 세자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009160932001&code=940601"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200916025500053?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 113명...지역발생 105명",
+        "title": "코로나19 신규 확진자 113명…지역발생 105명",
         "link": "http://www.hani.co.kr/arti/society/health/962336.html"
     },
     {
-        "title": "코로나 신규확진 다시 세자릿수…113명 늘어",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091500152"
+        "title": "[단독]YTN 상암동 사옥 코로나 확진자 방문... 건물 일부 폐쇄, 긴급 방역 조...",
+        "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "[속보] 코로나 113명 신규확진…지역 105명 다시 세자릿수",
-        "link": "https://www.hankyung.com/life/article/2020091649547"
-    },
-    {
-        "title": "코로나19 신규 확진 113명…국내발생 100명 넘어",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219817"
+        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
+        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
         "title": "코로나19 신규 확진 113명…지역발생 105명 다시 세 자리",
         "link": "https://imnews.imbc.com/news/2020/society/article/5911398_32633.html"
     },
     {
-        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+        "title": "코로나19 신규 확진자 106명…국내 발생 사흘째 90명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004474&ref=A"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진 106명…지역발생 91명·사망 4명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009150085&t=NN"
+    },
+    {
+        "title": "대면예배 강행하다···송파구 우리교회 6명 무더기 확진·서울 코로나19 확...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009151106011&code=940100"
     }
 ];
