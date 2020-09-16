@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9bd38830-f7ee-11ea-8fde-e5daf45d6510&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+        "title": "Asia Today: India adds over 83,000 cases, nears 5 million",
+        "link": "https://apnews.com/66781baa84f363988ecc5c5d30e23933"
     },
     {
-        "title": "Coronavirus live updates: Student dropout crisis looms, UN says; Pelosi renews call for large stimulus package",
-        "link": "https://www.cnbc.com/2020/09/15/coronavirus-live-updates.html"
+        "title": "Global perception of US falls to two-decade low",
+        "link": "https://www.bbc.com/news/world-us-canada-54169732"
     }
 ];

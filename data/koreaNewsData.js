@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "KBS에서 코로나19 확진자 발생",
+        "link": "https://www.news1.kr/photos/view/?4385918"
+    },
+    {
         "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
         "link": "http://www.fnnews.com/news/202009161431413815"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
-    },
-    {
-        "title": "KBS에서 코로나19 확진자 발생",
-        "link": "https://www.news1.kr/photos/view/?4385918"
     },
     {
         "title": "천안서 60대 2명 코로나19 감염…기존 확진자 접촉(종합)",

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
-        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
     }
 ];
