@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
         "title": "Coronavirus live news: Trump says Covid-19 will 'go away' because of 'herd mentality'",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "5M people infected, India's virus outbreak still soaring",
-        "link": "https://apnews.com/8d68ae66503fe4f18f91ffb980baac68"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus cases in India cross 5 million: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/melbourne-track-easing-coronavirus-lockdown-live-news-200916004405503.html"
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5a2de5e0-f7ff-11ea-9e18-cba903f44c18&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
-    },
-    {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
+        "link": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012Wm1WaGRIVnlaWE12TWpBeU1DMHdPUzB4TlM5allYSnVhWFpoYkMxekxYSjFZbmt0Y0hKcGJtTmxjM010WTNKMWFYTmxMWE5vYVhBdGMzQnlaV0ZrTFdOdmNtOXVZWFpwY25WekxXRnliM1Z1WkMxMGFHVXRkMjl5YkdRJTNEJnZpZD0mdXVpZD1hZDQ5YjJhMC1mODAzLTExZWEtYjYwOS0wNTA2ZmJhNzJhZjk=&uuid=ad596a10-f803-11ea-95a2-79f2ed5af38a&vid="
     }
 ];
