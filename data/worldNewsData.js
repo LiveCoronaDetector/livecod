@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
-        "title": "Israel’s latest coronavirus peak: 5,523 patients in a single day",
-        "link": "https://www.jpost.com/health-science/israels-latest-coronavirus-peak-5523-patients-in-a-single-day-642489"
+        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b10c1660-f846-11ea-bc4e-2fc296c1f220&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c71aeb80-f84a-11ea-b44d-4bb6d858a63d&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];
