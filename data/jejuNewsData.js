@@ -5,12 +5,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
+        "title": "제주도, 청사 출입제한조치 당분간 유지",
+        "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
         "link": "http://www.fnnews.com/news/202009151114117192"
     },
     {
-        "title": "제주도청사 출입제한 조치 연장…공적업무 외 방문 제한",
-        "link": "https://www.news1.kr/articles/?4060215"
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
         "title": "거짓말해 제주도에 코로나19 확산 시킨 목사부부 고발",
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
+        "title": "코로나19 제주 53번 확진자 동선 공개…서귀포 올레시장 방문",
+        "link": "https://www.nocutnews.co.kr/news/5413285"
+    },
+    {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
-    },
-    {
-        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
-        "link": "http://www.fnnews.com/news/202009150034363185"
-    },
-    {
-        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     }
 ];
