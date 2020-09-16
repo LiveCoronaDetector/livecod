@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
-    },
-    {
-        "title": "US allies trust Trump less than Russian and Chinese leaders: Poll - Business Insider",
-        "link": "https://www.businessinsider.com/trump-less-trusted-than-russia-china-leaders-poll-us-image-2020-9"
-    },
-    {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=33629960-f7e6-11ea-af26-315383fbb548&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7d9adb10-f7ea-11ea-84f9-57b041bed81a&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+    },
+    {
+        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
+        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+    },
+    {
+        "title": "Coronavirus live updates: Student dropout crisis looms, UN says; Pelosi renews call for large stimulus package",
+        "link": "https://www.cnbc.com/2020/09/15/coronavirus-live-updates.html"
     }
 ];
