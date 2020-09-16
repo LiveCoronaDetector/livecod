@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200916095500004?did=1195m"
     },
     {
+        "title": "신규 확진 113명, 국내 발생 다시 100명↑…‘확진자 접촉’ 감염 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
+    },
+    {
         "title": "KBS에서 코로나19 확진자 발생",
         "link": "https://www.news1.kr/photos/view/?4385918"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
     },
     {
-        "title": "[종합] 인천서 6명 확진…감염경로 불면 확진자 직장 동료도",
-        "link": "http://www.newspim.com/news/view/20200916001115"
-    },
-    {
-        "title": "[종합] 포항서 코로나19 확진자 2명 추가 발생",
-        "link": "http://www.kukinews.com/newsView/kuk202009160413"
-    },
-    {
         "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
         "link": "http://yna.kr/AKR20200916111051005?did=1195m"
     },
     {
         "title": "보령 여고생 등 충남서 코로나19 확진자 6명 늘어(종합2보)",
         "link": "http://yna.kr/AKR20200916178000063?did=1195m"
+    },
+    {
+        "title": "서울서 코로나19 확진 60대 귀가 요청 불구 KTX타고 이동",
+        "link": "http://yna.kr/AKR20200916064600053?did=1195m"
     }
 ];

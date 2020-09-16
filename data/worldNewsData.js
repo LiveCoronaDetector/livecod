@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     },
     {
-        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
-        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
+        "title": "Israel’s latest coronavirus peak: 5,523 patients in a single day",
+        "link": "https://www.jpost.com/health-science/israels-latest-coronavirus-peak-5523-patients-in-a-single-day-642489"
     },
     {
         "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/global-report-indias-coronavirus-cases-pass-5-million"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Coronavirus live news: Madrid to introduce targeted lockdowns; Trump says 'herd mentality' will beat Covid",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
         "title": "5M people infected, India's virus outbreak still soaring",
@@ -34,10 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=09bb7e80-f80c-11ea-9e67-759a9877b13b&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
-    },
-    {
-        "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
-        "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2128f940-f810-11ea-ad0e-bd42310d5ece&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];
