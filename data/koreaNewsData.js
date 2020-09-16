@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202009166347H"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 113명…지역발생 다시 세자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009160932001&code=940601"
-    },
-    {
-        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
-    },
-    {
-        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규 확진 113명…지역 105명 다시 늘어",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009160091&t=NN"
     },
     {
         "title": "코로나19 신규 확진자 113명…지역발생 105명",
         "link": "http://www.hani.co.kr/arti/society/health/962336.html"
     },
     {
+        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
+        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
+    },
+    {
+        "title": "서울, 신규 확진자 51명…마스크업체, 세브란스병원서 추가 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/16/2020091601467.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 신규 확진자 113명…지역발생 105명 다시 세자릿수",
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=202401"
     },
     {
-        "title": "KBS \"본관 직원 1명 코로나19 양성…필수인력 외 전직원 재택근무\"[공식]",
-        "link": "https://tenasia.hankyung.com/topic/article/2020091662824"
+        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
+    },
+    {
+        "title": "방문판매업 확진자 만난 익산시민 4명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20200916039551055?did=1195m"
     },
     {
         "title": "[단독]YTN 상암동 사옥 코로나 확진자 방문... 건물 일부 폐쇄, 긴급 방역 조...",
         "link": "https://www.chosun.com/culture-life/broadcast-media/2020/09/16/2NMIPLSACRB7TKTSR6RXXSRO6A/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나 국내 신규 확진 113명… 국내발생 105명·해외유입 8명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/16/2020091600972.html"
-    },
-    {
-        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
-        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
+        "title": "[2보] 코로나19 어제 113명 신규확진…지역발생 105명 다시 세자릿수",
+        "link": "http://yna.kr/AKR20200916032600530?did=1195m"
     }
 ];

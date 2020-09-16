@@ -9,6 +9,18 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
+        "title": "제주도, 도청사 출입제한조치 계속 유지된다",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320154"
+    },
+    {
+        "title": "온천 방문 숨긴 코로나19 확진 은퇴 목사 부부 고발돼",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005703&ref=A"
+    },
+    {
+        "title": "거짓말해 제주도에 코로나19 확산 시킨 목사부부 고발",
+        "link": "http://www.newsis.com/view/?id=NISX20200916_0001167436&cID=10813&pID=10800"
+    },
+    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
@@ -17,12 +29,8 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     },
     {
-        "title": "제주도, 온천방문 숨기고 역학조사 비협조 목사부부 고발",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161341001&code=620117"
-    },
-    {
-        "title": "서귀포시 산방산탄산온천 방문 숨긴 29·33번 확진자 고발",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=325901"
+        "title": "제주 53번 확진자 동선 추가 공개...'해수사우나'도 갔었다",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427490"
     },
     {
         "title": "추석 연휴에 20만명 제주도 찾는다…'여름 휴가철 수준'",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
         "link": "https://www.nocutnews.co.kr/news/5412260"
-    },
-    {
-        "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
-    },
-    {
-        "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
     }
 ];

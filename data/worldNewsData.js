@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     },
     {
-        "title": "Former NSC spokesman on Pelosi calling Trump's Arab-Israel deal a COVID 'distraction': 'Sour grapes'",
-        "link": "https://www.foxnews.com/media/former-nsc-spokesman-on-pelosi-calling-trumps-arab-israel-deal-a-covid-distraction-sour-grapes"
+        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
+        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
     },
     {
         "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
         "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
     },
     {
-        "title": "Coronavirus: India faces oxygen scarcity as cases surge",
-        "link": "https://www.bbc.com/news/world-asia-india-54139112"
+        "title": "India's coronavirus infections top five million mark",
+        "link": "https://www.bbc.com/news/world-asia-india-54172321"
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
@@ -30,14 +30,14 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bbd31c00-f7d9-11ea-8994-475b8995e6bd&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d6401b20-f7dd-11ea-a686-1f91f08120e5&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
         "title": "No coronavirus vaccine for entire world until 2024... at best: CEO of producer",
         "link": "https://www.foxbusiness.com/healthcare/no-coronavirus-vaccine-for-entire-world-until-2024-at-best-ceo-of-producer"
-    },
-    {
-        "title": "September 15 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html"
     }
 ];
