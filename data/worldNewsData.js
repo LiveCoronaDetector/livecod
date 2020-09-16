@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/israels-latest-coronavirus-peak-5523-patients-in-a-single-day-642489"
     },
     {
-        "title": "Covid-19 Live Updates: Michael Caputo, Trump Health Official, Apologizes for Facebook Outburst, Considers Leave of Absence",
-        "link": "https://www.nytimes.com/2020/09/15/world/covid-coronavirus.html"
+        "title": "ICUs are nearing capacity in this French city. And it's only September",
+        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
         "title": "Global report: India's coronavirus cases pass 5 million",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://apnews.com/8d68ae66503fe4f18f91ffb980baac68"
     },
     {
-        "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2128f940-f810-11ea-ad0e-bd42310d5ece&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
+        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
+        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     }
 ];

@@ -14,19 +14,19 @@ var koreaNewsData = [
     },
     {
         "title": "KBS에서 코로나19 확진자 발생",
-        "link": "https://www.news1.kr/photos/view/?4385918"
+        "link": "https://www.news1.kr/photos/view/?4385914"
     },
     {
         "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
         "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
-        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
-    },
-    {
         "title": "익산지역 코로나19 확진자 5명 발생 [종합]",
         "link": "http://www.domin.co.kr/news/articleView.html?idxno=1309755"
+    },
+    {
+        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
         "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
