@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/202009166347H"
     },
     {
-        "title": "KBS·YTN 사옥 확진자 발생…방송가 코로나 비상(종합)",
-        "link": "http://yna.kr/AKR20200916111051005?did=1195m"
+        "title": "코로나19 신규 확진자 113명…지역발생 105명",
+        "link": "http://www.hani.co.kr/arti/society/health/962336.html"
     },
     {
         "title": "60대 확진자, 서울서 KTX…동대구역까지 가서야 잡아",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11969820"
     },
     {
-        "title": "서산시 코로나19 24번 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020091611235932363?utm_source=naver&utm_medium=search"
+        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
+        "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
-        "title": "K-방역에 ‘엄지척’했던 OECD, 코로나 재확산에도 “OECD 1위”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005820&ref=A"
+        "title": "서울대 코로나19 확진자 발생…경영대 도서관 등 출입 통제",
+        "link": "http://yna.kr/AKR20200916095500004?did=1195m"
     },
     {
-        "title": "코로나19 제주 53번 확진자 동선 공개…서귀포 올레시장 방문",
-        "link": "https://www.nocutnews.co.kr/news/5413285"
+        "title": "신규 확진 113명, 국내 발생 다시 100명↑…‘확진자 접촉’ 감염 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5005659&ref=A"
     },
     {
-        "title": "대구소방, 코로나19 확진자 이송 준비 완료",
-        "link": "https://www.news1.kr/photos/view/?4386184"
+        "title": "기아차 소하리2공장 코로나19 확진자 발생···생산 중단",
+        "link": "https://www.sedaily.com/NewsView/1Z7VMTR3DV"
     },
     {
-        "title": "KBS 본관에서 코로나 확진자 발생…직원 재택 근무 돌입",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5911899_32633.html"
+        "title": "코로나19 확진자 113명 증가...8.15집회 등 수도권 81명[종합]",
+        "link": "http://www.fnnews.com/news/202009161431413815"
     },
     {
-        "title": "기아차 소하리2공장 코로나19 확진자로 생산 중단",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200916000175"
+        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
     },
     {
-        "title": "대구서 코로나19 확진자 4명 추가",
-        "link": "http://yna.kr/AKR20200916045900053?did=1195m"
+        "title": "서울시 코로나19 신규확진자 51명…서울시, \"제로페이로 음식점 등 출입등록 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     }
 ];
