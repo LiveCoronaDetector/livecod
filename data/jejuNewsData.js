@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5412260"
     },
     {
-        "title": "코로나19 제주 53번 확진자 동선 공개…서귀포 올레시장 방문",
-        "link": "https://www.nocutnews.co.kr/news/5413285"
-    },
-    {
         "title": "제주 코로나19 확진자 5명 퇴원…환자 12명으로 줄어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5004212&ref=A"
     },
     {
         "title": "성남 코로나 377번 확진자, 1박2일간 제주 여행",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320111"
+    },
+    {
+        "title": "수도권 방문 제주도 일가족 3명 코로나19 확진 판정",
+        "link": "http://www.fnnews.com/news/202009150034363185"
     }
 ];
