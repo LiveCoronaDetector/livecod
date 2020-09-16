@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161122001&code=940100"
     },
     {
-        "title": "2주간 감염경로 미파악 확진자 비율 25.4%…조사 이래 최고(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200916_0001168381&cID=10201&pID=10200"
-    },
-    {
         "title": "확진자 40%가 60대 이상…\"중환자 병상 확충\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200916015900641/?did=1825m"
+    },
+    {
+        "title": "대구소방, 코로나19 확진자 이송 준비 완료",
+        "link": "https://www.news1.kr/photos/view/?4386184"
     }
 ];

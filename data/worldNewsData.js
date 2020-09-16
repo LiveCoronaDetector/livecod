@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/india-coronavirus-outbreak-soaring"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
+        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
     },
     {
-        "title": "Coronavirus live news: Netherlands records second successive daily case high; targeted lockdowns in Madrid",
+        "title": "Coronavirus live news: hospitalisations of 15 to 49-year-olds rising, says WHO; new Netherlands cases record",
         "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
     },
     {
