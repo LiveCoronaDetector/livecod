@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
-        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
+        "title": "Israel’s latest coronavirus peak: 5,523 patients in a single day",
+        "link": "https://www.jpost.com/health-science/israels-latest-coronavirus-peak-5523-patients-in-a-single-day-642489"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
-        "title": "Coronavirus live news: hospitalisations of 15 to 49-year-olds rising, says WHO; new Netherlands cases record",
-        "link": "https://www.theguardian.com/world/live/2020/sep/16/coronavirus-live-news-world-still-at-beginning-of-pandemic-who-covid-19-envoy-warns"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
+    },
+    {
+        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
+        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     },
     {
         "title": "Global perception of US falls to two-decade low",
@@ -34,10 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Carnival's Ruby Princess Cruise Ship Spread Coronavirus Around the World",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=65c39d30-f842-11ea-85d9-13ab84eeba98&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b10c1660-f846-11ea-bc4e-2fc296c1f220&url=L25ld3MvZmVhdHVyZXMvMjAyMC0wOS0xNS9jYXJuaXZhbC1zLXJ1YnktcHJpbmNlc3MtY3J1aXNlLXNoaXAtc3ByZWFkLWNvcm9uYXZpcnVzLWFyb3VuZC10aGUtd29ybGQ="
     }
 ];
