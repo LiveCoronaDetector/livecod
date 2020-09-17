@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도 코로나19 57번‧58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
+    },
+    {
         "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
         "link": "https://www.nocutnews.co.kr/news/5413425"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, '자체 긴급재난안전문자' 홍보 강화",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171780"
-    },
-    {
-        "title": "코로나19 속 추석 연휴 20만명 제주 찾는다…방역 고비",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
     }
 ];

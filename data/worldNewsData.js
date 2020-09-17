@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "India On Track To Surpass U.S. As Country Worst Affected By COVID-19",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
+        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
+        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
+    },
+    {
+        "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
+        "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
-    },
-    {
-        "title": "Trump Fights CDC Boss On Mask, Politicizes Covid-19 Vaccine | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=obS4JCUYeqQ"
     }
 ];
