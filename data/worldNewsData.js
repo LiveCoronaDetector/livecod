@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
-        "title": "Trump says U.S. could start distributing a coronavirus vaccine in October, contradicting CDC's timeline",
-        "link": "https://www.cnbc.com/2020/09/16/trump-says-he-thinks-us-could-start-distributing-a-coronavirus-vaccine-in-october.html"
+        "title": "Trump blames 'blue states' for increasing nation's coronavirus death rates, ignores high rates in red states",
+        "link": "https://www.usatoday.com/story/news/politics/elections/2020/09/16/trump-blames-blue-states-covid-19-death-rates/5819120002/"
     },
     {
         "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
-        "title": "'It's getting worse by the day': India's Covid battle rages on",
-        "link": "https://news.google.com/articles/CAIiECx6CBm4AoxyjSvNxtFenosqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Kangana Ranaut wishes PM Narendra Modi on his birthday in a video: Country appreciates you, lucky to have you",
+        "link": "https://www.pinkvilla.com/entertainment/news/kangana-ranaut-wishes-pm-narendra-modi-his-birthday-video-country-appreciates-you-lucky-have-you-563241"
     },
     {
         "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
-    },
-    {
-        "title": "NZ Treasury forecasts 16 per cent GDP contraction as nation enters technical recession",
-        "link": "https://www.youtube.com/watch?v=LLe7ZY8d_dU"
-    },
-    {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
         "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
+    },
+    {
+        "title": "Donald Trump has done 1 thing *really* well as President",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
+    },
+    {
+        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
+        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     }
 ];
