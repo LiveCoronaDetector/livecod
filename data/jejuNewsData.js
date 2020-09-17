@@ -9,16 +9,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
-        "link": "http://yna.kr/AKR20200917120300056?did=1195m"
-    },
-    {
         "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
         "link": "https://www.nocutnews.co.kr/news/5413425"
     },
     {
-        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
+        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
+        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
         "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://news.ebs.co.kr/ebsnews/allView/20364104/N"
     },
     {
-        "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
+        "title": "지방정부, 코로나19 고발·구상권 청구 잇따라",
+        "link": "https://www.sedaily.com/NewsView/1Z7W2MXRH5"
+    },
+    {
+        "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
+        "link": "http://yna.kr/AKR20200917120300056?did=1195m"
     }
 ];

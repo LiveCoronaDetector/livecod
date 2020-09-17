@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
     },
     {
-        "title": "Turkey Accused of Coronavirus Cover-Up as Cases Rise",
-        "link": "https://www.voanews.com/covid-19-pandemic/turkey-accused-coronavirus-cover-cases-rise"
+        "title": "Syria COVID spread may be much higher than figures suggest, Lowcock tells Security Council",
+        "link": "https://news.un.org/en/story/2020/09/1072592"
     },
     {
         "title": "'Very serious situation' unfolding in Europe, WHO warns, as cases rise dramatically",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "Europe must act to counter 'COVID-19 fatigue': WHO",
-        "link": "https://www.euronews.com/2020/09/17/europe-must-act-to-counter-covid-19-fatigue-in-fight-against-the-virus-who"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
-        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+    },
+    {
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     }
 ];
