@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.voanews.com/covid-19-pandemic/turkey-accused-coronavirus-cover-cases-rise"
     },
     {
-        "title": "ICUs are nearing capacity in this French city. And it's only September",
-        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
+        "title": "'Very serious situation' unfolding in Europe, WHO warns, as cases rise dramatically",
+        "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
     },
     {
         "title": "Opinion | No Prime Minister has done as much for India’s development as PM Modi in his 6 years",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "World Health Organisation say rising coronavirus case numbers should serve as a wake up call",
-        "link": "https://www.youtube.com/watch?v=gFOCFmhr2Fs"
+        "title": "Europe must act to counter 'COVID-19 fatigue': WHO",
+        "link": "https://www.euronews.com/2020/09/17/europe-must-act-to-counter-covid-19-fatigue-in-fight-against-the-virus-who"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
-        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
+        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
-        "title": "World economic recovery from coronavirus 'may take 5 years': Live",
-        "link": "https://www.aljazeera.com/news/2020/09/trump-contradicts-cdc-chief-coronavirus-vaccine-live-news-200917000121100.html"
+        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
+        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     }
 ];

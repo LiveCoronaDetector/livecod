@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
     },
     {
-        "title": "전북 107번~113번 확진자 발생....확진자 접촉 7명, 해외 1명(종합)",
-        "link": "http://www.fnnews.com/news/202009171045092860"
+        "title": "코로나19 '깜깜이 환자' 26.4%로 역대 최고",
+        "link": "http://www.fnnews.com/news/202009171501585465"
     },
     {
         "title": "셀트리온, 코로나19 항체 치료제 임상 2·3상 승인(종합)",
