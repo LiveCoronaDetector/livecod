@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917120800530?did=1195m"
     },
     {
+        "title": "셀트리온, 코로나19 항체 치료제 임상 2·3상 승인(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04086886625901104"
+    },
+    {
         "title": "전북 107번~113번 확진자 발생....확진자 접촉 7명, 해외 1명(종합)",
         "link": "http://www.fnnews.com/news/202009171045092860"
     },
     {
-        "title": "코호트 격리 진천 요양원서 확진자 2명 추가 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
-    },
-    {
         "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
         "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
+    },
+    {
+        "title": "경남, 창녕·김해서 확진자 2명 추가…총 277명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169342&cID=10812&pID=10800"
     },
     {
         "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"(종합)",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
         "link": "http://www.inews24.com/view/1300071"
-    },
-    {
-        "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
     },
     {
         "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
