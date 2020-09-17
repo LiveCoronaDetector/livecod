@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
+        "title": "[단독] \"병원 측이 검사 없이 확진\"..JTBC 코로나 확진자, 초유의 전달 오류 ...",
+        "link": "http://www.osen.co.kr/article/G1111436077"
     },
     {
         "title": "정은경 본부장, \"전세계 확진자 3000만명 넘어…코로나 통제 어려워\"",
         "link": "http://www.fnnews.com/news/202009171520220168"
+    },
+    {
+        "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
     },
     {
         "title": "경남, 창녕·김해서 확진자 2명 추가…총 277명(종합)",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917120851530?did=1195m"
     },
     {
+        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
+        "link": "http://www.inews24.com/view/1300071"
+    },
+    {
         "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
         "link": "http://www.hani.co.kr/arti/society/health/962498.html"
     },
     {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
-    },
-    {
-        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
-        "link": "http://www.inews24.com/view/1300071"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 153명…다시 100명대 중반",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
     }
 ];

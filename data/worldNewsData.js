@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://thepublicsradio.org/article/the-latest-czech-republic-sees-record-2100-new-virus-cases"
     },
     {
-        "title": "Asia Today: India's gov't criticized for handling of virus",
-        "link": "https://www.taiwannews.com.tw/en/news/4010982"
+        "title": "Prime Minister Narendra Modi: The leader who followed his Raj Dharma",
+        "link": "https://www.opindia.com/2020/09/prime-minister-narendra-modi-birthday-raj-dharma-good-governance/"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "Czech Republic coronavirus updates, September 17: new daily record hit with more than 2,000 cases - Prague, Czech Republic",
-        "link": "https://news.expats.cz/coronavirus-in-the-czech-republic/czech-republic-coronavirus-updates-september-17-new-daily-record-hit-with-more-than-2000-cases/"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
+        "title": "Czech Republic coronavirus updates, September 17: new daily record hit with more than 2,000 cases - Prague, Czech Republic",
+        "link": "https://news.expats.cz/coronavirus-in-the-czech-republic/czech-republic-coronavirus-updates-september-17-new-daily-record-hit-with-more-than-2000-cases/"
     },
     {
         "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     },
     {
-        "title": "Trump claims CDC director is 'confused' over 2021 vaccine timetable",
-        "link": "https://www.theguardian.com/world/2020/sep/16/cdc-director-coronavirus-vaccine-late-2021-trump"
+        "title": "Makeshift hospital in Yunnan leads to fears of new outbreak in China",
+        "link": "https://www.taiwannews.com.tw/en/news/4010915"
     }
 ];
