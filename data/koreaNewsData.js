@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091797607"
     },
     {
+        "title": "\"대구 신규확진 2명…'동충하초'발 1명·확진자 접촉 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020091710160008283"
+    },
+    {
         "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009170756148183"
     },
     {
-        "title": "[속보] 코로나 신규 확진 153명…6일 만에 100명대 중반",
-        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
+        "title": "포항·경주서 코로나 확진자 6명 추가…1명 숨져",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/17/2020091701284.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
     },
     {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
     },
     {
-        "title": "\"대구 신규확진 2명…'동충하초'발 1명·확진자 접촉 1명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020091710160008283"
+        "title": "광주·전남서 코로나19 확진자 1명씩 발생",
+        "link": "http://www.fnnews.com/news/202009170858581628"
     },
     {
-        "title": "신규확진자 일주일來 최대…수도권 하루새 40명↑(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625901104"
-    },
-    {
-        "title": "[전문] 대구서 `코로나19` 확진자 2명 발생...누적 7118명",
-        "link": "http://www.kbsm.net/default/index_view_page.php?idx=287903&part_idx=320"
-    },
-    {
-        "title": "[속보] ‘코로나19’ 신규 확진 153명…국내 발생 145명·해외 유입 8명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5006466&ref=A"
+        "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     }
 ];

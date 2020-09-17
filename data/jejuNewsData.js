@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
+        "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
+    },
+    {
         "title": "코로나19 확진 일가족 농협·내과 등 방문",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     },
@@ -25,8 +29,8 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
     },
     {
-        "title": "거짓말해 제주도에 코로나19 확산 시킨 목사부부 고발",
-        "link": "http://www.newsis.com/view/?id=NISX20200916_0001167436&cID=10813&pID=10800"
+        "title": "서귀포시, 제주도에 코로나19 확산 시킨 목사부부 고발",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20200916093233362346a9e4dd7f_30"
     },
     {
         "title": "추석 연휴에 20만명 제주도 찾는다…'여름 휴가철 수준'",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
-    },
-    {
-        "title": "제주 53번 확진자, 서귀포매일올레시장 1곳만 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320189"
     }
 ];
