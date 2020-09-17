@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917120851530?did=1195m"
     },
     {
+        "title": "대전서 코로나19 확진자 2명 추가…누적 348명(종합)",
+        "link": "http://yna.kr/AKR20200917049351063?did=1195m"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 153명…다시 100명대 중반",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     },
     {
-        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
-        "link": "http://www.inews24.com/view/1300071"
-    },
-    {
         "title": "기아차 공장에서 코로나19 확진자 나와…공장 가동 중단",
         "link": "https://imnews.imbc.com/news/2020/society/article/5912256_32633.html"
     },
     {
-        "title": "포항·경주서 코로나19 확진자 6명 추가…1명 숨져(종합)",
-        "link": "http://yna.kr/AKR20200917031951053?did=1195m"
+        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
+        "link": "http://www.inews24.com/view/1300071"
     }
 ];

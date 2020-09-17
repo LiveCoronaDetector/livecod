@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
+        "title": "제주 57번째 코로나19 확진자 발생…방글라데시 국적 유학생",
+        "link": "http://yna.kr/AKR20200917187600056?did=1195m"
+    },
+    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
@@ -13,31 +17,27 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5413425"
     },
     {
-        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
-        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
     },
     {
         "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
     },
     {
-        "title": "코로나19 확진 일가족 농협·내과 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
-    },
-    {
-        "title": "코로나19 속 추석 연휴 20만명 제주 찾는다…방역 고비",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
-    },
-    {
         "title": "코로나 신규 감염 153명‥전날 비해 40명 급증",
         "link": "http://news.ebs.co.kr/ebsnews/allView/20364104/N"
     },
     {
-        "title": "지방정부, 코로나19 고발·구상권 청구 잇따라",
-        "link": "https://www.sedaily.com/NewsView/1Z7W2MXRH5"
+        "title": "제주도내 학교 21일부터 등교수업 인원 '3분의2'로 완화",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427595"
     },
     {
         "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
         "link": "http://yna.kr/AKR20200917120300056?did=1195m"
+    },
+    {
+        "title": "코로나19 확진 일가족 농협·내과 등 방문",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
     }
 ];
