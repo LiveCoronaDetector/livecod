@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
     },
     {
-        "title": "제주 53번 확진자, 해수사우나·서귀포매일올레시장 방문 확인",
-        "link": "https://view.asiae.co.kr/article/2020091614072088465"
-    },
-    {
         "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나 신규 감염 153명‥전날 비해 40명 급증",
         "link": "http://news.ebs.co.kr/ebsnews/allView/20364104/N"
+    },
+    {
+        "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
     }
 ];

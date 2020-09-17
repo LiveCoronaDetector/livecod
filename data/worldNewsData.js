@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54186040"
     },
     {
-        "title": "Coronavirus live news: India reports global record new cases; 1.5m people in England face new restrictions",
+        "title": "Coronavirus live news: UK minister dismisses talk of new national lockdown; India reports record cases",
         "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
     },
     {
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
-        "title": "Live Covid-19 Tracker",
-        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
         "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
-    },
-    {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     }
 ];
