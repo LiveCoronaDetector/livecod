@@ -9,12 +9,20 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009170756148183"
     },
     {
-        "title": "[단독] JTBC 확진자 발생…유명 영화제작사 검사 받고 자가격리 中",
-        "link": "https://sports.donga.com/article/all/20200917/102980413/2"
-    },
-    {
         "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
         "link": "http://www.inews24.com/view/1300071"
+    },
+    {
+        "title": "[속보] 정은경 \"전세계 코로나 확진자 3,000만명 넘어···통제 어려운 상황...",
+        "link": "https://www.sedaily.com/NewsView/1Z7W3NEM4A"
+    },
+    {
+        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
+    },
+    {
+        "title": "[단독] JTBC 확진자 발생…유명 영화제작사 검사 받고 자가격리 中",
+        "link": "https://sports.donga.com/article/all/20200917/102980413/2"
     },
     {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
     },
     {
-        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
-    },
-    {
         "title": "포항·경주서 코로나19 확진자 6명 추가…1명 숨져(종합)",
         "link": "http://yna.kr/AKR20200917031951053?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
-        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
     }
 ];
