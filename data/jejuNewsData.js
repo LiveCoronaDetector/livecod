@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009161605001&code=620117"
     },
     {
-        "title": "서귀포시, 제주도에 코로나19 확산 시킨 목사부부 고발",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=20200916093233362346a9e4dd7f_30"
-    },
-    {
-        "title": "추석 연휴에 20만명 제주도 찾는다…'여름 휴가철 수준'",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020091610233633493"
-    },
-    {
         "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
+    },
+    {
+        "title": "제주 53번 확진자, 서귀포매일올레시장 1곳만 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320189"
+    },
+    {
+        "title": "수도권 방문한 제주도 일가족 3명 코로나 확진…\"역학조사 중\"",
+        "link": "https://news.joins.com/article/olink/23466821"
     }
 ];

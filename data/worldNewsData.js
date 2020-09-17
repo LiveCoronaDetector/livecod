@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/politics/elections/2020/09/16/trump-blames-blue-states-covid-19-death-rates/5819120002/"
     },
     {
-        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
-        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
+        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.pinkvilla.com/entertainment/news/kangana-ranaut-wishes-pm-narendra-modi-his-birthday-video-country-appreciates-you-lucky-have-you-563241"
     },
     {
-        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
-        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
         "title": "Live Covid-19 Tracker",
         "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
-    },
-    {
         "title": "Donald Trump has done 1 thing *really* well as President",
         "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
     },
     {
-        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
-        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
+        "title": "Sweden spared European surge as coronavirus infections stay low",
+        "link": "https://www.theguardian.com/world/2020/sep/15/sweden-records-its-fewest-daily-covid-19-cases-since-march"
+    },
+    {
+        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
+        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     }
 ];
