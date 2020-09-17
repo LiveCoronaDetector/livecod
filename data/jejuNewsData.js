@@ -5,16 +5,20 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
     },
     {
+        "title": "제주도 코로나19 57번‧58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
+    },
+    {
         "title": "[속보] 제주서 사흘만에 확진자… 방글라데시 유학생",
         "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
-        "title": "제주도 코로나19 57번‧58번 확진자 잇단 발생",
-        "link": "http://www.fnnews.com/news/202009180651538170"
+        "title": "제주 58번째 코로나 확진자 부천 접촉자로 확인",
+        "link": "http://www.fnnews.com/news/202009180740042114"
     },
     {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
         "link": "http://yna.kr/AKR20200917120300056?did=1195m"
-    },
-    {
-        "title": "제주도, '자체 긴급재난안전문자' 홍보 강화",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171780"
     }
 ];
