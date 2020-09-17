@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.voanews.com/covid-19-pandemic/turkey-accused-coronavirus-cover-cases-rise"
     },
     {
-        "title": "The Latest: Czech Republic sees record 2100 new virus cases",
-        "link": "https://thepublicsradio.org/article/the-latest-czech-republic-sees-record-2100-new-virus-cases"
+        "title": "Czech Republic's daily jump in COVID-19 cases exceeds 2,000 for first time - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/17/czech-republics-daily-jump-in-covid-19-cases-exceeds-2000-for-first-time.html"
     },
     {
-        "title": "Prime Minister Narendra Modi: The leader who followed his Raj Dharma",
-        "link": "https://www.opindia.com/2020/09/prime-minister-narendra-modi-birthday-raj-dharma-good-governance/"
+        "title": "Opinion | No Prime Minister has done as much for India’s development as PM Modi in his 6 years",
+        "link": "https://www.financialexpress.com/opinion/opinion-no-prime-minister-has-done-as-much-for-indias-development-as-pm-modi-in-his-6-years/2085034/"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
-        "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
-    },
-    {
-        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
+        "link": "https://news.google.com/articles/CAIiEKJ6l3LHRDpuDyA_tpPsPDAqFwgEKg4IACoGCAowl6p7MN-zCTClss0G?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Czech Republic coronavirus updates, September 17: new daily record hit with more than 2,000 cases - Prague, Czech Republic",
         "link": "https://news.expats.cz/coronavirus-in-the-czech-republic/czech-republic-coronavirus-updates-september-17-new-daily-record-hit-with-more-than-2000-cases/"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
-        "title": "Makeshift hospital in Yunnan leads to fears of new outbreak in China",
-        "link": "https://www.taiwannews.com.tw/en/news/4010915"
+        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
+        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+    },
+    {
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     }
 ];
