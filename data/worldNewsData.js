@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/16/trump-says-he-thinks-us-could-start-distributing-a-coronavirus-vaccine-in-october.html"
     },
     {
-        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
-        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
+        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
+        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "'It's getting worse by the day': India's Covid battle rages on",
-        "link": "https://www.theguardian.com/world/2020/sep/16/its-getting-worse-by-the-day-indias-covid-battle-rages-on"
+        "link": "https://news.google.com/articles/CAIiECx6CBm4AoxyjSvNxtFenosqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html"
     },
     {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
+        "title": "NZ Treasury forecasts 16 per cent GDP contraction as nation enters technical recession",
+        "link": "https://www.youtube.com/watch?v=LLe7ZY8d_dU"
     },
     {
-        "title": "Donald Trump has done 1 thing *really* well as President",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
+        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
+        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     }
 ];

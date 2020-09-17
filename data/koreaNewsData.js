@@ -5,28 +5,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "[속보] 서울 일일 확진자 60명대…세브란스 4명 추가",
-        "link": "https://www.hankyung.com/life/article/2020091703227"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 153명·사망 5명…지역 145명 다시 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009170103&t=NN"
-    },
-    {
-        "title": "\"대구 신규확진 2명…'동충하초'발 1명·확진자 접촉 1명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020091710160008283"
-    },
-    {
-        "title": "JTBC, 코로나19 확진자 발생…\"건물 전체 방역 예정\"[공식]",
-        "link": "http://www.sportsseoul.com/news/read/959416?ref=naver"
+        "title": "코로나 신규확진 다시 100명대 중반…기아차 광명 공장 등 집단감염 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020091797607"
     },
     {
         "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
         "link": "http://www.fnnews.com/news/202009170756148183"
     },
     {
-        "title": "포항·경주서 코로나19 확진자 6명 추가…1명 숨져(종합)",
-        "link": "http://yna.kr/AKR20200917031951053?did=1195m"
+        "title": "JTBC, 코로나19 확진자 발생…\"건물 전체 방역 예정\"[공식]",
+        "link": "http://www.sportsseoul.com/news/read/959416?ref=naver"
+    },
+    {
+        "title": "서울시 \"세브란스, 고양시 가족과 연관…확진자 총 46명\"(종합)",
+        "link": "https://www.news1.kr/articles/?4061716"
+    },
+    {
+        "title": "경북서 코로나19 확진자 6명 발생…사망 1명",
+        "link": "https://news.imaeil.com/Society/2020091708593300836"
     },
     {
         "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     },
     {
-        "title": "경남, 창녕·김해서 확진자 2명 추가…총 277명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169342&cID=10812&pID=10800"
+        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
+    },
+    {
+        "title": "[단독]\"폐에서 '뽀드득' 소리…청진기 대는 순간 코로나 직감\"",
+        "link": "https://news.joins.com/article/olink/23468861"
     }
 ];
