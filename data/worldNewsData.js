@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
-        "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+    },
+    {
+        "title": "Trump Fights CDC Boss On Mask, Politicizes Covid-19 Vaccine | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=obS4JCUYeqQ"
     }
 ];
