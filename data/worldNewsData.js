@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
-        "title": "Kangana Ranaut wishes PM Narendra Modi on his birthday in a video: Country appreciates you, lucky to have you",
-        "link": "https://www.pinkvilla.com/entertainment/news/kangana-ranaut-wishes-pm-narendra-modi-his-birthday-video-country-appreciates-you-lucky-have-you-563241"
+        "title": "Shah Rukh Khan to Aamir Khan - Bollywood's iconic selfie moments with PM Narendra Modi",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-to-aamir-khan-bollywoods-iconic-selfie-moments-with-pm-narendra-modi/photostory/78148252.cms"
     },
     {
         "title": "Chinese virologist: China's government 'intentionally' released COVID-19",

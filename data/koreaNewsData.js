@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
+        "title": "코로나 신규확진 다시 100명대 중반…기아차 광명 공장 등 집단감염 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020091797607"
+    },
+    {
+        "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
+        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
+    },
+    {
         "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
         "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
     },
@@ -13,24 +21,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009170756148183"
     },
     {
-        "title": "코로나 신규확진 다시 100명대 중반…기아차 광명 공장 등 집단감염 [종합]",
-        "link": "https://www.hankyung.com/life/article/2020091797607"
-    },
-    {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
-    },
-    {
-        "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
-        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
-    },
-    {
-        "title": "[속보] JTBC 사옥서 코로나19 확진자 발생 \"폐쇄·방역조치 예정\"",
-        "link": "https://www.news1.kr/articles/?4061486"
-    },
-    {
-        "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     },
     {
         "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "[단독]\"폐에서 '뽀드득' 소리…청진기 대는 순간 코로나 직감\"",
         "link": "https://news.joins.com/article/olink/23468861"
+    },
+    {
+        "title": "\"대구 신규확진 2명…'동충하초'발 1명·확진자 접촉 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020091710160008283"
+    },
+    {
+        "title": "[전문] 시흥시청 120번째 확진자 발생...센트럴병원 간호사",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380642"
     }
 ];
