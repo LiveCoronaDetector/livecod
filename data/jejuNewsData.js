@@ -9,20 +9,24 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
     },
     {
-        "title": "제주 57번째 코로나19 확진자 발생…방글라데시 국적 유학생",
-        "link": "http://yna.kr/AKR20200917187600056?did=1195m"
+        "title": "제주 58번째 코로나 확진자 발생...부천시 확진자와 접촉",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320233"
     },
     {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주 57번째 확진자 발생…방글라데시 유학생",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170395&cID=10813&pID=10800"
+    },
+    {
         "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
         "link": "https://www.nocutnews.co.kr/news/5413425"
     },
     {
-        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
-        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
+        "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",
+        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
     },
     {
         "title": "코로나 신규 감염 153명‥전날 비해 40명 급증",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200917120300056?did=1195m"
     },
     {
-        "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
-    },
-    {
-        "title": "코로나19 확진 일가족 농협·내과 등 방문",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171691"
+        "title": "제주 57번째 확진자 발생…방글라데시 국적 유학생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007193&ref=A"
     }
 ];
