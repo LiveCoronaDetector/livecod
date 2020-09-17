@@ -10,7 +10,7 @@ var worldNewsData = [
     },
     {
         "title": "Turkey Accused of Coronavirus Cover-Up as Cases Rise",
-        "link": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2NvdmlkLTE5LXBhbmRlbWljL3R1cmtleS1hY2N1c2VkLWNvcm9uYXZpcnVzLWNvdmVyLWNhc2VzLXJpc2XSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.voanews.com/covid-19-pandemic/turkey-accused-coronavirus-cover-cases-rise"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
-        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
+        "title": "Trump claims CDC director is 'confused' over 2021 vaccine timetable",
+        "link": "https://www.theguardian.com/world/2020/sep/16/cdc-director-coronavirus-vaccine-late-2021-trump"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
-    },
-    {
-        "title": "Donald Trump has done 1 thing *really* well as President",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
     },
     {
         "title": "World economic recovery from coronavirus 'may take 5 years': Live",
