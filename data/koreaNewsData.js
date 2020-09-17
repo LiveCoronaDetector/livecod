@@ -5,32 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "WHO \"코로나19 확진자 7명 중 1명 의료진…안전대책 촉구\"",
-        "link": "https://www.hankyung.com/life/article/2020091731577"
-    },
-    {
-        "title": "코호트 격리 진천 요양원서 확진자 2명 추가 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
-    },
-    {
-        "title": "WHO \"코로나19 확진자 7명 중 1명 의료진…대책 필요\"(종합)",
-        "link": "http://yna.kr/AKR20200917188251088?did=1195m"
-    },
-    {
-        "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"",
-        "link": "http://yna.kr/AKR20200917120800530?did=1195m"
-    },
-    {
-        "title": "[종합] 코로나19, 감염경로 미상 26%…\"추적 역량 높여야\"",
-        "link": "http://www.newspim.com/news/view/20200917000948"
-    },
-    {
-        "title": "코로나19 '깜깜이 환자' 26.4%로 역대 최고",
-        "link": "http://www.fnnews.com/news/202009171501585465"
-    },
-    {
-        "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"(종합)",
-        "link": "http://yna.kr/AKR20200917120851530?did=1195m"
+        "title": "WHO \"코로나19 확진자 7명 중 1명 의료진...대책 필요\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202009172228242655"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 153명…다시 100명대 중반",
@@ -39,5 +15,29 @@ var koreaNewsData = [
     {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
+    },
+    {
+        "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
+    },
+    {
+        "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
+        "link": "http://www.fnnews.com/news/202009170756148183"
+    },
+    {
+        "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
+        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
+    },
+    {
+        "title": "기아차 소하리공장, 직원·가족 최소 11명 코로나 확진",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/17/2020091701769.html"
+    },
+    {
+        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
+        "link": "http://www.inews24.com/view/1300071"
+    },
+    {
+        "title": "9월 코로나 확진자 25% 늘면, 성장률 -5.5% 추락",
+        "link": "http://www.fnnews.com/news/202009170905593073"
     }
 ];
