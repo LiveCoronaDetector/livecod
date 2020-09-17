@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     },
     {
-        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
-        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
+        "title": "Trump Fights CDC Boss On Mask, Politicizes Covid-19 Vaccine | The 11th Hour | MSNBC",
+        "link": "https://www.youtube.com/watch?v=obS4JCUYeqQ"
     }
 ];
