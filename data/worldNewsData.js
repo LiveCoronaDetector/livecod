@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
-        "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
-        "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
+        "title": "Trump says U.S. could start distributing a coronavirus vaccine in October, contradicting CDC's timeline",
+        "link": "https://www.cnbc.com/2020/09/16/trump-says-he-thinks-us-could-start-distributing-a-coronavirus-vaccine-in-october.html"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     },
     {
-        "title": "Donald Trump has done 1 thing *really* well as President",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
+        "title": "Exclusive: Congressman Raja Krishnamoorthi speaks on Trump's handling of COVID-19 pandemic",
+        "link": "https://www.youtube.com/watch?v=NoAvpI8IT2g"
     }
 ];
