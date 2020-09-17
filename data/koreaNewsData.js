@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 153명…다시 100명대 중반",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
-    },
-    {
         "title": "[속보] ‘코로나19’ 신규 확진 153명…국내 발생 145명·해외 유입 8명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5006466&ref=A"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962498.html"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 153명…어제 사망자만 5명 늘어",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219967"
+        "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
+        "link": "http://www.fnnews.com/news/202009170756148183"
     },
     {
-        "title": "[속보]코로나19 신규 확진자 153명...국내 지역감염 145명",
-        "link": "https://www.sedaily.com/NewsView/1Z7W2QEOBG"
+        "title": "[속보] 코로나19 신규 확진 153명·사망 5명…지역 145명 다시 증가",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009170103&t=NN"
     },
     {
-        "title": "[속보] 코로나 신규 확진 153명... 지역발생만 145명",
-        "link": "https://hankookilbo.com/News/Read/A2020091709290000408?did=NA"
+        "title": "[속보] 코로나 국내 신규 확진 153명… 국내발생 145명·해외유입 8명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/17/2020091700920.html"
+    },
+    {
+        "title": "코로나19 신규환자 153명…이틀 연속 늘어(상보)",
+        "link": "https://view.asiae.co.kr/article/2020091709515879561"
+    },
+    {
+        "title": "신규확진자 일주일來 최대…수도권 하루새 40명↑(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625901104"
+    },
+    {
+        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
     },
     {
         "title": "KBS 본관, 코로나19 확진자 발생…긴급 방역 실시 [전문]",
         "link": "https://www.hankyung.com/life/article/202009166347H"
-    },
-    {
-        "title": "[속보] 어제 하루 환자 153명 추가...국내 확진자 22,657명으로 늘어",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009170934471037"
-    },
-    {
-        "title": "[속보] 기아차 소하리공장 관련 확진자 최소 10명 발생",
-        "link": "https://www.chosun.com/national/2020/09/17/7C2JCUBMOFCENPZECIE5Y4VFTU/?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];

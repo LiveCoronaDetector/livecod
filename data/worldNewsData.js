@@ -21,11 +21,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/its-getting-worse-by-the-day-indias-covid-battle-rages-on"
     },
     {
-        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
-        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
-        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
+        "title": "Live Covid-19 Tracker",
         "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     },
     {
-        "title": "Exclusive: Congressman Raja Krishnamoorthi speaks on Trump's handling of COVID-19 pandemic",
-        "link": "https://www.youtube.com/watch?v=NoAvpI8IT2g"
+        "title": "Donald Trump has done 1 thing *really* well as President",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
     }
 ];
