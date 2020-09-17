@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
-    },
-    {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     }
 ];
