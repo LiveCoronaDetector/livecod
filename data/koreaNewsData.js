@@ -5,18 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "[속보] 정은경 \"전세계 코로나 확진자 3,000만명 넘어···통제 어려운 상황...",
-        "link": "https://www.sedaily.com/NewsView/1Z7W3NEM4A"
-    },
-    {
-        "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
-        "link": "http://www.fnnews.com/news/202009170756148183"
-    },
-    {
-        "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
-        "link": "http://www.inews24.com/view/1300071"
-    },
-    {
         "title": "코로나 신규 확진 153명…6일 만에 100명대 중반",
         "link": "http://www.hani.co.kr/arti/society/health/962498.html"
     },
@@ -29,15 +17,27 @@ var koreaNewsData = [
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209355"
     },
     {
-        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
+        "title": "[속보] 정은경 \"전세계 코로나 확진자 3,000만명 넘어···통제 어려운 상황...",
+        "link": "https://www.sedaily.com/NewsView/1Z7W3NEM4A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 153명…다시 100명대 중반",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
+        "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     },
     {
-        "title": "포항·경주서 코로나19 확진자 6명 추가…1명 숨져(종합)",
-        "link": "http://yna.kr/AKR20200917031951053?did=1195m"
+        "title": "전북 107번~113번 확진자 발생....확진자 접촉 7명, 해외 1명(종합)",
+        "link": "http://www.fnnews.com/news/202009171045092860"
+    },
+    {
+        "title": "JTBC \"상암 사옥 신관 직원 코로나19 확진...해당 층 폐쇄\"(공식)",
+        "link": "https://www.ytn.co.kr/_sn/0117_202009171116143131"
+    },
+    {
+        "title": "경남, 창녕·김해서 확진자 2명 추가…총 277명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169342&cID=10812&pID=10800"
+    },
+    {
+        "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"(종합)",
+        "link": "http://yna.kr/AKR20200917120851530?did=1195m"
     }
 ];
