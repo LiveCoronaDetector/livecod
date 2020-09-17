@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/16/trump-says-he-thinks-us-could-start-distributing-a-coronavirus-vaccine-in-october.html"
     },
     {
-        "title": "How Israel Became the First Rich Country to Go Into a Second Nationwide Coronavirus Lockdown",
-        "link": "https://time.com/5889096/israel-second-lockdown-covid-19/"
+        "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
+        "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
         "title": "ICUs are nearing capacity in this French city. And it's only September",
