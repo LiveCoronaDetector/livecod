@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
-        "title": "제주도, 청사 출입제한조치 당분간 유지",
-        "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "제주도 코로나19 57번‧58번 확진자 잇단 발생",
         "link": "http://www.fnnews.com/news/202009180651538170"
+    },
+    {
+        "title": "제주도, 청사 출입제한조치 당분간 유지",
+        "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
         "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",

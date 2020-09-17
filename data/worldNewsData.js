@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
-        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
+        "title": "Smoke covers US, India battles COVID-19, saving koalas: World in Photos, Sept. 17",
+        "link": "https://www.youtube.com/watch?v=cqNvwgwT87g"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
