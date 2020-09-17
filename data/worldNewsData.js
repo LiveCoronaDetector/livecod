@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54186040"
     },
     {
-        "title": "Coronavirus live news: India reports global record of nearly 98,000 new cases",
+        "title": "Coronavirus live news: India reports global record new cases; 1.5m people in England face new restrictions",
         "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
     },
     {
@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-israel-nationwide-lockdown-reaction/"
     },
     {
-        "title": "Coronavirus latest: India reports record 98000 new cases",
-        "link": "https://www.ft.com/content/2ce3725c-7891-38f4-a601-66f92b32a4a4"
+        "title": "ICUs are nearing capacity in this French city. And it's only September",
+        "link": "https://www.cnn.com/2020/09/16/europe/france-bordeaux-coronavirus-hospitals-intl/index.html"
     },
     {
-        "title": "PM Narendra Modi Turns 70, Rahul Gandhi, JP Nadda, Others Extend Wishes",
-        "link": "https://www.youtube.com/watch?v=e5cXH143f1I"
+        "title": "PM Modi turns 70 today; a look at PM's political journey & more | The News | 17.09.2020",
+        "link": "https://www.youtube.com/watch?v=59gzyMV85w4"
     },
     {
-        "title": "Steve Bannon Is Behind Bogus Study That China Created COVID",
-        "link": "https://www.thedailybeast.com/steve-bannon-linked-groups-push-study-claiming-china-manufactured-covid"
+        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
+        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "Live Covid-19 Tracker",
+        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
         "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     },
     {
-        "title": "Coronavirus: Hit to global economy 'will be less than expected' in 2020",
-        "link": "https://www.bbc.com/news/business-54176157"
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     },
     {
-        "title": "Brazil Covid deaths exceed 132,000 - as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/14/coronavirus-live-news-who-reports-record-new-global-cases-israel-becomes-first-country-to-reimpose-lockdown"
+        "title": "World Health Organization announces distribution plan for COVID-19 vaccine",
+        "link": "https://abcnews.go.com/Health/world-health-organization-announces-distribution-plan-covid-19/story?id=73031332"
     }
 ];

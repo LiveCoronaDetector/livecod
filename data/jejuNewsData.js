@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
-        "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
-        "link": "http://yna.kr/AKR20200917120300056?did=1195m"
-    },
-    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
+        "link": "http://yna.kr/AKR20200917120300056?did=1195m"
     },
     {
         "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
@@ -19,6 +19,10 @@ var jejuNewsData = [
     {
         "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
         "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
+    },
+    {
+        "title": "제주 53번 확진자, 해수사우나·서귀포매일올레시장 방문 확인",
+        "link": "https://view.asiae.co.kr/article/2020091614072088465"
     },
     {
         "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나 신규 감염 153명‥전날 비해 40명 급증",
         "link": "http://news.ebs.co.kr/ebsnews/allView/20364104/N"
-    },
-    {
-        "title": "고영권 제주도 정무부지사, 재난안전문자 가입 확대 당부",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427521"
     }
 ];
