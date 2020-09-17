@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
+        "title": "[속보] 제주서 사흘만에 확진자… 방글라데시 유학생",
+        "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
+    },
+    {
         "title": "제주 57번째 코로나19 확진자 발생…방글라데시 국적 유학생",
         "link": "http://yna.kr/AKR20200917187600056?did=1195m"
     },
@@ -21,20 +25,16 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
     },
     {
-        "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
-    },
-    {
         "title": "코로나 신규 감염 153명‥전날 비해 40명 급증",
         "link": "http://news.ebs.co.kr/ebsnews/allView/20364104/N"
     },
     {
-        "title": "제주도내 학교 21일부터 등교수업 인원 '3분의2'로 완화",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427595"
-    },
-    {
         "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
         "link": "http://yna.kr/AKR20200917120300056?did=1195m"
+    },
+    {
+        "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
     },
     {
         "title": "코로나19 확진 일가족 농협·내과 등 방문",

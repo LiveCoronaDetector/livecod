@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
+    },
+    {
         "title": "Trump disputes CDC head's vaccine timeline and mask claims",
         "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
+        "title": "Coronavirus infections hit 30 million globally",
+        "link": "https://www.premiumtimesng.com/news/headlines/415207-coronavirus-infections-hit-30-million-globally.html"
+    },
+    {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
-    },
-    {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
-    },
-    {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     }
 ];

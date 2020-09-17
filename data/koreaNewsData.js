@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
     },
     {
+        "title": "[종합] 코로나19, 감염경로 미상 26%…\"추적 역량 높여야\"",
+        "link": "http://www.newspim.com/news/view/20200917000948"
+    },
+    {
         "title": "코로나19 '깜깜이 환자' 26.4%로 역대 최고",
         "link": "http://www.fnnews.com/news/202009171501585465"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
-    },
-    {
-        "title": "기아차 공장에서 코로나19 확진자 나와…공장 가동 중단",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5912256_32633.html"
     },
     {
         "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
