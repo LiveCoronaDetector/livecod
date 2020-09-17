@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917037900061?did=1195m"
     },
     {
-        "title": "[속보] ‘코로나19’ 신규 확진 153명…국내 발생 145명·해외 유입 8명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5006466&ref=A"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진 153명…6일 만에 100명대 중반",
-        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
-    },
-    {
-        "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
-        "link": "http://www.fnnews.com/news/202009170756148183"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 153명·사망 5명…지역 145명 다시 증가",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009170103&t=NN"
-    },
-    {
-        "title": "[속보] 코로나 국내 신규 확진 153명… 국내발생 145명·해외유입 8명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/17/2020091700920.html"
-    },
-    {
-        "title": "코로나19 신규환자 153명…이틀 연속 늘어(상보)",
-        "link": "https://view.asiae.co.kr/article/2020091709515879561"
-    },
-    {
-        "title": "신규확진자 일주일來 최대…수도권 하루새 40명↑(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625901104"
+        "title": "코로나 신규확진 다시 100명대 중반…기아차 광명 공장 등 집단감염 [종합]",
+        "link": "https://www.hankyung.com/life/article/2020091797607"
     },
     {
         "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
     },
     {
-        "title": "KBS 본관, 코로나19 확진자 발생…긴급 방역 실시 [전문]",
-        "link": "https://www.hankyung.com/life/article/202009166347H"
+        "title": "코로나 확진자 발생에 기아차 소하리2공장 가동중단",
+        "link": "http://www.fnnews.com/news/202009170756148183"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진 153명…6일 만에 100명대 중반",
+        "link": "http://www.hani.co.kr/arti/society/health/962498.html"
+    },
+    {
+        "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
+    },
+    {
+        "title": "\"대구 신규확진 2명…'동충하초'발 1명·확진자 접촉 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020091710160008283"
+    },
+    {
+        "title": "신규확진자 일주일來 최대…수도권 하루새 40명↑(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625901104"
+    },
+    {
+        "title": "[전문] 대구서 `코로나19` 확진자 2명 발생...누적 7118명",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=287903&part_idx=320"
+    },
+    {
+        "title": "[속보] ‘코로나19’ 신규 확진 153명…국내 발생 145명·해외 유입 8명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5006466&ref=A"
     }
 ];
