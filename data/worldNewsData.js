@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54186040"
     },
     {
-        "title": "Canada 'could lose ability' to manage coronavirus pandemic: LIVE",
+        "title": "Canada 'could lose ability' to manage coronavirus pandemic: Live",
         "link": "https://www.aljazeera.com/news/2020/09/trump-contradicts-cdc-chief-coronavirus-vaccine-live-news-200917000121100.html"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "WHO Europe warns of 'alarming' virus transmission rates",
-        "link": "https://www.bangkokpost.com/world/1987239"
+        "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
+        "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
