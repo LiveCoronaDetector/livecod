@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "CDC says U.S. should have enough coronavirus vaccine to return to 'regular life' by third quarter of 2021",
-        "link": "https://news.google.com/articles/CAIiECpEfA7BRAfdpOEu1BmrhR8qGQgEKhAIACoHCAow2Nb3CjDivdcCMJ-thQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnbc.com/2020/09/16/coronavirus-cdc-says-us-should-have-enough-vaccine-to-return-to-regular-life-by-third-quarter-of-2021.html"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/16/its-getting-worse-by-the-day-indias-covid-battle-rages-on"
     },
     {
-        "title": "US virologists dispute Chinese whistleblower's claim that COVID-19 is man made",
-        "link": "https://news.google.com/articles/CAIiEDn7QMu2spGkJeyi3AHKkd8qGAgEKg8IACoHCAowhK-LAjD4ySww-9S0BQ?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
+        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
     },
     {
         "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
@@ -34,10 +34,10 @@ var worldNewsData = [
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://news.google.com/articles/CAIiEDih55IKTZ6myZ-MmUOg_4MqGQgEKhAIACoHCAowwL2ICzCckocDMOODqQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     },
     {
-        "title": "U.S. reputation approaching record lows with European allies, survey finds",
-        "link": "https://news.google.com/articles/CAIiECWwDcQW_5oLUwgMHucrLYEqGQgEKhAIACoHCAowjo7_CjC6hPgCMNvF5AU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Donald Trump has done 1 thing *really* well as President",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
     }
 ];
