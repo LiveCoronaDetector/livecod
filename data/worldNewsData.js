@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
-        "title": "Trump blames 'blue states' for increasing nation's coronavirus death rates, ignores high rates in red states",
-        "link": "https://www.usatoday.com/story/news/politics/elections/2020/09/16/trump-blames-blue-states-covid-19-death-rates/5819120002/"
+        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
+        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
         "title": "Israelis angered by nationwide coronavirus lockdown: \"They are punishing us\"",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-to-aamir-khan-bollywoods-iconic-selfie-moments-with-pm-narendra-modi/photostory/78148252.cms"
     },
     {
-        "title": "Chinese virologist: China's government 'intentionally' released COVID-19",
-        "link": "https://www.foxnews.com/media/chinese-virologist-government-intentionally-coronavirus"
+        "title": "Twitter suspends Chinese virologist who says COVID-19 was made in Wuhan lab",
+        "link": "https://nypost.com/2020/09/16/twitter-suspends-virologist-who-claims-covid-19-was-made-in-lab/"
     },
     {
         "title": "Live Covid-19 Tracker",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-international-standing-pew-poll/index.html"
     },
     {
-        "title": "Sweden spared European surge as coronavirus infections stay low",
-        "link": "https://www.theguardian.com/world/2020/sep/15/sweden-records-its-fewest-daily-covid-19-cases-since-march"
+        "title": "Coronavirus: Hit to global economy 'will be less than expected' in 2020",
+        "link": "https://www.bbc.com/news/business-54176157"
     },
     {
         "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
