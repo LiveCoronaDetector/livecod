@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
-        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
+        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
+        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
     },
     {
+        "title": "Coronavirus pandemic pushes 150M more children into poverty, UNICEF says | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/coronavirus-pandemic-pushes-150m-more-children-into-poverty-unicef-says/news"
+    },
+    {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     },
     {
         "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
         "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
-    },
-    {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     }
 ];
