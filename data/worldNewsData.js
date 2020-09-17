@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.un.org/en/story/2020/09/1072592"
     },
     {
-        "title": "'Very serious situation' unfolding in Europe, WHO warns, as cases rise dramatically",
-        "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
+        "title": "American allegedly responsible for COVID-19 outbreak in Germany identified",
+        "link": "https://nypost.com/2020/09/17/american-allegedly-responsible-for-covid-19-outbreak-in-germany-ided/"
     },
     {
         "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Coronavirus pandemic pushes 150M more children into poverty, UNICEF says | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/coronavirus-pandemic-pushes-150m-more-children-into-poverty-unicef-says/news"
-    },
-    {
         "title": "Trump disputes CDC head's vaccine timeline and mask claims",
         "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
+    },
+    {
+        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
+        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     }
 ];

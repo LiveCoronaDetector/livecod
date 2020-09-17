@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020091731577"
     },
     {
+        "title": "코호트 격리 진천 요양원서 확진자 2명 추가 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
+    },
+    {
+        "title": "WHO \"코로나19 확진자 7명 중 1명 의료진…대책 필요\"(종합)",
+        "link": "http://yna.kr/AKR20200917188251088?did=1195m"
+    },
+    {
         "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"",
         "link": "http://yna.kr/AKR20200917120800530?did=1195m"
     },
@@ -21,10 +29,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009171501585465"
     },
     {
-        "title": "코호트 격리 진천 요양원서 확진자 2명 추가 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
-    },
-    {
         "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"(종합)",
         "link": "http://yna.kr/AKR20200917120851530?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "중대본 \"여전히 확진자 100명대…추석 앞이라 안심 못해\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=406428&class=33&grp="
-    },
-    {
-        "title": "기아차 소하리공장 관련 확진자 최소 10명…공장 가동 중단",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015019540&code=61121111&cp=nv"
     }
 ];
