@@ -13,12 +13,8 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4062517"
     },
     {
-        "title": "제주 58번째 코로나 확진자 발생...부천시 확진자와 접촉",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320233"
-    },
-    {
-        "title": "추석 연휴 20만명 간다는데…제주 3일만에 또 확진자",
-        "link": "http://www.segye.com/content/html/2020/09/17/20200917527906.html?OutUrl=naver"
+        "title": "제주 코로나19, 58번째 확진자 나와…부천 확진자 접촉자",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
     },
     {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주교육청, 코로나19 등교인원 제한 완화…\"3분의2 등교\"",
         "link": "http://yna.kr/AKR20200917120300056?did=1195m"
+    },
+    {
+        "title": "긍정적 신호인가?…제주, 코로나19 퇴원자↑-확진자↓",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169401&cID=10813&pID=10800"
     }
 ];
