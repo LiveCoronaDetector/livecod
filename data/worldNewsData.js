@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://news.un.org/en/story/2020/09/1072592"
     },
     {
-        "title": "American allegedly responsible for COVID-19 outbreak in Germany identified",
-        "link": "https://nypost.com/2020/09/17/american-allegedly-responsible-for-covid-19-outbreak-in-germany-ided/"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
         "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
+        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     }
 ];
