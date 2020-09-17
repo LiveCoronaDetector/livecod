@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
-        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
+        "title": "India On Track To Surpass U.S. As Country Worst Affected By COVID-19",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "'Very serious situation' unfolding in Europe, WHO warns, as cases rise dramatically",
-        "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
+        "title": "WHO Europe warns of 'alarming' virus transmission rates",
+        "link": "https://www.bangkokpost.com/world/1987239"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
-        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
-        "title": "Trump Fights CDC Boss On Mask, Politicizes Covid-19 Vaccine | The 11th Hour | MSNBC",
-        "link": "https://www.youtube.com/watch?v=obS4JCUYeqQ"
+        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
+        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     }
 ];
