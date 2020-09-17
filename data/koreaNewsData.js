@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200917120800530?did=1195m"
     },
     {
-        "title": "셀트리온, 코로나19 항체 치료제 임상 2·3상 승인(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04086886625901104"
+        "title": "코호트 격리 진천 요양원서 확진자 2명 추가 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200917_0001170305&cID=10806&pID=10800"
     },
     {
         "title": "전북 107번~113번 확진자 발생....확진자 접촉 7명, 해외 1명(종합)",
         "link": "http://www.fnnews.com/news/202009171045092860"
     },
     {
-        "title": "\"안경 쓰면 코로나19 감염 확률 5배 낮아진다\"",
-        "link": "https://www.hankyung.com/international/article/202009170191i"
+        "title": "셀트리온, 코로나19 항체 치료제 임상 2·3상 승인(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04086886625901104"
     },
     {
         "title": "정은경 \"코로나19 통제 어려워…국내 가장 큰 위험 요인은 추석\"(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009170932001&code=940601"
     },
     {
-        "title": "신규확진 153명, 6일만에 150명↑…국내 145명, 전국서 확진자 증가(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200917_0001169142&cID=10201&pID=10200"
+        "title": "포항·경주서 코로나19 확진자 6명 추가…1명 숨져(종합)",
+        "link": "http://yna.kr/AKR20200917031951053?did=1195m"
     }
 ];
