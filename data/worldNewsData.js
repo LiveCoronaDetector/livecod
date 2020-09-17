@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Smoke covers US, India battles COVID-19, saving koalas: World in Photos, Sept. 17",
-        "link": "https://www.youtube.com/watch?v=cqNvwgwT87g"
+        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
+        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
     },
     {
-        "title": "Global report: China locks down border city in response to two Covid cases",
-        "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
+        "title": "Coronavirus Australia live update: national cabinet split over quarantine and flight caps – latest news",
+        "link": "https://www.theguardian.com/australia-news/live/2020/sep/18/coronavirus-australia-live-national-cabinet-split-over-quarantine-and-flight-caps-latest-updates"
+    },
+    {
+        "title": "World Health Organization warns of \"alarming rates of transmission\" across Europe",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/h_806fed25205801f9bcb3b65a78776643"
     },
     {
         "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
         "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
-    },
-    {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
