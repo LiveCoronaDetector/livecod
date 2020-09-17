@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54186040"
     },
     {
-        "title": "Covid-free communities on the U.S.-Canada border want travel restrictions eased",
-        "link": "https://www.washingtonpost.com/world/the_americas/us-canada-border-hyder-stewart/2020/09/17/8b66d3b8-f54f-11ea-9279-45d6bdfe145f_story.html"
+        "title": "Canada 'could lose ability' to manage coronavirus pandemic: LIVE",
+        "link": "https://www.aljazeera.com/news/2020/09/trump-contradicts-cdc-chief-coronavirus-vaccine-live-news-200917000121100.html"
     },
     {
         "title": "On the Greek Island of Chios, Covid-19 is Everyone's Business",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
     },
     {
-        "title": "Coronavirus pandemic pushes 150M more children into poverty, UNICEF says | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/coronavirus-pandemic-pushes-150m-more-children-into-poverty-unicef-says/news"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
         "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
