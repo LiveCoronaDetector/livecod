@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
     },
     {
-        "title": "Opinion | No Prime Minister has done as much for India’s development as PM Modi in his 6 years",
-        "link": "https://www.financialexpress.com/opinion/opinion-no-prime-minister-has-done-as-much-for-indias-development-as-pm-modi-in-his-6-years/2085034/"
+        "title": "September 17, 2020: Top headlines of the day",
+        "link": "https://in.news.yahoo.com/september-17-2020-top-headlines-of-the-day-133142421.html"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
     },
     {
-        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     },
     {
-        "title": "Coronavirus infections hit 30 million globally",
-        "link": "https://www.premiumtimesng.com/news/headlines/415207-coronavirus-infections-hit-30-million-globally.html"
+        "title": "Rising coronavirus cases should serve as a 'wake-up call', says WHO",
+        "link": "https://www.youtube.com/watch?v=i65YqHLAw-4"
     },
     {
-        "title": "One in 7 coronavirus cases is among health workers - WHO: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/trump-contradicts-cdc-chief-coronavirus-vaccine-live-news-200917000121100.html"
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
+    },
+    {
+        "title": "Coronavirus pandemic pushes 150M more children into poverty, UNICEF says | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/coronavirus-pandemic-pushes-150m-more-children-into-poverty-unicef-says/news"
     }
 ];
