@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54186040"
     },
     {
-        "title": "Coronavirus live news: WHO warns of 'alarming' Covid transmission across Europe; call for action in Madrid",
-        "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
+        "title": "Covid-free communities on the U.S.-Canada border want travel restrictions eased",
+        "link": "https://www.washingtonpost.com/world/the_americas/us-canada-border-hyder-stewart/2020/09/17/8b66d3b8-f54f-11ea-9279-45d6bdfe145f_story.html"
     },
     {
-        "title": "Syria COVID spread may be much higher than figures suggest, Lowcock tells Security Council",
-        "link": "https://news.un.org/en/story/2020/09/1072592"
+        "title": "On the Greek Island of Chios, Covid-19 is Everyone's Business",
+        "link": "https://www.nytimes.com/2020/09/17/world/europe/greece-chios-coronavirus.html"
     },
     {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
     },
     {
-        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
-        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
+        "title": "Covid-19 Live Updates: Masks Are 'Most Important, Powerful Public Health Tool,' Top Official Says",
+        "link": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html"
     },
     {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     }
 ];

@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962498.html"
     },
     {
+        "title": "[속보] 코로나19 신규 확진 153명·사망 5명…지역 145명 다시 증가",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009170103&t=NN"
+    },
+    {
         "title": "기아차 소하리공장, 직원·가족 최소 11명 코로나 확진",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/17/2020091701769.html"
     },
     {
         "title": "기아차 소하리공장 코로나19 확진자 11명 발생…가동 중단",
         "link": "http://www.inews24.com/view/1300071"
-    },
-    {
-        "title": "9월 코로나 확진자 25% 늘면, 성장률 -5.5% 추락",
-        "link": "http://www.fnnews.com/news/202009170905593073"
     }
 ];
