@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6895537,
-        "사망자수": 202668,
-        "완치자수": 4171374
+        "확진자수": 6897886,
+        "사망자수": 202693,
+        "완치자수": 4171407
     },
     {
         "Name": "인도",
@@ -721,6 +721,14 @@ var marker = [
         "완치자수": 9863
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "확진자수": 10207,
+        "사망자수": 108,
+        "완치자수": 7947
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -735,14 +743,6 @@ var marker = [
         "확진자수": 10147,
         "사망자수": 129,
         "완치자수": 9264
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "확진자수": 10078,
-        "사망자수": 108,
-        "완치자수": 7685
     },
     {
         "Name": "French Guiana",
@@ -884,9 +884,9 @@ var marker = [
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "확진자수": 5063,
-        "사망자수": 49,
-        "완치자수": 4465
+        "확진자수": 5141,
+        "사망자수": 50,
+        "완치자수": 4548
     },
     {
         "Name": "Equatorial Guinea",
@@ -996,9 +996,9 @@ var marker = [
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "확진자수": 3691,
-        "사망자수": 165,
-        "완치자수": 903
+        "확진자수": 3731,
+        "사망자수": 168,
+        "완치자수": 918
     },
     {
         "Name": "Lithuania",
@@ -1073,6 +1073,14 @@ var marker = [
         "완치자수": 3060
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "확진자수": 3194,
+        "사망자수": 15,
+        "완치자수": 1794
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1087,14 +1095,6 @@ var marker = [
         "확진자수": 3119,
         "사망자수": 19,
         "완치자수": 1435
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "확진자수": 3099,
-        "사망자수": 15,
-        "완치자수": 1794
     },
     {
         "Name": "Mali",
@@ -1468,9 +1468,9 @@ var marker = [
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "확진자수": 210,
+        "확진자수": 228,
         "사망자수": 1,
-        "완치자수": 74
+        "완치자수": 83
     },
     {
         "Name": "Cayman Islands",

@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
+        "title": "Covid-19 Live Updates: Nearly Half of School Workers at High Risk for Severe Covid-19, Study Says",
+        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Live updates: CDC reverses controversial guidance, saying tests are for anyone who contacts someone with covid-19",
-        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
