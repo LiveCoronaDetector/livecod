@@ -17,8 +17,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
     },
     {
-        "title": "[속보] 제주서 사흘만에 확진자… 방글라데시 유학생",
-        "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
+        "title": "추석 연휴 20만명 간다는데…제주 3일만에 또 확진자",
+        "link": "http://www.segye.com/content/html/2020/09/17/20200917527906.html?OutUrl=naver"
     },
     {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
