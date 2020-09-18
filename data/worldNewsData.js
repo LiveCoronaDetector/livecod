@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/18/pandemic-fatigue-leads-to-resurgence-of-coronavirus-in-europe-where-france-and-spain-hit-records.html"
     },
     {
-        "title": "India On Track To Surpass U.S. As Country Worst Affected By COVID-19",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
+        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
+        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump",
-        "link": "https://www.cnn.com/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
+        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
+        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
-        "title": "Tracking Covid-19 Live Updates: Global Coverage",
+        "title": "Live Covid-19 Tracker and Updates",
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "New fear grips Europe as Covid tops 30m worldwide",
-        "link": "https://www.bbc.com/news/world-54199825"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
-        "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
+        "title": "Live updates: CDC reverses controversial guidance, saying tests are for anyone who contacts someone with covid-19",
+        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
