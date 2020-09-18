@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6883863,
+        "확진자수": 6885289,
         "사망자수": 202379,
-        "완치자수": 4156587
+        "완치자수": 4157714
     },
     {
         "Name": "인도",
@@ -172,8 +172,8 @@ var marker = [
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "확진자수": 270149,
-        "사망자수": 9462,
+        "확진자수": 270653,
+        "사망자수": 9463,
         "완치자수": 241300
     },
     {
@@ -422,7 +422,7 @@ var marker = [
         "Name_en": "Singapore",
         "확진자수": 57543,
         "사망자수": 27,
-        "완치자수": 57039
+        "완치자수": 57071
     },
     {
         "Name": "나이지리아",
@@ -708,9 +708,9 @@ var marker = [
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "확진자수": 11948,
-        "사망자수": 347,
-        "완치자수": 6788
+        "확진자수": 12073,
+        "사망자수": 353,
+        "완치자수": 6831
     },
     {
         "Name": "DRC",
@@ -1017,6 +1017,14 @@ var marker = [
         "완치자수": 2964
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 3512,
+        "사망자수": 60,
+        "완치자수": 822
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
@@ -1031,14 +1039,6 @@ var marker = [
         "확진자수": 3473,
         "사망자수": 107,
         "완치자수": 1951
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 3434,
-        "사망자수": 60,
-        "완치자수": 1469
     },
     {
         "Name": "Guadeloupe",

@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "Hear from outgoing US ambassador to China on US-China relationship",
-        "link": "https://www.kcrg.com/2020/09/18/hear-from-outgoing-us-ambassador-to-china-on-us-china-relationship/"
+        "title": "Outgoing ambassador to China slams Beijing over coronavirus: 'Could have been contained in Wuhan' | TheHill",
+        "link": "https://thehill.com/policy/international/517054-outgoing-us-ambassador-to-china-slams-beijing-over-coronavirus-could"
     },
     {
-        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
+        "title": "Global coronavirus cases top 30 million",
+        "link": "https://wgntv.com/news/coronavirus/global-coronavirus-cases-top-30-million/"
     },
     {
         "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
-        "title": "Covid-19 Live Updates: For Small Businesses, Rent Help Is Needed to Survive",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
