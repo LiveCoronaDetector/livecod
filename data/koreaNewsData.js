@@ -17,12 +17,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009181437530940"
     },
     {
-        "title": "서울지방국세청서 코로나 집단감염…5명 확진",
-        "link": "http://news.tf.co.kr/read/life/1813663.htm"
-    },
-    {
-        "title": "쿠팡 남양주2배송캠프, 코로나19 확진자 발생으로 폐쇄",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007902&ref=A"
+        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
+        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
     },
     {
         "title": "'감염 경로 불명' 확진자 26.8%…나흘째 최고치 경신",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/18/2020091801233.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
-        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
+        "title": "코로나19 신규 확진자 126명…사망자 5명 증가",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007661&ref=A"
     },
     {
         "title": "수도권 종교시설서 코로나19 확진자 지속 발생 [종합]",
         "link": "http://www.fnnews.com/news/202009181511171788"
+    },
+    {
+        "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091700162"
     }
 ];

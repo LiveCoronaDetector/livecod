@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-middle-east-54201834"
     },
     {
-        "title": "Covid-19 cases in Europe: Why Spain, France, the UK, and other countries face new outbreaks",
-        "link": "https://www.vox.com/21435868/coronavirus-france-italy-spain-uk-europe"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     },
     {
         "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.kcrg.com/2020/09/18/hear-from-outgoing-us-ambassador-to-china-on-us-china-relationship/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/index.html"
-    },
-    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
-        "title": "Covid-19 Live Updates: For Small Businesses, Rent Help Is Needed to Survive",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
+        "title": "Israel goes into second coronavirus lockdown: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+    },
+    {
+        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
     }
 ];
