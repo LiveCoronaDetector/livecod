@@ -9,24 +9,12 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
     },
     {
-        "title": "쿠팡, 코로나19 확진자 나왔던 송파 1·2 배송캠프 운영 재개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007699&ref=A"
-    },
-    {
-        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
-        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
-    },
-    {
         "title": "쿠팡 송파 물류센터 재가동…추가 확진자 없어",
         "link": "http://www.fnnews.com/news/202009181437530940"
     },
     {
-        "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091700162"
-    },
-    {
-        "title": "코로나 국내 신규 확진 126명… 국내발생 109명·해외유입 17명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/18/2020091800861.html"
+        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
+        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
     },
     {
         "title": "서울시, 사랑제일교회·전광훈 목사에 46억 손배 소송…서울 확진자 46명↑",
@@ -37,7 +25,19 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020091823230001064?did=NA"
     },
     {
-        "title": "서울 신규 확진자 사흘만에 40명대 감소…서울국세청 집단감염(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5414738"
+        "title": "서울, 신규 확진자 46명…서울국세청 관련 누적 5명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/18/2020091801638.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091700162"
+    },
+    {
+        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
+    },
+    {
+        "title": "'감염 경로 불명' 확진자 26.8%…나흘째 최고치 경신",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005986705&plink=ORI&cooper=NAVER"
     }
 ];
