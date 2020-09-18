@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009180932001&code=940601"
     },
     {
-        "title": "전북 114번 확진자 발생…주간보호센터 근무 40대 여성(종합)",
-        "link": "http://www.fnnews.com/news/202009180948478956"
-    },
-    {
         "title": "대구시 \"동구 70대 확진자, '동충하초' 관련 확인\"(전문)",
         "link": "https://news.imaeil.com/Society/2020091810473830645"
-    },
-    {
-        "title": "광주·전남 코로나 확진자 37일 만에 ‘0명’",
-        "link": "https://www.sedaily.com/NewsView/1Z7WIAYG7S"
-    },
-    {
-        "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091700162"
-    },
-    {
-        "title": "16일째 100명대 확진자…지역감염도 사흘 연속 100명대(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686625901432"
     },
     {
         "title": "[종합]코로나19 확진자 126명 증가...서울 46명, 경기 32명",
         "link": "http://www.fnnews.com/news/202009180935481003"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 126명… 국내발생 109명·해외유입 17명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/18/2020091800861.html"
+        "title": "코로나 신규확진 126명, 16일째 100명대(종합)",
+        "link": "https://www.nocutnews.co.kr/news/5414698"
     },
     {
-        "title": "[속보]코로나 신규확진 126명, 16일째 100명대",
-        "link": "https://www.nocutnews.co.kr/news/5414582"
+        "title": "코로나19 신규확진자 126명…16일째 100명대",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015024422&code=61121111&cp=nv"
     },
     {
         "title": "[속보] 코로나19 신규 확진 126명·사망 5명…지역발생 109명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009180087&t=NN"
+    },
+    {
+        "title": "[2보] 코로나19 어제 126명 신규확진…지역발생 109명 사흘째 세자릿수",
+        "link": "http://yna.kr/AKR20200918029900530?did=1195m"
+    },
+    {
+        "title": "[단독]코로나에 택배 '月 3억건'…기사 1명이 하루 255곳 배달",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020091717563751111"
+    },
+    {
+        "title": "기아차 소하리공장 관련 코로나19 확진자 최소 10명 발생(종합)",
+        "link": "http://yna.kr/AKR20200917037900061?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 126명 신규 확진...국내 발생 109명",
+        "link": "https://www.sedaily.com/NewsView/1Z7WI6GIIN"
     }
 ];
