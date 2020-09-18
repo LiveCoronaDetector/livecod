@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/trump-donor-liz-uihlein-canada-quarantine"
     },
     {
-        "title": "Coronavirus live news: Iran in grip of 'third wave' of Covid pandemic; Israel begins second lockdown",
+        "title": "Coronavirus live news: Iran in grip of 'third wave' of pandemic; Covid-related deaths in France on the rise",
         "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.kcrg.com/2020/09/18/hear-from-outgoing-us-ambassador-to-china-on-us-china-relationship/"
     },
     {
-        "title": "Live updates: Three-quarters of Americans worry that a coronavirus vaccine will be approved too quickly",
-        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
+        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
     },
     {
         "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
