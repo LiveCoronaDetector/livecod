@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
     },
     {
-        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
-        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
+        "title": "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump",
+        "link": "https://www.cnn.com/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
     },
     {
-        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
-        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
+        "title": "Tracking Covid-19 Live Updates: Global Coverage",
+        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
