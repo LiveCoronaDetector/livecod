@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200917-the-impact-of-banning-alcohol-during-covid-19"
     },
     {
-        "title": "Covid-free communities on the U.S.-Canada border want travel restrictions eased",
-        "link": "https://www.washingtonpost.com/world/the_americas/us-canada-border-hyder-stewart/2020/09/17/8b66d3b8-f54f-11ea-9279-45d6bdfe145f_story.html"
+        "title": "Outcry as super-rich Trump donor given permission to avoid Canada quarantine",
+        "link": "https://www.theguardian.com/world/2020/sep/18/trump-donor-liz-uihlein-canada-quarantine"
     },
     {
         "title": "Coronavirus live news: Iran in grip of 'third wave' of Covid pandemic; Israel begins second lockdown",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.kcrg.com/2020/09/18/hear-from-outgoing-us-ambassador-to-china-on-us-china-relationship/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/h_a2cf9a8b5f4bd10d42ac2a852b7ff174"
+        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
+        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
+    },
+    {
+        "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
+        "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
         "title": "Covid-19 Live Updates: Nearly Half of School Workers at High Risk for Severe Covid-19, Study Says",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
