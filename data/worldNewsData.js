@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
-        "title": "Dr. Scott Atlas says YouTube censorship of coronavirus information reminiscent of 'third world countries'",
-        "link": "https://www.foxnews.com/media/dr-scott-atlas-youtube-censorship-coronavirus"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "WHO warns of 'alarming' transmission across Europe – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
     }
 ];

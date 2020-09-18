@@ -17,8 +17,8 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
-        "title": "제주 58번째 코로나 확진자 부천 접촉자로 확인",
-        "link": "http://www.fnnews.com/news/202009180740042114"
+        "title": "제주서 코로나19 확진자 발생…부천 확진자와 접촉",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4284629"
     },
     {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
