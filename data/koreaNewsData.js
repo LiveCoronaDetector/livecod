@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919004000088?did=1195m"
     },
     {
+        "title": "감염 경로 미확인 확진자 증가세…“추석 연휴 이동 자제”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008141&ref=A"
+    },
+    {
         "title": "영국 존슨 \"코로나19 제2 확산 직면…엄격한 조치 불가피\"(종합)",
         "link": "http://yna.kr/AKR20200918168951085?did=1195m"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
     },
     {
-        "title": "서울시, 사랑제일교회·전광훈 목사에 46억 손배 소송…서울 확진자 46명↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007662&ref=A"
-    },
-    {
-        "title": "日자민당 의원 코로나19 양성 판정… 스가 총리와도 접촉",
-        "link": "https://hankookilbo.com/News/Read/A2020091823230001064?did=NA"
-    },
-    {
         "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091700162"
     },
     {
-        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
-        "link": "http://www.fnnews.com/news/202009180651538170"
+        "title": "코로나 국내 신규 확진 126명… 국내발생 109명·해외유입 17명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/18/2020091800861.html"
+    },
+    {
+        "title": "서울시, 사랑제일교회·전광훈 목사에 46억 손배 소송…서울 확진자 46명↑",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007662&ref=A"
     }
 ];
