@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/trump-donor-liz-uihlein-canada-quarantine"
     },
     {
-        "title": "Coronavirus live news: Iran in grip of 'third wave' of pandemic; Covid-related deaths in France on the rise",
-        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
-        "title": "'Pandemic fatigue' leads to resurgence of coronavirus in Europe where cases surge to fresh records in France and Spain",
+        "title": "'Pandemic fatigue' leads to resurgence of coronavirus in Europe where cases hit fresh records in France and Spain",
         "link": "https://www.cnbc.com/2020/09/18/pandemic-fatigue-leads-to-resurgence-of-coronavirus-in-europe-where-france-and-spain-hit-records.html"
     },
     {
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.kcci.com/article/branstad-blasts-china-s-handling-of-coronavirus-in-cnn-interview/34072197"
     },
     {
-        "title": "Live updates: Three-quarters of Americans worry over vaccine haste, as global coronavirus cases top 30 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
+        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
+    },
+    {
+        "title": "World Health Organization warns of \"alarming rates of transmission\" across Europe",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/h_806fed25205801f9bcb3b65a78776643"
     },
     {
         "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
-    },
-    {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];

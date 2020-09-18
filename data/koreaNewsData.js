@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
     },
     {
-        "title": "日 스가 총리와 '주먹인사' 국회의원, 코로나19 양성 판정(종합)",
-        "link": "http://yna.kr/AKR20200918162451073?did=1195m"
-    },
-    {
-        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
-        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
+        "title": "서울지방국세청 관련 확진자 총 5명…검사결과 대기 16명",
+        "link": "http://yna.kr/AKR20200918066351004?did=1195m"
     },
     {
         "title": "기아차 소하리공장 관련 확진자 14명으로 늘어",
@@ -19,6 +15,10 @@ var koreaNewsData = [
     {
         "title": "서울시, 사랑제일교회·전광훈 목사에 46억 손배 소송…서울 확진자 46명↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007662&ref=A"
+    },
+    {
+        "title": "日자민당 의원 코로나19 양성 판정… 스가 총리와도 접촉",
+        "link": "https://hankookilbo.com/News/Read/A2020091823230001064?did=NA"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 126명…지역발생 사흘째 세자릿수",
