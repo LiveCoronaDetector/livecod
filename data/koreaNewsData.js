@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020091823230001064?did=NA"
     },
     {
+        "title": "WHO \"주요 강대국들, 코로나19 대응에 협력 안해\"",
+        "link": "http://yna.kr/AKR20200919004000088?did=1195m"
+    },
+    {
         "title": "서울, 신규 확진자 46명…서울국세청 관련 누적 5명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/18/2020091801638.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
         "link": "http://www.fnnews.com/news/202009180651538170"
-    },
-    {
-        "title": "'감염 경로 불명' 확진자 26.8%…나흘째 최고치 경신",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005986705&plink=ORI&cooper=NAVER"
     }
 ];
