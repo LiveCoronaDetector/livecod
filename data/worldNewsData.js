@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
-        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Live Covid-19 Tracker and Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Live updates: CDC reverses controversial guidance, saying tests are for anyone who contacts someone with covid-19",
-        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
+        "title": "Trump clashes with top medical advisers on coronavirus vaccine timeline",
+        "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
     },
     {
         "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
