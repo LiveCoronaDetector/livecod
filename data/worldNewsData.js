@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/australia-news/live/2020/sep/18/coronavirus-australia-live-national-cabinet-split-over-quarantine-and-flight-caps-latest-updates"
     },
     {
-        "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
-        "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
-    },
-    {
         "title": "Fact check: Biden ad misleadingly suggests Trump called Covid-19 a 'hoax'",
         "link": "https://www.cnn.com/2020/09/17/politics/joe-biden-campaign-ad-trump-coronavirus-hoax-fact-check/index.html"
+    },
+    {
+        "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
+        "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Global coronavirus infections top 30 million",
-        "link": "https://www.bbc.com/news/world-54199825"
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
