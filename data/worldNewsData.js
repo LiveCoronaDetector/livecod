@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.kcci.com/article/branstad-blasts-china-s-handling-of-coronavirus-in-cnn-interview/34072197"
     },
     {
-        "title": "Live updates: Three-quarters of Americans worry that a coronavirus vaccine will be approved too quickly",
+        "title": "Live updates: Three-quarters of Americans worry over vaccine haste, as global coronavirus cases top 30 million",
         "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
-        "title": "Covid-19 Live Updates: For Small Businesses, Rent Help Is Needed to Survive",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
