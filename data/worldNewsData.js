@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/worklife/article/20200917-the-impact-of-banning-alcohol-during-covid-19"
     },
     {
-        "title": "Outcry as super-rich Trump donor given permission to avoid Canada quarantine",
-        "link": "https://www.theguardian.com/world/2020/sep/18/trump-donor-liz-uihlein-canada-quarantine"
+        "title": "These countries crushed covid-19 — but are now reporting higher infection rates than the U.S.",
+        "link": "https://www.washingtonpost.com/world/europe/covid-france-spain-israel/2020/09/18/d8f750ac-f6c2-11ea-85f7-5941188a98cd_story.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "Coronavirus live news: Iran in grip of 'third wave' of pandemic; Covid-related deaths in France on the rise",
+        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     },
     {
         "title": "'Pandemic fatigue' leads to resurgence of coronavirus in Europe where cases hit fresh records in France and Spain",
@@ -21,16 +21,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "Branstad blasts China's handling of coronavirus in CNN interview",
-        "link": "https://www.kcci.com/article/branstad-blasts-china-s-handling-of-coronavirus-in-cnn-interview/34072197"
+        "title": "Outgoing China ambassador: Trump ‘believed the Chinese’ early in pandemic",
+        "link": "https://www.politico.com/news/2020/09/18/china-ambassador-trump-coronavirus-pandemic-417648"
     },
     {
         "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
         "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
-    },
-    {
-        "title": "World Health Organization warns of \"alarming rates of transmission\" across Europe",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/h_806fed25205801f9bcb3b65a78776643"
     },
     {
         "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
+    },
+    {
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
