@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
     },
     {
-        "title": "Coronavirus Australia live update: Victoria reports 45 new Covid-19 cases and five more deaths",
+        "title": "Coronavirus Australia live update: Victorian premier Daniel Andrews reports 45 new cases and five more deaths",
         "link": "https://www.theguardian.com/australia-news/live/2020/sep/18/coronavirus-australia-live-national-cabinet-split-over-quarantine-and-flight-caps-latest-updates"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html"
     }
 ];
