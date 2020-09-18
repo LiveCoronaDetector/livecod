@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
-        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
-        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
+        "title": "Tracking Covid-19 Live Updates: Global Coverage",
+        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Fresh curbs in Europe as global coronavirus cases top 30m: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+    },
+    {
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     },
     {
         "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
-    },
-    {
-        "title": "Covid-19 Live Updates: Nearly Half of School Workers at High Risk for Severe Covid-19, Study Says",
-        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
