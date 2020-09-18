@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
     },
     {
+        "title": "코로나19 제주 57·58번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5414648"
+    },
+    {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4284629"
     },
     {
-        "title": "[전문] 제주도 57번째 58번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380808"
-    },
-    {
         "title": "제주도, 청사 출입제한조치 당분간 유지",
         "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "온천방문 숨겨 7명 추가감염…제주 확진자 부부 고발",
-        "link": "https://www.nocutnews.co.kr/news/5413425"
+        "title": "”온천 근처 산책만 했다” 거짓 진술로 코로나 퍼뜨린 목사 부부 고발",
+        "link": "https://www.chosun.com/national/regional/jeju/2020/09/16/6MGKTQ2GSVD6BG3K2SDKN3C3UE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나 확진자 한라산 다녀가 대피소·쉼터 10월 4일까지 폐쇄",

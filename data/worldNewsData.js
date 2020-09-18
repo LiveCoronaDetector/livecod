@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
-        "title": "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m",
-        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+        "title": "Fact check: Biden ad misleadingly suggests Trump called Covid-19 a 'hoax'",
+        "link": "https://www.cnn.com/2020/09/17/politics/joe-biden-campaign-ad-trump-coronavirus-hoax-fact-check/index.html"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
-        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
