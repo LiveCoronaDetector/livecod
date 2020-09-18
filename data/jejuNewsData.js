@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
-        "title": "[전문] 제주도 코로나19 58번째 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380999"
-    },
-    {
-        "title": "제주서 코로나19 확진자 발생…부천 확진자와 접촉",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4284629"
+        "title": "[전문] 제주도 57번째 58번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380808"
     },
     {
         "title": "제주 코로나19, 58번째 확진자 나와…부천 확진자 접촉자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
+    },
+    {
+        "title": "[전문] 제주도 코로나19 58번째 확진자 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=380999"
     },
     {
         "title": "[속보] 제주서 사흘만에 확진자… 방글라데시 유학생",

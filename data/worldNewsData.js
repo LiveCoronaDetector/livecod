@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/the_americas/us-canada-border-hyder-stewart/2020/09/17/8b66d3b8-f54f-11ea-9279-45d6bdfe145f_story.html"
     },
     {
-        "title": "Coronavirus: Israel marks Jewish New Year with second lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54201834"
+        "title": "Coronavirus live news: Iran in grip of 'third wave' of Covid pandemic; Israel begins second lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     },
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
@@ -25,15 +25,15 @@ var worldNewsData = [
         "link": "https://www.kcrg.com/2020/09/18/hear-from-outgoing-us-ambassador-to-china-on-us-china-relationship/"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/h_a2cf9a8b5f4bd10d42ac2a852b7ff174"
+    },
+    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
-        "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
-    },
-    {
-        "title": "Covid-19 Live Updates: For Small Businesses, Rent Help Is Needed to Survive",
+        "title": "Covid-19 Live Updates: Nearly Half of School Workers at High Risk for Severe Covid-19, Study Says",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
