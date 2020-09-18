@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
-        "title": "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video",
-        "link": "https://www.cnn.com/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
+        "title": "Fact check: Biden ad misleadingly suggests Trump called Covid-19 a 'hoax'",
+        "link": "https://www.cnn.com/2020/09/17/politics/joe-biden-campaign-ad-trump-coronavirus-hoax-fact-check/index.html"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
-        "link": "https://www.bbc.com/news/world-europe-54193770"
+        "title": "Global coronavirus infections top 30 million",
+        "link": "https://www.bbc.com/news/world-54199825"
     }
 ];
