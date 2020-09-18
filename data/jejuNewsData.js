@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
+        "title": "제주서 코로나19 확진자 2명 추가…역학조사 사전 유출?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007855&ref=A"
+    },
+    {
         "title": "잇단 수도권발 확진자 발생 제주 바짝 '긴장'",
         "link": "http://www.ihalla.com/read.php3?aid=1600393953692430121"
     },
     {
-        "title": "제주서 코로나19 확진자 2명 추가…역학조사 사전 유출?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007923&ref=A"
-    },
-    {
-        "title": "제주서 코로나19 확진자 2명 추가…역학조사 사전 유출?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007855&ref=A"
+        "title": "제주도, 청사 출입제한조치 당분간 유지",
+        "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     }
 ];

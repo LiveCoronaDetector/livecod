@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
     },
     {
-        "title": "Israel goes into second coronavirus lockdown: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+        "title": "Covid-19 Live Updates: For Small Businesses, Rent Help Is Needed to Survive",
+        "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "America first: US leads in coronavirus infections and deaths | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=0ZXjf3xR8rU"
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];
