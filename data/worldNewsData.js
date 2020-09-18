@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/world/2020/09/18/south-africa-covid-housing-project-investigation-mckenzie-pkg-vpx.cnn"
     },
     {
-        "title": "Canada unveils 'swirl, gargle and spit' Covid test for school-aged children",
-        "link": "https://www.theguardian.com/world/2020/sep/18/canada-coronavirus-saliva-test-swirl-gargle-spit-children"
+        "title": "US extends coronavirus travel restrictions across Canadian, Mexican borders",
+        "link": "https://www.foxnews.com/politics/us-extends-travel-canadian-mexican-borders"
     },
     {
         "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
-        "title": "Tracking Covid-19 Live Updates: Global Coverage",
-        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Fresh curbs in Europe as global coronavirus cases top 30m: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
+        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
     },
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Global report: Covid cases pass 30m worldwide as Biden offers vaccine reality check",
         "link": "https://www.theguardian.com/world/2020/sep/18/global-report-covid-cases-pass-30m-worldwide-as-biden-offers-vaccine-reality-check"
+    },
+    {
+        "title": "Coronavirus: Football team loses 37-0 in socially distanced match",
+        "link": "https://www.bbc.com/news/world-europe-54193770"
     }
 ];

@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200918162451073?did=1195m"
     },
     {
-        "title": "쿠팡, 남양주2배송캠프 코로나19 확진자 발생으로 폐쇄",
-        "link": "https://view.asiae.co.kr/article/2020091821195465762"
-    },
-    {
         "title": "영국 존슨 \"코로나19 제2 확산 직면…엄격한 조치 불가피\"(종합)",
         "link": "http://yna.kr/AKR20200918168951085?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "쿠팡 송파 물류센터 재가동…추가 확진자 없어",
         "link": "http://www.fnnews.com/news/202009181437530940"
+    },
+    {
+        "title": "'감염 경로 불명' 확진자 26.8%…나흘째 최고치 경신",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005986705&plink=ORI&cooper=NAVER"
     }
 ];
