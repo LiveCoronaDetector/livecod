@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Coronavirus live updates: India records world's highest increase in new COVID-19 cases",
-        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
+        "title": "India On Track To Surpass U.S. As Country Worst Affected By COVID-19",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/17/913475045/india-is-on-track-to-surpass-u-s-as-the-country-worst-affected-by-covid-19"
     },
     {
-        "title": "Coronavirus Australia live update: national cabinet split over quarantine and flight caps – latest news",
+        "title": "Coronavirus Australia live update: Victoria reports 45 new Covid-19 cases and five more deaths",
         "link": "https://www.theguardian.com/australia-news/live/2020/sep/18/coronavirus-australia-live-national-cabinet-split-over-quarantine-and-flight-caps-latest-updates"
-    },
-    {
-        "title": "World Health Organization warns of \"alarming rates of transmission\" across Europe",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/h_806fed25205801f9bcb3b65a78776643"
     },
     {
         "title": "‘Alarming rates’ of coronavirus transmission in Europe should serve as ‘wake-up call,’ WHO official warns",
         "link": "https://www.foxnews.com/health/coronavirus-transmission-europe-wake-up-call-who"
     },
     {
+        "title": "Coronavirus live news: I don't trust Trump on vaccines, Joe Biden tells town hall, as global cases top 30m",
+        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+    },
+    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html"
     },
     {
-        "title": "WHO warns of 'alarming' transmission across Europe – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/17/coronavirus-live-news-who-warns-latin-america-opening-up-too-early"
+        "title": "U.S. Image Plummets Internationally as Most Say Country Has Handled Coronavirus Badly",
+        "link": "https://www.pewresearch.org/global/2020/09/15/us-image-plummets-internationally-as-most-say-country-has-handled-coronavirus-badly/"
     }
 ];
