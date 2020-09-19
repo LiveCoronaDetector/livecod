@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "New curbs in Dublin as French cases and deaths jump again – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
         "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
     },
     {
-        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
-        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
+        "title": "UK risks new lockdown as COVID cases hit highest since May: LIVE",
+        "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
         "title": "As infections ebb, Japan hopes it has cracked the covid code on coexisting with the virus",
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
+        "title": "Sputnik V research team responds to criticism in The Lancet",
+        "link": "https://tass.com/science/1202623"
     },
     {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
-    },
-    {
-        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
-        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
+        "title": "COVID-19 crisis escalates across Europe",
+        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
     },
     {
         "title": "After Criticism, C.D.C. Reverses Covid-19 Guidelines on Testing People Who Were Exposed",
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
+    },
+    {
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     }
 ];

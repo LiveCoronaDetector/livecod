@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919004000088?did=1195m"
     },
     {
-        "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5415192"
-    },
-    {
         "title": "현대차 울산공장서 확진자 발생…직원 25명 검사 예정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/19/2020091900707.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5415192"
     },
     {
         "title": "코로나19 양성 10명 중 3명은 ‘깜깜이 확진자’…역대 최고치",
