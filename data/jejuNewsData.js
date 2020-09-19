@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 110명…36일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
-    },
-    {
         "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 110명…36일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
         "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",

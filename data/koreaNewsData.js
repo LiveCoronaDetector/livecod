@@ -5,24 +5,24 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
     },
     {
-        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
-        "link": "http://www.fnnews.com/news/202009191331280311"
+        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
     },
     {
-        "title": "[속보] 현대차 울산공장 확진자 발생…2월 이후 두 번째",
-        "link": "https://www.hankyung.com/life/article/2020091975797"
+        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
+        "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
         "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5415192"
     },
     {
-        "title": "방역당국 “국내에서도 코로나19 재감염 의심사례 조사 중”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009191646001&code=940100"
-    },
-    {
         "title": "현대차 울산공장서 확진자 발생…직원 25명 검사 예정",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/19/2020091900707.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "(속보) 서울 신림동 사우나에 확진자 3명 들러···방문자 검사 당부",
+        "link": "https://www.sedaily.com/NewsView/1Z7X0IF38C"
     },
     {
         "title": "코로나19 신규 확진 110명…국내 발생 나흘째 100명대",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919020700530?did=1195m"
     },
     {
-        "title": "정부 \"확진자 감소했지만 감소세 더뎌...철저한 방역 필요\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009191041409300"
+        "title": "정부 “코로나19 확진자 감소세 더뎌… 추석 준비 시 방역수칙 준수 요청”",
+        "link": "https://view.asiae.co.kr/article/2020091909392976265"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 110명…36일째 100명대",
