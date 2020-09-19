@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "China and Russia adopt 'one team' mindset on COVID vaccines vs US",
-        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/China-and-Russia-adopt-one-team-mindset-on-COVID-vaccines-vs-US"
-    },
-    {
         "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
         "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
+    },
+    {
+        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
+        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
