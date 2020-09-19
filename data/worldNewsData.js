@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
-        "title": "Coronavirus: France, Spain, and UK set to introduce new local measures amid surge in cases",
-        "link": "https://www.euronews.com/2020/09/18/covid-19-france-spain-and-uk-set-to-introduce-new-local-measures-amid-surge-in-cases"
+        "title": "France Sets New Daily Coronavirus Record—13,000 Cases—As Other Countries Lock Down",
+        "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
     },
     {
         "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Fineprint: Coronavirus cases rise as European nations reopen | COVID-19 Pandemic",
-        "link": "https://news.google.com/articles/CCAiC0ZoRkdabWE1ZEdjmAEB?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "The US is approaching 200000 Covid-19 deaths. Here's a look at where cases are rising across the country.",
+        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/h_7dc4cd640e28dc0e0c3fd0a5095b07e7"
     }
 ];
