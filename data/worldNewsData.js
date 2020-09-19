@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/19/coronavirus-live-news-trump-pledges-vaccine-for-all-by-april-as-melbourne-faces-more-protests"
     },
     {
-        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
-        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
+        "title": "Victoria records seven new COVID-19 deaths, 21 cases",
+        "link": "https://www.youtube.com/watch?v=XvvZtS2rrTg"
     },
     {
-        "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
-        "link": "https://www.bbc.com/news/world-us-canada-54214420"
+        "title": "Armed residents confront COVID-19 testing team in Minnesota",
+        "link": "https://kttc.com/2020/09/18/armed-residents-confront-covid-19-testing-team-in-minnesota-2/"
     },
     {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
+        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
+    },
+    {
+        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
+        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
-        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     }
 ];

@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
-        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
+        "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
     },
     {
         "title": "\"코로나19 백신 접종 2회 예상…선행 접종국 참고\"",
@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919050600004?did=1195m"
     },
     {
-        "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
+        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
     },
     {
         "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/19/2020091900707.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진 110명…국내 발생 나흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008219&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 110명…36일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
+    },
+    {
+        "title": "코로나19 신규 확진 110명…국내 발생 나흘째 100명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008219&ref=A"
     },
     {
         "title": "코로나19 신규확진자 110명… 지역발생 106명 4일째 세 자릿수",
