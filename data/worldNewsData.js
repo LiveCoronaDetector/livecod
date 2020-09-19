@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "New curbs in Dublin as French cases and deaths jump again – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
+        "title": "'Pandemic fatigue' leads to resurgence of coronavirus in Europe where cases hit fresh records in France and Spain",
+        "link": "https://www.cnbc.com/2020/09/18/pandemic-fatigue-leads-to-resurgence-of-coronavirus-in-europe-where-france-and-spain-hit-records.html"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "Covid-19 Live Updates: C.D.C. Changes Guidance on Testing",
-        "link": "https://www.nytimes.com/2020/09/19/world/covid-19-coronavirus.html"
+        "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
     },
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
         "link": "https://www.bbc.com/news/world-54199825"
+    },
+    {
+        "title": "CDC reverses controversial guidance, saying tests are for anyone who contacts someone with covid-19",
+        "link": "https://www.washingtonpost.com/nation/2020/09/18/coronavirus-covid-live-updates-us/"
     }
 ];
