@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "A new Canadian Covid-19 gargle test 'one of the first of its kind' in the world, doctor says",
-        "link": "https://news.google.com/articles/CAIiECrWCmhnXbEssBl0kS6FzkwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
         "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
     },
     {
-        "title": "France, Indonesia log record coronavirus cases: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
+        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
+        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
-        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
+        "title": "As infections ebb, Japan hopes it has cracked the covid code on coexisting with the virus",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
         "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "COVID-19 crisis escalates across Europe",
-        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
+        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
+        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
     },
     {
         "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
