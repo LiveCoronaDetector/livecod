@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "Trump clashes with top medical advisers on coronavirus vaccine timeline",
-        "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
+        "title": "Trump Says He'll Deliver a Covid-19 Vaccine by the End of the Year",
+        "link": "https://www.youtube.com/watch?v=p-IZPsKGE7U"
     },
     {
-        "title": "CDC reverses testing guidelines after report of interference",
-        "link": "https://www.yahoo.com/gma/cdc-releases-clarification-testing-guideline-175200566.html"
+        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
+        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
