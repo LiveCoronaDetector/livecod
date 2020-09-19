@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919036051051?did=1195m"
     },
     {
+        "title": "[속보] 현대차 울산공장 확진자 발생…2월 이후 두 번째",
+        "link": "https://www.hankyung.com/life/article/2020091975797"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 110명…지역발생 4일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009191004001&code=940100"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 110명…나흘째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
-    },
-    {
-        "title": "현대차 울산공장 코로나19 확진자 1명 발생",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008238&ref=A"
     },
     {
         "title": "WHO \"주요 강대국들, 코로나19 대응에 협력 안해\"",
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
-        "title": "코로나19 신규확진 110명…수도권 환자 누적 1만명 육박(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200919_0001171800&cID=10201&pID=10200"
+        "title": "코로나19 어제 신규확진 110명…경기·서울·인천 92명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996895?division=NAVER"
     },
     {
         "title": "정부 \"확진자 감소했지만 감소세 더뎌...철저한 방역 필요\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009191041409300"
     },
     {
-        "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
+        "title": "[속보] 코로나19 신규 확진자 110명…나흘째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
-        "title": "코로나19 신규 확진자 수 126명…‘산발 감염’ 지속",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
+        "title": "코로나19 신규확진자 110명...37일째 세자릿수",
+        "link": "http://www.ekn.kr/news/article.html?no=524132"
+    },
+    {
+        "title": "코로나19 신규확진 110명…수도권 환자 누적 1만명 육박(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200919_0001171800&cID=10201&pID=10200"
     }
 ];
