@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "New curbs in Dublin as French cases and deaths jump again – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Sputnik V research team responds to criticism in The Lancet",
-        "link": "https://tass.com/science/1202623"
+        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
+        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
     },
     {
-        "title": "COVID-19 crisis escalates across Europe",
-        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "After Criticism, C.D.C. Reverses Covid-19 Guidelines on Testing People Who Were Exposed",
-        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
+        "title": "Covid-19 Live Updates: C.D.C. Changes Guidance on Testing",
+        "link": "https://www.nytimes.com/2020/09/19/world/covid-19-coronavirus.html"
     },
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
