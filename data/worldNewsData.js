@@ -6,7 +6,7 @@ var worldNewsData = [
     },
     {
         "title": "A new Canadian Covid-19 gargle test 'one of the first of its kind' in the world, doctor says",
-        "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
+        "link": "https://news.google.com/articles/CAIiECrWCmhnXbEssBl0kS6FzkwqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "Indonesia reports its biggest daily rise in COVID-19 infections",
-        "link": "https://www.channelnewsasia.com/news/asia/covid-19-indonesia-cases-biggest-daily-rise-13125806"
+        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
+        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
         "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
         "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
-        "title": "Sputnik V research team responds to criticism in The Lancet",
-        "link": "https://tass.com/science/1202623"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "COVID-19 crisis escalates across Europe",
