@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
-        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
+        "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
-        "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
-    },
-    {
-        "title": "New fear grips Europe as Covid tops 30m worldwide",
-        "link": "https://www.bbc.com/news/world-54199825"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
         "title": "Coronavirus: US death toll hits 200000",
         "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
+    },
+    {
+        "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
     }
 ];
