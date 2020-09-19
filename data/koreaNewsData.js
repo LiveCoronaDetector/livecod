@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919030851057?did=1195m"
     },
     {
-        "title": "코로나19 어제 신규확진 110명…경기·서울·인천 92명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996895?division=NAVER"
+        "title": "[속보] 코로나19 신규 확진 110명…나흘째 100명대 유지",
+        "link": "http://news.tf.co.kr/read/life/1813815.htm"
     },
     {
         "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     },
     {
-        "title": "경남서 코로나 9일 연속 발생…양산 50대 증상 일주일 후 확진",
-        "link": "https://www.nocutnews.co.kr/news/5415190"
-    },
-    {
         "title": "코로나19 신규확진 110명…수도권 환자 누적 1만명 육박(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200919_0001171800&cID=10201&pID=10200"
     },
     {
-        "title": "17일째 100명대 확진자…지역감염도 나흘 연속 100명대(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01459606625901760"
-    },
-    {
         "title": "WHO \"주요 강대국들, 코로나19 대응에 협력 안해\"",
         "link": "http://yna.kr/AKR20200919004000088?did=1195m"
+    },
+    {
+        "title": "경남서 코로나 9일 연속 발생…양산 50대 증상 일주일 후 확진",
+        "link": "https://www.nocutnews.co.kr/news/5415190"
+    },
+    {
+        "title": "17일째 100명대 확진자…지역감염도 나흘 연속 100명대(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01459606625901760"
     }
 ];
