@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Live Covid-19 Tracker and Updates",
+        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
-        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
+        "title": "China and Russia adopt 'one team' mindset on COVID vaccines vs US",
+        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/China-and-Russia-adopt-one-team-mindset-on-COVID-vaccines-vs-US"
     },
     {
         "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
