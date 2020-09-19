@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
-        "title": "Lockdown measures and rising anger in Madrid as Covid-19 takes hold again",
-        "link": "https://www.theguardian.com/world/2020/sep/18/madrid-poor-spanish-capital-covid-19"
+        "title": "COVID-19 crisis escalates across Europe",
+        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
     },
     {
         "title": "France, Indonesia log record coronavirus cases: Live news",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.channelnewsasia.com/news/asia/covid-19-indonesia-cases-biggest-daily-rise-13125806"
     },
     {
-        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
-        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
+        "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
         "title": "Sputnik V research team responds to criticism in The Lancet",
         "link": "https://tass.com/science/1202623"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
+        "link": "https://news.google.com/articles/CAIiEEBeecenh4U7-nkGNCI6UzEqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
-        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
