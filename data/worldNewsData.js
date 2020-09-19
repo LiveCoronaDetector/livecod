@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "The US is approaching 200000 Covid-19 deaths. Here's a look at where cases are rising across the country.",
-        "link": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/h_7dc4cd640e28dc0e0c3fd0a5095b07e7"
+        "title": "Fineprint: Coronavirus cases rise as European nations reopen | COVID-19 Pandemic",
+        "link": "https://www.youtube.com/watch?v=FhFGZma5dGc"
     }
 ];
