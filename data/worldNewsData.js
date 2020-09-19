@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Live Covid-19 Tracker and Updates",
+        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
     },
     {
-        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
-        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
+        "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
+        "link": "https://www.bbc.com/news/world-us-canada-54214420"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
