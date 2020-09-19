@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/17/20200917527906.html?OutUrl=naver"
     },
     {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
+        "link": "http://www.fnnews.com/news/202009161235467580"
     }
 ];

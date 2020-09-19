@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "France Sets New Daily Coronavirus Record—13,000 Cases—As Other Countries Lock Down",
+        "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Sputnik V research team responds to criticism in The Lancet",
-        "link": "https://tass.com/science/1202623"
-    },
-    {
-        "title": "'Very serious situation' unfolding in Europe, WHO warns, as cases rise dramatically",
-        "link": "https://www.cnbc.com/2020/09/17/coronavirus-latest-europe-jittery-as-cases-rise-and-lockdowns-return.html"
+        "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
+        "link": "https://www.npr.org/2020/09/17/914103938/-a-very-serious-situation-who-says-coronavirus-cases-are-rising-in-europe-again"
     },
     {
         "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
         "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
+    },
+    {
+        "title": "Coronavirus: US death toll hits 200000",
+        "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
     }
 ];

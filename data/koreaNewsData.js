@@ -5,6 +5,18 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
+        "title": "서울 신림동 사우나에 확진자 3명 다녀가",
+        "link": "http://yna.kr/AKR20200919050600004?did=1195m"
+    },
+    {
+        "title": "코로나19 양성 10명 중 3명은 ‘깜깜이 확진자’…역대 최고치",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200919000058"
+    },
+    {
+        "title": "\"코로나19 백신 접종 2회 예상…선행 접종국 참고\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009190088&t=NN"
+    },
+    {
         "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
         "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
     },
@@ -13,31 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
     },
     {
-        "title": "서울 신림동 사우나에 확진자 3명 다녀가",
-        "link": "http://yna.kr/AKR20200919050600004?did=1195m"
-    },
-    {
         "title": "WHO \"주요 강대국들, 코로나19 대응에 협력 안해\"",
         "link": "http://yna.kr/AKR20200919004000088?did=1195m"
     },
     {
-        "title": "현대차 울산공장서 확진자 발생…직원 25명 검사 예정",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/19/2020091900707.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "현대차 울산공장 코로나19 확진자 1명 발생",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008238&ref=A"
     },
     {
         "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5415192"
     },
     {
-        "title": "코로나19 양성 10명 중 3명은 ‘깜깜이 확진자’…역대 최고치",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200919000058"
-    },
-    {
-        "title": "코로나19 신규 확진자 수 126명…‘산발 감염’ 지속",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
-    },
-    {
-        "title": "코로나19 신규 확진자 110명…17일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
+        "title": "현대차 울산공장서 확진자 발생…직원 25명 검사 예정",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/19/2020091900707.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
