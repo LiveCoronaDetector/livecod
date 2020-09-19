@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
-        "title": "Lockdown measures and rising anger in Madrid as Covid-19 takes hold again",
-        "link": "https://www.theguardian.com/world/2020/sep/18/madrid-poor-spanish-capital-covid-19"
+        "title": "COVID-19 crisis escalates across Europe",
+        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
     },
     {
-        "title": "France, Indonesia log record coronavirus cases: Live news",
-        "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
+        "title": "Indonesia reports its biggest daily rise in COVID-19 infections",
+        "link": "https://www.channelnewsasia.com/news/asia/covid-19-indonesia-cases-biggest-daily-rise-13125806"
     },
     {
-        "title": "Indonesia reports its biggest daily rise in coronavirus infections",
-        "link": "https://nationalpost.com/pmn/health-pmn/indonesia-reports-its-biggest-daily-rise-in-coronavirus-infections"
+        "title": "Global Coronavirus Updates: Virus spurs $7 bn tech push for German schools; Indonesia reports biggest spike in cases",
+        "link": "https://indianexpress.com/article/world/global-coronavirus-updates-september-19-uk-australia-us-south-korea-6602174/"
     },
     {
         "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
-        "title": "Moderna CEO downplays vaccine timeline pressure: 'We don't want the first, we want the best'",
-        "link": "https://finance.yahoo.com/news/moderna-ceo-downplays-vaccine-timeline-pressure-we-dont-want-the-first-we-want-the-best-132609857.html"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
