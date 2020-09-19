@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
+        "title": "[속보]'감염경로 불분명' 확진자 27% 육박…추석, 코로나19 재확산 기폭제 가...",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800006"
+    },
+    {
         "title": "코로나19확진자 감소세 더뎌..신규확진 110명",
         "link": "http://www.fnnews.com/news/202009191105061534"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
-    },
-    {
-        "title": "잇단 수도권발 확진자 발생 제주 바짝 '긴장'",
-        "link": "http://www.ihalla.com/read.php3?aid=1600393953692430121"
     }
 ];

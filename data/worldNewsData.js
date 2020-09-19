@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "Trump Says He'll Deliver a Covid-19 Vaccine by the End of the Year",
-        "link": "https://www.youtube.com/watch?v=p-IZPsKGE7U"
+        "title": "Trump clashes with top medical advisers on coronavirus vaccine timeline",
+        "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
     },
     {
         "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
