@@ -17,20 +17,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/madrid-poor-spanish-capital-covid-19"
     },
     {
-        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
-        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
+        "title": "France, Indonesia log record coronavirus cases: Live news",
+        "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "Coronavirus live news: anti-lockdown protesters gather in London; Iran death toll exceeds 24,000",
-        "link": "https://www.theguardian.com/world/live/2020/sep/19/coronavirus-live-news-trump-pledges-vaccine-for-all-by-april-as-melbourne-faces-more-protests"
+        "title": "Global Coronavirus Updates, Sept 19: Virus spurs $7 billion tech push for German schools",
+        "link": "https://indianexpress.com/article/world/global-coronavirus-updates-september-19-uk-australia-us-south-korea-6602174/"
     },
     {
         "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
         "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
-        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
-        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
