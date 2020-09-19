@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200919000058"
     },
     {
-        "title": "\"코로나19 백신 접종 2회 예상…선행 접종국 참고\"",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009190088&t=NN"
+        "title": "코로나19 신규 확진자 수 126명…‘산발 감염’ 지속",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
     },
     {
-        "title": "경남서 코로나 9일 연속 발생…양산 50대 증상 일주일 후 확진",
-        "link": "https://www.nocutnews.co.kr/news/5415190"
+        "title": "코로나19 신규 확진자 110명…17일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     }
 ];

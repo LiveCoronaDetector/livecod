@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "New curbs in Dublin as French cases and deaths jump again – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/18/coronavirus-live-news-global-cases-on-brink-of-30m-as-france-reports-record-new-infections"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
-        "title": "What Is An mRNA Coronavirus Vaccine?",
-        "link": "https://www.youtube.com/watch?v=FWWPJ9TaRbA"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Europe Is Fighting A 2nd Wave Of Coronavirus Pandemic",
