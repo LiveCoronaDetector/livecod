@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200919030851057?did=1195m"
     },
     {
-        "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5415192"
-    },
-    {
-        "title": "WHO \"주요 강대국들, 코로나19 대응에 협력 안해\"",
-        "link": "http://yna.kr/AKR20200919004000088?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진 110명…수도권 환자 누적 1만명 육박(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200919_0001171800&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 신규 확진자 수 126명…‘산발 감염’ 지속",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996810?division=NAVER"
+        "title": "신규 확진자 110명↑…지역발생 나흘째 세 자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5415192"
     },
     {
-        "title": "코로나19 신규확진자 110명… 지역발생 106명 4일째 세 자릿수",
-        "link": "https://view.asiae.co.kr/article/2020091910025722114"
+        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
+        "link": "http://www.fnnews.com/news/202009191331280311"
+    },
+    {
+        "title": "코로나19 어제 신규확진 110명…경기·서울·인천 92명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996895?division=NAVER"
     },
     {
         "title": "정부 \"확진자 감소했지만 감소세 더뎌...철저한 방역 필요\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009191041409300"
     },
     {
-        "title": "기아차 소하리공장 코로나19 확진자 2명 추가",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5914851_32633.html"
-    },
-    {
         "title": "17일째 100명대 확진자…지역감염도 나흘 연속 100명대(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01459606625901760"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 110명…지역발생 4일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009191004001&code=940100"
+    },
+    {
+        "title": "'감염경로 불분명' 확진자 27% 육박…추석, 코로나19 재확산 기폭제 가능성",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800006"
     }
 ];

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
+        "title": "Live Covid-19 Tracker and Updates",
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "Trump clashes with top medical advisers on coronavirus vaccine timeline",
-        "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
+        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
+        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
     },
     {
-        "title": "CDC reverses testing guidelines after report of interference",
-        "link": "https://www.yahoo.com/gma/cdc-releases-clarification-testing-guideline-175200566.html"
+        "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
+        "link": "https://www.bbc.com/news/world-us-canada-54214420"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     }
 ];

@@ -13,7 +13,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
-        "title": "[속보]'감염경로 불분명' 확진자 27% 육박…추석, 코로나19 재확산 기폭제 가...",
+        "title": "'감염경로 불분명' 확진자 27% 육박…추석, 코로나19 재확산 기폭제 가능성",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800006"
     },
     {
