@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
     },
     {
-        "title": "Worldwide coronavirus cases top 30 million",
-        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
+        "title": "Indonesians caught without a mask forced to dig graves for Covid-19 victims",
+        "link": "https://www.cnn.com/2020/09/17/asia/indonesia-coronavirus-grave-diggers-intl-hnk-scli/index.html"
     },
     {
         "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
-        "title": "Coronavirus vaccine: 78% of Americans in survey express concerns about COVID-19 vaccine",
-        "link": "https://www.youtube.com/watch?v=gVQTv11f50k"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
