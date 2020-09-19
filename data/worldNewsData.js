@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/madrid-poor-spanish-capital-covid-19"
     },
     {
-        "title": "Worldwide coronavirus cases top 30 million",
-        "link": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540"
+        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
+        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
         "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     },
     {
-        "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
-        "link": "https://www.bbc.com/news/world-us-canada-54214420"
+        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
+        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
-        "title": "China and Russia adopt 'one team' mindset on COVID vaccines vs US",
-        "link": "https://asia.nikkei.com/Spotlight/Coronavirus/China-and-Russia-adopt-one-team-mindset-on-COVID-vaccines-vs-US"
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
