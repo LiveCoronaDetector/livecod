@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=380999"
     },
     {
-        "title": "제주 58번 확진자 접촉 렌터카회사 직원 '음성 판정'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2171912"
+        "title": "제주도, 청사 출입제한조치 당분간 유지",
+        "link": "https://www.pressian.com/pages/articles/2020091611435801796?utm_source=naver&utm_medium=search"
     }
 ];

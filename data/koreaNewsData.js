@@ -21,8 +21,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009181437530940"
     },
     {
-        "title": "서울 신규 확진자 사흘만에 40명대 감소…서울국세청 집단감염(종합)",
-        "link": "https://www.nocutnews.co.kr/news/5414738"
+        "title": "서울, 신규 확진자 46명…서울국세청 관련 누적 5명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/18/2020091801638.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울지방국세청에서 코로나 집단감염...현재까지 4명 확진",
+        "link": "https://www.ytn.co.kr/_ln/0102_202009181555052188"
     },
     {
         "title": "추석 앞두고 수도권 코로나 확진자 다시 증가…재확산 우려",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울시, 사랑제일교회·전광훈 목사에 46억 손배 소송…서울 확진자 46명↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007662&ref=A"
-    },
-    {
-        "title": "日자민당 의원 코로나19 양성 판정… 스가 총리와도 접촉",
-        "link": "https://hankookilbo.com/News/Read/A2020091823230001064?did=NA"
     }
 ];

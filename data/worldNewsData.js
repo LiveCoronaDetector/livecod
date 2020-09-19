@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
     },
     {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
+        "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
         "title": "Live Covid-19 Tracker and Updates",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=a7DGeFLkf7Q"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Fineprint: Coronavirus cases rise as European nations reopen | COVID-19 Pandemic",
-        "link": "https://www.youtube.com/watch?v=FhFGZma5dGc"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     }
 ];
