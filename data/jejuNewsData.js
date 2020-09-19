@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009191105061534"
     },
     {
-        "title": "'감염경로 불분명' 확진자 27% 육박…추석, 코로나19 재확산 기폭제 가능성",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800006"
-    },
-    {
         "title": "제주 58번 확진자는 관광객…접촉자 15명 파악",
         "link": "https://www.news1.kr/articles/?4063445"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "추석 연휴 20만명 간다는데…제주 3일만에 또 확진자",
         "link": "http://www.segye.com/content/html/2020/09/17/20200917527906.html?OutUrl=naver"
+    },
+    {
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     }
 ];
