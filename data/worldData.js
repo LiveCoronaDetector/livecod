@@ -244,9 +244,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 107134,
+        "확진자수": 107199,
         "사망자수": 1671,
-        "완치자수": 101610
+        "완치자수": 101822
     },
     {
         "Name": "도미니카 공화국",
@@ -364,9 +364,9 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 70120,
-        "사망자수": 2122,
-        "완치자수": 20677
+        "확진자수": 70611,
+        "사망자수": 2146,
+        "완치자수": 21149
     },
     {
         "Name": "Ethiopia",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 663,
+        "확진자수": 667,
         "사망자수": 5,
-        "완치자수": 565
+        "완치자수": 567
     },
     {
         "Name": "Channel Islands",
@@ -1348,9 +1348,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 565,
-        "사망자수": 19,
-        "완치자수": 477
+        "확진자수": 574,
+        "사망자수": 20,
+        "완치자수": 488
     },
     {
         "Name": "Papua New Guinea",

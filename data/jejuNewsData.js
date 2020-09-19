@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
-        "title": "제주 58번 확진자는 관광객…접촉자 15명 파악",
-        "link": "https://www.news1.kr/articles/?4063445"
+        "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     },
     {
-        "title": "[속보]정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
+        "title": "제주 58번 확진자는 관광객…접촉자 15명 파악",
+        "link": "https://www.news1.kr/articles/?4063445"
     },
     {
         "title": "[전문] 제주도 57번째 58번째 확진자 발생",

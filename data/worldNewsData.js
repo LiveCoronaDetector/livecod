@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=X-psnKdGeQA"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "CDC reverses testing guidelines after report of interference",
+        "link": "https://www.yahoo.com/gma/cdc-releases-clarification-testing-guideline-175200566.html"
     },
     {
-        "title": "Fineprint: Coronavirus cases rise as European nations reopen | COVID-19 Pandemic",
-        "link": "https://www.youtube.com/watch?v=FhFGZma5dGc"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
