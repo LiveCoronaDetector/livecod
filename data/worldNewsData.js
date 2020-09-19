@@ -9,15 +9,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
     },
     {
-        "title": "France Sets New Daily Coronavirus Record—13,000 Cases—As Other Countries Lock Down",
-        "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
+        "title": "These countries crushed covid-19 — but are now reporting higher infection rates than the U.S.",
+        "link": "https://www.washingtonpost.com/world/europe/covid-france-spain-israel/2020/09/18/d8f750ac-f6c2-11ea-85f7-5941188a98cd_story.html"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
         "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
     },
     {
-        "title": "UK risks new lockdown as COVID cases hit highest since May: LIVE",
+        "title": "UK risks new lockdown as COVID-19 cases hit peak since May: Live",
         "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "Covid world map: which countries have the most coronavirus cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
-    },
-    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+    },
+    {
+        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
+        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
     },
     {
         "title": "Coronavirus: US death toll hits 200000",
