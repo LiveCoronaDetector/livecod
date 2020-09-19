@@ -5,7 +5,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 110명…36일째 100명대",
+        "title": "코로나19 신규 확진자 110명…17일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {

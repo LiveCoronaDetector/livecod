@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "Global Coronavirus Updates, Sept 19: Virus spurs $7 billion tech push for German schools",
-        "link": "https://indianexpress.com/article/world/global-coronavirus-updates-september-19-uk-australia-us-south-korea-6602174/"
+        "title": "Indonesia reports its biggest daily rise in COVID-19 infections",
+        "link": "https://www.channelnewsasia.com/news/asia/covid-19-indonesia-cases-biggest-daily-rise-13125806"
     },
     {
         "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
         "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
     },
     {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Sputnik V research team responds to criticism in The Lancet",
+        "link": "https://tass.com/science/1202623"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
