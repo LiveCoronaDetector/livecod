@@ -17,20 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/madrid-poor-spanish-capital-covid-19"
     },
     {
-        "title": "Only the US has more coronavirus cases than India. But unlike Trump, its leader seems immune from criticism",
-        "link": "https://www.cnn.com/2020/09/16/asia/india-modi-coronavirus-intl-dst-hnk/index.html"
+        "title": "Coronavirus live news: UK facing perfect storm, scientist warns; Indonesia reports biggest rise in cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/19/coronavirus-live-news-trump-pledges-vaccine-for-all-by-april-as-melbourne-faces-more-protests"
     },
     {
         "title": "The bogus Steve Bannon-backed study claiming China created the coronavirus, explained",
         "link": "https://www.vox.com/2020/9/18/21439865/coronavirus-china-study-bannon"
     },
     {
-        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
-        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
-    },
-    {
-        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
-        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
+        "title": "Coronavirus: US health chiefs reverse advice on Covid-19 testing",
+        "link": "https://www.bbc.com/news/world-us-canada-54214420"
     },
     {
         "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
+        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     }
 ];
