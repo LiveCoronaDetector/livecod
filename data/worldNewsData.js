@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/19/covid-world-map-which-countries-have-the-most-coronavirus-cases-and-deaths"
     },
     {
-        "title": "CDC reverses controversial coronavirus guidance that said people without symptoms may not need a test",
-        "link": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html"
-    },
-    {
         "title": "Sputnik V research team responds to criticism in The Lancet",
         "link": "https://tass.com/science/1202623"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "COVID-19 crisis escalates across Europe",
+        "link": "https://www.youtube.com/watch?v=4gOyIkGTTVA"
+    },
+    {
+        "title": "Covid-19 Live Updates: After Criticism, C.D.C. Reverses Guidelines About Testing People Who Were Exposed",
+        "link": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html"
     }
 ];
