@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "A new Canadian Covid-19 gargle test 'one of the first of its kind' in the world, doctor says",
-        "link": "https://www.cnn.com/2020/09/19/americas/canadian-gargle-test/index.html"
+        "title": "U.S. Covid-19 death toll surpasses 200,000",
+        "link": "https://www.nbcnews.com/health/health-news/u-s-covid-19-death-toll-surpasses-200-000-n1240034"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "France Sets New Daily Coronavirus Record—13,000 Cases—As Other Countries Lock Down",
+        "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
-    },
-    {
         "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
         "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
     },
     {
-        "title": "Coronavirus: US death toll hits 200000",
-        "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
         "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
         "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+    },
+    {
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     }
 ];
