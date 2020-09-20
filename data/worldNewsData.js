@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
-        "title": "UK and France 'desperate' to go back into lockdown despite flatlining COVID deaths",
-        "link": "https://www.youtube.com/watch?v=5DBgWJtvhVg"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     }
 ];

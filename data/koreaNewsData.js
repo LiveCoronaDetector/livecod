@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
+        "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
+        "link": "https://www.news1.kr/articles/?4064340"
+    },
+    {
         "title": "코로나19 신규 확진자 82명…38일만에 두 자릿수(종합)",
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
-    },
-    {
-        "title": "일본 코로나19 누적 확진자 8만명선 육박",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009200103&t=NN"
     }
 ];
