@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01302166625902088"
     },
     {
+        "title": "[속보]코로나19 어제 82명 신규확진…38일만에 두자릿수",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091900000"
+    },
+    {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
@@ -17,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.ajunews.com/view/20200920094333319"
     },
     {
-        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
-        "link": "http://www.fnnews.com/news/202009191331280311"
+        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
     },
     {
-        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
+        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
+        "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
         "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진자 '82명'… 8월 재유행 후 첫 두자리(상보)",
         "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020092009508054069"
-    },
-    {
-        "title": "서울 신림동 사우나에 확진자 3명 다녀가",
-        "link": "http://yna.kr/AKR20200919050600004?did=1195m"
     }
 ];
