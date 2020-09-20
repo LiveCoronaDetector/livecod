@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSKCN26B06L"
     },
     {
-        "title": "Belgium tops 100,000 cases; world nears 1m COVID-19 deaths: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
+        "title": "Coronavirus and geopolitical tensions dash Chinese dreams in Malaysia",
+        "link": "https://www.scmp.com/economy/china-economy/article/3102154/chinas-middle-class-dream-second-home-malaysia-dashed"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",

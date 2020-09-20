@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920017951052?did=1195m"
     },
     {
-        "title": "청주 코로나19 확진자 3명 퇴원…환자 한자릿수 뚝(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200920_0001172555&cID=10806&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
+    },
+    {
+        "title": "코로나19, 동아대 확진자 9명으로 늘어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008547&ref=A"
     },
     {
         "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
