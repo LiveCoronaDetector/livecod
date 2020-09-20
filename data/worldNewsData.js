@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Coronavirus: Israel marks Jewish New Year with second lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54201834"
+        "title": "Israel enters second coronavirus lockdown as Jewish High Holy Day season begins",
+        "link": "https://www.nbcnews.com/news/world/israel-faces-second-coronavirus-lockdown-jewish-high-holiday-season-begins-n1240403"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
-    },
-    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
-        "title": "Will COVID-19 vaccines be safe?",
-        "link": "https://www.youtube.com/watch?v=HcwmsbV1sEg"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
+    },
+    {
+        "title": "Almost $6 million poured into three Australian-made COVID-19 vaccines",
+        "link": "https://www.9news.com.au/national/coronavirus-australia-6-million-funding-to-develop-local-covid-vaccine/f6fb809d-6fd7-4957-a324-e090283091e0"
     }
 ];

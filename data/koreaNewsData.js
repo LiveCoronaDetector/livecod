@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
     },
     {
-        "title": "주말 영향? 거리두기 성과?… 확진자 38일만 100명 이하(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01302166625902088"
+        "title": "[속보] 코로나19 신규 확진자 82명…38일 만에 100명 아래",
+        "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
         "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
@@ -21,11 +21,15 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/politics/article/202009208834i"
     },
     {
+        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
+        "link": "http://www.fnnews.com/news/202009201047378946"
+    },
+    {
         "title": "서울 어제 확진자 28명대로 감소 … 8월 대확산 이후 최저(상보)",
         "link": "https://view.asiae.co.kr/article/2020092011043181348"
     },
     {
-        "title": "[속보] 대구 확진자 2명…달서구·달성군 동충하초 설명회 확진자와 접촉[전문...",
+        "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
     },
     {
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
-        "link": "http://www.fnnews.com/news/202009191331280311"
-    },
-    {
-        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
+        "title": "기아차 소하리공장 코로나19 확진자 2명 추가",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5914851_32633.html"
     }
 ];
