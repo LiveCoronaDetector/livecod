@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
     },
     {
+        "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
+        "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+    },
+    {
         "title": "Global preparation: how different countries planned for the second wave of Covid-19",
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "UK and France 'desperate' to go back into lockdown despite flatlining COVID deaths",
-        "link": "https://www.youtube.com/watch?v=5DBgWJtvhVg"
-    },
-    {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
+        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
     }
 ];
