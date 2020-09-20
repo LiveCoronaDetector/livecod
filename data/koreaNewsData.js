@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920059100073?did=1195m"
     },
     {
-        "title": "청주 코로나19 확진자 3명 퇴원…환자 한자릿수 뚝(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200920_0001172555&cID=10806&pID=10800"
-    },
-    {
         "title": "영국, 코로나 격리 위반시 벌금 최대 1천500만원 부과(종합)",
         "link": "http://yna.kr/AKR20200920025751009?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
+    },
+    {
+        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
     }
 ];

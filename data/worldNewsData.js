@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "These countries crushed covid-19 — but are now reporting higher infection rates than the U.S.",
-        "link": "https://www.washingtonpost.com/world/europe/covid-france-spain-israel/2020/09/18/d8f750ac-f6c2-11ea-85f7-5941188a98cd_story.html"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSKCN26B06L"
     },
     {
-        "title": "Belgium tops 100,000 cases; world nears 1m COVID-19 deaths: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
+        "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
+        "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
     },
     {
         "title": "Global preparation: how different countries planned for the second wave of Covid-19",
