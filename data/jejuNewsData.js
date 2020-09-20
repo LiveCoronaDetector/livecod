@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4063445"
     },
     {
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+    },
+    {
         "title": "[전문] 제주도 57번째 58번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=380808"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도서 방글라데시 유학생 코로나19 확진..57번째",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04447686625901104"
-    },
-    {
-        "title": "제주 58번째 코로나 확진자 발생...부천시 확진자와 접촉",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320233"
     }
 ];
