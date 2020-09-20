@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920025751009?did=1195m"
     },
     {
+        "title": "코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
+    },
+    {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 82명…38일만에 두 자릿수(종합)",
         "link": "https://www.nocutnews.co.kr/news/5415306"
-    },
-    {
-        "title": "코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",

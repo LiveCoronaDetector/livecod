@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
+        "title": "Madrid residents facing partial lockdown demonstrate against new measures | AFP",
+        "link": "https://www.youtube.com/watch?v=NgNOo-sk5ak"
     }
 ];
