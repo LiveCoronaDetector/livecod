@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
     },
     {
-        "title": "추석 연휴 20만명 간다는데…제주 3일만에 또 확진자",
-        "link": "http://www.segye.com/content/html/2020/09/17/20200917527906.html?OutUrl=naver"
+        "title": "제주도서 방글라데시 유학생 코로나19 확진..57번째",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04447686625901104"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
+        "title": "제주 58번째 코로나 확진자 발생...부천시 확진자와 접촉",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320233"
     }
 ];

@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 6967224,
+        "확진자수": 6967400,
         "사망자수": 203824,
-        "완치자수": 4217955
+        "완치자수": 4223693
     },
     {
         "Name": "인도",
@@ -537,6 +537,14 @@ var marker = [
         "완치자수": 23446
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 33015,
+        "사망자수": 636,
+        "완치자수": 17535
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
@@ -551,14 +559,6 @@ var marker = [
         "확진자수": 32538,
         "사망자수": 1792,
         "완치자수": 23364
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 32127,
-        "사망자수": 611,
-        "완치자수": 16921
     },
     {
         "Name": "레바논",
@@ -1081,20 +1081,20 @@ var marker = [
         "완치자수": 3070
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 3214,
+        "사망자수": 73,
+        "완치자수": 1679
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "확진자수": 3194,
         "사망자수": 15,
         "완치자수": 2482
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 3177,
-        "사망자수": 69,
-        "완치자수": 1626
     },
     {
         "Name": "Mali",
@@ -1310,7 +1310,7 @@ var marker = [
         "Name_en": "Sao Tome and Principe",
         "확진자수": 908,
         "사망자수": 15,
-        "완치자수": 873
+        "완치자수": 876
     },
     {
         "Name": "산마리노",
@@ -1390,7 +1390,7 @@ var marker = [
         "Name_en": "Comoros",
         "확진자수": 470,
         "사망자수": 7,
-        "완치자수": 449
+        "완치자수": 450
     },
     {
         "Name": "Faeroe Islands",
@@ -1468,9 +1468,9 @@ var marker = [
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "확진자수": 228,
+        "확진자수": 247,
         "사망자수": 1,
-        "완치자수": 83
+        "완치자수": 88
     },
     {
         "Name": "Cayman Islands",
@@ -1484,7 +1484,7 @@ var marker = [
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "확진자수": 191,
+        "확진자수": 192,
         "사망자수": 1,
         "완치자수": 152
     },
@@ -1500,9 +1500,9 @@ var marker = [
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "확진자수": 178,
+        "확진자수": 180,
         "사망자수": 9,
-        "완치자수": 164
+        "완치자수": 166
     },
     {
         "Name": "Brunei",
@@ -1532,7 +1532,7 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 95,
+        "확진자수": 96,
         "사망자수": 3,
         "완치자수": 92
     },
