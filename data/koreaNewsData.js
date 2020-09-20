@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
     },
     {
+        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
+        "link": "http://www.fnnews.com/news/202009201047378946"
+    },
+    {
         "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
         "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/politics/article/202009208834i"
     },
     {
-        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
-        "link": "http://www.fnnews.com/news/202009201047378946"
-    },
-    {
-        "title": "코로나19 신규 확진자 82명…2차 유행 후 38일만에 첫 두 자리",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205434"
+        "title": "코로나19 신규 확진자 82명…38일 만에 두자릿수",
+        "link": "http://www.inews24.com/view/1300780"
     },
     {
         "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 82명…38일만에 100명 아래",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009200024&t=NN"
+        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     }
 ];
