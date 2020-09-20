@@ -5,32 +5,24 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
     {
-        "title": "주말 영향? 거리두기 성과?… 확진자 38일만 100명 이하(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01302166625902088"
-    },
-    {
-        "title": "[코로나19] 신규 확진자 82명…38일만에 첫 100명대 아래(상보)",
-        "link": "http://www.ajunews.com/view/20200920094333319"
-    },
-    {
         "title": "[속보] 코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
     },
     {
-        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
-        "link": "http://www.fnnews.com/news/202009201047378946"
+        "title": "주말 영향? 거리두기 성과?… 확진자 38일만 100명 이하(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01302166625902088"
     },
     {
-        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
-        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
-    },
-    {
-        "title": "서울 어제 확진자 28명대로 감소 … 8월 대확산 이후 최저(상보)",
-        "link": "https://view.asiae.co.kr/article/2020092011043181348"
+        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
     },
     {
         "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
         "link": "https://www.hankyung.com/politics/article/202009208834i"
+    },
+    {
+        "title": "서울 어제 확진자 28명대로 감소 … 8월 대확산 이후 최저(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092011043181348"
     },
     {
         "title": "[속보] 대구 확진자 2명…달서구·달성군 동충하초 설명회 확진자와 접촉[전문...",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
+    },
+    {
+        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
+        "link": "http://www.fnnews.com/news/202009191331280311"
+    },
+    {
+        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
     }
 ];
