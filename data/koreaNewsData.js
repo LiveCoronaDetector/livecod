@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
-        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
-        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
         "link": "http://www.fnnews.com/news/202009201047378946"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
+    },
+    {
+        "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
     }
 ];
