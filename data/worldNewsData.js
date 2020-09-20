@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India's coronavirus infections surge to 5.4 million",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSKCN26B06L"
+        "link": "https://www.reuters.com/article/health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSL3N2GH02A"
     },
     {
         "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Madrid residents facing partial lockdown demonstrate against new measures | AFP",
-        "link": "https://www.youtube.com/watch?v=NgNOo-sk5ak"
+        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
+        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     }
 ];
