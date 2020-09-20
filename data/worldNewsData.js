@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "These countries crushed covid-19 — but are now reporting higher infection rates than the U.S.",
+        "link": "https://www.washingtonpost.com/world/europe/covid-france-spain-israel/2020/09/18/d8f750ac-f6c2-11ea-85f7-5941188a98cd_story.html"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
