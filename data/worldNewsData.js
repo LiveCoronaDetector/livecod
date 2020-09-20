@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/the_americas/canada-trudeau-throne-speech/2020/09/19/b01baa7a-f7b7-11ea-a510-f57d8ce76e11_story.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
+        "link": "https://www.haaretz.com/israel-news/.premium-in-israel-s-first-hospital-to-turn-away-covid-19-patients-stark-warning-of-collapse-1.9171016"
     },
     {
         "title": "Protests in Madrid over coronavirus lockdown measures",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "UK and France 'desperate' to go back into lockdown despite flatlining COVID deaths",
+        "link": "https://www.youtube.com/watch?v=5DBgWJtvhVg"
     }
 ];
