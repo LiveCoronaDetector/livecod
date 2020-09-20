@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920017951052?did=1195m"
     },
     {
+        "title": "청주 코로나19 확진자 3명 퇴원…환자 한자릿수 뚝(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200920_0001172555&cID=10806&pID=10800"
+    },
+    {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
     {
-        "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
+        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
+        "link": "http://www.fnnews.com/news/202009201047378946"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 82명…38일 만에 두 자릿수",
-        "link": "http://news.tf.co.kr/read/life/1813857.htm"
+        "title": "코로나19 신규 확진자 82명…38일 만에 두자릿수",
+        "link": "http://www.inews24.com/view/1300780"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
-        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
     },
     {
         "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
         "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
-    },
-    {
-        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
     }
 ];
