@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
+        "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
+        "link": "https://www.news1.kr/articles/?4064340"
+    },
+    {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
@@ -23,10 +27,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
-    },
-    {
-        "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
-        "link": "https://www.news1.kr/articles/?4064340"
     },
     {
         "title": "코로나19 신규 확진자 82명…38일만에 두 자릿수(종합)",
