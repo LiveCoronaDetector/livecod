@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
-        "title": "How it all went wrong (again) in Europe as second wave grips continent",
-        "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
+        "title": "Protests in Madrid over coronavirus lockdown measures",
+        "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
     },
     {
         "title": "India's coronavirus infections surge to 5.4 million",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSKCN26B06L"
+        "link": "https://www.reuters.com/article/health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSL3N2GH02A"
     },
     {
         "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
-        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
-    },
-    {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
-        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
+    },
+    {
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     }
 ];
