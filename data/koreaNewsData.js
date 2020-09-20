@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
     {
+        "title": "부산 동아대 확진자 접촉·동선노출 경남 108명 검사(종합)",
+        "link": "http://yna.kr/AKR20200920017951052?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
@@ -15,14 +19,6 @@ var koreaNewsData = [
     {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
-    },
-    {
-        "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
-        "link": "https://www.hankyung.com/politics/article/202009208834i"
-    },
-    {
-        "title": "코로나19 확진자 반려동물, 경기도가 안전하게 돌본다",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015028666&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
         "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
+        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
     }
 ];
