@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
     },
     {
-        "title": "[속보] 광주 코로나19 확진자 1명 추가 발생…해외유입",
-        "link": "https://www.news1.kr/articles/?4064375"
-    },
-    {
-        "title": "부산 동아대 확진자 접촉·동선노출 경남 108명 검사(종합)",
-        "link": "http://yna.kr/AKR20200920017951052?did=1195m"
+        "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
     },
     {
         "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
         "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
+        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
     }
 ];

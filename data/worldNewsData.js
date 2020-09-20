@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "Temple Mount remains open despite nationwide coronavirus lockdown",
+        "link": "https://www.jpost.com/israel-news/temple-mount-remains-open-despite-nationwide-coronavirus-lockdown-642905"
     },
     {
         "title": "Coronavirus live news: India sees 92,000 new infections; China faces fifth wave, expert says",
         "link": "https://www.theguardian.com/world/live/2020/sep/20/coronavirus-live-news-france-sees-another-record-daily-rise-as-victoria-records-14-new-cases"
     },
     {
-        "title": "Coronavirus: How new cases of Covid-19 might affect Auckland's move out of level 2.5",
-        "link": "https://www.stuff.co.nz/national/health/coronavirus/122827438/coronavirus-how-new-cases-of-covid19-might-affect-aucklands-move-out-of-level-25"
+        "title": "UK risks new lockdown as COVID-19 cases hit peak since May: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "Two new community cases not linked to Auckland cluster",
-        "link": "https://www.odt.co.nz/news/national/two-new-community-cases-not-linked-auckland-cluster"
-    },
-    {
-        "title": "Covid 19 coronavirus: Two new cases in community not linked to Auckland cluster, including child at primary school",
-        "link": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12366371"
+        "title": "Australia reports lowest coronavirus cases in three months: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+    },
+    {
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     }
 ];
