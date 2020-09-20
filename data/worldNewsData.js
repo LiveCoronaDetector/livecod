@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54199825"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
+        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     }
 ];
