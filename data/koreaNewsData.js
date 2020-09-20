@@ -5,28 +5,24 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
     {
-        "title": "[속보] 코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
+        "title": "코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
-    },
-    {
-        "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
-        "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
     {
-        "title": "이낙연 “38일 만에 확진자 두 자릿수… 국민 덕분에”",
-        "link": "http://www.segye.com/content/html/2020/09/20/20200920508476.html?OutUrl=naver"
+        "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
+        "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
         "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
         "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
     },
     {
-        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
-        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
         "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
+    },
+    {
+        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
+        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
