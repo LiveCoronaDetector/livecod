@@ -196,9 +196,9 @@ var marker = [
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "확진자수": 172712,
-        "사망자수": 3516,
-        "완치자수": 76754
+        "확진자수": 175678,
+        "사망자수": 3557,
+        "완치자수": 77512
     },
     {
         "Name": "캐나다",
@@ -745,6 +745,14 @@ var marker = [
         "완치자수": 9315
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "확진자수": 9736,
+        "사망자수": 155,
+        "완치자수": 2386
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -767,14 +775,6 @@ var marker = [
         "확진자수": 9303,
         "사망자수": 73,
         "완치자수": 8066
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "확진자수": 9110,
-        "사망자수": 138,
-        "완치자수": 2366
     },
     {
         "Name": "핀란드",

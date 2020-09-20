@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "Covid-19 update: Four new cases - two community and two imported",
-        "link": "https://www.msn.com/en-nz/news/national/covid-19-update-four-new-cases-two-community-and-two-imported/ar-BB19dwu3"
-    },
-    {
-        "title": "The Covid economy looks grim, but we have the power to change things",
-        "link": "https://www.stuff.co.nz/business/opinion-analysis/300110914/the-covid-economy-looks-grim-but-we-have-the-power-to-change-things"
+        "title": "Australia reports lowest coronavirus cases in three months: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
     },
     {
         "title": "Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+    },
+    {
         "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
+        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
     }
 ];
