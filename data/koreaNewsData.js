@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
-        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
-        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
+        "title": "코로나19 확진자 반려동물, 경기도가 돌본다",
+        "link": "http://www.fnnews.com/news/202009201014025437"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
-    },
-    {
         "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
         "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
     },
     {
-        "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
-        "link": "https://news.imaeil.com/Society/2020092010491506921"
+        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
     },
     {
-        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
-        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
+        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
+    },
+    {
+        "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
+        "link": "https://news.imaeil.com/Society/2020092010491506921"
     }
 ];
