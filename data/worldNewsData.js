@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/health/health-news/u-s-covid-19-death-toll-surpasses-200-000-n1240034"
     },
     {
-        "title": "France Sets New Daily Coronavirus Record—13,000 Cases—As Other Countries Lock Down",
-        "link": "https://www.forbes.com/sites/carlieporterfield/2020/09/18/france-sets-new-daily-coronavirus-record-13000-cases-as-other-countries-lock-down/"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
+    },
+    {
         "title": "Coronavirus: US death toll hits 200000",
         "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
     },
     {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
-    },
-    {
-        "title": "Fresh curbs in Europe as global COVID cases top 30 million: Live",
-        "link": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/18/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
