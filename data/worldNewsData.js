@@ -5,28 +5,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "Canada unveils COVID-19 'gargle, spit' test, first of its kind",
-        "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
+        "title": "As coronavirus skyrocketed in the US, so did stress and depression",
+        "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Temple Mount remains open despite nationwide coronavirus lockdown",
-        "link": "https://www.jpost.com/israel-news/temple-mount-remains-open-despite-nationwide-coronavirus-lockdown-642905"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
         "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
     },
     {
-        "title": "Covid-19 update: Four new cases - two community and two imported",
-        "link": "https://www.msn.com/en-nz/news/national/covid-19-update-four-new-cases-two-community-and-two-imported/ar-BB19dwu3"
+        "title": "India's coronavirus infections surge to 5.4 million",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSKCN26B06L"
     },
     {
-        "title": "Coronavirus: How new cases of Covid-19 might affect Auckland's move out of level 2.5",
-        "link": "https://www.stuff.co.nz/national/health/coronavirus/122827438/coronavirus-how-new-cases-of-covid19-might-affect-aucklands-move-out-of-level-25"
-    },
-    {
-        "title": "School undergoing 'deep clean' after student not linked to Auckland cluster tests positive",
-        "link": "https://www.newstalkzb.co.nz/news/national/covid-19-coronavirus-four-new-cases-two-in-community/"
+        "title": "Australia reports lowest coronavirus cases in three months: Live",
+        "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+    },
+    {
+        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
     }
 ];
