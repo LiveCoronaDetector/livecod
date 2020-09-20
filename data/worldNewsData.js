@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Temple Mount remains open despite nationwide coronavirus lockdown",
-        "link": "https://www.jpost.com/israel-news/temple-mount-remains-open-despite-nationwide-coronavirus-lockdown-642905"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "Coronavirus live news: India sees 92,000 new infections; China faces fifth wave, expert says",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     },
     {
-        "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
+        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
+        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     }
 ];
