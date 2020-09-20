@@ -13,8 +13,12 @@ var koreaNewsData = [
         "link": "http://www.ajunews.com/view/20200920094333319"
     },
     {
-        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
+        "title": "[속보] 코로나 19 신규 확진자 82명…38일 만에 두 자릿수로 내려와",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
+    },
+    {
+        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
+        "link": "http://www.fnnews.com/news/202009201047378946"
     },
     {
         "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092011043181348"
     },
     {
-        "title": "이낙연 \"코로나19 확진자 100명 아래로…국민 협조 덕분\"",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5915506_32626.html"
+        "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
+        "link": "https://www.hankyung.com/politics/article/202009208834i"
     },
     {
         "title": "[속보] 대구 확진자 2명…달서구·달성군 동충하초 설명회 확진자와 접촉[전문...",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
     },
     {
-        "title": "[단독] 삼성 서초사옥도 뚫렸다…첫 코로나19 확진자 발생",
-        "link": "http://www.viva100.com/main/view.php?key=20200920010004144"
-    },
-    {
-        "title": "코로나19 신규확진자 '82명'… 8월 재유행 후 첫 두자리(상보)",
-        "link": "http://moneys.mt.co.kr/news/mwView.php?no=2020092009508054069"
+        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     }
 ];

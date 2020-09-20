@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "U.S. Covid-19 death toll surpasses 200,000",
-        "link": "https://www.nbcnews.com/health/health-news/u-s-covid-19-death-toll-surpasses-200-000-n1240034"
+        "title": "Canada unveils COVID-19 'gargle, spit' test, first of its kind",
+        "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Inside the Hell of Israel's Second Lockdown",
-        "link": "https://www.thedailybeast.com/inside-the-hell-of-israels-second-lockdown"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Sputnik V research team responds to criticism in The Lancet",
-        "link": "https://tass.com/science/1202623"
-    },
-    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
     },
     {
         "title": "Coronavirus: US death toll hits 200000",
         "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
+    },
+    {
+        "title": "AstraZeneca, Under Fire for Vaccine Safety, Releases Trial Blueprints",
+        "link": "https://www.nytimes.com/2020/09/19/health/astrazeneca-vaccine-safety-blueprints.html"
     }
 ];
