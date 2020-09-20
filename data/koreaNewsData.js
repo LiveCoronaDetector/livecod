@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 82명…38일 만에 두 자릿수",
+        "link": "http://news.tf.co.kr/read/life/1813857.htm"
+    },
+    {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
@@ -13,31 +17,27 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
     {
-        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
-        "link": "http://www.fnnews.com/news/202009201047378946"
-    },
-    {
-        "title": "코로나19 확진자 반려동물, 경기도가 안전하게 돌본다",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015028666&code=61121111&cp=nv"
+        "title": "코로나19 확진자 반려동물, 경기도가 돌본다",
+        "link": "http://www.fnnews.com/news/202009201014025437"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
+        "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
     },
     {
-        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
+        "title": "[속보] 광주 코로나19 확진자 1명 추가 발생…해외유입",
+        "link": "https://www.news1.kr/articles/?4064375"
     },
     {
-        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
-        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
+        "title": "부산 동아대 확진자 접촉·동선노출 경남 108명 검사(종합)",
+        "link": "http://yna.kr/AKR20200920017951052?did=1195m"
     },
     {
-        "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
-        "link": "https://www.hankyung.com/politics/article/202009208834i"
+        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
     }
 ];
