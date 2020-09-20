@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "As coronavirus skyrocketed in the US, so did stress and depression",
-        "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
+        "title": "As Canada’s Parliament returns, Trudeau aims for reset on coronavirus, charity scandal",
+        "link": "https://www.washingtonpost.com/world/the_americas/canada-trudeau-throne-speech/2020/09/19/b01baa7a-f7b7-11ea-a510-f57d8ce76e11_story.html"
     },
     {
         "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
     },
     {
-        "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
-        "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
-    },
-    {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
-        "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
-        "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+        "title": "UK and France 'desperate' to go back into lockdown despite flatlining COVID deaths",
+        "link": "https://www.youtube.com/watch?v=5DBgWJtvhVg"
+    },
+    {
+        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
+        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     }
 ];
