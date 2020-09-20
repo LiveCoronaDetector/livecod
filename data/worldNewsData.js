@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Coronavirus: Israel marks Jewish New Year with second lockdown",
-        "link": "https://www.bbc.com/news/world-middle-east-54201834"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/australia-records-lowest-coronavirus-cases-june-live-news-200919000413298.html"
     },
     {
-        "title": "As infections ebb, Japan hopes it has cracked the covid code on coexisting with the virus",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/as-infections-ebb-japan-hopes-it-has-cracked-the-covid-code-on-coexisting-with-the-virus/2020/09/17/4742e284-eea2-11ea-bd08-1b10132b458f_story.html"
+        "title": "Covid-19 update: Four new cases - two community and two imported",
+        "link": "https://www.msn.com/en-nz/news/national/covid-19-update-four-new-cases-two-community-and-two-imported/ar-BB19dwu3"
+    },
+    {
+        "title": "The Covid economy looks grim, but we have the power to change things",
+        "link": "https://www.stuff.co.nz/business/opinion-analysis/300110914/the-covid-economy-looks-grim-but-we-have-the-power-to-change-things"
     },
     {
         "title": "Covid-19 Live Updates",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "China and Russia are ahead in the global coronavirus vaccine race, bending long-standing rules as they go",
         "link": "https://www.washingtonpost.com/world/asia_pacific/china-and-russia-are-ahead-in-the-global-coronavirus-vaccine-race-bending-long-standing-rules-as-they-go/2020/09/18/9bfd4438-e2d4-11ea-82d8-5e55d47e90ca_story.html"
-    },
-    {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
     },
     {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
