@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
-        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
-    },
-    {
-        "title": "[2보] 코로나19 어제 82명 신규확진…38일만에 첫 100명 아래",
-        "link": "http://yna.kr/AKR20200920013600530?did=1195m"
-    },
-    {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
+    },
+    {
+        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
     },
     {
         "title": "이낙연 \"코로나19 확진자 100명 아래로…국민 협조 덕분\"",
         "link": "https://imnews.imbc.com/news/2020/politics/article/5915506_32626.html"
     },
     {
-        "title": "코로나19 신규 확진자 82명…2차 유행 후 38일만에 첫 두 자리",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205434"
-    },
-    {
         "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
+    },
+    {
+        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     }
 ];
