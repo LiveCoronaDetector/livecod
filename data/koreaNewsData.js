@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5415306"
     },
     {
-        "title": "부산 동아대 확진자 접촉·동선노출 경남 108명 검사(종합)",
-        "link": "http://yna.kr/AKR20200920017951052?did=1195m"
+        "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
+        "link": "http://yna.kr/AKR20200920021200004?did=1195m"
+    },
+    {
+        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
+        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
         "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
-        "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
-        "link": "http://yna.kr/AKR20200920021200004?did=1195m"
-    },
-    {
-        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
-        "link": "http://www.fnnews.com/news/202009201047378946"
+        "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
+        "link": "https://www.hankyung.com/politics/article/202009208834i"
     },
     {
         "title": "코로나19 신규 확진자 82명…38일 만에 두자릿수",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "코로나19, 동아대 확진자 9명으로 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008547&ref=A"
+        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
+    },
+    {
+        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
+        "link": "http://www.fnnews.com/news/202009201047378946"
     },
     {
         "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
-    },
-    {
-        "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
     }
 ];
