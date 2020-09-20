@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/health/health-news/u-s-covid-19-death-toll-surpasses-200-000-n1240034"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "Inside the Hell of Israel's Second Lockdown",
+        "link": "https://www.thedailybeast.com/inside-the-hell-of-israels-second-lockdown"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://tass.com/science/1202623"
     },
     {
-        "title": "Coronavirus: US death toll hits 200000",
-        "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
-    },
-    {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
         "link": "https://www.cnn.com/2020/09/17/europe/coronavirus-europe-who-second-wave-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: US death toll hits 200000",
+        "link": "https://www.independent.co.uk/news/world/americas/coronavirus-us-deaths-cases-update-news-nbc-b500856.html"
     }
 ];

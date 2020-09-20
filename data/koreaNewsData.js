@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01302166625902088"
     },
     {
-        "title": "[속보]코로나19 어제 82명 신규확진…38일만에 두자릿수",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091900000"
+        "title": "[코로나19] 신규 확진자 82명…38일만에 첫 100명대 아래(상보)",
+        "link": "http://www.ajunews.com/view/20200920094333319"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
     },
     {
-        "title": "[코로나19] 신규 확진자 82명…38일만에 첫 100명대 아래(상보)",
-        "link": "http://www.ajunews.com/view/20200920094333319"
+        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
+        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
     },
     {
-        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
+        "title": "서울 어제 확진자 28명대로 감소 … 8월 대확산 이후 최저(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092011043181348"
     },
     {
-        "title": "기아 소하리공장서 코로나19 확진자 추가 2명 발생",
-        "link": "http://www.fnnews.com/news/202009191331280311"
+        "title": "이낙연 \"코로나19 확진자 100명 아래로…국민 협조 덕분\"",
+        "link": "https://imnews.imbc.com/news/2020/politics/article/5915506_32626.html"
     },
     {
-        "title": "코로나19 재감염 의심 사례 나왔다...20대 여성 두 번 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009191552126913"
+        "title": "[속보] 대구 확진자 2명…달서구·달성군 동충하초 설명회 확진자와 접촉[전문...",
+        "link": "https://news.imaeil.com/Society/2020092010491506921"
     },
     {
-        "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
+        "title": "[단독] 삼성 서초사옥도 뚫렸다…첫 코로나19 확진자 발생",
+        "link": "http://www.viva100.com/main/view.php?key=20200920010004144"
     },
     {
         "title": "코로나19 신규확진자 '82명'… 8월 재유행 후 첫 두자리(상보)",
