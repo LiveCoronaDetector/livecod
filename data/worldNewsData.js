@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/canada-covid-gargle-spit-test"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "Coronavirus: Israel marks Jewish New Year with second lockdown",
+        "link": "https://www.bbc.com/news/world-middle-east-54201834"
     },
     {
         "title": "How it all went wrong (again) in Europe as second wave grips continent",
@@ -25,7 +25,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/09/brazil-argentina-join-coronavirus-vaccine-alliance-live-news-200919231757412.html"
     },
     {
-        "title": "Covid-19 Live Updates",
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
+    },
+    {
+        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "New fear grips Europe as Covid tops 30m worldwide",
         "link": "https://www.bbc.com/news/world-54199825"
-    },
-    {
-        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
-        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     }
 ];

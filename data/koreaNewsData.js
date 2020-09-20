@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962835.html"
     },
     {
-        "title": "코로나19 82명 신규확진…38일만에 첫 100명 아래",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5915451_32633.html"
-    },
-    {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/20/20200920508476.html?OutUrl=naver"
     },
     {
+        "title": "[속보] 코로나19 신규확진자 어제 82명···38일 만에 두 자리",
+        "link": "https://www.sedaily.com/NewsView/1Z7XG6GLZB"
+    },
+    {
+        "title": "[전문]정세균 총리 “추석 前 비수도권도 코로나 2단계 유지 필요\"",
+        "link": "https://www.chosun.com/national/2020/09/20/ZMERV4TGWNCJTMZBIXEJGGVGXE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "신규 확진자 38일 만에 100명 아래로…어제 82명 확진",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000996938?division=NAVER"
+    },
+    {
+        "title": "코로나19 확진자 38일만에 첫 100명 아래…서울 28명, 경기 26명",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200920000033"
+    },
+    {
         "title": "[속보] '동충하초 설명회' 확진자 접촉, 대구 2명 추가 확진 [전문]",
         "link": "https://news.imaeil.com/Society/2020092010491506921"
-    },
-    {
-        "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009201000103495"
-    },
-    {
-        "title": "코로나19 위·중증 환자 146명…70대 62명으로 최다(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200920_0001172399&cID=10201&pID=10200"
-    },
-    {
-        "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
     }
 ];
