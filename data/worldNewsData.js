@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Hands, face, space? Johnson's Covid message has got priorities wrong, scientists warn",
-        "link": "https://www.theguardian.com/world/2020/sep/19/scientists-criticise-uks-hands-face-space-campaign-to-control-covid-19-coronavirus"
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
         "title": "WHO warns of 'very serious situation' in Europe, with 'alarming rates' of virus transmission",
