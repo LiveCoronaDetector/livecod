@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962944.html"
     },
     {
-        "title": "[종합] 동아대 부민캠퍼스발 확진자 12명으로 늘어…대학가 초비상",
-        "link": "http://www.newspim.com/news/view/20200921000756"
-    },
-    {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
     },
@@ -21,23 +17,27 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
-        "title": "\"미국 코로나 대응 형편없다\" 빌 게이츠의 작심 발언",
-        "link": "http://www.fnnews.com/news/202009210935241068"
-    },
-    {
         "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
         "link": "http://news.tf.co.kr/read/life/1813956.htm"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 부민캠퍼스 관련 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
+        "title": "\"미국 코로나 대응 형편없다\" 빌 게이츠의 작심 발언",
+        "link": "http://www.fnnews.com/news/202009210935241068"
     },
     {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
-        "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
-        "link": "https://www.news1.kr/articles/?4064340"
+        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
+    },
+    {
+        "title": "국내서도 코로나19 '재감염' 확인…\"바이러스 변이로 반복 감염도 가능\"(종합...",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03860566625902416"
+    },
+    {
+        "title": "[종합] 포항서 코로나19 확진자 하룻새 2명 추가 발생",
+        "link": "http://www.kukinews.com/newsView/kuk202009210304"
     }
 ];
