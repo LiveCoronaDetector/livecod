@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://13wham.com/news/local/two-students-test-positive-for-covid-19-at-greece-arcadia-high-school"
     },
     {
-        "title": "Protests in Madrid over coronavirus lockdown measures",
-        "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
+        "title": "European stocks fall as bank allegations, coronavirus weigh on sentiment; banks down 6%",
+        "link": "https://www.cnbc.com/2020/09/21/european-markets-banks-coronavirus-news-weigh-on-sentiment.html"
     },
     {
         "title": "Taj Mahal reopens as coronavirus cases continue to rise in India",
@@ -23,10 +23,6 @@ var worldNewsData = [
     {
         "title": "Australia coronavirus cases 'set to be lowest in months'",
         "link": "https://www.bbc.com/news/world-australia-54223977"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+    },
+    {
+        "title": "‘We may be surprised again’: An unpredictable Covid-19 pandemic takes a terrible toll",
+        "link": "https://www.deccanherald.com/international/world-news-politics/we-may-be-surprised-again-an-unpredictable-covid-19-pandemic-takes-a-terrible-toll-890630.html"
     }
 ];

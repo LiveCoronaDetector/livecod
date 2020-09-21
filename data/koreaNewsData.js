@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/national/1814193.htm"
     },
     {
-        "title": "[속보] 서울 코로나 확진자 5000명 돌파…13명 신규 확진",
-        "link": "https://www.hankyung.com/life/article/2020092142477"
+        "title": "창녕에서 코로나19 확진자 1명 추가 발생…도내 누적 283명",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092118262121358"
     },
     {
         "title": "포항 세명기독병원 관련 확진자 4명으로 늘어",
         "link": "http://yna.kr/AKR20200921108400053?did=1195m"
     },
     {
-        "title": "창녕에서 코로나19 확진자 1명 추가 발생…도내 누적 283명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092118262121358"
-    },
-    {
         "title": "부산 동아대 부민캠퍼스 코로나19 환자 3명 더 늘어…총 12명",
         "link": "https://www.donga.com/news/article/all/20200921/103030616/2"
+    },
+    {
+        "title": "[전문] 동작구청 218번째 확진자 발생...대방동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381245"
     },
     {
         "title": "서울-부산-포항서 소규모 집단감염 잇따라…코로나19 지속 확산(종합)",
