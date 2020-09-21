@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "How The Unpredictable Coronavirus Pandemic Took a Terrible Toll",
-        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
+        "title": "Most of the US is headed in the wrong direction again with Covid-19 cases as deaths near 200,000",
+        "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
     },
     {
-        "title": "India to offer Maldives a US$250m loan, amid China’s growing footprint",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3102301/india-offer-maldives-us250-million-loan-recover-coronavirus"
+        "title": "India's coronavirus infections surge to 5.4 million",
+        "link": "https://www.reuters.com/article/health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSL3N2GH02A"
     },
     {
         "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
         "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
     },
     {
-        "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
-        "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
-        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
-        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
+        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
+        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     },
     {
-        "title": "Covid-19 Live Updates: Health Officials Tiptoe Around Trump’s Vaccine Timeline",
-        "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
     }
 ];
