@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "Most of the US is headed in the wrong direction again with Covid-19 cases as deaths near 200,000",
-        "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
+        "title": "As Canada’s Parliament returns, Trudeau aims for reset on coronavirus, charity scandal",
+        "link": "https://www.washingtonpost.com/world/the_americas/canada-trudeau-throne-speech/2020/09/19/b01baa7a-f7b7-11ea-a510-f57d8ce76e11_story.html"
     },
     {
-        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
-        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
+        "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
+        "link": "https://www.haaretz.com/israel-news/.premium-in-israel-s-first-hospital-to-turn-away-covid-19-patients-stark-warning-of-collapse-1.9171016"
     },
     {
         "title": "Protests in Madrid over coronavirus lockdown measures",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
-        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
+        "title": "COVID-19 in Arizona: State reports more than 400 new cases, 9 new deaths Sunday",
+        "link": "https://www.azcentral.com/story/news/local/arizona-health/2020/09/20/arizona-covid-19-update-214018-identified-cases-5476-known-deaths/5844569002/"
     }
 ];

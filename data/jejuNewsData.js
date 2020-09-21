@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
+        "title": "\"엄마 미안해요 저 '추캉스' 가요\" 추석 황금연휴, 코로나 확산 우려",
+        "link": "https://view.asiae.co.kr/article/2020092110522925966"
+    },
+    {
         "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나19, 58번째 확진자 나와…부천 확진자 접촉자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
-    },
-    {
-        "title": "[속보] 제주서 사흘만에 확진자… 방글라데시 유학생",
-        "link": "http://www.segye.com/content/html/2020/09/17/20200917527105.html?OutUrl=naver"
     }
 ];
