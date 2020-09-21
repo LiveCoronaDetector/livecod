@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
     {
+        "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
+    },
+    {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
         "link": "http://www.fnnews.com/news/202009211703099399"
     },
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 110명…17일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
-    },
-    {
-        "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
     },
     {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
     },
     {
-        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
-        "link": "http://www.fnnews.com/news/202009180651538170"
+        "title": "제주 58번째 코로나19 확진자 발생…부천 328번 접촉자",
+        "link": "https://www.news1.kr/articles/?4062517"
     }
 ];

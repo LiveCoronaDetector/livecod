@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "As doctors worry about 'a very apocalyptic fall,' the CDC retracts info on how Covid-19 spreads",
-        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
     },
     {
         "title": "Hospitals refuse coronavirus patients as cabinet readies new restrictions",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Australia's daily coronavirus tally falls to lowest in more than three months",
-        "link": "https://news.yahoo.com/australias-victoria-reports-steady-downward-235718819.html"
+        "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
+        "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
-        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
-        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
-        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
+        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
     },
     {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
