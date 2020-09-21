@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
-        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
-        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
-    },
-    {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
+    },
+    {
+        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
+        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
