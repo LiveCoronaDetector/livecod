@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/21/taj-mahal-reopens-as-coronavirus-cases-continue-to-rise-in-india"
     },
     {
-        "title": "Victoria records 11 new coronavirus cases and two further COVID-19 deaths | ABC News",
-        "link": "https://www.youtube.com/watch?v=GFJSM_5WBxU"
+        "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
+        "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
-        "title": "Health Officials Tiptoe Around Trump’s Coronavirus Vaccine Timeline",
-        "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
+        "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
+        "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
     {
-        "title": "Global economic fears, coronavirus resurgence drive Asian shares down",
-        "link": "https://www.foxbusiness.com/economy/global-economy-fears-coronavirus-resurgence-drive-asian-shares-down"
+        "title": "U.S. to surpass grim milestone of 200,000 COVID-19 deaths",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa-deaths/u-s-to-surpass-grim-milestone-of-200000-covid-19-deaths-idINKCN26C11Z"
     }
 ];
