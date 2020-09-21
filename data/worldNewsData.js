@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "As Canada’s Parliament returns, Trudeau aims for reset on coronavirus, charity scandal",
-        "link": "https://www.washingtonpost.com/world/the_americas/canada-trudeau-throne-speech/2020/09/19/b01baa7a-f7b7-11ea-a510-f57d8ce76e11_story.html"
+        "title": "How The Unpredictable Coronavirus Pandemic Took a Terrible Toll",
+        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
     },
     {
         "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
     },
     {
-        "title": "Covid-19 Live Updates: Health Officials Tiptoe Around Trump’s Vaccine Timeline",
-        "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
-    },
-    {
         "title": "Global preparation: how different countries planned for the second wave of Covid-19",
         "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
+    },
+    {
+        "title": "Covid-19 Live Updates: Health Officials Tiptoe Around Trump’s Vaccine Timeline",
+        "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
     },
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "COVID-19 in Arizona: State reports more than 400 new cases, 9 new deaths Sunday",
-        "link": "https://www.azcentral.com/story/news/local/arizona-health/2020/09/20/arizona-covid-19-update-214018-identified-cases-5476-known-deaths/5844569002/"
+        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
+        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     }
 ];
