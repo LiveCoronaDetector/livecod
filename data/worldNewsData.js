@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/.premium-in-israel-s-first-hospital-to-turn-away-covid-19-patients-stark-warning-of-collapse-1.9171016"
     },
     {
-        "title": "Protests in Madrid over coronavirus lockdown measures",
-        "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
+        "title": "How it all went wrong (again) in Europe as second wave grips continent",
+        "link": "https://www.cnn.com/2020/09/19/europe/europe-second-wave-coronavirus-intl/index.html"
     },
     {
         "title": "India to offer Maldives a US$250m loan, amid China’s growing footprint",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "COVID-19 in Arizona: State reports more than 400 new cases, 9 new deaths Sunday",
-        "link": "https://www.azcentral.com/story/news/local/arizona-health/2020/09/20/arizona-covid-19-update-214018-identified-cases-5476-known-deaths/5844569002/"
+        "title": "How The Unpredictable Coronavirus Pandemic Took a Terrible Toll",
+        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
     }
 ];

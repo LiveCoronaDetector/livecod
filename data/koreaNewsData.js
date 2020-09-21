@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 부민캡퍼스 관련 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
-    },
-    {
         "title": "[종합]코로나19 확진자 70명 증가...서울 21명, 경기 18명",
         "link": "http://www.fnnews.com/news/202009210935560706"
     },
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "빌 게이츠 \"美, 24시간내 코로나 진단 못해…형편없다\"",
         "link": "http://news.mt.co.kr/mtview.php?no=2020092110192379128"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
+        "link": "http://news.tf.co.kr/read/life/1813956.htm"
     },
     {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
