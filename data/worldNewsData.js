@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-australia/australias-covid-19-hotspot-reports-lowest-daily-rise-in-infections-since-june-idUSKCN26B10Q"
+        "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
     }
 ];

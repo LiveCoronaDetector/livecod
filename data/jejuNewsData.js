@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
-        "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
-    },
-    {
         "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
         "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
+    },
+    {
+        "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     },
     {
         "title": "\"엄마 미안해요 저 '추캉스' 가요\" 추석 황금연휴, 코로나 확산 우려",
