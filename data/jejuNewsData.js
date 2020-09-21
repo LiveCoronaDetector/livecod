@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
+        "title": "코로나-19로 보는 주민공동체",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427826"
+    },
+    {
         "title": "[전문] 제주도 57번째 58번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=380808"
     },
     {
         "title": "제주 코로나19, 58번째 확진자 나와…부천 확진자 접촉자",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
-    },
-    {
-        "title": "제주도서 방글라데시 유학생 코로나19 확진..57번째",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04447686625901104"
     }
 ];

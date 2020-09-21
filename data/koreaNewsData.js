@@ -5,24 +5,32 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008457&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
-        "link": "http://www.hani.co.kr/arti/society/health/962835.html"
+        "title": "코로나 누적확진 세계 4위 러시아 하늘길 열린다",
+        "link": "http://www.fnnews.com/news/202009210645332592"
     },
     {
         "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
         "link": "https://www.news1.kr/articles/?4064340"
     },
     {
+        "title": "코로나19 신규 확진자 82명…38일 만에 100명 아래",
+        "link": "http://www.hani.co.kr/arti/society/health/962835.html"
+    },
+    {
+        "title": "[속보] 미국 코로나 확진자 700만명 첫 돌파",
+        "link": "https://www.hankyung.com/international/article/202009210681i"
+    },
+    {
         "title": "서울 하루 확진자 39일만에 20명대로 감소…사우나서 집단감염",
         "link": "http://yna.kr/AKR20200920021200004?did=1195m"
     },
     {
-        "title": "[코로나19]신규 확진자 82명...38일만에 두 자릿수",
-        "link": "http://www.fnnews.com/news/202009201047378946"
+        "title": "코로나19 신규 확진자 82명…38일 만에 두자릿수",
+        "link": "http://www.inews24.com/view/1300780"
     },
     {
-        "title": "이낙연 \"코로나 확진자 두자리수로…귀성 자제해달라\"",
-        "link": "https://www.hankyung.com/politics/article/202009208834i"
+        "title": "이낙연 “38일 만에 확진자 두 자릿수… 국민 덕분에”",
+        "link": "http://www.segye.com/content/html/2020/09/20/20200920508476.html?OutUrl=naver"
     },
     {
         "title": "코로나19 신규 확진자 82명...38일 만에 두 자릿수",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 82명…38일만에 두 자릿수(종합)",
         "link": "https://www.nocutnews.co.kr/news/5415306"
-    },
-    {
-        "title": "코로나19, 동아대 확진자 9명으로 늘어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008547&ref=A"
-    },
-    {
-        "title": "정세균 “비수도권도 거리두기 2단계 유지…연휴 전 확실한 두 자릿수 확진자...",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000996972?division=NAVER"
     }
 ];
