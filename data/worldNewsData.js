@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
     },
     {
-        "title": "India to offer Maldives a US$250m loan, amid China’s growing footprint",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3102301/india-offer-maldives-us250-million-loan-recover-coronavirus"
+        "title": "Taj Mahal reopens even as India coronavirus cases soar",
+        "link": "https://www.bangkokpost.com/world/1989063/taj-mahal-reopens-even-as-india-coronavirus-cases-soar"
     },
     {
         "title": "Australia's coronavirus lockdown strategy worked. Could this be a model for the US?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Health Officials Tiptoe Around Trump’s Vaccine Timeline",
-        "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
-        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
-    },
-    {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+    },
+    {
+        "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
+        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Bleach touted as 'miracle cure' for Covid being sold on Amazon",
+        "link": "https://www.theguardian.com/world/2020/sep/19/bleach-miracle-cure-amazon-covid"
     }
 ];

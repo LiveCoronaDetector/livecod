@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
-        "title": "코로나19확진자 감소세 더뎌..신규확진 110명",
-        "link": "http://www.fnnews.com/news/202009191105061534"
-    },
-    {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+    },
+    {
+        "title": "코로나19확진자 감소세 더뎌..신규확진 110명",
+        "link": "http://www.fnnews.com/news/202009191105061534"
     },
     {
         "title": "제주 58번 확진자는 관광객…접촉자 15명 파악",

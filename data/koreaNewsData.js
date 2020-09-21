@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962944.html"
     },
     {
-        "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
-        "link": "https://www.hankyung.com/life/article/2020092122237"
-    },
-    {
         "title": "코로나19 신규 확진자 70명…국내발생만 55명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
+    },
+    {
+        "title": "[종합] 동아대 부민캠퍼스발 확진자 12명으로 늘어…대학가 초비상",
+        "link": "http://www.newspim.com/news/view/20200921000756"
     },
     {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009210935241068"
     },
     {
-        "title": "'확진자수 4위' 러시아, 한국인 입국금지 27일부터 '해제'",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01479286625902416"
+        "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
+        "link": "http://news.tf.co.kr/read/life/1813956.htm"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 부민캠퍼스 관련 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
+        "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
+        "link": "https://www.hankyung.com/life/article/2020092122237"
     },
     {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
-        "title": "[종합] 동아대 부민캠퍼스발 확진자 12명으로 늘어…대학가 초비상",
-        "link": "http://www.newspim.com/news/view/20200921000756"
+        "title": "\"전국 확산 우려\"…동아대 부민캠퍼스 관련 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
     }
 ];
