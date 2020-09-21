@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/asia/south-asia/article/3102301/india-offer-maldives-us250-million-loan-recover-coronavirus"
     },
     {
-        "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
-        "link": "https://www.nytimes.com/2020/09/20/world/asia/china-tv-women-coronavirus.html"
+        "title": "Australia's coronavirus lockdown strategy worked. Could this be a model for the US?",
+        "link": "https://www.cnn.com/2020/09/21/australia/australia-coronavirus-lockdown-intl-hnk/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
         "title": "Covid-19 Live Updates: Health Officials Tiptoe Around Trump’s Vaccine Timeline",
         "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
     },
     {
+        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
+        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
+    },
+    {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
-    },
-    {
-        "title": "New fear grips Europe as Covid tops 30m worldwide",
-        "link": "https://www.bbc.com/news/world-54199825"
-    },
-    {
-        "title": "Schools open in India as coronavirus cases top 5 million | DW News",
-        "link": "https://www.youtube.com/watch?v=-cgvhzqIXkQ"
     }
 ];
