@@ -5,20 +5,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "Most of the US is headed in the wrong direction again with Covid-19 cases as deaths near 200,000",
-        "link": "https://www.cnn.com/2020/09/20/health/us-coronavirus-sunday/index.html"
+        "title": "How The Unpredictable Coronavirus Pandemic Took a Terrible Toll",
+        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
     },
     {
-        "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
-        "link": "https://www.haaretz.com/israel-news/.premium-in-israel-s-first-hospital-to-turn-away-covid-19-patients-stark-warning-of-collapse-1.9171016"
+        "title": "Iran appears to be in grip of ‘third wave’ of coronavirus outbreak",
+        "link": "https://www.theguardian.com/world/2020/sep/18/iran-appears-grip-of-third-wave-coronavirus-outbreak"
     },
     {
         "title": "Protests in Madrid over coronavirus lockdown measures",
         "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
     },
     {
-        "title": "India's coronavirus infections surge to 5.4 million",
-        "link": "https://www.reuters.com/article/health-coronavirus-india-cases/indias-coronavirus-infections-surge-to-54-million-idUSL3N2GH02A"
+        "title": "India to offer Maldives a US$250m loan, amid China’s growing footprint",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3102301/india-offer-maldives-us250-million-loan-recover-coronavirus"
     },
     {
         "title": "China T.V. Show Praising Coronavirus Fight Sparks a Backlash from Women",
