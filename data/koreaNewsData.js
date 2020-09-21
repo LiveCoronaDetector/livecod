@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
+        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
     },
     {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
+        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
         "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
