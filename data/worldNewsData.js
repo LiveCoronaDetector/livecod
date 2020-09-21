@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
-    },
-    {
         "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
         "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
+    },
+    {
+        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
+        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     },
     {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",

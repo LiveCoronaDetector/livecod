@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092118262121358"
     },
     {
-        "title": "포항 21일 하루동안 코로나19 확진자 3명 발생(종합)",
-        "link": "http://news.tf.co.kr/read/national/1814193.htm"
-    },
-    {
         "title": "코로나19 위기에 '공감'…기록 남긴 현대차 임협 잠정 합의",
         "link": "http://yna.kr/AKR20200921172800057?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 70명…국내발생만 55명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
+    },
+    {
+        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
     }
 ];
