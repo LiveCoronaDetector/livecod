@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
     },
     {
-        "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
-        "link": "https://www.haaretz.com/israel-news/.premium-in-israel-s-first-hospital-to-turn-away-covid-19-patients-stark-warning-of-collapse-1.9171016"
+        "title": "Two students test positive for COVID-19 at Greece Arcadia High School",
+        "link": "https://13wham.com/news/local/two-students-test-positive-for-covid-19-at-greece-arcadia-high-school"
     },
     {
         "title": "Protests in Madrid over coronavirus lockdown measures",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54223977"
     },
     {
+        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
+        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
+    },
+    {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
-        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
-    },
-    {
-        "title": "COVID-19 in Arizona: State reports more than 400 new cases, 9 new deaths Sunday",
-        "link": "https://www.azcentral.com/story/news/local/arizona-health/2020/09/20/arizona-covid-19-update-214018-identified-cases-5476-known-deaths/5844569002/"
+        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
     }
 ];
