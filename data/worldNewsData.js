@@ -22,11 +22,15 @@ var worldNewsData = [
     },
     {
         "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
-        "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
+        "link": "https://www.reuters.com/article/instant-article/idUSL3N2GH0AU"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
+    },
+    {
+        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
     },
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
-    },
-    {
-        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
-        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     }
 ];

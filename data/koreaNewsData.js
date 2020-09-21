@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/national/1814193.htm"
     },
     {
-        "title": "포항 세명기독병원 코로나19 확진자 1명 추가...총 72명",
-        "link": "https://www.pressian.com/pages/articles/2020092115022625237?utm_source=naver&utm_medium=search"
+        "title": "코로나19 신규 확진자 70명…이틀 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/962944.html"
+    },
+    {
+        "title": "부산 동아대 부민캠퍼스 코로나19 환자 3명 더 늘어…총 12명",
+        "link": "https://www.donga.com/news/article/all/20200921/103030616/2"
     },
     {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 70명…이틀 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/962944.html"
+        "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
+    },
+    {
+        "title": "“코로나19, 감기처럼 반복감염 가능”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
     },
     {
         "title": "부산 확진자 '순천서 3일간 장례 치러' 방역당국 발칵",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 위기에 '공감'…기록 남긴 현대차 임협 잠정 합의",
         "link": "http://yna.kr/AKR20200921172800057?did=1195m"
-    },
-    {
-        "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
-    },
-    {
-        "title": "“코로나19, 감기처럼 반복감염 가능”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
     }
 ];
