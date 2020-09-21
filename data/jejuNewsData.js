@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
+        "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
+    },
+    {
         "title": "\"엄마 미안해요 저 '추캉스' 가요\" 추석 황금연휴, 코로나 확산 우려",
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 58번째 코로나 확진자 부천 접촉자로 확인",
         "link": "http://www.fnnews.com/news/202009180740042114"
-    },
-    {
-        "title": "제주 코로나19, 58번째 확진자 나와…부천 확진자 접촉자",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5007205&ref=A"
     }
 ];
