@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962944.html"
     },
     {
-        "title": "\"코로나, 독감처럼 반복감염 될수도\"",
-        "link": "http://news.mk.co.kr/newsRead.php?no=974835&year=2020"
+        "title": "정은경 \"코로나, 감기처럼 반복 감염 가능성 있다\"",
+        "link": "https://hankookilbo.com/News/Read/A2020092116100003772?did=NA"
     },
     {
         "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
-    },
-    {
         "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
         "link": "http://kormedi.com/?p=1324596"
     },
     {
-        "title": "창녕에서 코로나19 확진자 1명 추가 발생…도내 누적 283명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092118262121358"
+        "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
+    },
+    {
+        "title": "부산 확진자 '순천서 3일간 장례 치러' 방역당국 발칵",
+        "link": "http://www.newsis.com/view/?id=NISX20200921_0001174108&cID=10809&pID=10800"
     }
 ];
