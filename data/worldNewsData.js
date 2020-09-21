@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Hospitals turn away coronavirus patients, cabinet to tighten restrictions",
+        "title": "Hospitals refuse coronavirus patients as cabinet readies new restrictions",
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "COVID fines an impediment to honest contact tracing answers",
-        "link": "https://www.youtube.com/watch?v=1Ccl0UzaFek"
+        "title": "Australia heads for lowest virus count in three months",
+        "link": "https://ca.reuters.com/article/idUSKCN26B0PO"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     },
     {
         "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
         "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     },
     {
-        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
