@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
-        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
-        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
+        "title": "Tourists in Croatia Help Feed Covid-19 Surge Across Europe",
+        "link": "https://www.wsj.com/articles/tourists-in-croatia-help-feed-covid-19-surge-across-europe-11600684208"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/australia/australia-coronavirus-lockdown-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "CDC reverses itself and says guidelines it posted on coronavirus airborne transmission were wrong",
-        "link": "https://www.washingtonpost.com/nation/2020/09/21/cdc-covid-aerosols-airborne-guidelines/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
-        "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
-        "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
+        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
+    },
+    {
+        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     }
 ];
