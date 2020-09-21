@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962944.html"
     },
     {
-        "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
-    },
-    {
-        "title": "'거리두기 통했나' 하루 신규확진자 70명…이틀째 '두자릿수'",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205445"
+        "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 70명…국내발생만 55명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
-        "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
-        "link": "http://news.tf.co.kr/read/life/1813956.htm"
+        "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
     },
     {
-        "title": "[속보] 코로나 신규 확진 70명... 이틀 연속 두자릿수",
-        "link": "https://hankookilbo.com/News/Read/A2020092109300001564?did=NA"
+        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
+        "link": "http://news.tf.co.kr/read/life/1813956.htm"
     },
     {
         "title": "\"미국 코로나 대응 형편없다\" 빌 게이츠의 작심 발언",
         "link": "http://www.fnnews.com/news/202009210935241068"
     },
     {
-        "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
-        "link": "http://yna.kr/AKR20200921002751075?did=1195m"
+        "title": "포항 세명기독병원 코로나19 확진자 1명 추가...총 72명",
+        "link": "https://www.pressian.com/pages/articles/2020092115022625237?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울확진자 이틀 연속 20명대로 줄었지만…\"경로미확인 28.8%\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200921_0001173336&cID=14001&pID=14000"
+        "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
+        "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
         "title": "[종합] 포항서 코로나19 확진자 하룻새 2명 추가 발생",

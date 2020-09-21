@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
     {
+        "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
+        "link": "http://www.fnnews.com/news/202009211703099399"
+    },
+    {
         "title": "정부 \"확진자 감소 더뎌…추석이 확산 도화선 안되게 여행 자제\"",
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
@@ -25,8 +29,8 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
     },
     {
-        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
-        "link": "http://www.fnnews.com/news/202009161235467580"
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
         "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19확진자 감소세 더뎌..신규확진 110명",
         "link": "http://www.fnnews.com/news/202009191105061534"
-    },
-    {
-        "title": "제주 58번 확진자는 관광객…접촉자 15명 파악",
-        "link": "https://www.news1.kr/articles/?4063445"
     }
 ];
