@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/20/protests-madrid-coronavirus-lockdown-measures-spain"
     },
     {
-        "title": "Taj Mahal reopens even as India coronavirus cases soar",
-        "link": "https://www.bangkokpost.com/world/1989063/taj-mahal-reopens-even-as-india-coronavirus-cases-soar"
+        "title": "Taj Mahal reopens as India’s coronavirus cases soar; New Zealand eases restrictions",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3102336/taj-mahal-reopens-even-indias-coronavirus-cases-soar-new"
     },
     {
         "title": "Australia coronavirus cases 'set to be lowest in months'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
-        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
-        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
-    },
-    {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
         "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
+        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     }
 ];

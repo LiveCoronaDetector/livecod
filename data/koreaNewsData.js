@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/life/1813956.htm"
     },
     {
+        "title": "[속보] 코로나 신규 확진 70명... 이틀 연속 두자릿수",
+        "link": "https://hankookilbo.com/News/Read/A2020092109300001564?did=NA"
+    },
+    {
         "title": "\"미국 코로나 대응 형편없다\" 빌 게이츠의 작심 발언",
         "link": "http://www.fnnews.com/news/202009210935241068"
     },
@@ -29,12 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
-    },
-    {
-        "title": "국내서도 코로나19 '재감염' 확인…\"바이러스 변이로 반복 감염도 가능\"(종합...",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03860566625902416"
+        "title": "서울확진자 이틀 연속 20명대로 줄었지만…\"경로미확인 28.8%\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200921_0001173336&cID=14001&pID=14000"
     },
     {
         "title": "[종합] 포항서 코로나19 확진자 하룻새 2명 추가 발생",

@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
     },
     {
-        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
-        "link": "http://www.fnnews.com/news/202009180651538170"
+        "title": "‘온천 직원’ 제주 53번 확진자…해수사우나도 방문",
+        "link": "http://www.fnnews.com/news/202009161235467580"
     },
     {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
     },
     {
         "title": "코로나19확진자 감소세 더뎌..신규확진 110명",
