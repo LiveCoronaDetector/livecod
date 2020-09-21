@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
     },
     {
-        "title": "기아차, 코로나19 확진자 발생 소하리공장 가동 21일 오후에도 중단",
-        "link": "https://www.sedaily.com/NewsView/1Z7XWVMJ92"
+        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
+    },
+    {
+        "title": "‘코로나 확진자 발생’ 기아차 소하리 공장, 22일 1공장부터 가동 재개",
+        "link": "https://news.joins.com/article/olink/23471953"
     },
     {
         "title": "코로나19 신규 확진자 70명…국내발생만 55명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
-    },
-    {
-        "title": "\"전국 확산 우려\"…동아대 관련 코로나19 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
     }
 ];

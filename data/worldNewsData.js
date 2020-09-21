@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
-        "title": "Tourists in Croatia Help Feed Covid-19 Surge Across Europe",
-        "link": "https://www.wsj.com/articles/tourists-in-croatia-help-feed-covid-19-surge-across-europe-11600684208"
+        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
+        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "Taj Mahal reopens as coronavirus cases continue to rise in India",
+        "link": "https://www.theguardian.com/world/2020/sep/21/taj-mahal-reopens-as-coronavirus-cases-continue-to-rise-in-india"
     },
     {
         "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
