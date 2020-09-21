@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
     },
     {
+        "title": "“코로나19, 감기처럼 반복감염 가능”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
+    },
+    {
         "title": "포항 세명기독병원 코로나19 확진자 1명 추가...총 72명",
         "link": "https://www.pressian.com/pages/articles/2020092115022625237?utm_source=naver&utm_medium=search"
     },
     {
         "title": "부산 동아대 부민캠퍼스 코로나19 환자 3명 더 늘어…총 12명",
         "link": "https://www.donga.com/news/article/all/20200921/103030616/2"
-    },
-    {
-        "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
-        "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     }
 ];
