@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
-        "link": "https://www.reuters.com/article/instant-article/idUSL3N2GH0AU"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
+        "title": "Australia's daily coronavirus tally falls to lowest in more than three months",
+        "link": "https://news.yahoo.com/australias-victoria-reports-steady-downward-235718819.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
+        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
+        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
+    },
+    {
         "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
         "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     },
     {
-        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
-        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
+        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     }
 ];
