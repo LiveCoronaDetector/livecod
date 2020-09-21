@@ -13,6 +13,14 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
+        "title": "\"전국 확산 우려\"…동아대 부민캡퍼스 관련 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
+    },
+    {
+        "title": "[종합]코로나19 확진자 70명 증가...서울 21명, 경기 18명",
+        "link": "http://www.fnnews.com/news/202009210935560706"
+    },
+    {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009210645332592"
     },
     {
+        "title": "빌 게이츠 \"美, 24시간내 코로나 진단 못해…형편없다\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092110192379128"
+    },
+    {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
         "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
         "link": "https://www.hankyung.com/life/article/2020092122237"
-    },
-    {
-        "title": "美 코로나19 확진자 700만명 첫 돌파…트윈데믹 공포에 “내년까지 41만명 사...",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/21/2020092101083.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "서울확진자 이틀 연속 20명대로 줄었지만…\"경로미확인 28.8%\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200921_0001173336&cID=14001&pID=14000"
-    },
-    {
-        "title": "\"전국 확산 우려\"…동아대 부민캡퍼스 관련 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
     }
 ];

@@ -857,20 +857,20 @@ var marker = [
         "완치자수": 2616
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "확진자수": 5805,
+        "사망자수": 94,
+        "완치자수": 1260
+    },
+    {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
         "확진자수": 5731,
         "사망자수": 179,
         "완치자수": 4040
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "확진자수": 5541,
-        "사망자수": 92,
-        "완치자수": 1260
     },
     {
         "Name": "Djibouti",
@@ -1252,7 +1252,7 @@ var marker = [
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "확진자수": 1390,
+        "확진자수": 1424,
         "사망자수": 33,
         "완치자수": 754
     },
@@ -1468,9 +1468,9 @@ var marker = [
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "확진자수": 259,
+        "확진자수": 261,
         "사망자수": 0,
-        "완치자수": 190
+        "완치자수": 192
     },
     {
         "Name": "Cayman Islands",

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54207503"
     },
     {
-        "title": "How The Unpredictable Coronavirus Pandemic Took a Terrible Toll",
-        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
+        "title": "As Canada’s Parliament returns, Trudeau aims for reset on coronavirus, charity scandal",
+        "link": "https://www.washingtonpost.com/world/the_americas/canada-trudeau-throne-speech/2020/09/19/b01baa7a-f7b7-11ea-a510-f57d8ce76e11_story.html"
     },
     {
         "title": "In Israel’s first hospital to turn away coronavirus patients, a stark warning of collapse",
