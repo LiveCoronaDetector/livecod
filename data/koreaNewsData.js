@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200921171251085?did=1195m"
     },
     {
+        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
+    },
+    {
         "title": "부산 확진자 '순천서 3일간 장례 치러' 방역당국 발칵",
         "link": "http://www.newsis.com/view/?id=NISX20200921_0001174108&cID=10809&pID=10800"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
+        "title": "코로나19 확진자는 진정세인데…떠오르는 `재감염` 우려",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01338246625902744"
     },
     {
         "title": "‘코로나 확진자 발생’ 기아차 소하리 공장, 22일 1공장부터 가동 재개",
         "link": "https://news.joins.com/article/olink/23471953"
-    },
-    {
-        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     }
 ];

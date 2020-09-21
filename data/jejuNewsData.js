@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
     },
     {
-        "title": "제주 58번째 코로나19 확진자 발생…부천 328번 접촉자",
-        "link": "https://www.news1.kr/articles/?4062517"
+        "title": "코로나19 제주 57·58번째 확진자 발생",
+        "link": "https://www.nocutnews.co.kr/news/5414648"
     }
 ];
