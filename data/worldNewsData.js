@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Two students test positive for COVID-19 at Greece Arcadia High School",
-        "link": "https://13wham.com/news/local/two-students-test-positive-for-covid-19-at-greece-arcadia-high-school"
+        "title": "Coronavirus in Israel: Two hospitals stop accepting COVID-19 patients",
+        "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
         "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
     {
-        "title": "U.S. to surpass grim milestone of 200,000 COVID-19 deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa-deaths/u-s-to-surpass-grim-milestone-of-200000-covid-19-deaths-idINKCN26C11Z"
+        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
+        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     }
 ];
