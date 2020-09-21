@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200921_0001174108&cID=10809&pID=10800"
     },
     {
-        "title": "포항 21일 하루동안 코로나19 확진자 3명 발생(종합)",
-        "link": "http://news.tf.co.kr/read/national/1814193.htm"
-    },
-    {
         "title": "창녕에서 코로나19 확진자 1명 추가 발생…도내 누적 283명",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092118262121358"
     },
     {
         "title": "오늘 서울 확진자 13명 증가…산발적 소규모 집단감염 지속",
         "link": "http://yna.kr/AKR20200921157300004?did=1195m"
+    },
+    {
+        "title": "포항 21일 하루동안 코로나19 확진자 3명 발생(종합)",
+        "link": "http://news.tf.co.kr/read/national/1814193.htm"
     },
     {
         "title": "코로나19 위기에 '공감'…기록 남긴 현대차 임협 잠정 합의",

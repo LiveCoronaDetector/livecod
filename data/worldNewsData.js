@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
     {
-        "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
-        "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     }
 ];
