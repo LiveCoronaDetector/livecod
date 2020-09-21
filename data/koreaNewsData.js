@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     },
     {
-        "title": "[종합]코로나19 확진자 70명 증가...서울 21명, 경기 18명",
-        "link": "http://www.fnnews.com/news/202009210935560706"
+        "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
+        "link": "https://www.hankyung.com/life/article/2020092122237"
     },
     {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/21/2020092100811.html"
     },
     {
+        "title": "\"미국 코로나 대응 형편없다\" 빌 게이츠의 작심 발언",
+        "link": "http://www.fnnews.com/news/202009210935241068"
+    },
+    {
         "title": "코로나 누적확진 세계 4위 러시아 하늘길 열린다",
         "link": "http://www.fnnews.com/news/202009210645332592"
     },
     {
-        "title": "빌 게이츠 \"美, 24시간내 코로나 진단 못해…형편없다\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092110192379128"
-    },
-    {
-        "title": "[속보] 코로나19 신규확진 70명…이틀째 두자릿수",
-        "link": "http://news.tf.co.kr/read/life/1813956.htm"
+        "title": "\"전국 확산 우려\"…동아대 부민캠퍼스 관련 확진자 총 12명",
+        "link": "http://kormedi.com/?p=1324596"
     },
     {
         "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
         "link": "http://yna.kr/AKR20200921002751075?did=1195m"
     },
     {
-        "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
-        "link": "https://www.hankyung.com/life/article/2020092122237"
+        "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
+        "link": "https://www.news1.kr/articles/?4064340"
     }
 ];
