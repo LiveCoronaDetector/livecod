@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/20/world/covid-coronavirus.html"
     },
     {
-        "title": "Global preparation: how different countries planned for the second wave of Covid-19",
-        "link": "https://www.theguardian.com/world/2020/sep/20/global-preparation-how-different-countries-planned-for-the-second-wave-of-covid-19"
-    },
-    {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
     },
     {
-        "title": "Covid-19 Live Updates: Missouri Motorcycle Rally Draws Concerns a Month After Sturgis",
-        "link": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html"
+        "title": "New fear grips Europe as Covid tops 30m worldwide",
+        "link": "https://www.bbc.com/news/world-54199825"
+    },
+    {
+        "title": "Schools open in India as coronavirus cases top 5 million | DW News",
+        "link": "https://www.youtube.com/watch?v=-cgvhzqIXkQ"
     }
 ];

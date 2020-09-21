@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02132006625902416"
     },
     {
-        "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008855&ref=A"
-    },
-    {
-        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
+        "title": "코로나19 신규 확진자 70명…이틀 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/962944.html"
     },
     {
         "title": "정부 \"신규 확진자 감소세…추석 비상대응체계 유지\" [종합]",
         "link": "https://www.hankyung.com/life/article/2020092122237"
+    },
+    {
+        "title": "'거리두기 통했나' 하루 신규확진자 70명…이틀째 '두자릿수'",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205445"
     },
     {
         "title": "코로나 국내 신규 확진 70명… 국내발생 55명·해외유입 15명",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009210645332592"
     },
     {
-        "title": "\"전국 확산 우려\"…동아대 부민캠퍼스 관련 확진자 총 12명",
-        "link": "http://kormedi.com/?p=1324596"
-    },
-    {
-        "title": "미 코로나 사망자 20만명…전세계 사망자 100만명 근접(종합)",
-        "link": "http://yna.kr/AKR20200921002751075?did=1195m"
+        "title": "[2보] 코로나19 어제 70명 신규확진, 이틀째 두자릿수…지역발생 55명",
+        "link": "http://yna.kr/AKR20200921021500530?did=1195m"
     },
     {
         "title": "수도권도 오늘부터 등교…코로나 여진 속 7000곳 교문 열렸다",
         "link": "https://www.news1.kr/articles/?4064340"
+    },
+    {
+        "title": "코로나19 신규 확진자 70명…국내발생만 55명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220435"
     }
 ];
