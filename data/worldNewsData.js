@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54223977"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
+    },
+    {
         "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
         "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
-    },
-    {
-        "title": "Relief as much of New Zealand eases out of coronavirus restrictions",
-        "link": "https://www.theguardian.com/world/2020/sep/21/relief-as-much-of-new-zealand-eases-out-of-coronavirus-restrictions"
     }
 ];
