@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200921172800057?did=1195m"
     },
     {
-        "title": "영국정부 경고…\"코로나19 놔두면 내달 중순 확진자 하루 5만명\"(종합)",
-        "link": "http://yna.kr/AKR20200921171251085?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 70명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/962944.html"
+    },
+    {
+        "title": "영국정부 경고…\"코로나19 놔두면 내달 중순 확진자 하루 5만명\"(종합)",
+        "link": "http://yna.kr/AKR20200921171251085?did=1195m"
     },
     {
         "title": "신규 확진자 이틀 연속 두자릿수…수도권 확진자 50명 미만",
