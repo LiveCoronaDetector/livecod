@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/coronavirus-rise-dashes-turkish-dreams-of-big-weddings"
     },
     {
-        "title": "As Covid Fatigue Fuels Infections in Europe, Italy Resists the Second Wave",
+        "title": "As Covid-19 Fatigue Fuels Infections in Europe, Italy Resists the Second Wave",
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+    },
+    {
         "title": "Covid-19 Live Updates: Children Will Have to Wait for a Vaccine",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
+        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
+        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
+    },
+    {
         "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
         "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
-        "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
-    },
-    {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     }
 ];

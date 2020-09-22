@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
-    },
-    {
         "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
         "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+    },
+    {
+        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
+        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
         "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
+        "title": "LG전자 직원 2명 코로나 확진…여의도 트윈타워 일부 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200922148051003?did=1195m"
+    },
+    {
         "title": "[2보]동해시 첫 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092215190213661"
     },
     {
-        "title": "LG전자 직원 2명 코로나 확진…여의도 트윈타워 일부 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200922148051003?did=1195m"
+        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
+        "link": "http://www.fnnews.com/news/202009221501197413"
     },
     {
         "title": "정세균 국무총리 코로나 음성 판정, 활동 재개(종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200922500206&wlog_tag3=naver"
-    },
-    {
-        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
-        "link": "http://www.fnnews.com/news/202009221501197413"
     }
 ];
