@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
     {
+        "title": "제주도 20만명 아닌 30만명 온다...도지사 \"가급적 오지마라\" 경고",
+        "link": "http://www.ajunews.com/view/20200922144014566"
+    },
+    {
+        "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
+        "link": "https://www.news1.kr/articles/?4066773"
+    },
+    {
         "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
-        "title": "정부 \"확진자 감소 더뎌…추석이 확산 도화선 안되게 여행 자제\"",
-        "link": "http://yna.kr/AKR20200919023200530?did=1195m"
-    },
-    {
         "title": "코로나19 제주 58번 확진자 동선 공개…이중섭거리 등 방문",
         "link": "https://www.nocutnews.co.kr/news/5415116"
-    },
-    {
-        "title": "\"추석 연휴 이동 금지령과 사회적 거리두기 3단계로 코로나 재확산 막아주세요...",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922513314.html?OutUrl=naver"
     }
 ];

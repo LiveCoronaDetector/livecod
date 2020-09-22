@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
-        "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Trump tells UN to hold China accountable for coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic"
+        "title": "Trump urges UN to hold China accountable for the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/22/trump-urges-un-to-hold-china-accountable-for-coronavirus-pandemic.html"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     },
     {
-        "title": "US surpasses 200000 coronavirus deaths",
-        "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
+        "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
+        "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
     }
 ];
