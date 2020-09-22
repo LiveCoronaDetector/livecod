@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
-        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
+        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+    },
+    {
+        "title": "[속보]문대통령 “코로나 방역 방해 행위, 어떤 관용도 없다”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000295"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "인천 신규 확진자 0명…“방역 강화·거리두기 효과”(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02230406625902744"
+        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
+        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
     },
     {
         "title": "[코로나19] 신규 확진자 61명·지역 발생 51명…사흘 연속 두 자릿수(상보)",
         "link": "http://www.ajunews.com/view/20200922095313392"
     },
     {
-        "title": "[종합] 코로나19 확진자 61명 증가...서울 20명, 경기 14명",
-        "link": "http://www.fnnews.com/news/202009220934193973"
+        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
-        "title": "박능후 \"하루 확진자, 사흘째 두자리…반가운 소식\"",
-        "link": "https://www.news1.kr/articles/?4065907"
+        "title": "인천시 코로나19 확진자 41일 만에 '0명'…\"계속 긴장 유지\"",
+        "link": "http://yna.kr/AKR20200922046600065?did=1195m"
     },
     {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
+        "link": "http://www.etnews.com/20200922000033"
     },
     {
-        "title": "코로나 어제 61명 확진…3일 연속 두 자릿수 안정세(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092200617.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "영국 정부 경고… \"코로나 놔두면 10월 중순 확진자 5만 명\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/22/2020092200928.html"
+        "title": "文대통령, 확진자 감소에 \"안정화\"·개천절 집회엔 \"무관용\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201458.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

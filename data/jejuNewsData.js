@@ -17,8 +17,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+        "title": "제주 코로나 고발 벌써 15명...억대 민사 피소도 3명",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320369"
+    },
+    {
+        "title": "제주 53번 확진자 동선 추가 공개...'해수사우나'도 갔었다",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427490"
     },
     {
         "title": "코로나19 신규 확진자 110명…17일째 100명대",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"엄마 미안해요 저 '추캉스' 가요\" 추석 황금연휴, 코로나 확산 우려",
         "link": "https://view.asiae.co.kr/article/2020092110522925966"
-    },
-    {
-        "title": "코로나19 제주 57·58번째 확진자 발생",
-        "link": "https://www.nocutnews.co.kr/news/5414648"
     }
 ];
