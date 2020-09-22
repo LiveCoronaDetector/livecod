@@ -23,9 +23,5 @@ var jejuTrafficData = [
     {
         "title": "51번째 확진자",
         "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1255505&no=1"
-    },
-    {
-        "title": "성남377 확진자",
-        "url": "https://www.jeju.go.kr/tool/synap/convert.jsp?seq=1255803&no=1"
     }
 ];
