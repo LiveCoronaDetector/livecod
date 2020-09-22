@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009230630019868"
     },
     {
+        "title": "[코로나19 Q&A] 대한항공, 인천~오사카 노선 재개",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5010624&ref=A"
+    },
+    {
         "title": "제주도 20만명 아닌 30만명 온다...도지사 \"가급적 오지마라\" 경고",
         "link": "http://www.ajunews.com/view/20200922144014566"
     },
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066773"
     },
     {
-        "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
-    },
-    {
-        "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
-    },
-    {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
         "link": "http://www.fnnews.com/news/202009211703099399"
     },
     {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+        "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
+        "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
+    },
+    {
+        "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     }
 ];

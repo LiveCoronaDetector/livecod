@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Trump attacks China over Covid 'plague' as Xi urges collaboration in virus fight",
-        "link": "https://www.theguardian.com/world/2020/sep/22/trump-china-xi-beijing-united-nations"
-    },
-    {
-        "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Trump urges UN to hold China accountable for the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/22/trump-urges-un-to-hold-china-accountable-for-coronavirus-pandemic.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
+    },
+    {
+        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
+        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
     }
 ];

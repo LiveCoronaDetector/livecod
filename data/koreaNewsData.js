@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092221535007687"
     },
     {
-        "title": "총리실 직원 코로나19 ‘양성’… 정 총리도 검사 받아",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922514799.html?OutUrl=naver"
-    },
-    {
         "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
         "link": "http://www.fnnews.com/news/202009221501197413"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
+    },
+    {
+        "title": "文대통령, 확진자 감소에 \"안정화\"·개천절 집회엔 \"무관용\"(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201458.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
