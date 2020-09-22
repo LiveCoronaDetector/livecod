@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/coronavirus-rise-dashes-turkish-dreams-of-big-weddings"
     },
     {
-        "title": "As Covid Fatigue Fuels Infections in Europe, Italy Resists the Second Wave",
-        "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
+        "title": "From curfews to calling in the army, here's what Europe is doing to tackle its coronavirus surge",
+        "link": "https://www.cnbc.com/2020/09/22/what-europe-is-doing-to-tackle-its-coronavirus-surge-.html"
     },
     {
         "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "House Republicans blame Chinese cover-up for coronavirus pandemic | TheHill",
-        "link": "https://thehill.com/policy/international/517395-house-republicans-blame-chinese-cover-up-for-coronavirus-pandemic"
-    },
-    {
         "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
         "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
+    },
+    {
+        "title": "House Republicans blame Chinese cover-up for coronavirus pandemic | TheHill",
+        "link": "https://thehill.com/policy/international/517395-house-republicans-blame-chinese-cover-up-for-coronavirus-pandemic"
     },
     {
         "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",

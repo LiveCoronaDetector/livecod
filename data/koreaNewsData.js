@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
-        "title": "[2보]동해시 첫 코로나19 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
-    },
-    {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
+    },
+    {
+        "title": "강원 동해시 첫 코로나19 확진자 발생…“역학조사 중”",
+        "link": "https://www.donga.com/news/article/all/20200922/103057777/2"
     },
     {
         "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200922148051003?did=1195m"
     },
     {
-        "title": "[단독] 약자에게 떠넘기는 코로나 시대의 혐오",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200923009009&wlog_tag3=naver"
+        "title": "LG 코로나19 패닉…LG 트윈타워서 추가 확진자 발생",
+        "link": "http://www.inews24.com/view/1301628"
     },
     {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+        "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",
+        "link": "http://www.segye.com/content/html/2020/09/22/20200922522322.html?OutUrl=naver"
     },
     {
-        "title": "[전문] 광명시청 108·109·110·111번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381362"
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     }
 ];
