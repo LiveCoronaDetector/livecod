@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
     },
     {
-        "title": "Trump tells UN to hold China accountable for coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic"
+        "title": "Chinese tycoon who called Xi Jinping a 'clown' and ripped his coronavirus response gets 18-year sentence",
+        "link": "https://www.foxnews.com/world/chinese-tycoon-who-called-xi-jinping-clown-prison-sentence"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+        "title": "The hidden reason Trump’s ‘October surprise’ will likely fail",
+        "link": "https://www.washingtonpost.com/opinions/2020/09/22/hidden-reason-that-trumps-october-surprise-will-likely-fail/"
     },
     {
         "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
