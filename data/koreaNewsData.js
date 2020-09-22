@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200922177900004?did=1195m"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
         "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
+        "link": "http://www.etnews.com/20200922000033"
     }
 ];

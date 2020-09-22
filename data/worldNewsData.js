@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "The hidden reason Trump’s ‘October surprise’ will likely fail",
-        "link": "https://www.washingtonpost.com/opinions/2020/09/22/hidden-reason-that-trumps-october-surprise-will-likely-fail/"
+        "title": "Trump tells white audience in Minnesota they have 'good genes'",
+        "link": "https://news.yahoo.com/trump-minnesota-good-genes-eugenics-dog-whistle-202828480.html"
     },
     {
         "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
