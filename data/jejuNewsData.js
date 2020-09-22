@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+    },
+    {
         "title": "\"추석 연휴 이동 금지령과 사회적 거리두기 3단계로 코로나 재확산 막아주세요...",
         "link": "http://www.segye.com/content/html/2020/09/22/20200922513314.html?OutUrl=naver"
     },
     {
         "title": "인구 1600명 낚시천국 제주 추자도 주민들의 코로나 극복기",
         "link": "https://www.news1.kr/articles/?4066475"
-    },
-    {
-        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     },
     {
         "title": "코로나19 제주 58번 확진자 동선 공개…이중섭거리 등 방문",
