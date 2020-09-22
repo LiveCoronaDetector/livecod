@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "As doctors worry about 'a very apocalyptic fall,' the CDC retracts info on how Covid-19 spreads",
-        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
+        "title": "Trudeau Throne speech: Why this is a big moment for Canadian PM",
+        "link": "https://www.bbc.com/news/election-us-2020-54239060"
     },
     {
         "title": "Coronavirus cabinet to meet today, as seriously ill spike",
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
-        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
-        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
+        "title": "Madrid asks for Spanish army's help in battling coronavirus surge",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-madrid/madrid-asks-for-spanish-armys-help-in-battling-coronavirus-surge-idUSKCN26C1TO"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",

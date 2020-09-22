@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200921171251085?did=1195m"
     },
     {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
+        "title": "[속보] 코로나19 신규 확진자 61명…3일 연속 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
     },
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
-        "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 61명…3일 연속 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
+        "title": "서울 확진자 4명 중 1명 ‘감염불분명’…사우나·병원 등 추가 감염(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02669926625902744"
     },
     {
-        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
-        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
+        "title": "丁총리, 코로나 검사받아…총리실 직원 확진",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201744.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
