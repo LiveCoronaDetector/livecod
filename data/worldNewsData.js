@@ -22,7 +22,11 @@ var worldNewsData = [
     },
     {
         "title": "Chinese tycoon who criticized Xi Jinping's handling of coronavirus jailed for 18 years",
-        "link": "https://news.google.com/articles/CAIiEFhax8Pq-HqBMLcjOqbXE2sqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
         "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
         "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
-    },
-    {
-        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
-        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
     }
 ];
