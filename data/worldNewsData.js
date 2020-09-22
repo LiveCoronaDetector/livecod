@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
-        "title": "Tourists in Croatia Help Feed Covid-19 Surge Across Europe",
-        "link": "https://www.wsj.com/articles/tourists-in-croatia-help-feed-covid-19-surge-across-europe-11600684208"
+        "title": "Coronavirus live updates: CDC flips on airborne virus spread; millions in danger of missing stimulus checks",
+        "link": "https://www.cnbc.com/2020/09/21/coronavirus-live-updates.html"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
     },
     {
-        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
-        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
+        "title": "Fresh Surge in U.S. Coronavirus Cases Feared, as Death Toll Nears 200000",
+        "link": "https://www.wsj.com/articles/coronavirus-latest-news-09-21-2020-11600676779"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
