@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
-        "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
-        "link": "https://www.hankyung.com/society/article/2020092252607"
+        "title": "[2보]동해시 첫 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
+    },
+    {
+        "title": "코로나로 자치단체 간 첫 구상권 청구…\"확진자 관리부실\"",
+        "link": "https://www.hankyung.com/society/article/2020092277307"
     },
     {
         "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
     },
     {
-        "title": "[2보]동해시 첫 코로나19 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
-    },
-    {
-        "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922522322.html?OutUrl=naver"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
-    },
-    {
         "title": "[단독] 약자에게 떠넘기는 코로나 시대의 혐오",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200923009009&wlog_tag3=naver"
+    },
+    {
+        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
+        "link": "http://www.fnnews.com/news/202009221501197413"
+    },
+    {
+        "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092215190213661"
     }
 ];
