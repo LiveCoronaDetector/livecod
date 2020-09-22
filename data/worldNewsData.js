@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/coronavirus-rise-dashes-turkish-dreams-of-big-weddings"
     },
     {
-        "title": "Madrid asks for Spanish army's help in battling coronavirus surge",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-madrid/madrid-asks-for-spanish-armys-help-in-battling-coronavirus-surge-idUSKCN26C1TO"
+        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
+        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
+        "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
     },
     {
         "title": "Chinese tycoon who criticized Xi Jinping's handling of coronavirus jailed for 18 years",
         "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
-    },
-    {
-        "title": "WHO boss Tedros Adhanom must 'resign': House report into COVID-19",
-        "link": "https://www.youtube.com/watch?v=1riLu4o_yK0"
-    },
-    {
-        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
-        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
-    },
-    {
         "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
         "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+    },
+    {
+        "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
+        "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
+    },
+    {
+        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
+        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
+        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     }
 ];
