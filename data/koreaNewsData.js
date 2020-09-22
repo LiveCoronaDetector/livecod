@@ -13,28 +13,28 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+    },
+    {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "강원 동해시 첫 코로나19 확진자 발생…“역학조사 중”",
-        "link": "https://www.donga.com/news/article/all/20200922/103057777/2"
+        "title": "[2보]동해시 첫 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
     },
     {
         "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
         "link": "https://view.asiae.co.kr/article/2020092215190213661"
     },
     {
-        "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922522322.html?OutUrl=naver"
-    },
-    {
         "title": "LG전자 직원 2명 코로나 확진…여의도 트윈타워 일부 폐쇄(종합)",
         "link": "http://yna.kr/AKR20200922148051003?did=1195m"
     },
     {
-        "title": "[단독] 약자에게 떠넘기는 코로나 시대의 혐오",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200923009009&wlog_tag3=naver"
+        "title": "정세균 국무총리 코로나 음성 판정, 활동 재개(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200922500206&wlog_tag3=naver"
     },
     {
         "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
