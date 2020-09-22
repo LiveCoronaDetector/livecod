@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200923002000098?did=1195m"
     },
     {
+        "title": "[오피셜] 'EPL 빨간불' 웨스트햄, 모예스 감독+선수 2명 코로나 확진",
+        "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=504947"
+    },
+    {
         "title": "[2보]동해시 첫 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
-    },
-    {
-        "title": "文대통령, 확진자 감소에 \"안정화\"·개천절 집회엔 \"무관용\"(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201458.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

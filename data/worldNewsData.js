@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
-    },
-    {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
     },
     {
-        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
-        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
+        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
+        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+    },
+    {
+        "title": "US surpasses 200000 coronavirus deaths",
+        "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
     }
 ];
