@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
-    },
-    {
         "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
+    },
+    {
+        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
     },
     {
-        "title": "인천시 코로나 확진자 41일만에 ‘0’",
-        "link": "https://www.chosun.com/national/regional/gyeonggi-incheon/2020/09/22/4V7TBTHPC5CPPFZHUHGNQPXZ6Y/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "정총리, 총리실 직원 확진에 코로나19 검사…청사 긴급방역(종합2보)",
         "link": "http://yna.kr/AKR20200922100152001?did=1195m"
-    },
-    {
-        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
-        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
     },
     {
         "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
         "link": "https://view.asiae.co.kr/article/2020092215190213661"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
+        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
+        "link": "http://www.fnnews.com/news/202009221501197413"
+    },
+    {
+        "title": "서울확진자 35명 늘어 5051명…사우나·병원 산발감염 지속(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200922_0001175656&cID=14001&pID=14000"
+    },
+    {
+        "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",
+        "link": "http://www.segye.com/content/html/2020/09/22/20200922522322.html?OutUrl=naver"
     }
 ];
