@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "US COVID-19 deaths near 200,000, one in five of global dead",
-        "link": "https://www.aljazeera.com/news/2020/09/covid-19-deaths-200000-global-toll-200922010723386.html"
+        "title": "Trudeau Throne speech: Why this is a big moment for Canadian PM",
+        "link": "https://www.bbc.com/news/election-us-2020-54239060"
     },
     {
         "title": "Coronavirus rise dashes Turkish dreams of big weddings",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     },
     {
-        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
-        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
-    },
-    {
         "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
         "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
     {
-        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
-        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
+        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
+        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
+    },
+    {
+        "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
+        "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     }
 ];

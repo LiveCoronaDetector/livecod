@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
+        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
+        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "인천시 코로나 확진자 41일만에 ‘0’",
+        "link": "https://www.chosun.com/national/regional/gyeonggi-incheon/2020/09/22/4V7TBTHPC5CPPFZHUHGNQPXZ6Y/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092215190213661"
+    },
+    {
         "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 61명…3일 연속 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
-    },
-    {
-        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
-        "link": "http://www.etnews.com/20200922000033"
+        "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
     },
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
-    },
-    {
-        "title": "총리실 근무자 확진...정 총리 일정 취소하고 코로나 검사",
-        "link": "https://www.ytn.co.kr/_ln/0101_202009221333256042"
-    },
-    {
-        "title": "정총리, 총리실 직원 확진에 코로나19 검사…청사 긴급방역(종합2보)",
-        "link": "http://yna.kr/AKR20200922100152001?did=1195m"
     }
 ];
