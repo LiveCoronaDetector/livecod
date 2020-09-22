@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
+        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
+    },
+    {
         "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
     },
     {
-        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
+        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
+        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
-        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
+        "title": "[속보] 코로나19 신규 확진자 61명…3일 연속 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
     },
     {
         "title": "인천시 코로나 확진자 41일만에 ‘0’",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
     },
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
