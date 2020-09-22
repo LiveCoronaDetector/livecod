@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "강원 동해시 첫 코로나19 확진자 발생…“역학조사 중”",
-        "link": "https://www.donga.com/news/article/all/20200922/103057777/2"
-    },
-    {
-        "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922522322.html?OutUrl=naver"
-    },
-    {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+        "title": "[2보]동해시 첫 코로나19 확진자 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
     },
     {
         "title": "[단독] 약자에게 떠넘기는 코로나 시대의 혐오",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200923009009&wlog_tag3=naver"
     },
     {
-        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
-        "link": "http://www.fnnews.com/news/202009221501197413"
+        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+    },
+    {
+        "title": "[전문] 광명시청 108·109·110·111번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381362"
+    },
+    {
+        "title": "서울확진자 35명 늘어 5051명…사우나·병원 산발감염 지속(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200922_0001175656&cID=14001&pID=14000"
     }
 ];

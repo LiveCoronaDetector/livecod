@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     },
     {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+        "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
+        "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
     {
-        "title": "China, WHO could have helped prevent COVID-19 pandemic: congressional report",
-        "link": "https://nypost.com/2020/09/21/congressional-report-reveals-how-china-could-have-prevented-covid-19/"
+        "title": "Coronavirus live news: Italy introduces border tests for French visitors; new cases at highest level, warns WHO",
+        "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
     }
 ];
