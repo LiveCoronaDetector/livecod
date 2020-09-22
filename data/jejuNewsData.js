@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
     {
+        "title": "\"벌초·명절 이동 금지\" 코로나19 확산 우려에 국민청원 계속",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009230630019868"
+    },
+    {
         "title": "제주도 20만명 아닌 30만명 온다...도지사 \"가급적 오지마라\" 경고",
         "link": "http://www.ajunews.com/view/20200922144014566"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
-    },
-    {
-        "title": "코로나19 제주 58번 확진자 동선 공개…이중섭거리 등 방문",
-        "link": "https://www.nocutnews.co.kr/news/5415116"
     }
 ];

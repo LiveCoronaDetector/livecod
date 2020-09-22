@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "일본 코로나 신규 확진 이틀째 300명대로 줄어…연휴 영향인 듯",
-        "link": "http://yna.kr/AKR20200922190600073?did=1195m"
-    },
-    {
         "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
         "link": "http://yna.kr/AKR20200923002000098?did=1195m"
     },
     {
         "title": "[2보]동해시 첫 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
+    },
+    {
+        "title": "日 코로나19 하루 확진자수 300명대로 줄어",
+        "link": "https://view.asiae.co.kr/article/2020092221535007687"
     },
     {
         "title": "총리실 직원 코로나19 ‘양성’… 정 총리도 검사 받아",

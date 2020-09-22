@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Coronavirus spike pushes Canadian authorities to step up powers to limit large gatherings",
-        "link": "https://www.cnn.com/2020/09/22/americas/canada-coronavirus-spike-large-gatherings/index.html"
+        "title": "After 200,000 coronavirus deaths, the US faces another rude awakening",
+        "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
     },
     {
         "title": "Coronavirus rise dashes Turkish dreams of big weddings",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Trump urges UN to hold China accountable for the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/22/trump-urges-un-to-hold-china-accountable-for-coronavirus-pandemic.html"
+        "title": "Trump attacks China over Covid 'plague' as Xi urges collaboration in virus fight",
+        "link": "https://www.theguardian.com/world/2020/sep/22/trump-china-xi-beijing-united-nations"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     },
     {
-        "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
-        "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
+        "title": "UN General Assembly: US-China tensions flare over coronavirus",
+        "link": "https://www.bbc.com/news/world-54253408"
     }
 ];
