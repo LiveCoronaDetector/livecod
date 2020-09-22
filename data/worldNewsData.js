@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
-    },
-    {
         "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
         "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     },
     {
-        "title": "China's pandemic-themed TV drama faces online backlash over sexism - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/life/2020/09/22/chinas-pandemic-themed-tv-drama-faces-online-backlash-over-sexism.html"
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+    },
+    {
+        "title": "China, WHO could have helped prevent COVID-19 pandemic: congressional report",
+        "link": "https://nypost.com/2020/09/21/congressional-report-reveals-how-china-could-have-prevented-covid-19/"
     }
 ];
