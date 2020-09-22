@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus live news: UK nears 400,000 cases as Trump falsely claims Covid-19 affects 'virtually' no young",
-        "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
-    },
-    {
         "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
         "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
         "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
+    },
+    {
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     }
 ];

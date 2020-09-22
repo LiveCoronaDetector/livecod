@@ -9,16 +9,28 @@ var koreaNewsData = [
         "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     },
     {
-        "title": "정총리, 총리실 직원 확진에 코로나19 검사…청사 긴급방역(종합2보)",
-        "link": "http://yna.kr/AKR20200922100152001?did=1195m"
+        "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
+        "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
         "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
-        "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
-        "link": "https://www.hankyung.com/society/article/2020092252607"
+        "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 61명…3일 연속 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
+    },
+    {
+        "title": "서울확진자 21명 늘어 8개월 만에 5000명↑…사우나·병원 산발감염 지속(종합...",
+        "link": "http://www.newsis.com/view/?id=NISX20200922_0001174872&cID=14001&pID=14000"
+    },
+    {
+        "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092215190213661"
     },
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
-    },
-    {
-        "title": "서울확진자 21명 늘어 8개월 만에 5000명↑…사우나·병원 산발감염 지속(종합...",
-        "link": "http://www.newsis.com/view/?id=NISX20200922_0001174872&cID=14001&pID=14000"
-    },
-    {
-        "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "영국 정부 경고… \"코로나 놔두면 10월 중순 확진자 5만 명\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/22/2020092200928.html"
     }
 ];
