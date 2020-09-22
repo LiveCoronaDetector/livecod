@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
-        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
+        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
+    },
+    {
+        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009220940001&code=940100"
     },
     {
-        "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
-    },
-    {
-        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
+        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
+        "link": "http://www.etnews.com/20200922000033"
     },
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
-        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
-        "link": "http://www.etnews.com/20200922000033"
-    },
-    {
         "title": "총리실 근무자 확진...정 총리 일정 취소하고 코로나 검사",
         "link": "https://www.ytn.co.kr/_ln/0101_202009221333256042"
+    },
+    {
+        "title": "정총리, 총리실 직원 확진에 코로나19 검사…청사 긴급방역(종합2보)",
+        "link": "http://yna.kr/AKR20200922100152001?did=1195m"
     }
 ];

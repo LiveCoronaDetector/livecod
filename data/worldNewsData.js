@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     },
     {
+        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
+        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
+    },
+    {
         "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
         "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
     {
         "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
         "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
-        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     }
 ];

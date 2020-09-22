@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
-        "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
-        "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
+        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
     }
 ];
