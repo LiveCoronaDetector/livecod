@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
     },
     {
-        "title": "Hospitals refuse coronavirus patients as cabinet readies new restrictions",
+        "title": "Coronavirus cabinet to meet today, as seriously ill spike",
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
@@ -25,7 +25,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
+        "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
+    },
+    {
+        "title": "September 21 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
     },
     {
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus live news: Trump falsely claims virus affects 'virtually' no young, as US nears 200,000 deaths",
         "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
-    },
-    {
-        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
-        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     }
 ];
