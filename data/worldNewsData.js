@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
+        "title": "As doctors worry about 'a very apocalyptic fall,' the CDC retracts info on how Covid-19 spreads",
+        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Hospitals refuse coronavirus patients as cabinet readies new restrictions",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     },
     {
-        "title": "Fresh Surge in U.S. Coronavirus Cases Feared, as Death Toll Nears 200000",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-09-21-2020-11600676779"
+        "title": "Coronavirus live news: Trump falsely claims virus affects 'virtually' no young, as US nears 200,000 deaths",
+        "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
     },
     {
         "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
