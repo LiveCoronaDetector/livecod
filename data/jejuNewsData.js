@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.ajunews.com/view/20200922144014566"
     },
     {
+        "title": "47번·49번 확진자 퇴원, 10명 치료 중",
+        "link": "https://jejumbc.com/article/2YyGQYNfKkJf"
+    },
+    {
         "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
         "link": "https://www.news1.kr/articles/?4066773"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
         "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
-    },
-    {
-        "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     }
 ];

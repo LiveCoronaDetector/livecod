@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/22/trump-urges-un-to-hold-china-accountable-for-coronavirus-pandemic.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
-    },
-    {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "US surpasses 200000 coronavirus deaths",
         "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
+    },
+    {
+        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
+        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     }
 ];
