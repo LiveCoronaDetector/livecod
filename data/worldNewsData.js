@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     },
     {
-        "title": "House Republicans blame Chinese cover-up for coronavirus pandemic | TheHill",
-        "link": "https://thehill.com/policy/international/517395-house-republicans-blame-chinese-cover-up-for-coronavirus-pandemic"
+        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
+        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+        "title": "WHO boss Tedros Adhanom must 'resign': House report into COVID-19",
+        "link": "https://www.youtube.com/watch?v=1riLu4o_yK0"
     }
 ];
