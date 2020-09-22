@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
+        "title": "인구 1600명 낚시천국 제주 추자도 주민들의 코로나 극복기",
+        "link": "https://www.news1.kr/articles/?4066475"
+    },
+    {
         "title": "제주 코로나 고발 벌써 15명...억대 민사 피소도 3명",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320369"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
         "link": "http://www.fnnews.com/news/202009180651538170"
-    },
-    {
-        "title": "정부 \"추석, 코로나19 확산 도화선 안되게 여행 자제해야\"",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     }
 ];

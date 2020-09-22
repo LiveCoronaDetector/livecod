@@ -5,24 +5,32 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
+        "title": "영국정부 경고…\"코로나19 놔두면 내달 중순 확진자 하루 5만명\"(종합)",
+        "link": "http://yna.kr/AKR20200921171251085?did=1195m"
+    },
+    {
         "title": "코로나19 확진자 61명…검사 건수 증가에도 '진정세' 지속(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
+        "title": "[속보] 코로나 신규 확진 61명... 3일 연속 두 자릿수",
+        "link": "https://hankookilbo.com/News/Read/A2020092209300005932?did=NA"
     },
     {
         "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
     },
     {
+        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
+    },
+    {
         "title": "文대통령, 확진자 감소에 \"안정화\"·개천절 집회엔 \"무관용\"(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201458.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진자 61명, 사흘 연속 두 자릿수",
-        "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
+        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울확진자 21명 늘어 8개월 만에 5000명↑…사우나·병원 산발감염 지속(종합...",
         "link": "http://www.newsis.com/view/?id=NISX20200922_0001174872&cID=14001&pID=14000"
-    },
-    {
-        "title": "인천시 코로나 확진자 41일만에 ‘0’",
-        "link": "https://www.chosun.com/national/regional/gyeonggi-incheon/2020/09/22/4V7TBTHPC5CPPFZHUHGNQPXZ6Y/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 61명 증가...서울 20명, 경기 14명",
-        "link": "http://www.fnnews.com/news/202009220934193973"
     }
 ];

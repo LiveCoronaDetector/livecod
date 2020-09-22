@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "As doctors worry about 'a very apocalyptic fall,' the CDC retracts info on how Covid-19 spreads",
-        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
+        "title": "Trudeau Throne speech: Why this is a big moment for Canadian PM",
+        "link": "https://www.bbc.com/news/election-us-2020-54239060"
     },
     {
         "title": "Coronavirus cabinet to meet today, as seriously ill spike",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "Ex-Goldman economist Jim O'Neill says China's economy 'well on the way' to recover from coronavirus",
+        "link": "https://www.cnbc.com/2020/09/21/china-economy-is-on-the-way-to-recovering-from-covid-19-jim-oneill.html"
     },
     {
         "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
         "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
     },
     {
+        "title": "Coronavirus live news: Trump falsely claims virus affects 'virtually' no young, as US nears 200,000 deaths",
+        "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
+    },
+    {
         "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
         "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
     {
-        "title": "September 21 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     },
     {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
         "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
-    },
-    {
-        "title": "Coronavirus live news: Trump falsely claims virus affects 'virtually' no young, as US nears 200,000 deaths",
-        "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
     }
 ];
