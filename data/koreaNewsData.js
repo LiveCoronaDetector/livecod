@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
-    },
-    {
         "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
+    },
+    {
+        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     },
     {
         "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",

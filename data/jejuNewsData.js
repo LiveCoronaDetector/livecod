@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
+        "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
+        "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
+    },
+    {
         "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "인구 1600명 낚시천국 제주 추자도 주민들의 코로나 극복기",
         "link": "https://www.news1.kr/articles/?4066475"
-    },
-    {
-        "title": "코로나19 제주 58번 확진자 동선 공개…이중섭거리 등 방문",
-        "link": "https://www.nocutnews.co.kr/news/5415116"
     }
 ];
