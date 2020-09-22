@@ -17,12 +17,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 110명…17일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
-    },
-    {
         "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
+    },
+    {
+        "title": "코로나19 신규 확진자 110명…17일째 100명대",
+        "link": "http://www.hani.co.kr/arti/society/health/962805.html"
     },
     {
         "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
