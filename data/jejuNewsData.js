@@ -9,20 +9,16 @@ var jejuNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
     },
     {
+        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
+        "link": "https://www.hankyung.com/life/article/2020092273867"
+    },
+    {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
         "link": "http://www.fnnews.com/news/202009211703099399"
     },
     {
-        "title": "제주, 거짓진술·무단이탈 '코로나19' 위반 15명 형사고발",
-        "link": "https://www.news1.kr/articles/?4066487"
-    },
-    {
         "title": "정부 \"확진자 감소 더뎌…추석이 확산 도화선 안되게 여행 자제\"",
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
-    },
-    {
-        "title": "\"추석 연휴 이동 금지령과 사회적 거리두기 3단계로 코로나 재확산 막아주세요...",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922513314.html?OutUrl=naver"
     },
     {
         "title": "인구 1600명 낚시천국 제주 추자도 주민들의 코로나 극복기",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
         "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
+    },
+    {
+        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
     }
 ];
