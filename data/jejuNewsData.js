@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220091800000"
     },
     {
-        "title": "\"엄마 미안해요 저 '추캉스' 가요\" 추석 황금연휴, 코로나 확산 우려",
-        "link": "https://view.asiae.co.kr/article/2020092110522925966"
+        "title": "제주도 코로나19 57번·58번 확진자 잇단 발생",
+        "link": "http://www.fnnews.com/news/202009180651538170"
     }
 ];

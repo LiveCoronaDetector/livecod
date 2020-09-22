@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
+    },
+    {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",
         "link": "https://www.washingtonpost.com/world/coronavirus-vaccine-covax-who/2020/09/21/d21c7b4a-f9d3-11ea-a510-f57d8ce76e11_story.html"
     },
     {
         "title": "Coronavirus live news: Trump falsely claims virus affects 'virtually' no young, as US nears 200,000 deaths",
         "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
-    },
-    {
-        "title": "Fresh Surge in U.S. Coronavirus Cases Feared, as Death Toll Nears 200000",
-        "link": "https://www.wsj.com/articles/coronavirus-latest-news-09-21-2020-11600676779"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",

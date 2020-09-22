@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625902744"
     },
     {
+        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
+    },
+    {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
@@ -21,23 +25,19 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092209420123378?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "[코로나19] 신규 확진자 61명·지역 발생 51명…사흘 연속 두 자릿수(상보)",
-        "link": "http://www.ajunews.com/view/20200922095313392"
-    },
-    {
-        "title": "인천시 코로나19 확진자 41일 만에 '0명'…\"계속 긴장 유지\"",
-        "link": "http://yna.kr/AKR20200922046600065?did=1195m"
+        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
         "title": "[종합] 코로나19 확진자 61명 증가...서울 20명, 경기 14명",
         "link": "http://www.fnnews.com/news/202009220934193973"
     },
     {
-        "title": "영국 정부 경고… \"코로나 놔두면 10월 중순 확진자 5만 명\"",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/22/2020092200928.html"
+        "title": "서울확진자 21명 늘어 8개월 만에 5000명↑…사우나·병원 산발감염 지속(종합...",
+        "link": "http://www.newsis.com/view/?id=NISX20200922_0001174872&cID=14001&pID=14000"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
+        "title": "박능후 \"하루 확진자, 사흘째 두자리…반가운 소식\"",
+        "link": "https://www.news1.kr/articles/?4065907"
     }
 ];
