@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/gamzu-5000-new-infections-a-day-means-25-dead-avoid-gatherings-643012"
     },
     {
-        "title": "Coronavirus live updates: CDC flips on airborne virus spread; millions in danger of missing stimulus checks",
-        "link": "https://www.cnbc.com/2020/09/21/coronavirus-live-updates.html"
+        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
+        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/22/coronavirus-live-news-us-nears-200000-deaths-as-england-pubs-face-curfew"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/21/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "CDC says coronavirus spreads mainly via respiratory aerosols",
+        "link": "https://www.latimes.com/world-nation/story/2020-09-20/coronavirus-aerosol-airborne-spread"
     }
 ];

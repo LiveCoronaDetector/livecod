@@ -1470,7 +1470,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 261,
         "사망자수": 0,
-        "완치자수": 192
+        "완치자수": 194
     },
     {
         "Name": "Cayman Islands",
