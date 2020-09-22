@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "LG전자 직원 2명 코로나 확진…여의도 트윈타워 일부 폐쇄(종합)",
-        "link": "http://yna.kr/AKR20200922148051003?did=1195m"
-    },
-    {
         "title": "[2보]동해시 첫 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
     },
     {
-        "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
-        "link": "https://view.asiae.co.kr/article/2020092215190213661"
+        "title": "LG전자 직원 2명 코로나 확진…여의도 트윈타워 일부 폐쇄(종합)",
+        "link": "http://yna.kr/AKR20200922148051003?did=1195m"
+    },
+    {
+        "title": "코로나 최초 자치단체 간 구상권 청구…\"확진자 관리부실\"",
+        "link": "http://yna.kr/AKR20200922119500054?did=1195m"
     },
     {
         "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
         "link": "http://www.fnnews.com/news/202009221501197413"
     },
     {
-        "title": "정세균 국무총리 코로나 음성 판정, 활동 재개(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200922500206&wlog_tag3=naver"
+        "title": "권준욱 \"국내 코로나 확진자 감소…국민에 위대함 보게 돼\"(상보)",
+        "link": "https://view.asiae.co.kr/article/2020092215190213661"
     }
 ];
