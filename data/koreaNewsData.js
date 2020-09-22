@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
+        "title": "일본 코로나 신규 확진 이틀째 300명대로 줄어…연휴 영향인 듯",
+        "link": "http://yna.kr/AKR20200922190600073?did=1195m"
+    },
+    {
         "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
         "link": "http://yna.kr/AKR20200923002000098?did=1195m"
     },
     {
         "title": "[2보]동해시 첫 코로나19 확진자 발생",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
+    },
+    {
+        "title": "총리실 직원 코로나19 ‘양성’… 정 총리도 검사 받아",
+        "link": "http://www.segye.com/content/html/2020/09/22/20200922514799.html?OutUrl=naver"
     },
     {
         "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
-    },
-    {
-        "title": "세브란스병원 코로나 확진자 52명…재활병동 외래 진료 폐쇄",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092201554.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 61명 신규 확진…사흘째 두 자릿수",
-        "link": "http://www.etnews.com/20200922000033"
     }
 ];
