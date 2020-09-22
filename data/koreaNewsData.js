@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "코로나19 신규 확진 61명으로 사흘째 두 자릿수…국내 발생은 51명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009818&ref=A"
+        "title": "[속보] 코로나19 신규 확진 61명…지역발생 51명·사망 3명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009220086&t=NN"
     },
     {
         "title": "정총리, 총리실 직원 확진에 코로나19 검사…청사 긴급방역(종합2보)",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092215190213661"
     },
     {
-        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
-        "link": "http://www.fnnews.com/news/202009221501197413"
+        "title": "[전문] 광명시청 108·109·110·111번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381362"
     },
     {
-        "title": "서울확진자 35명 늘어 5051명…사우나·병원 산발감염 지속(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200922_0001175656&cID=14001&pID=14000"
+        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
+        "link": "http://www.fnnews.com/news/202009221501197413"
     },
     {
         "title": "“코로나 확진자 관리 부실” 지자체간 첫 구상권 청구",

@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
     {
-        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
-    },
-    {
         "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
     },
     {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
         "link": "http://www.fnnews.com/news/202009211703099399"
+    },
+    {
+        "title": "코로나 증상에도 여행-동선 거짓진술...15명 고발",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151416"
     },
     {
         "title": "정부 \"확진자 감소 더뎌…추석이 확산 도화선 안되게 여행 자제\"",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066475"
     },
     {
-        "title": "제주 53번 확진자 동선 추가 공개...'해수사우나'도 갔었다",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427490"
+        "title": "산방온천 직원 53번 확진자, 삼양해수사우나-안덕목욕탕도 방문",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320170"
     }
 ];

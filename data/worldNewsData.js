@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/coronavirus-rise-dashes-turkish-dreams-of-big-weddings"
     },
     {
-        "title": "Madrid asks for Spanish army's help in battling coronavirus surge",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-madrid/madrid-asks-for-spanish-armys-help-in-battling-coronavirus-surge-idUSKCN26C1TO"
+        "title": "From curfews to calling in the army, here's what Europe is doing to tackle its coronavirus surge",
+        "link": "https://www.cnbc.com/2020/09/22/what-europe-is-doing-to-tackle-its-coronavirus-surge-.html"
     },
     {
         "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
@@ -22,19 +22,19 @@ var worldNewsData = [
     },
     {
         "title": "Chinese tycoon who criticized Xi Jinping's handling of coronavirus jailed for 18 years",
-        "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
-    },
-    {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+        "link": "https://news.google.com/articles/CAIiEFhax8Pq-HqBMLcjOqbXE2sqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
         "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     },
     {
-        "title": "China's pandemic-themed TV drama faces online backlash over sexism - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/life/2020/09/22/chinas-pandemic-themed-tv-drama-faces-online-backlash-over-sexism.html"
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+    },
+    {
+        "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
+        "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
     },
     {
         "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
