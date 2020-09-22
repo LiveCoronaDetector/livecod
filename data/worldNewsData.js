@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
     },
     {
-        "title": "Chinese tycoon who criticized Xi Jinping's handling of coronavirus jailed for 18 years",
-        "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
+        "title": "Trump tells UN to hold China accountable for coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     },
     {
-        "title": "How To Fathom 200000 American Deaths From Covid-19 | NBC Nightly News",
-        "link": "https://www.youtube.com/watch?v=psJdL88WQ4o"
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     }
 ];

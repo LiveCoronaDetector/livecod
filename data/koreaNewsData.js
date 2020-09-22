@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
+        "title": "강원 동해서 첫 코로나 확진자 발생…강원 총 220명",
+        "link": "http://yna.kr/AKR20200922180300062?did=1195m"
+    },
+    {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
         "link": "https://www.hankyung.com/society/article/2020092252607"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
-        "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
+        "title": "WHO \"지난주 코로나19 신규 확진자 200만 명…주간 기준 최대\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005992848&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "제주 47번·49번 코로나 확진자 퇴원…10명 치료 중",
+        "link": "https://www.news1.kr/articles/?4066951"
+    },
+    {
+        "title": "인천시 코로나 확진자 41일만에 ‘0’",
+        "link": "https://www.chosun.com/national/regional/gyeonggi-incheon/2020/09/22/4V7TBTHPC5CPPFZHUHGNQPXZ6Y/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "여의도 LG트윈타워서 코로나 확진자 1명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/22/2020092202585.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "LG 트윈타워 코로나19 확진자 발생…사무실 일부 폐쇄",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5010082&ref=A"
     },
     {
         "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
         "link": "http://yna.kr/AKR20200923002000098?did=1195m"
-    },
-    {
-        "title": "[2보]동해시 첫 코로나19 확진자 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092100151"
-    },
-    {
-        "title": "총리실 직원 코로나19 ‘양성’… 정 총리도 검사 받아",
-        "link": "http://www.segye.com/content/html/2020/09/22/20200922514799.html?OutUrl=naver"
-    },
-    {
-        "title": "경주시, 85번 확진자 고발 조치·제 비용 청구",
-        "link": "http://www.fnnews.com/news/202009221501197413"
-    },
-    {
-        "title": "오늘 서울 확진자 35명 늘어…누계 5천51명",
-        "link": "http://yna.kr/AKR20200922177900004?did=1195m"
-    },
-    {
-        "title": "[전문]문대통령 “코로나 재확산 벗어나 서서히 ‘안정화 단계’ 희망”",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200922000365"
     }
 ];

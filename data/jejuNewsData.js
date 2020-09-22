@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066951"
     },
     {
-        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
-        "link": "https://www.hankyung.com/life/article/2020092273867"
-    },
-    {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
@@ -17,8 +13,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
     },
     {
-        "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
+        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
+        "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "인구 1600명 낚시천국 제주 추자도 주민들의 코로나 극복기",
         "link": "https://www.news1.kr/articles/?4066475"
+    },
+    {
+        "title": "코로나19 제주 58번 확진자 동선 공개…이중섭거리 등 방문",
+        "link": "https://www.nocutnews.co.kr/news/5415116"
     }
 ];
