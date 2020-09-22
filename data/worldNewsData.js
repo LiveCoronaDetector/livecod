@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
-        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
+        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
+        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     },
     {
-        "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
-        "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
+        "title": "How To Fathom 200000 American Deaths From Covid-19 | NBC Nightly News",
+        "link": "https://www.youtube.com/watch?v=psJdL88WQ4o"
     }
 ];
