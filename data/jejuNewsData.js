@@ -17,6 +17,14 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009211703099399"
     },
     {
+        "title": "제주 코로나 고발 벌써 15명...억대 민사 피소도 3명",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320369"
+    },
+    {
+        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
+    },
+    {
         "title": "정부 \"확진자 감소 더뎌…추석이 확산 도화선 안되게 여행 자제\"",
         "link": "http://yna.kr/AKR20200919023200530?did=1195m"
     },
@@ -25,19 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066475"
     },
     {
-        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
-    },
-    {
         "title": "제주 53번 확진자 동선 추가 공개...'해수사우나'도 갔었다",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427490"
     },
     {
         "title": "코로나19 신규 확진자 110명…17일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
-    },
-    {
-        "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
-        "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
     }
 ];

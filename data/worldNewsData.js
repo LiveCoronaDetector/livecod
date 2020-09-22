@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54225118"
     },
     {
-        "title": "As doctors worry about 'a very apocalyptic fall,' the CDC retracts info on how Covid-19 spreads",
-        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
+        "title": "US COVID-19 deaths near 200,000, one in five of global dead",
+        "link": "https://www.aljazeera.com/news/2020/09/covid-19-deaths-200000-global-toll-200922010723386.html"
     },
     {
         "title": "Coronavirus rise dashes Turkish dreams of big weddings",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/22/asia/china-ren-zhiqiang-xi-jinping-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus Pandemic To Worsen U.S. Income, Racial, Gender Inequities",
-        "link": "https://www.youtube.com/watch?v=dWpHVW8kfao"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+    },
+    {
+        "title": "WHO boss Tedros Adhanom must 'resign': House report into COVID-19",
+        "link": "https://www.youtube.com/watch?v=1riLu4o_yK0"
     },
     {
         "title": "World Health Organization unveils plan for distributing coronavirus vaccine, urges cooperation",

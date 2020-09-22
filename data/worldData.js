@@ -617,6 +617,14 @@ var marker = [
         "완치자수": 19124
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "확진자수": 19499,
+        "사망자수": 694,
+        "완치자수": 4559
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -631,14 +639,6 @@ var marker = [
         "확진자수": 19014,
         "사망자수": 765,
         "완치자수": 13727
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "확진자수": 18866,
-        "사망자수": 686,
-        "완치자수": 4401
     },
     {
         "Name": "North Macedonia",
