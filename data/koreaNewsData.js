@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
     {
-        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
-    },
-    {
         "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
         "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
     },
     {
         "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
+        "title": "Covid-19 Live Updates: Children Will Have to Wait for a Vaccine",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+    },
+    {
         "title": "Coronavirus Upends College Admissions Tests, Creating Chaos for Students",
         "link": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html"
     },
     {
-        "title": "WHO boss Tedros Adhanom must 'resign': House report into COVID-19",
-        "link": "https://www.youtube.com/watch?v=1riLu4o_yK0"
-    },
-    {
-        "title": "Covid-19 Live Updates: Children Will Have to Wait for a Vaccine",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Coronavirus pandemic likely 'could have been prevented' if China, WHO acted differently, report says",
+        "link": "https://www.foxnews.com/world/coronavirus-outbreak-china-who-us-government-report"
     }
 ];
