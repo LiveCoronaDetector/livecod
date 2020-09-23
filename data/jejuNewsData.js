@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
+        "title": "제주도 추석기간 고강도 방역대책 시행",
+        "link": "http://www.ihalla.com/read.php3?aid=1600827582692752073"
+    },
+    {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "지자체 ‘코로나 구상권’ 청구 잇따랐지만… 재판 열린 건 ‘0’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924157113&code=11131900&cp=nv"
-    },
-    {
-        "title": "제주도 20만명 아닌 30만명 온다...도지사 \"가급적 오지마라\" 경고",
-        "link": "http://www.ajunews.com/view/20200922144014566"
     }
 ];
