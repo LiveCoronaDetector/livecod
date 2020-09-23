@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1301793"
     },
     {
-        "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "영국, 코로나19 하루 신규 확진자 6000명 넘어",
+        "link": "https://news.joins.com/article/olink/23474303"
     },
     {
-        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
-        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+        "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
