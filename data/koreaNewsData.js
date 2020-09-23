@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200923/103077534/2"
     },
     {
-        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
-        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
+        "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
     },
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1301793"
     },
     {
-        "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",
-        "link": "http://news.tf.co.kr/read/life/1814730.htm"
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     },
     {
-        "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
+        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
     }
 ];

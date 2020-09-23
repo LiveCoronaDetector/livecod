@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5011417&ref=A"
     },
     {
-        "title": "제주 59번 코로나19 확진자 발생...미국 방문 이력",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320452"
-    },
-    {
         "title": "제주도 추석기간 고강도 방역대책 시행",
         "link": "http://www.ihalla.com/read.php3?aid=1600827582692752073"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "https://news.imaeil.com/Society/2020092317123484865"
     },
     {
-        "title": "제주 47번·49번 코로나 확진자 퇴원…10명 치료 중",
-        "link": "https://www.news1.kr/articles/?4066951"
+        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
     },
     {
         "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
         "link": "https://www.hankyung.com/life/article/2020092273867"
+    },
+    {
+        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     }
 ];
