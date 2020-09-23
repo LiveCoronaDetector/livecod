@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
-        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "September 22 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     }
 ];
