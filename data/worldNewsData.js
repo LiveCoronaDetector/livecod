@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/23/middleeast/israel-netanyahu-world-stage-at-home-intl/index.html"
     },
     {
-        "title": "'Collateral damage': Germany has limited its coronavirus death toll, but it hasn't escaped criticism",
-        "link": "https://www.cnbc.com/2020/09/23/germany-has-limited-its-coronavirus-death-toll-but-faces-criticism.html"
+        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
+        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "Covid: US death toll passes 200,000",
+        "link": "https://www.bbc.com/news/world-us-canada-54244515"
     }
 ];

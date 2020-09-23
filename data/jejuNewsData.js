@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
-        "title": "제주도 추석기간 고강도 방역대책 시행",
-        "link": "http://www.ihalla.com/read.php3?aid=1600827582692752073"
-    },
-    {
         "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
         "link": "http://yna.kr/AKR20200923037300056?did=1195m"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
         "link": "https://www.hankyung.com/life/article/2020092273867"
+    },
+    {
+        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     }
 ];
