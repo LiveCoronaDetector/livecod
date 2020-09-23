@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
     },
     {
-        "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
-        "link": "http://www.fnnews.com/news/202009231430100504"
-    },
-    {
-        "title": "한국투자증권, 코로나19 확진자 4명 추가",
-        "link": "http://yna.kr/AKR20200923089300002?did=1195m"
-    },
-    {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
     },
     {
-        "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015041045&code=61141111&cp=nv"
+        "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
+        "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
-        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
-        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     },
     {
         "title": "부천 주민 5명 코로나19 확진…2명은 가족 확진자 접촉(종합)",
         "link": "http://yna.kr/AKR20200923094751065?did=1195m"
+    },
+    {
+        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
+        "link": "https://www.news1.kr/articles/?4066799"
+    },
+    {
+        "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
+        "link": "http://yna.kr/AKR20200923002000098?did=1195m"
     }
 ];
