@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200923/103077534/2"
     },
     {
-        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
-    },
-    {
         "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
         "link": "http://yna.kr/AKR20200923143200530?did=1195m"
+    },
+    {
+        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
     },
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",

@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Trudeau Promises Bold Plan for Canada in Throne Speech",
+        "link": "https://www.nytimes.com/2020/09/23/world/canada/trudeau-coronavirus-throne-speech.html"
     },
     {
-        "title": "Israel is winning on the world stage, but losing the plot at home",
-        "link": "https://www.cnn.com/2020/09/23/middleeast/israel-netanyahu-world-stage-at-home-intl/index.html"
+        "title": "A bubble of self-delusion in Washington",
+        "link": "https://www.cnn.com/2020/09/22/world/meanwhile-in-america-september-22-intl/index.html"
     },
     {
         "title": "'Collateral damage': Germany has limited its coronavirus death toll, but it hasn't escaped criticism",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+    },
+    {
+        "title": "Live Covid-19 Tracker",
+        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
+    },
+    {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Coronavirus: Dr. Fauci, CDC Director Redfield testify on US COVID-19 response | LIVE",
-        "link": "https://www.youtube.com/watch?v=QytHo0xJoxk"
-    },
-    {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
-    },
-    {
-        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Trump again minimizes the pandemic as officials warn of a fall surge",
+        "link": "https://www.cnn.com/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
     }
 ];
