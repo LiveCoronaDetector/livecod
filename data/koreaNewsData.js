@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
+        "link": "http://www.fnnews.com/news/202009231430100504"
+    },
+    {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
         "link": "https://www.donga.com/news/article/all/20200923/103077534/2"
     },
     {
         "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
         "link": "http://yna.kr/AKR20200923143200530?did=1195m"
-    },
-    {
-        "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
-        "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
         "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
+        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
+        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
         "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",

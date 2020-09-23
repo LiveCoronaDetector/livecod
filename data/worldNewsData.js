@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     }
 ];
