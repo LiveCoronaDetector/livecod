@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54253408"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "The hidden reason Trump’s ‘October surprise’ will likely fail",
+        "link": "https://www.washingtonpost.com/opinions/2020/09/22/hidden-reason-that-trumps-october-surprise-will-likely-fail/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
     },
     {
-        "title": "US surpasses 200000 coronavirus deaths",
-        "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
+        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
+        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     }
 ];

@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 확진자 110명…수도권 산발감염 확산에 다시 세자릿수(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01968006625903072"
-    },
-    {
         "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
-    },
-    {
-        "title": "[속보] 코로나19 신규확진 나흘 만에 또 세자릿수…110명 늘어",
-        "link": "http://news.tf.co.kr/read/life/1814491.htm"
-    },
-    {
-        "title": "[속보]코로나19 어제 신규확진자 110명…나흘만에 다시 100명대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220763"
+        "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
+        "link": "http://www.fnnews.com/news/202009230942391690"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "[속보] '코로나19' 신규 확진 110명…지역발생 99명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406848&class=33&grp="
+        "title": "[속보] 코로나19 신규확진 나흘 만에 또 세자릿수…110명 늘어",
+        "link": "http://news.tf.co.kr/read/life/1814491.htm"
     },
     {
-        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
-        "link": "https://www.news1.kr/articles/?4066799"
+        "title": "[2보] 코로나19 어제 110명 신규확진…나흘만에 다시 세 자릿수",
+        "link": "http://yna.kr/AKR20200923036300530?did=1195m"
+    },
+    {
+        "title": "코로나19 신규확진 110명…나흘만에 세자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5417117"
     },
     {
         "title": "[속보] 코로나 국내 신규 110명… 국내발생 99명, 전날 대비 2배",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/23/2020092300945.html"
+    },
+    {
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+    },
+    {
+        "title": "[오피셜] 'EPL 빨간불' 웨스트햄, 모예스 감독+선수 2명 코로나 확진",
+        "link": "http://www.interfootball.co.kr/news/articleView.html?idxno=504947"
     }
 ];
