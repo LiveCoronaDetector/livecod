@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Trudeau Promises Bold Plan for Canada in Throne Speech",
-        "link": "https://www.nytimes.com/2020/09/23/world/canada/trudeau-coronavirus-throne-speech.html"
+        "title": "Coronavirus mutation seen in massive new study of genetic sequences from Houston",
+        "link": "https://www.washingtonpost.com/health/2020/09/23/houston-coronavirus-mutations/?arc404=true"
     },
     {
         "title": "Coronavirus cabinet concludes: Full lockdown beginning Friday",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "Coronavirus live news: Indonesia sees record case rise; India deaths pass 90,000",
+        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Covid-19 Live Updates: Top U.S. Health Officials Try to Defend Their Integrity Before the Senate",
+        "title": "Covid-19 Live Updates: Contradicting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "Coronavirus May Have Mutated To Become More Contagious, Study Finds",
+        "link": "https://www.forbes.com/sites/joewalsh/2020/09/23/coronavirus-may-have-mutated-to-become-more-contagious-study-finds/"
+    },
+    {
+        "title": "England's Covid regulations: the 'rule of sex' and other quirks",
+        "link": "https://www.theguardian.com/world/2020/sep/23/englands-covid-regulations-the-rule-of-sex-and-other-quirks"
     }
 ];

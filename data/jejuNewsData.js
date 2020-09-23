@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.imaeil.com/Society/2020092317123484865"
     },
     {
-        "title": "제주 코로나 47·49번째 확진자 퇴원…10명 입원 치료",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
+        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     }
 ];

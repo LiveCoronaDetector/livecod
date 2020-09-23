@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
+        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
+        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
+    },
+    {
         "title": "[전문] 제주도 59번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
-        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정",
+        "link": "http://yna.kr/AKR20200924007300081?did=1195m"
     },
     {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
         "link": "http://www.fnnews.com/news/202009231430100504"
-    },
-    {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정",
-        "link": "http://yna.kr/AKR20200924007300081?did=1195m"
     },
     {
         "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
