@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     },
     {
-        "title": "제주 46-50번 확진자 완치 퇴원...8명 입원치료 중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320440"
+        "title": "제주도, 추석 입도객에 특별행정조치 발동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
     }
 ];

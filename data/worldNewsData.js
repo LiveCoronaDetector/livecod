@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Live updates: At 200,000 coronavirus fatalities, U.S. hits Trump’s upper limit for doing ‘a very good job’",
-        "link": "https://www.washingtonpost.com/nation/2020/09/23/coronavirus-covid-live-updates-us/"
+        "title": "After 200,000 coronavirus deaths, the US faces another rude awakening",
+        "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
     },
     {
         "title": "A bubble of self-delusion in Washington",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "September 22 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
         "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
         "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
