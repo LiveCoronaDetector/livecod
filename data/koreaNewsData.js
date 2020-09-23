@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200923143200530?did=1195m"
     },
     {
-        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
-    },
-    {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
         "link": "http://www.fnnews.com/news/202009231430100504"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1301793"
     },
     {
+        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
+    },
+    {
         "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
-        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+        "title": "한국투자증권 여의도 본사 코로나19 확진자 총 5명으로 늘어",
+        "link": "https://news.joins.com/article/olink/23473472"
     }
 ];
