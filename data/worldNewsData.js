@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     },
     {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     }
 ];

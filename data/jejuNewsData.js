@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
-        "title": "제주도 추석방역 초강수… \"열나면 진단검사 의무\"",
-        "link": "http://www.fnnews.com/news/202009231725371240"
-    },
-    {
         "title": "제주, 46・50번 확진자 오늘 퇴원...확진자는 모두 8명",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3005796"
     },
     {
-        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
+        "title": "코로나19 대응 중앙방역대책본부 브리핑",
+        "link": "https://imnews.imbc.com/replay/2020/nw1400/article/5918757_32503.html"
     },
     {
-        "title": "제주도, 추석 입도객에 특별행정조치 발동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
+        "title": "추석 연휴 임시편 늘린 항공업계… 코로나19 확산 우려도",
+        "link": "https://news.imaeil.com/Society/2020092317123484865"
+    },
+    {
+        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     }
 ];

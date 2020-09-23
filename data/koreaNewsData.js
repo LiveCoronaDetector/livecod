@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
     },
     {
-        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
+    },
+    {
+        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
     },
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
         "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
+        "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
+        "link": "http://www.inews24.com/view/1301793"
+    },
+    {
         "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
         "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     },
     {
+        "title": "LG 트윈타워 무더기 코로나 확진…\"전원 재택근무\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009230138&t=NN"
+    },
+    {
         "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
         "link": "https://www.news1.kr/articles/?4066799"
-    },
-    {
-        "title": "정부 \"코로나19 재유행은 통제…1단계 복귀에는 시간 걸릴 것\"",
-        "link": "http://yna.kr/AKR20200923099400530?did=1195m"
-    },
-    {
-        "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
-        "link": "http://yna.kr/AKR20200923002000098?did=1195m"
     }
 ];
