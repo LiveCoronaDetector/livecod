@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066951"
     },
     {
-        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
-        "link": "https://www.hankyung.com/life/article/2020092273867"
-    },
-    {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
     {
         "title": "\"벌초·명절 이동 금지\" 코로나19 확산 우려에 국민청원 계속",
         "link": "https://www.ytn.co.kr/_ln/0103_202009230630019868"
+    },
+    {
+        "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
+        "link": "http://yna.kr/AKR20200923037300056?did=1195m"
     },
     {
         "title": "[코로나19 Q&A] 대한항공, 인천~오사카 노선 재개",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066773"
     },
     {
-        "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
-        "link": "http://www.fnnews.com/news/202009211703099399"
+        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
+        "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
-        "title": "코로나19로 귀성 자제, 제주도는 관광객 증가 아이러니?",
-        "link": "http://www.sportsseoul.com/news/read/960582?ref=naver"
+        "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
+        "link": "http://www.fnnews.com/news/202009211703099399"
     }
 ];

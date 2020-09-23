@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54253408"
     },
     {
-        "title": "Trump tells UN to hold China accountable for coronavirus pandemic",
-        "link": "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic"
+        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
     },
     {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+    },
+    {
+        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
+        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     },
     {
         "title": "US surpasses 200000 coronavirus deaths",
         "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
-    },
-    {
-        "title": "Global report: Trump wrongly claims Covid affects 'virtually' no young people",
-        "link": "https://www.theguardian.com/world/2020/sep/22/global-report-trump-wrongly-claims-covid-affects-virtually-no-young-people"
     }
 ];
