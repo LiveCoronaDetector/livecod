@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 확진자 110명…수도권 산발감염 확산에 다시 세자릿수(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01968006625903072"
+        "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
+        "title": "코로나19 어제 신규확진자 110명…나흘만에 다시 100명대",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220763"
     },
     {
-        "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
+        "title": "서울 일일 확진자 다시 40명대로 늘어",
+        "link": "http://www.fnnews.com/news/202009231047402643"
     },
     {
-        "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
-        "link": "https://www.hankyung.com/society/article/2020092252607"
+        "title": "'작은 홍보관에 다닥다닥'…확진자 13명 나온 '불법 다단계' 적발",
+        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176170&cID=10401&pID=10400"
+    },
+    {
+        "title": "한국투자증권, 코로나19 확진자 4명 추가",
+        "link": "http://yna.kr/AKR20200923089300002?did=1195m"
+    },
+    {
+        "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
+    },
+    {
+        "title": "[속보] 부산 코로나19 추가 확진자 6명 발생…누계 399명",
+        "link": "https://www.hankyung.com/life/article/2020092318097"
     },
     {
         "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
         "link": "http://www.fnnews.com/news/202009230942391690"
-    },
-    {
-        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
-        "link": "https://www.news1.kr/articles/?4066799"
-    },
-    {
-        "title": "EU 정상회의 상임의장 코로나19 확진자와 접촉해 격리",
-        "link": "http://yna.kr/AKR20200923002000098?did=1195m"
-    },
-    {
-        "title": "한국투자증권 여의도 본사 코로나19 확진자 총 5명으로 늘어",
-        "link": "https://news.joins.com/article/olink/23473472"
     }
 ];
