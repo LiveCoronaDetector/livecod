@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Live Covid-19 Updates",
-        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+    },
+    {
+        "title": "Live Covid-19 Updates",
+        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "The Latest: Study shows coronavirus is mutating, maybe becoming more contagious",
-        "link": "https://www.pressherald.com/2020/09/23/the-latest-lufthansa-plans-to-roll-out-rapid-coronavirus-testing-for-passengers-a-move-industry-leaders-hope-could-save-air-travel/"
+        "title": "Coronavirus May Have Mutated To Become More Contagious, Study Finds",
+        "link": "https://www.forbes.com/sites/joewalsh/2020/09/23/coronavirus-may-have-mutated-to-become-more-contagious-study-finds/"
     }
 ];

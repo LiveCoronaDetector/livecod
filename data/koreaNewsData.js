@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
-        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
-    },
-    {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+    },
+    {
+        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
+        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정",
+        "link": "http://yna.kr/AKR20200924007300081?did=1195m"
+    },
+    {
         "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
         "link": "http://www.inews24.com/view/1301793"
     },
     {
         "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정",
-        "link": "http://yna.kr/AKR20200924007300081?did=1195m"
     },
     {
         "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",

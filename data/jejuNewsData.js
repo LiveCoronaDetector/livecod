@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092314023674505"
+    },
+    {
         "title": "제주, 46・50번 확진자 오늘 퇴원...확진자는 모두 8명",
         "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3005796"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나, 추석이 고비인데…제주 방문객 30만명·강원도 호텔 '완판'",
         "link": "https://www.dailian.co.kr/news/view/922278/?sc=Naver"
-    },
-    {
-        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
-        "link": "https://www.hankyung.com/life/article/2020092273867"
     }
 ];
