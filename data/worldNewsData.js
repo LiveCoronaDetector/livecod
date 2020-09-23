@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54244515"
     },
     {
-        "title": "Coronavirus rise dashes Turkish dreams of big weddings",
-        "link": "https://www.theguardian.com/world/2020/sep/22/coronavirus-rise-dashes-turkish-dreams-of-big-weddings"
+        "title": "A bubble of self-delusion in Washington",
+        "link": "https://www.cnn.com/2020/09/22/world/meanwhile-in-america-september-22-intl/index.html"
     },
     {
         "title": "As Covid-19 Fatigue Fuels Infections in Europe, Italy Resists Second Wave",
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
-        "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+    },
+    {
+        "title": "Trump Demands U.N. Hold China to Account for Coronavirus Pandemic",
+        "link": "https://www.nytimes.com/2020/09/22/world/americas/UN-Trump-Xi-China-coronavirus.html"
     },
     {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
     },
     {
-        "title": "CDC retraction shows chaos of Trump's Covid response",
-        "link": "https://www.cnn.com/2020/09/22/politics/donald-trump-cdc-coronavirus-election-2020/index.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
-    },
-    {
         "title": "Plastic face shields do not stop spread of COVID-19, study claims",
         "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+    },
+    {
+        "title": "US surpasses 200000 coronavirus deaths",
+        "link": "https://www.youtube.com/watch?v=MeXjT9xfbdw"
     }
 ];
