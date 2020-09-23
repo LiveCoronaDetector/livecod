@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7098291,
-        "사망자수": 205491,
-        "완치자수": 4347172
+        "확진자수": 7098674,
+        "사망자수": 205503,
+        "완치자수": 4347494
     },
     {
         "Name": "인도",
@@ -300,8 +300,8 @@ var marker = [
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "확진자수": 98240,
-        "사망자수": 6291,
+        "확진자수": 100597,
+        "사망자수": 6296,
         "완치자수": 0
     },
     {
@@ -316,8 +316,8 @@ var marker = [
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "확진자수": 89436,
-        "사망자수": 5870,
+        "확진자수": 89756,
+        "사망자수": 5876,
         "완치자수": 0
     },
     {
@@ -604,9 +604,9 @@ var marker = [
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "확진자수": 23799,
-        "사망자수": 641,
-        "완치자수": 18035
+        "확진자수": 24357,
+        "사망자수": 643,
+        "완치자수": 18359
     },
     {
         "Name": "카메룬",
@@ -860,9 +860,9 @@ var marker = [
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "확진자수": 6712,
-        "사망자수": 64,
-        "완치자수": 2778
+        "확진자수": 6879,
+        "사망자수": 69,
+        "완치자수": 2961
     },
     {
         "Name": "Malawi",
@@ -1092,7 +1092,7 @@ var marker = [
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "확진자수": 3313,
+        "확진자수": 3315,
         "사망자수": 13,
         "완치자수": 3129
     },
@@ -1545,20 +1545,20 @@ var marker = [
         "완치자수": 48
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 69,
+        "사망자수": 1,
+        "완치자수": 21
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 64,
         "사망자수": 0,
         "완치자수": 64
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 54,
-        "사망자수": 1,
-        "완치자수": 18
     },
     {
         "Name": "마카오",

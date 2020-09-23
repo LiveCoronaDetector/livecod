@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/22/world/meanwhile-in-america-september-22-intl/index.html"
     },
     {
-        "title": "As Covid-19 Fatigue Fuels Infections in Europe, Italy Resists Second Wave",
-        "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
+        "title": "'Collateral damage': Germany has limited its coronavirus death toll, but it hasn't escaped criticism",
+        "link": "https://www.cnbc.com/2020/09/23/germany-has-limited-its-coronavirus-death-toll-but-faces-criticism.html"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "September 22 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     }
 ];
