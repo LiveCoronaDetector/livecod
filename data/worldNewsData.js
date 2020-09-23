@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
-        "title": "Can Jakarta get its raging Covid-19 outbreak under control?",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "The hidden reason Trump’s ‘October surprise’ will likely fail",
-        "link": "https://www.washingtonpost.com/opinions/2020/09/22/hidden-reason-that-trumps-october-surprise-will-likely-fail/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+    },
+    {
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "September 22 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
-    },
-    {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
+        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
     }
 ];

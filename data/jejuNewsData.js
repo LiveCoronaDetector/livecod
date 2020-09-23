@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
-        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
-    },
-    {
         "title": "제주도, 추석 입도객에 특별행정조치 발동",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
+    },
+    {
+        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
+        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
     },
     {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",

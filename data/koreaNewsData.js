@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "코로나19 어제 신규확진자 110명…나흘만에 다시 100명대",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220763"
+        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "LG 트윈타워 무더기 코로나 확진…\"전원 재택근무\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009230138&t=NN"
     },
     {
         "title": "서울 일일 확진자 다시 40명대로 늘어",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200923089300002?did=1195m"
     },
     {
-        "title": "'작은 홍보관에 다닥다닥'…확진자 13명 나온 '불법 다단계' 적발",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176170&cID=10401&pID=10400"
+        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
+        "link": "https://www.news1.kr/articles/?4066799"
     },
     {
-        "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
+        "title": "코로나 국내 신규 110명… 국내발생 99명, 전날 대비 2배",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/23/2020092300945.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
-        "link": "http://www.fnnews.com/news/202009230942391690"
+        "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
     },
     {
-        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
-        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+        "title": "서울 확진자 하루새 두배↑…여의도 증권사 신규 집단감염(상보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02551846625903072"
     }
 ];
