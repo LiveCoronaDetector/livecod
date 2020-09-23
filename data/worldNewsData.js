@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/canada/trudeau-coronavirus-throne-speech.html"
     },
     {
-        "title": "Israel is winning on the world stage, but losing the plot at home",
-        "link": "https://www.cnn.com/2020/09/23/middleeast/israel-netanyahu-world-stage-at-home-intl/index.html"
+        "title": "Coronavirus cabinet concludes: Full lockdown beginning Friday",
+        "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
         "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
