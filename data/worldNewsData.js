@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
-        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
+        "title": "As Covid cases rise again, how are countries in Europe reacting?",
+        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Coronavirus News: Live Updates",
+        "title": "Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
-        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
+        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
+    },
+    {
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
