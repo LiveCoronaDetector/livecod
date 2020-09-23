@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "September 22 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
-        "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
+        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
+        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
