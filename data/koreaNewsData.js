@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
+        "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963279.html"
+    },
+    {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
         "link": "https://www.donga.com/news/article/all/20200923/103077534/2"
     },
@@ -17,12 +21,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
     },
     {
-        "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963279.html"
-    },
-    {
         "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
+        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
     },
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
         "link": "http://www.inews24.com/view/1301793"
-    },
-    {
-        "title": "정신요양시설 ‘박애원’서 확진자 10명 추가…총 38명",
-        "link": "http://www.segye.com/content/html/2020/09/23/20200923527887.html?OutUrl=naver"
     },
     {
         "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",

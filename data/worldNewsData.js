@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "After 200,000 coronavirus deaths, the US faces another rude awakening",
-        "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
+        "title": "Trudeau Promises Bold Plan for Canada in Throne Speech",
+        "link": "https://www.nytimes.com/2020/09/23/world/canada/trudeau-coronavirus-throne-speech.html"
     },
     {
         "title": "Israel is winning on the world stage, but losing the plot at home",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
-    },
-    {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "September 22 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+    },
+    {
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     }
 ];
