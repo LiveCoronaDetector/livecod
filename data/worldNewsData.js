@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "As Covid cases rise again, how are countries in Europe reacting?",
-        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
+        "title": "Rishi Sunak could do worse than copy Germany",
+        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "The Latest: Study shows coronavirus is mutating, maybe becoming more contagious",
+        "link": "https://www.pressherald.com/2020/09/23/the-latest-lufthansa-plans-to-roll-out-rapid-coronavirus-testing-for-passengers-a-move-industry-leaders-hope-could-save-air-travel/"
     }
 ];

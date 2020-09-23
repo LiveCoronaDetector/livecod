@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
-        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
-    },
-    {
         "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
+        "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
