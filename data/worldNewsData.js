@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "Trump Tells UN to Hold China Accountable for Coronavirus Pandemic",
+        "link": "https://www.youtube.com/watch?v=-PB6Xp-FTI4"
     },
     {
         "title": "Plastic face shields do not stop spread of COVID-19, study claims",
