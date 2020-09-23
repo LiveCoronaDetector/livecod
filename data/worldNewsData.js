@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
     },
     {
-        "title": "A bubble of self-delusion in Washington",
-        "link": "https://www.cnn.com/2020/09/22/world/meanwhile-in-america-september-22-intl/index.html"
+        "title": "Israel is winning on the world stage, but losing the plot at home",
+        "link": "https://www.cnn.com/2020/09/23/middleeast/israel-netanyahu-world-stage-at-home-intl/index.html"
     },
     {
         "title": "'Collateral damage': Germany has limited its coronavirus death toll, but it hasn't escaped criticism",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
-        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
+        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "Covid-19 Live Updates: Johnson & Johnson Tests One-Shot Vaccine",
+        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "September 22 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     }
 ];
