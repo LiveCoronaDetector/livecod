@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
-        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
-        "title": "네덜란드 \"코로나19 2차 유행…주간 확진자 가장 많아\"",
-        "link": "http://yna.kr/AKR20200923184800098?did=1195m"
+        "title": "LG전자, 코로나19 잇단 확진자 발생…\"원격근무 전환\"",
+        "link": "http://www.inews24.com/view/1301793"
     },
     {
-        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
+        "title": "[속보] 제주 코로나19 확진 추가…미국 입국자",
+        "link": "https://www.hankyung.com/life/article/2020092341997"
     },
     {
         "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
         "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     },
     {
-        "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",
-        "link": "http://news.tf.co.kr/read/life/1814730.htm"
+        "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
     }
 ];
