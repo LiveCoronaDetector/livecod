@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
+        "title": "[전문] 제주도 59번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
+    },
+    {
         "title": "[단독] LG 트윈타워서 확진자 5명으로 늘어...집단감염 우려",
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",
-        "link": "http://news.tf.co.kr/read/life/1814730.htm"
     }
 ];

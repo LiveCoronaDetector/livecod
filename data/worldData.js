@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7133311,
-        "사망자수": 206473,
-        "완치자수": 4383702
+        "확진자수": 7134758,
+        "사망자수": 206502,
+        "완치자수": 4384058
     },
     {
         "Name": "인도",
@@ -204,9 +204,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 147522,
-        "사망자수": 9242,
-        "완치자수": 127422
+        "확진자수": 147756,
+        "사망자수": 9243,
+        "완치자수": 127788
     },
     {
         "Name": "Bolivia",
@@ -1153,20 +1153,20 @@ var marker = [
         "완치자수": 2142
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "확진자수": 2325,
+        "사망자수": 40,
+        "완치자수": 1954
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "확진자수": 2324,
         "사망자수": 39,
         "완치자수": 1549
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "확진자수": 2294,
-        "사망자수": 40,
-        "완치자수": 1954
     },
     {
         "Name": "Sierra Leone",
@@ -1196,7 +1196,7 @@ var marker = [
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "확진자수": 1907,
+        "확진자수": 1929,
         "사망자수": 56,
         "완치자수": 1252
     },
@@ -1532,7 +1532,7 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 96,
+        "확진자수": 97,
         "사망자수": 3,
         "완치자수": 92
     },
