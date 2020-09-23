@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "After 200,000 coronavirus deaths, the US faces another rude awakening",
-        "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
+        "title": "Covid: US death toll passes 200,000",
+        "link": "https://www.bbc.com/news/world-us-canada-54244515"
     },
     {
         "title": "Coronavirus rise dashes Turkish dreams of big weddings",
@@ -21,16 +21,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
-        "title": "Trump urges UN to hold China accountable for the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/22/trump-urges-un-to-hold-china-accountable-for-coronavirus-pandemic.html"
-    },
-    {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+        "title": "Trump tells UN to hold China accountable for coronavirus pandemic",
+        "link": "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic"
+    },
+    {
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     },
     {
         "title": "US surpasses 200000 coronavirus deaths",
