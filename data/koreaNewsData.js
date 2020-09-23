@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220763"
     },
     {
-        "title": "한국투자증권, 코로나19 확진자 4명 추가",
-        "link": "http://yna.kr/AKR20200923089300002?did=1195m"
-    },
-    {
-        "title": "LG 트윈타워 코로나 확진자 5명 발생…추가 감염 우려(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176242&cID=10401&pID=10400"
-    },
-    {
         "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
         "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     },
     {
-        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
-        "link": "https://www.news1.kr/articles/?4066799"
+        "title": "한국투자증권, 코로나19 확진자 4명 추가",
+        "link": "http://yna.kr/AKR20200923089300002?did=1195m"
+    },
+    {
+        "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
     },
     {
         "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
         "link": "http://www.fnnews.com/news/202009230942391690"
     },
     {
-        "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
+        "title": "코로나19 신규 확진자 61명…사흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963118.html"
+    },
+    {
+        "title": "박능후 \"코로나 확진자 '사흘째 두 자릿수'…반가운 소식\"",
+        "link": "https://www.hankyung.com/society/article/2020092252607"
     }
 ];
