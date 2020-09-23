@@ -17,15 +17,15 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "‘Buses are packed, as are shops and markets’: India’s rising COVID-19 infections are rapidly catching up with the U.S.",
+        "link": "https://www.marketwatch.com/story/buses-are-packed-as-are-shops-and-markets-indias-rising-covid-19-infections-are-rapidly-catching-up-with-the-us-2020-09-23"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Global report: Trump calls 200,000 US coronavirus deaths 'a shame'",
+        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "UN General Assembly: US-China tensions flare over coronavirus",
+        "link": "https://www.bbc.com/news/world-54253408"
     }
 ];

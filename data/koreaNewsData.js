@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963279.html"
+        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
     },
     {
+        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "한국투자증권, 코로나19 확진자 4명 추가",
         "link": "http://yna.kr/AKR20200923089300002?did=1195m"
-    },
-    {
-        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
-        "link": "https://www.news1.kr/articles/?4066799"
-    },
-    {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
         "link": "http://yna.kr/AKR20200923143200530?did=1195m"
+    },
+    {
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     }
 ];
