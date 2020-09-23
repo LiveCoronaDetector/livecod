@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
-        "title": "‘Buses are packed, as are shops and markets’: India’s rising COVID-19 infections are rapidly catching up with the U.S.",
-        "link": "https://www.marketwatch.com/story/buses-are-packed-as-are-shops-and-markets-indias-rising-covid-19-infections-are-rapidly-catching-up-with-the-us-2020-09-23"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",

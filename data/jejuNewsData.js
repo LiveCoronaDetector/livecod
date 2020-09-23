@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
     },
     {
-        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
-        "link": "https://www.hankyung.com/life/article/2020092273867"
+        "title": "코로나, 추석이 고비인데…제주 방문객 30만명·강원도 호텔 '완판'",
+        "link": "https://www.dailian.co.kr/news/view/922278/?sc=Naver"
     },
     {
-        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
+        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
+        "link": "https://www.hankyung.com/life/article/2020092273867"
     }
 ];

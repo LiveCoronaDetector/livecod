@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",
-        "link": "http://news.tf.co.kr/read/life/1814730.htm"
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정",
+        "link": "http://yna.kr/AKR20200924007300081?did=1195m"
     },
     {
-        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
-        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
+        "title": "서울 등교 재개 뒤 첫 확진자…신월중 3학년",
+        "link": "http://news.tf.co.kr/read/life/1814730.htm"
     }
 ];
