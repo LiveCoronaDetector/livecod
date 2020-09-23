@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200923037300056?did=1195m"
     },
     {
+        "title": "제주도 추석기간 고강도 방역대책 시행",
+        "link": "http://www.ihalla.com/read.php3?aid=1600827582692752073"
+    },
+    {
         "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
         "link": "https://www.news1.kr/articles/?4066773"
     },
@@ -15,10 +19,6 @@ var jejuNewsData = [
     {
         "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
         "link": "https://www.hankyung.com/life/article/2020092273867"
-    },
-    {
-        "title": "제주도 추석기간 고강도 방역대책 시행",
-        "link": "http://www.ihalla.com/read.php3?aid=1600827582692752073"
     },
     {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",

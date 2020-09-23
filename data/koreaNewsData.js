@@ -5,22 +5,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
-        "link": "http://www.fnnews.com/news/202009230942391690"
-    },
-    {
-        "title": "[전문] 대구서 택시기사 發 확진자 3명 발생…탑승자 117명 `음성`",
-        "link": "http://www.kbsm.net/default/index_view_page.php?idx=288472&part_idx=320"
-    },
-    {
-        "title": "코로나19 신규확진 110명…나흘만에 다시 '세 자릿수'",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/23/2020092390027.html"
-    },
-    {
         "title": "코로나19 어제 신규확진자 110명…나흘만에 다시 100명대",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220763"
     },
@@ -29,15 +13,31 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4066799"
     },
     {
-        "title": "서울 확진자 하루새 두배↑…여의도 증권사 신규 집단감염(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02551846625903072"
+        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나 국내 신규 110명… 국내발생 99명, 전날 대비 2배",
+        "title": "코로나 확진자 110명…수도권 산발감염 확산에 다시 세자릿수(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01968006625903072"
+    },
+    {
+        "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
+        "link": "http://www.fnnews.com/news/202009230942391690"
+    },
+    {
+        "title": "코로나 국내 신규 110명… 국내발생 99명, 전날 대비 2배",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/23/2020092300945.html"
     },
     {
-        "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
+        "title": "[속보] 코로나19 신규확진 나흘 만에 또 세자릿수…110명 늘어",
+        "link": "http://news.tf.co.kr/read/life/1814491.htm"
+    },
+    {
+        "title": "[전문] 대구서 택시기사 發 확진자 3명 발생…탑승자 117명 `음성`",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=288472&part_idx=320"
     }
 ];
