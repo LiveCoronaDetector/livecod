@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/health-environment/article/3102437/coronavirus-indonesia-can-jakarta-get-its-raging-covid"
     },
     {
-        "title": "UN General Assembly: US-China tensions flare over coronavirus",
-        "link": "https://www.bbc.com/news/world-54253408"
+        "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
+        "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "After 200,000 coronavirus deaths, the US faces another rude awakening",
-        "link": "https://www.theguardian.com/world/2020/sep/22/us-coronavirus-deaths-trump-autumn"
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "September 22 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
+        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
     }
 ];

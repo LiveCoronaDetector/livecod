@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
     },
     {
-        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
-        "link": "https://www.hankyung.com/life/article/2020092273867"
-    },
-    {
         "title": "제주도, 추석 입도객에 특별행정조치 발동",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "\"벌초·명절 이동 금지\" 코로나19 확산 우려에 국민청원 계속",
         "link": "https://www.ytn.co.kr/_ln/0103_202009230630019868"
+    },
+    {
+        "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
+        "link": "https://www.hankyung.com/life/article/2020092273867"
     }
 ];
