@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/as-covid-fatigue-fuels-infections-in-europe-italy-resists-the-second-wave-11600772400"
     },
     {
-        "title": "‘Buses are packed, as are shops and markets’: India’s rising COVID-19 infections are rapidly catching up with the U.S.",
-        "link": "https://www.marketwatch.com/story/buses-are-packed-as-are-shops-and-markets-indias-rising-covid-19-infections-are-rapidly-catching-up-with-the-us-2020-09-23"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
-    },
-    {
         "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     },
     {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",

@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "코로나 확진자 110명…수도권 산발감염 확산에 다시 세자릿수(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01968006625903072"
+    },
+    {
         "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
         "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
     },
     {
-        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+        "title": "한국투자증권, 코로나19 확진자 4명 추가...총 5명으로 늘어",
+        "link": "http://www.fnnews.com/news/202009231430100504"
     },
     {
         "title": "한국투자증권, 코로나19 확진자 4명 추가",
         "link": "http://yna.kr/AKR20200923089300002?did=1195m"
     },
     {
-        "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015041045&code=61141111&cp=nv"
-    },
-    {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
     },
     {
-        "title": "서울 일일 확진자 다시 40명대로 늘어",
-        "link": "http://www.fnnews.com/news/202009231047402643"
+        "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015041045&code=61141111&cp=nv"
     },
     {
         "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
         "link": "http://yna.kr/AKR20200923143200530?did=1195m"
     },
     {
-        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
-        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
+        "title": "부천 주민 5명 코로나19 확진…2명은 가족 확진자 접촉(종합)",
+        "link": "http://yna.kr/AKR20200923094751065?did=1195m"
     }
 ];
