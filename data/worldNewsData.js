@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {

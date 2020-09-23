@@ -13,31 +13,31 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066773"
     },
     {
-        "title": "[전문] 중대본 “제주도 여행객 중 발열이상자 검사비·자가격리비 본인 부담...",
-        "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20200923.99099007585"
+        "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
     },
     {
         "title": "제주 코로나 47·49번째 확진자 퇴원…10명 입원 치료",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
     },
     {
+        "title": "[전문] 중대본 “제주도 여행객 중 발열이상자 검사비·자가격리비 본인 부담...",
+        "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20200923.99099007585"
+    },
+    {
+        "title": "[종합] 추석 연휴 관광지 방역 강화 대책 마련…확진자 다시 세자리수",
+        "link": "http://www.viva100.com/main/view.php?key=20200923010005078"
+    },
+    {
         "title": "\"8분 이탈도 예외없다\"…제주, 코로나 수칙 위반 15명 고발",
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
-        "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
+        "title": "제주, 46・50번 확진자 오늘 퇴원...확진자는 모두 8명",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3005796"
     },
     {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
-    },
-    {
-        "title": "제주 46-50번 확진자 완치 퇴원...8명 입원치료 중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320440"
-    },
-    {
-        "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
-        "link": "http://www.fnnews.com/news/202009211703099399"
     }
 ];

@@ -5,16 +5,28 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z7YSMDISV"
     },
     {
-        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 신규 확진자 110명…나흘만 다시 세 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
+        "title": "[단독]LG 트윈타워 확진자 증가…LG전자 '원격근무' 전환(종합)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092310143353674"
+    },
+    {
         "title": "한국투자증권, 코로나19 확진자 4명 추가",
         "link": "http://yna.kr/AKR20200923089300002?did=1195m"
+    },
+    {
+        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
+        "link": "https://www.news1.kr/articles/?4066799"
+    },
+    {
+        "title": "코로나 신규확진 110명...나흘만에 다시 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092300874.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015041045&code=61141111&cp=nv"
     },
     {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009231047402643"
     },
     {
-        "title": "LG전자 트윈타워 확진자 5명으로 증가…전체 원격근무",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015041045&code=61141111&cp=nv"
-    },
-    {
-        "title": "서울 확진자 하루새 두배↑…여의도 증권사 신규 집단감염(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02551846625903072"
-    },
-    {
-        "title": "부천 주민 5명 코로나19 확진…2명은 가족 확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20200923094751065?did=1195m"
-    },
-    {
-        "title": "순천시 '코로나 구상권' 부산 북구청에 청구, 왜?…\"시민들 분노\"",
-        "link": "https://www.news1.kr/articles/?4066799"
+        "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
+        "link": "http://yna.kr/AKR20200923143200530?did=1195m"
     }
 ];
