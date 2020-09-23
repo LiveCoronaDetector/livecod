@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020092273867"
     },
     {
-        "title": "제주도, 추석 입도객에 특별행정조치 발동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
-    },
-    {
-        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
-    },
-    {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
         "link": "https://www.donga.com/news/article/all/20200922/103044507/1"
     },
     {
         "title": "제주도, 게스트하우스 밖 ‘3인 이상 집합’도 금지",
         "link": "http://www.fnnews.com/news/202009211703099399"
+    },
+    {
+        "title": "제주도, 자가격리 무단이탈자에 안심밴드 착용 조치…고발도",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5009156&ref=A"
+    },
+    {
+        "title": "\"벌초·명절 이동 금지\" 코로나19 확산 우려에 국민청원 계속",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009230630019868"
     }
 ];

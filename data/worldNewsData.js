@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
-        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
+        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
+        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
     }
 ];
