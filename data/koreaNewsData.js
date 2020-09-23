@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009231047402643"
     },
     {
-        "title": "'작은 홍보관에 다닥다닥'…확진자 13명 나온 '불법 다단계' 적발",
-        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176170&cID=10401&pID=10400"
-    },
-    {
         "title": "한국투자증권, 코로나19 확진자 4명 추가",
         "link": "http://yna.kr/AKR20200923089300002?did=1195m"
+    },
+    {
+        "title": "'작은 홍보관에 다닥다닥'…확진자 13명 나온 '불법 다단계' 적발",
+        "link": "http://www.newsis.com/view/?id=NISX20200923_0001176170&cID=10401&pID=10400"
     },
     {
         "title": "[속보]서울시 코로나19 확진자 40명…42.5%가 '경로 불분명'",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009231113001&code=940100"
     },
     {
-        "title": "[속보] 부산 코로나19 추가 확진자 6명 발생…누계 399명",
-        "link": "https://www.hankyung.com/life/article/2020092318097"
-    },
-    {
         "title": "[종합] 코로나19 확진자 110명 증가...서울 40명, 경기 28명",
         "link": "http://www.fnnews.com/news/202009230942391690"
+    },
+    {
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     }
 ];

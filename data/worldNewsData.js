@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "The hidden reason Trump’s ‘October surprise’ will likely fail",
+        "link": "https://www.washingtonpost.com/opinions/2020/09/22/hidden-reason-that-trumps-october-surprise-will-likely-fail/"
+    },
+    {
+        "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
         "title": "September 22 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/index.html"
     },
     {
-        "title": "103-Year-Old Celebrates COVID-19 Recovery With a Bud Light",
-        "link": "https://www.youtube.com/watch?v=WSFxe3MMTgo"
-    },
-    {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
+        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
     }
 ];
