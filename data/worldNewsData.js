@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
-        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
+        "title": "As Covid cases rise again, how are countries in Europe reacting?",
+        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "‘Buses are packed, as are shops and markets’: India’s rising COVID-19 infections are rapidly catching up with the U.S.",
+        "link": "https://www.marketwatch.com/story/buses-are-packed-as-are-shops-and-markets-indias-rising-covid-19-infections-are-rapidly-catching-up-with-the-us-2020-09-23"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
