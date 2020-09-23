@@ -9,20 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963279.html"
     },
     {
+        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "서울 강서구 어린이집 확진자 7명 늘어…총 8명",
         "link": "https://www.donga.com/news/article/all/20200923/103077534/2"
     },
     {
-        "title": "[속보] 제주 코로나19 확진 추가…미국 입국자",
-        "link": "https://www.hankyung.com/life/article/2020092341997"
-    },
-    {
         "title": "경기도 신규 확진자 30명 발생…\"방심 안 돼\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200923_0001176870&cID=10803&pID=14000"
-    },
-    {
-        "title": "코로나19 신규 확진 110명…나흘 만에 다시 세 자릿수",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005993395&plink=ORI&cooper=NAVER"
     },
     {
         "title": "정은경, '가장 영향력 있는 100인' 선정에 \"코로나 극복에 최선\"",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "네덜란드, 코로나 2차 유행… 주간 확진자 가장 많아",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/23/2020092303527.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "순천시, ‘코로나 확진자 관리 부실’ 부산 북구청 상대로 구상권 청구",
+        "link": "https://www.donga.com/news/article/all/20200922/103058724/1"
     }
 ];

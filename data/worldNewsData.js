@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Trudeau Promises Bold Plan for Canada in Throne Speech",
-        "link": "https://www.nytimes.com/2020/09/23/world/canada/trudeau-coronavirus-throne-speech.html"
+        "title": "Covid: US death toll passes 200,000",
+        "link": "https://www.bbc.com/news/world-us-canada-54244515"
     },
     {
         "title": "Israel is winning on the world stage, but losing the plot at home",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Covid-19 Live Updates: Johnson & Johnson Tests One-Shot Vaccine",
-        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
+        "title": "Coronavirus: Dr. Fauci, CDC Director Redfield testify on US COVID-19 response | LIVE",
+        "link": "https://www.youtube.com/watch?v=QytHo0xJoxk"
     },
     {
         "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
         "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     },
     {
-        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
-        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     }
 ];
