@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Live updates: At 200,000 coronavirus fatalities, U.S. hits Trump’s upper limit for doing ‘a very good job’",
+        "link": "https://www.washingtonpost.com/nation/2020/09/23/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "A bubble of self-delusion in Washington",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+        "title": "Global report: Trump calls 200,000 US coronavirus deaths 'a shame'",
+        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "China fumes at Trump’s UN speech, accuses US of spreading 'political virus'",
-        "link": "https://www.foxnews.com/politics/china-fumes-at-trumps-un-speech"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
         "title": "Over 200,000 People Have Died in the US: Live Covid-19 Updates",
         "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     },
     {
-        "title": "Plastic face shields do not stop spread of COVID-19, study claims",
-        "link": "https://nypost.com/2020/09/22/plastic-face-shields-ineffective-at-stopping-covid-19-study/"
+        "title": "China, in Pointed Message to U.S., Tightens Its Climate Targets",
+        "link": "https://www.nytimes.com/2020/09/22/climate/china-emissions.html"
     }
 ];
