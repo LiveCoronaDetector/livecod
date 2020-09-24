@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009240937069853"
     },
     {
+        "title": "코로나19 어제 신규 확진자 125명···서울 곳곳 집단감염(종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z7ZAQJF4F"
+    },
+    {
         "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
@@ -13,20 +17,20 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
     },
     {
+        "title": "과천청사 근무 방위사업청 직원 코로나19 확진…청사 긴급방역(종합)",
+        "link": "http://yna.kr/AKR20200924057951504?did=1195m"
+    },
+    {
+        "title": "프랑스 마르세유, 코로나19 '최대경계' 등급...식당·술집 폐쇄",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406956&class=42&grp="
+    },
+    {
         "title": "경남, 3일 만에 확진자 1명 발생…총 284명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
     },
     {
-        "title": "코로나19 어제 신규 확진자 125명···서울 곳곳 집단감염(종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z7ZAQJF4F"
-    },
-    {
-        "title": "코로나19 신규 확진 125명…이틀 연속 증가세(상보)",
-        "link": "https://view.asiae.co.kr/article/2020092409554023748"
-    },
-    {
-        "title": "과천청사 근무 방위사업청 직원 코로나19 확진…청사 긴급방역(종합)",
-        "link": "http://yna.kr/AKR20200924057951504?did=1195m"
+        "title": "[속보] 코로나19 신규 확진 125명... 수도권에서만 92명 발생",
+        "link": "https://hankookilbo.com/News/Read/A2020092409210002917?did=NA"
     },
     {
         "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규확진 125명...이틀째 세 자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092400889.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "박능후 \"확진자 100명 내외 유지…추석 재확산 여부 시험대 될 것\"",
-        "link": "https://www.news1.kr/articles/?4068652"
     }
 ];

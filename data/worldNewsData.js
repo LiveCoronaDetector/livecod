@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Trudeau: Canada already in second wave of coronavirus",
-        "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
+        "title": "Trudeau pledges tax on 'extreme wealth inequality' to fund Covid spending plan",
+        "link": "https://www.theguardian.com/world/2020/sep/23/trudeau-canada-coronavirus-throne-speech"
     },
     {
         "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
         "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "As Covid cases rise again, how are countries in Europe reacting?",
-        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
+        "title": "Rishi Sunak could do worse than copy Germany",
+        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
-        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
+        "title": "Houston study: More contagious coronavirus strain now dominates - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/24/houston-study-more-contagious-coronavirus-strain-now-dominates.html"
     },
     {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
