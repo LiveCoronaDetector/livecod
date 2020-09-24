@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Houston study: More contagious coronavirus strain now dominates",
+        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
     }
 ];
