@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Trudeau pledges tax on 'extreme wealth inequality' to fund Covid spending plan",
-        "link": "https://www.theguardian.com/world/2020/sep/23/trudeau-canada-coronavirus-throne-speech"
+        "title": "Trudeau: Canada already in second wave of coronavirus",
+        "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
     },
     {
-        "title": "Coronavirus cabinet concludes: Full lockdown beginning Friday",
+        "title": "Gov't approves total coronavirus lockdown starting Friday",
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
-        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
+        "title": "Rishi Sunak could do worse than copy Germany",
+        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
     },
     {
         "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
-        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
+        "title": "Houston study: More contagious coronavirus strain now dominates",
+        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
     },
     {
-        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
-        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
