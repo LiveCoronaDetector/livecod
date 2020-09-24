@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
     {
+        "title": "동대문구 확진자, 성경모임 관련 확진…\"오피스텔 방문자 검사 필요\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200924_0001179021&cID=14001&pID=14000"
+    },
+    {
         "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "경남, 3일 만에 확진자 1명 발생…총 284명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
-    },
-    {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+    },
+    {
+        "title": "경남, 3일 만에 확진자 1명 발생…총 284명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
     },
     {
         "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/24/2020092400966.html"
     },
     {
-        "title": "과천정부청사 방위사업청서 코로나19 첫 확진자 발생",
-        "link": "https://news.joins.com/article/olink/23474541"
+        "title": "프랑스 마르세유, 코로나19 '최대경계' 등급...식당·술집 폐쇄",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=406956&class=42&grp="
     },
     {
-        "title": "[종합] 코로나19 확진자 125명 증가...서울 39명, 경기 43명",
-        "link": "http://www.fnnews.com/news/202009240937069853"
-    },
-    {
-        "title": "박능후 \"확진자 100명 내외 유지…추석 재확산 여부 시험대 될 것\"",
-        "link": "https://www.news1.kr/articles/?4068652"
+        "title": "[속보] 코로나19 신규 확진자 125명...이틀째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009240940001&code=940601"
     }
 ];

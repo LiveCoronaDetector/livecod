@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
+        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
+        "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
+    },
+    {
         "title": "추석연휴 코앞인데…코로나19 확진자 다시 증가세",
         "link": "http://www.k-health.com/news/articleView.html?idxno=50336"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
-        "title": "[코로나19] 신규 확진 이틀째 세자릿수...추석 앞두고 급확산 여부 고비",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3006007"
-    },
-    {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세(종합)",
-        "link": "http://yna.kr/AKR20200924133951530?did=1195m"
-    },
-    {
         "title": "제주도, 추석연휴 입도객 특별행정 조치 발동",
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
+        "link": "https://www.news1.kr/articles/?4066773"
     }
 ];
