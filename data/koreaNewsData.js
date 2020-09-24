@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
-        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
     },
     {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+    },
+    {
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
+        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
     },
     {
         "title": "경남, 코로나19 확진자 2명 추가…총 285명(종합2보)",

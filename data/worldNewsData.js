@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
-        "title": "Coronavirus live news: Portugal to extend restrictions until mid-October; record cases in Poland and Netherlands",
-        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
+        "title": "Coronavirus Israel live: Pandemic czar 'nauseated' by decision on full lockdown, report says",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
         "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "September 23 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/h_7cd28b4c3d78cab443440db75afc2c2d"
+        "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
+        "link": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
     }
 ];
