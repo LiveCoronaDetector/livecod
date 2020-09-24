@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/totally-awakened-how-tragedy-has-left-italians-alert-to-deadly-virus"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "10,000 more deaths than usual occurred in UK homes since June",
+        "link": "https://www.theguardian.com/world/2020/sep/24/10000-more-deaths-than-usual-occurred-in-uk-homes-since-june"
     },
     {
         "title": "Not all of China is recovering from the economic hit from coronavirus at the same rate, survey finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus mutation seen in massive new study of genetic sequences from Houston",
-        "link": "https://www.washingtonpost.com/health/2020/09/23/houston-coronavirus-mutations/?arc404=true"
+        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
+        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
         "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     },
     {
-        "title": "UN General Assembly: US-China tensions flare over coronavirus",
-        "link": "https://www.bbc.com/news/world-54253408"
+        "title": "Battle rages inside US hospitals over how Covid-19 strikes and kills",
+        "link": "https://www.theguardian.com/world/2020/sep/23/us-hospitals-coronavirus-battle-cdc"
     }
 ];
