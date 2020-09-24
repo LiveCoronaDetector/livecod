@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
     {
-        "title": "경주 확진자 접촉 20대·자가격리 30대 확진…경남 누적 285명(종합)",
-        "link": "http://yna.kr/AKR20200924067951052?did=1195m"
-    },
-    {
         "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -17,8 +13,8 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
     },
     {
-        "title": "어린이집·요양원...곳곳서 집단 감염에 이틀 연속 코로나 세 자릿수",
-        "link": "https://www.pressian.com/pages/articles/2020092415111262421?utm_source=naver&utm_medium=search"
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
+        "title": "경남, 코로나19 확진자 2명 추가…총 285명(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20200924_0001178760&cID=10812&pID=10800"
+    },
+    {
         "title": "관악구 어린이집 5명 집단감염…서울 신규 확진자 53명 증가",
         "link": "https://www.news1.kr/articles/?4069841"
     },
     {
-        "title": "독일 코로나19 재확산속 장관 격리 잇따라…지역 곳곳 통제강화(종합)",
-        "link": "http://yna.kr/AKR20200924203751082?did=1195m"
-    },
-    {
         "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/24/2020092400966.html"
+    },
+    {
+        "title": "과천정부청사 방위사업청서 코로나19 첫 확진자 발생",
+        "link": "https://news.joins.com/article/olink/23474541"
     }
 ];

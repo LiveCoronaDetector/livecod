@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Coronavirus updates: Virus may be more contagious; Britain mulls intentionally infecting volunteers; kids' vaccine could push beyond 2021",
+        "title": "Coronavirus updates: Missouri city bans dancing a la 'Footloose'; Is virus getting more contagious?; infecting volunteers on purpose mulled",
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Israel tightens second lockdown to avoid 'abyss'",
-        "link": "https://www.bbc.com/news/world-middle-east-54278293"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "Coronavirus: Israel tightens second lockdown to avoid 'abyss'",
+        "link": "https://www.bbc.com/news/world-middle-east-54278293"
     }
 ];
