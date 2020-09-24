@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
+        "title": "제주도, 추석연휴 입도객 특별행정 조치 발동",
+        "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
         "link": "http://yna.kr/AKR20200923037300056?did=1195m"
     },
@@ -19,10 +23,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
-    },
-    {
-        "title": "제주도, 추석연휴 입도객 특별행정 조치 발동",
-        "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     },
     {
         "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.imaeil.com/Society/2020092317123484865"
     },
     {
-        "title": "코로나19 국내 대응현황 브리핑 (20. 09. 23. 11시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609675"
+        "title": "제주 코로나 47·49번째 확진자 퇴원…10명 입원 치료",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
     }
 ];

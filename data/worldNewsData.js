@@ -13,19 +13,19 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "As Covid cases rise again, how are countries in Europe reacting?",
-        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
+        "title": "Rishi Sunak could do worse than copy Germany",
+        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
     },
     {
-        "title": "Coronavirus live news: Indonesia sees record case rise; India deaths pass 90,000",
-        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
         "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Covid-19 Live Updates: Contradicting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
+        "title": "Covid-19 Live Updates: Undercutting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/joewalsh/2020/09/23/coronavirus-may-have-mutated-to-become-more-contagious-study-finds/"
     },
     {
-        "title": "England's Covid regulations: the 'rule of sex' and other quirks",
-        "link": "https://www.theguardian.com/world/2020/sep/23/englands-covid-regulations-the-rule-of-sex-and-other-quirks"
+        "title": "Face shields ineffective at trapping aerosols, says Japanese supercomputer",
+        "link": "https://www.theguardian.com/world/2020/sep/22/face-shields-ineffective-trapping-aerosols-japanese-supercomputer-coronavirus"
     }
 ];
