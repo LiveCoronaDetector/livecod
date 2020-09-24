@@ -17,8 +17,12 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
+    },
+    {
         "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
-        "link": "http://yna.kr/AKR20200923037300056?did=1195m"
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=233222"
     },
     {
         "title": "“올 추석 고향엔 마음만… ” 코로나가 바꾼 명절 풍경",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
-    },
-    {
-        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
     }
 ];

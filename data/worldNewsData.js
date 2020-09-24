@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "Rishi Sunak could do worse than copy Germany",
-        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
+        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
+        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "Houston study: More contagious coronavirus strain now dominates",
+        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
