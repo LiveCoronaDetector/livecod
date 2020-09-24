@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
-        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
+        "title": "As Covid cases rise again, how are countries in Europe reacting?",
+        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
-        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
-    },
-    {
-        "title": "Houston study: More contagious coronavirus strain now dominates",
-        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+    },
+    {
+        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
+        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
+    },
+    {
+        "title": "UN General Assembly: US-China tensions flare over coronavirus",
+        "link": "https://www.bbc.com/news/world-54253408"
     }
 ];
