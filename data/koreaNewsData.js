@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092415111262421?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
+    },
+    {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4069841"
     },
     {
+        "title": "독일 코로나19 재확산속 장관 격리 잇따라…지역 곳곳 통제강화(종합)",
+        "link": "http://yna.kr/AKR20200924203751082?did=1195m"
+    },
+    {
         "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/24/2020092400966.html"
-    },
-    {
-        "title": "과천정부청사 방위사업청서 코로나19 첫 확진자 발생",
-        "link": "https://news.joins.com/article/olink/23474541"
-    },
-    {
-        "title": "[종합] 코로나19 확진자 125명 증가...서울 39명, 경기 43명",
-        "link": "http://www.fnnews.com/news/202009240937069853"
     }
 ];

@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Coronavirus updates: Virus may have grown more contagious; Britain may intentionally infect volunteers; kids won't be vaccinated for awhile",
+        "title": "Coronavirus updates: Virus may be more contagious; Britain mulls intentionally infecting volunteers; kids' vaccine could push beyond 2021",
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
-        "title": "Coronavirus live news: record new cases in Poland and Netherlands; infections surge in Iran",
-        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
+        "title": "With Coronavirus on the Rampage, Israel Tightens Holiday Lockdown",
+        "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
     },
     {
         "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "September 23 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/h_7cd28b4c3d78cab443440db75afc2c2d"
+        "title": "Coronavirus: Israel tightens second lockdown to avoid 'abyss'",
+        "link": "https://www.bbc.com/news/world-middle-east-54278293"
     },
     {
-        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
-        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
