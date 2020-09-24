@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
-    },
-    {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
         "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
     },
     {
         "title": "관악구 어린이집 5명 집단감염…서울 신규 확진자 53명 증가",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23474541"
     },
     {
-        "title": "[종합] 코로나19 확진자 125명 증가...서울 39명, 경기 43명",
-        "link": "http://www.fnnews.com/news/202009240937069853"
+        "title": "경북 코로나19 확진자 포항·경주서 1명씩 추가",
+        "link": "http://yna.kr/AKR20200924030500053?did=1195m"
     }
 ];

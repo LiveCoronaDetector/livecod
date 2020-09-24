@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066773"
     },
     {
-        "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092314023674505"
-    },
-    {
         "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
+    },
+    {
+        "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092314023674505"
     }
 ];
