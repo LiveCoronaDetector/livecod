@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
-        "title": "Coronavirus Israel live: Pandemic czar 'nauseated' by decision on full lockdown, report says",
+        "title": "Coronavirus Israel live: Pandemic czar 'nauseated' by Netanyahu's decision on full lockdown, report says",
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
         "title": "Covid-19 News: Cuomo Says New York Will Vet Federally Authorized Vaccines",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
-        "link": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
