@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "As Covid cases rise again, how are countries in Europe reacting?",
-        "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
+        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
+        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
     },
     {
         "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Houston study: More contagious coronavirus strain now dominates",
-        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
+        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
+        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
     },
     {
-        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
-        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     }
 ];
