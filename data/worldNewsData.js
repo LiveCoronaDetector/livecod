@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Fauci 'cautiously optimistic' about coronavirus vaccine approval by end of 2020",
-        "link": "https://www.foxnews.com/politics/coronavirus-vaccine-timeline-dr-fauci-covid-19"
-    },
-    {
-        "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
-        "link": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
         "title": "September 23 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/h_7cd28b4c3d78cab443440db75afc2c2d"
+    },
+    {
+        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
+        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
     }
 ];
