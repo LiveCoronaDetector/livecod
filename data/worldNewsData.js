@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Coronavirus updates: Missouri city bans dancing a la 'Footloose'; Is virus getting more contagious?; infecting volunteers on purpose mulled",
+        "title": "Coronavirus updates: Cuomo says New York will review vaccines approved by feds; Missouri city bans dancing a la 'Footloose'",
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
-        "title": "Coronavirus Israel live: Pandemic czar 'nauseated' by Netanyahu's decision on full lockdown, report says",
+        "title": "Coronavirus Israel live: Netanyahu, announcing stricter lockdown, slams ‘destructive, anarchist’ protests",
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
         "title": "Covid-19 News: Cuomo Says New York Will Vet Federally Authorized Vaccines",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
+        "link": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
     }
 ];
