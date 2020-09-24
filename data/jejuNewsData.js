@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11665?feed=na"
     },
     {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세(종합)",
-        "link": "http://yna.kr/AKR20200924133951530?did=1195m"
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",

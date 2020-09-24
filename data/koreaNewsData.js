@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 125명·사망 5명…지역발생 110명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009240085&t=NN"
-    },
-    {
-        "title": "코로나19 이틀간 '100명대'…수도권, 집단감염 여파에 92명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02200886625903400"
-    },
-    {
         "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
@@ -25,8 +17,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092415111262421?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
-        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
+        "title": "[속보] 코로나19 신규 확진 125명·사망 5명…지역발생 110명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009240085&t=NN"
+    },
+    {
+        "title": "코로나19 이틀간 '100명대'…수도권, 집단감염 여파에 92명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02200886625903400"
     },
     {
         "title": "코로나19 어제 신규 확진자 125명…‘국내발생’만 110명",
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
+        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
         "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",

@@ -100,9 +100,9 @@ var marker = [
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "확진자수": 432798,
-        "사망자수": 24840,
-        "완치자수": 365846
+        "확진자수": 436319,
+        "사망자수": 25015,
+        "완치자수": 367829
     },
     {
         "Name": "영국",
@@ -356,9 +356,9 @@ var marker = [
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "확진자수": 76357,
-        "사망자수": 796,
-        "완치자수": 73564
+        "확진자수": 76651,
+        "사망자수": 802,
+        "완치자수": 73733
     },
     {
         "Name": "Honduras",
@@ -452,8 +452,8 @@ var marker = [
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "확진자수": 51101,
-        "사망자수": 2060,
+        "확진자수": 51492,
+        "사망자수": 2061,
         "완치자수": 42300
     },
     {
@@ -934,7 +934,7 @@ var marker = [
         "Name_en": "Hong Kong",
         "확진자수": 5057,
         "사망자수": 104,
-        "완치자수": 4749
+        "완치자수": 4758
     },
     {
         "Name": "Equatorial Guinea",
@@ -1116,9 +1116,9 @@ var marker = [
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "확진자수": 2856,
-        "사망자수": 25,
-        "완치자수": 2173
+        "확진자수": 2898,
+        "사망자수": 27,
+        "완치자수": 2191
     },
     {
         "Name": "South Sudan",
@@ -1641,6 +1641,14 @@ var marker = [
         "완치자수": 17
     },
     {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
+        "확진자수": 16,
+        "사망자수": 0,
+        "완치자수": 6
+    },
+    {
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
@@ -1671,14 +1679,6 @@ var marker = [
         "확진자수": 12,
         "사망자수": 0,
         "완치자수": 12
-    },
-    {
-        "Name": "Saint Pierre Miquelon",
-        "Name_ch": "",
-        "Name_en": "Saint Pierre Miquelon",
-        "확진자수": 12,
-        "사망자수": 0,
-        "완치자수": 6
     },
     {
         "Name": "Western Sahara",
