@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-gantz-asks-army-to-begin-working-on-new-field-hospital-1.9175585"
     },
     {
-        "title": "Rishi Sunak could do worse than copy Germany",
-        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
+        "title": "'Totally awakened': how tragedy has left Italians alert to deadly virus",
+        "link": "https://www.theguardian.com/world/2020/sep/24/totally-awakened-how-tragedy-has-left-italians-alert-to-deadly-virus"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus mutation seen in massive new study of genetic sequences from Houston",
-        "link": "https://www.washingtonpost.com/health/2020/09/23/houston-coronavirus-mutations/?arc404=true"
-    },
-    {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
-    },
-    {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
+    },
+    {
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Battle rages inside US hospitals over how Covid-19 strikes and kills",
+        "link": "https://www.theguardian.com/world/2020/sep/23/us-hospitals-coronavirus-battle-cdc"
     }
 ];
