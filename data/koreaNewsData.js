@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
     {
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
+        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
+    },
+    {
         "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -13,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
     },
     {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
-        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
+        "title": "어린이집·요양원...곳곳서 집단 감염에 이틀 연속 코로나 세 자릿수",
+        "link": "https://www.pressian.com/pages/articles/2020092415111262421?utm_source=naver&utm_medium=search"
     },
     {
         "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "과천정부청사 방위사업청서 코로나19 첫 확진자 발생",
         "link": "https://news.joins.com/article/olink/23474541"
-    },
-    {
-        "title": "경북 코로나19 확진자 포항·경주서 1명씩 추가",
-        "link": "http://yna.kr/AKR20200924030500053?did=1195m"
     },
     {
         "title": "[종합] 코로나19 확진자 125명 증가...서울 39명, 경기 43명",

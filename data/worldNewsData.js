@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Coronavirus updates: Cuomo says New York will review vaccines approved by feds; Missouri city bans dancing a la 'Footloose'",
-        "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
+        "title": "Trudeau warns Covid-19 second wave already happening in Canada",
+        "link": "https://www.cnn.com/2020/09/24/americas/canada-trudeau-covid-19-second-wave-intl/index.html"
     },
     {
         "title": "Coronavirus Israel live: Netanyahu, announcing stricter lockdown, slams ‘destructive, anarchist’ protests",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Covid-19 Live News: Cuomo Says New York Will Vet Federally Authorized Vaccines",
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live News",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Israel tightens second lockdown to avoid 'abyss'",
-        "link": "https://www.bbc.com/news/world-middle-east-54278293"
+        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
+        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
     }
 ];
