@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924057951504?did=1195m"
     },
     {
-        "title": "경남, 3일 만에 확진자 1명 발생…총 284명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
-    },
-    {
         "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
     {
+        "title": "경남, 3일 만에 확진자 1명 발생…총 284명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200924_0001177806&cID=10812&pID=10800"
+    },
+    {
         "title": "어린이집·요양원...곳곳서 집단 감염에 이틀 연속 코로나 세 자릿수",
         "link": "https://www.pressian.com/pages/articles/2020092415111262421?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
+        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진 125명·사망 5명…지역발생 110명",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "영국 코로나19 감염 속도 가속화…하루 신규 확진자 6천명 넘어",
-        "link": "http://yna.kr/AKR20200924003500085?did=1195m"
-    },
-    {
-        "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/24/2020092400966.html"
+        "title": "[종합] 코로나19 확진자 125명 증가...서울 39명, 경기 43명",
+        "link": "http://www.fnnews.com/news/202009240937069853"
     }
 ];
