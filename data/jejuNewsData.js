@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
     },
     {
+        "title": "제주 59번째 확진자 나와…지난 8일 미국에서 입국",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5011891&ref=A"
+    },
+    {
         "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
         "link": "http://news.mt.co.kr/mtview.php?no=2020092314023674505"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 연휴 항공편 급증…코로나 재유행 '비상'",
         "link": "https://news.imaeil.com/Society/2020092317123484865"
-    },
-    {
-        "title": "제주 코로나 47·49번째 확진자 퇴원…10명 입원 치료",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5010513&ref=A"
     }
 ];

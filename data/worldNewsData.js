@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
     },
     {
-        "title": "Covid-19 Live Updates: Undercutting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
-        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+    },
+    {
+        "title": "Covid-19 Live Updates: Undercutting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
+        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Houston study: More contagious coronavirus strain now dominates",
-        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
+        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
+        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
     }
 ];
