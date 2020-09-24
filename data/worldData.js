@@ -1217,20 +1217,20 @@ var marker = [
         "완치자수": 1203
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 1706,
+        "사망자수": 22,
+        "완치자수": 1019
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "확진자수": 1701,
         "사망자수": 41,
         "완치자수": 1297
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 1669,
-        "사망자수": 21,
-        "완치자수": 1004
     },
     {
         "Name": "Cyprus",
@@ -1260,9 +1260,9 @@ var marker = [
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "확진자수": 1394,
-        "사망자수": 2,
-        "완치자수": 1170
+        "확진자수": 1469,
+        "사망자수": 5,
+        "완치자수": 1237
     },
     {
         "Name": "Liberia",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 672,
+        "확진자수": 676,
         "사망자수": 5,
-        "완치자수": 581
+        "완치자수": 588
     },
     {
         "Name": "Channel Islands",
@@ -1348,9 +1348,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 594,
-        "사망자수": 20,
-        "완치자수": 512
+        "확진자수": 616,
+        "사망자수": 21,
+        "완치자수": 517
     },
     {
         "Name": "Papua New Guinea",

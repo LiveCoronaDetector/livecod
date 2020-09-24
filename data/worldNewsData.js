@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/as-covid-cases-rise-again-how-are-countries-in-europe-reacting"
     },
     {
-        "title": "Coronavirus live news: Indonesia sees record case rise; India deaths pass 90,000",
+        "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
         "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "Bill Gates says he thinks Trump's travel ban made outbreak in US worse. Here's why",
-        "link": "https://www.cnn.com/videos/health/2020/09/22/bill-gates-china-coronavirus-covid-dr-paul-sax-nr-vpx.cnn"
+        "title": "Not all of China is recovering from the economic hit from coronavirus at the same rate, survey finds",
+        "link": "https://www.cnbc.com/2020/09/24/not-all-of-china-is-recovering-from-coronavirus-hit-at-the-same-rate-survey-finds.html"
     },
     {
         "title": "Covid-19 Live Updates: Undercutting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
-    },
-    {
         "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Finland to deploy coronavirus-sniffing dogs at Helsinki Airport",
-        "link": "https://www.washingtonpost.com/world/2020/09/22/coronavirus-sniffing-dogs-helsinki-airport-finland/"
+        "title": "Houston study: More contagious coronavirus strain now dominates",
+        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
+    },
+    {
+        "title": "Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up",
+        "link": "https://www.cnn.com/2020/09/21/asia/taiwan-model-coronavirus-hnk-intl/index.html"
     }
 ];
