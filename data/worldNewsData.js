@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
-        "title": "With Coronavirus on the Rampage, Israel Tightens Holiday Lockdown",
-        "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
+        "title": "Coronavirus live news: Portugal to extend restrictions until mid-October; record cases in Poland and Netherlands",
+        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
         "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Coronavirus: Israel tightens second lockdown to avoid 'abyss'",
-        "link": "https://www.bbc.com/news/world-middle-east-54278293"
+        "title": "Covid-19 News: Cuomo Says New York Will Vet Federally Authorized Vaccines",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "September 23 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/h_7cd28b4c3d78cab443440db75afc2c2d"
     }
 ];
