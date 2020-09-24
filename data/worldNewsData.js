@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Coronavirus updates: Virus may have grown more contagious; Britain may intentionally infect volunteers; US nears 7M cases",
+        "title": "Coronavirus updates: Virus may have grown more contagious; Britain may intentionally infect volunteers; Kids won't be vaccinated for awhile",
         "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/24/europe/europe-coronavirus-second-wave-deaths-intl/index.html"
     },
     {
-        "title": "Free staycations for Bali residents as Indonesia tests virus protocols",
-        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3102918/indonesia-offers-bali-residents-free-staycations-test"
+        "title": "In India, engineers and MBAs are turning to manual labor to survive the economic crash",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-jobs-economy/2020/09/23/6aab7d9c-f859-11ea-85f7-5941188a98cd_story.html"
     },
     {
         "title": "Wuhan Covid journalist missing since February found, says friend",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "September 23 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     },
     {
-        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
-        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
+        "title": "UN General Assembly: US-China tensions flare over coronavirus",
+        "link": "https://www.bbc.com/news/world-54253408"
     }
 ];
