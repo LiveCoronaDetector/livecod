@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54248507"
     },
     {
-        "title": "Trudeau: Canada already in second wave of coronavirus",
-        "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
+        "title": "Coronavirus updates: Virus may have grown more contagious; Britain may intentionally infect volunteers; US nears 7M cases",
+        "link": "https://www.usatoday.com/story/news/health/2020/09/24/covid-19-johnson-johnson-vaccine-donald-trump-fda-canada/3510999001/"
     },
     {
         "title": "Coronavirus live news: record new cases in Poland and Netherlands; infections surge in Iran",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/24/europe/europe-coronavirus-second-wave-deaths-intl/index.html"
     },
     {
-        "title": "In India, engineers and MBAs are turning to manual labor to survive the economic crash",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-jobs-economy/2020/09/23/6aab7d9c-f859-11ea-85f7-5941188a98cd_story.html"
+        "title": "Free staycations for Bali residents as Indonesia tests virus protocols",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3102918/indonesia-offers-bali-residents-free-staycations-test"
     },
     {
         "title": "Wuhan Covid journalist missing since February found, says friend",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
-        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
+        "title": "September 23 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-23-20-intl/index.html"
     },
     {
-        "title": "UN General Assembly: US-China tensions flare over coronavirus",
-        "link": "https://www.bbc.com/news/world-54253408"
+        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
+        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
     }
 ];

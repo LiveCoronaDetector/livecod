@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
-        "link": "https://jejumbc.com/article/VN615O33jfzs"
+        "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=233222"
     },
     {
         "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
