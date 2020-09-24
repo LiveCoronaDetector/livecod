@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
     },
     {
-        "title": "Coronavirus Israel live: Government approves stricter lockdown, limiting protests",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-gantz-asks-army-to-begin-working-on-new-field-hospital-1.9175585"
+        "title": "Coronavirus live news: infections surge in Poland after restrictions eased; record new cases in Iran",
+        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "Everyone thought Germany and Italy weren't seeing a second wave of the coronavirus ... now maybe they are",
-        "link": "https://www.cnbc.com/2020/09/24/are-germany-and-italy-finally-seeing-a-second-wave-of-the-coronavirus.html"
+        "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
+        "link": "https://www.cnn.com/2020/09/24/europe/europe-coronavirus-second-wave-deaths-intl/index.html"
     },
     {
-        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
-        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
+        "title": "In India, engineers and MBAs are turning to manual labor to survive the economic crash",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-jobs-economy/2020/09/23/6aab7d9c-f859-11ea-85f7-5941188a98cd_story.html"
     },
     {
         "title": "Not all of China is recovering from the economic hit from coronavirus at the same rate, survey finds",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Houston study: More contagious coronavirus strain now dominates",
-        "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
+        "title": "Covid: US death toll passes 200,000",
+        "link": "https://www.bbc.com/news/world-us-canada-54244515"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
