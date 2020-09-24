@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live News",
+        "title": "Covid-19 Live Updates",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "UN General Assembly: US-China tensions flare over coronavirus",
-        "link": "https://www.bbc.com/news/world-54253408"
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
