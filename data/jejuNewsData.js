@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주 59번째 확진자 나와…지난 8일 미국에서 입국",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5011891&ref=A"
+    },
+    {
         "title": "코로나19 여파에 제주로 관광객 몰린다지만 여행업체 2.8% 감소",
         "link": "http://yna.kr/AKR20200923037300056?did=1195m"
     },
@@ -21,23 +25,19 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4066773"
     },
     {
-        "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
+        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
+        "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
     {
-        "title": "제주 59번째 확진자 나와…지난 8일 미국에서 입국",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5011891&ref=A"
+        "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
     },
     {
         "title": "'코로나 추석' 리조트 만실 또 만실…그놈은 항상 연휴를 노렸다",
         "link": "http://news.mt.co.kr/mtview.php?no=2020092314023674505"
     },
     {
-        "title": "제주, 46・50번 확진자 오늘 퇴원...확진자는 모두 8명",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3005796"
-    },
-    {
-        "title": "추석 연휴 항공편 급증…코로나 재유행 '비상'",
-        "link": "https://news.imaeil.com/Society/2020092317123484865"
+        "title": "제주 코로나19 47-49번 확진자 퇴원...입원 10명 남아",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320391"
     }
 ];
