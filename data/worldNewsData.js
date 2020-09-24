@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
     },
     {
-        "title": "Coronavirus live news: infections surge in Poland after restrictions eased; record new cases in Iran",
-        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
+        "title": "Coronavirus Israel live: Government approves stricter lockdown, limiting protests",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-gantz-asks-army-to-begin-working-on-new-field-hospital-1.9175585"
     },
     {
         "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/24/not-all-of-china-is-recovering-from-coronavirus-hit-at-the-same-rate-survey-finds.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
-    },
-    {
-        "title": "Undercutting Scientists, Trump Says Tightening Covid-19 Vaccine Guidelines ‘Sounds Like a Political Move’",
-        "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
-    },
-    {
-        "title": "Covid: US death toll passes 200,000",
-        "link": "https://www.bbc.com/news/world-us-canada-54244515"
+        "title": "Mutated, more contagious strain of coronavirus now dominates, Houston study finds | Daily Sabah",
+        "link": "https://www.dailysabah.com/life/health/mutated-more-contagious-strain-of-coronavirus-now-dominates-houston-study-finds"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
         "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+    },
+    {
+        "title": "UN General Assembly: US-China tensions flare over coronavirus",
+        "link": "https://www.bbc.com/news/world-54253408"
+    },
+    {
+        "title": "September 21 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     }
 ];
