@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
     },
     {
-        "title": "Rishi Sunak could do worse than copy Germany",
-        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
+        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
+        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
     },
     {
-        "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
+        "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
+        "link": "https://www.foxnews.com/world/indonesian-officials-order-coronavirus-victims-graves-be-dug-by-people-busted-for-neglecting-to-wear-masks"
     },
     {
         "title": "Not all of China is recovering from the economic hit from coronavirus at the same rate, survey finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
-        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
-    },
-    {
         "title": "Houston study: More contagious coronavirus strain now dominates",
         "link": "https://news.yahoo.com/houston-study-more-contagious-coronavirus-222214961.html"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "Global report: Donald Trump calls 200,000 US coronavirus deaths 'a shame'",
+        "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
+    },
+    {
+        "title": "Fourth-Largest U.S. School District to Allow Students Back in Classrooms",
+        "link": "https://www.nytimes.com/2020/09/22/world/covid-coronavirus.html"
     }
 ];
