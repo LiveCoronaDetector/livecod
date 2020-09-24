@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/09/23/trudeau-coronavirus-second-wave-420857"
     },
     {
-        "title": "Gov't approves total coronavirus lockdown starting Friday",
-        "link": "https://www.jpost.com/israel-news/coronavirus-cabinet-to-meet-as-daily-cases-spike-to-nearly-7000-643263"
+        "title": "Coronavirus live news: global deaths pass 975,000 as Israel plans for stricter lockdown",
+        "link": "https://www.theguardian.com/world/live/2020/sep/24/coronavirus-live-news-indonesia-sees-record-case-rise-india-deaths-pass-90000"
     },
     {
-        "title": "Glitches dent German enthusiasm for Covid contact-tracing app",
-        "link": "https://www.theguardian.com/world/2020/sep/23/glitches-dent-german-enthusiasm-for-covid-contact-tracing-app"
+        "title": "Rishi Sunak could do worse than copy Germany",
+        "link": "https://www.theguardian.com/world/2020/sep/23/rishi-sunak-could-do-worse-than-copy-germany"
     },
     {
         "title": "Indonesian official orders coronavirus victims' graves be dug by people busted without masks",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/23/global-report-trump-calls-200000-us-coronavirus-deaths-a-shame"
     },
     {
-        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
-        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
-    },
-    {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
         "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     }
 ];
