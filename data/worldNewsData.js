@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/24/not-all-of-china-is-recovering-from-coronavirus-hit-at-the-same-rate-survey-finds.html"
     },
     {
-        "title": "Covid-19 Live Updates: Undercutting Scientists, Trump Says Tightening Vaccine Guidelines ‘Sounds Like a Political Move’",
+        "title": "Undercutting Scientists, Trump Says Tightening Covid-19 Vaccine Guidelines ‘Sounds Like a Political Move’",
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
-    },
-    {
-        "title": "Houston study: More contagious coronavirus strain now dominates - The Jakarta Post",
-        "link": "https://www.thejakartapost.com/news/2020/09/24/houston-study-more-contagious-coronavirus-strain-now-dominates.html"
+        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
+        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
     },
     {
         "title": "UN General Assembly: US-China tensions flare over coronavirus",
         "link": "https://www.bbc.com/news/world-54253408"
+    },
+    {
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
