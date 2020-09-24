@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
