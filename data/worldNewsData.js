@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/23/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Possible virus vulnerability discovered; about 20% of people with COVID-19 remain asymptomatic",
-        "link": "https://news.yahoo.com/possible-virus-vulnerability-discovered-20-193025474.html"
+        "title": "Coronavirus mutation seen in massive new study of genetic sequences from Houston",
+        "link": "https://www.washingtonpost.com/health/2020/09/23/houston-coronavirus-mutations/?arc404=true"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
