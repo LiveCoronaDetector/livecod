@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020092521490005917?did=NA"
     },
     {
-        "title": "경남도 코로나19 확진자 1명 늘어…부산 거주 60대",
-        "link": "http://yna.kr/AKR20200925173500052?did=1195m"
-    },
-    {
-        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
-    },
-    {
         "title": "러시아 코로나19 하루 신규확진자 7천명대…재확산 심화(종합)",
         "link": "http://yna.kr/AKR20200925153851080?did=1195m"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
+    },
+    {
+        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
+    },
+    {
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
+        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
