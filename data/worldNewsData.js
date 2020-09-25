@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Live updates: A ‘large proportion’ of U.S. population will not be vaccinated this year, Fauci says",
-        "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
+        "title": "As pandemic winter looms, leaders in Europe and Canada issue stark warnings",
+        "link": "https://www.washingtonpost.com/world/europe/coronavirus-second-wave-europe-canada/2020/09/24/1bcb1aae-fe6a-11ea-b0e4-350e4e60cc91_story.html"
     },
     {
         "title": "Israel Tightens Holiday Lockdown, Restricting Prayers and Protests",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
-        "title": "India’s top coronavirus adviser defends pandemic response",
-        "link": "https://www.ft.com/content/ff73c3ce-ec69-4245-9340-7ba9d9767fd1"
+        "title": "Covid-19 restrictions: 'South Asian weddings should have 400 guests - not 15'",
+        "link": "https://www.bbc.com/news/uk-england-birmingham-54271395"
     },
     {
         "title": "Coronavirus: 'We're Australian but we're trapped in the UK'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
-    },
-    {
-        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
+        "title": "Covid-19 Live Updates: Cuomo to Form Panel to Vet Federally Authorized Vaccines",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
-        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+    },
+    {
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];

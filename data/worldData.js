@@ -604,9 +604,9 @@ var marker = [
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "확진자수": 24916,
-        "사망자수": 645,
-        "완치자수": 18646
+        "확진자수": 25594,
+        "사망자수": 647,
+        "완치자수": 19010
     },
     {
         "Name": "헝가리",
@@ -1148,9 +1148,9 @@ var marker = [
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "확진자수": 2512,
+        "확진자수": 2561,
         "사망자수": 10,
-        "완치자수": 2150
+        "완치자수": 2151
     },
     {
         "Name": "Benin",
@@ -1302,7 +1302,7 @@ var marker = [
         "Name_en": "Vietnam",
         "확진자수": 1069,
         "사망자수": 35,
-        "완치자수": 991
+        "완치자수": 999
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1396,9 +1396,9 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 455,
+        "확진자수": 458,
         "사망자수": 0,
-        "완치자수": 416
+        "완치자수": 417
     },
     {
         "Name": "Eritrea",
