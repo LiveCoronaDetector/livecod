@@ -17,20 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
-        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
-        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
-    },
-    {
-        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
-    },
-    {
         "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
     {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세(종합)",
-        "link": "http://yna.kr/AKR20200924133951530?did=1195m"
+        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
         "title": "[현장연결] 박능후 \"코로나19 안정세·대규모 유행 여부 추석에 달려 있어\"",
@@ -39,5 +31,13 @@ var jejuNewsData = [
     {
         "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
         "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
+    },
+    {
+        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
+        "link": "http://www.ajunews.com/view/20200925093712284"
+    },
+    {
+        "title": "제주도, 추석 입도객에 특별행정조치 발동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
     }
 ];
