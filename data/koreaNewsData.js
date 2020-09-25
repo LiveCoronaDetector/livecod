@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005999033&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
+    },
+    {
         "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
         "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     }
 ];

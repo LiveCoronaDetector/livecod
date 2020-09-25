@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Israel under lockdown as coronavirus cases top 8,000 in a single day",
-        "link": "https://www.jpost.com/health-science/israel-under-lockdown-as-cases-top-7700-in-a-single-day-643578"
+        "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
+        "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
     },
     {
         "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
-    },
-    {
         "title": "Live updates: WHO warns 2 million deaths ‘not impossible’ as global fatalities approach 1 million",
         "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
+        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     }
 ];
