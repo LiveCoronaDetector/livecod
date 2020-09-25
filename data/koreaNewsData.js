@@ -9,8 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     },
     {
+        "title": "프랑스 코로나 신규확진 하루 1만6000명...최다 기록 또 경신",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500464.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나 재확산에 소비심리 5개월만에 하락…집값 전망도 '뚝'",
         "link": "https://www.news1.kr/articles/?4069855"
+    },
+    {
+        "title": "구글맵, 지역별 코로나 확진자 수 제공",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 110명…나흘 만에 다시 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009230936001&code=940100"
-    },
-    {
-        "title": "[속보]원주 40대 여성 코로나19 확진…남편 등 가족 3명은 음성",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220092400160"
-    },
-    {
-        "title": "코로나 국내 신규 125명… 국내발생 110명, 해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/24/2020092400966.html"
     }
 ];

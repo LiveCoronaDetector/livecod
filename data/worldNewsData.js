@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
