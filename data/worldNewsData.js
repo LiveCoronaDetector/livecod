@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/24/europe/europe-coronavirus-second-wave-deaths-intl/index.html"
     },
     {
-        "title": "Covid-19 restrictions: 'South Asian weddings should have 400 guests - not 15'",
-        "link": "https://www.bbc.com/news/uk-england-birmingham-54271395"
+        "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
+        "link": "https://www.cnn.com/2020/09/25/entertainment/balasubrahmanyam-death-covid-intl-scli/index.html"
     },
     {
         "title": "Coronavirus: 'We're Australian but we're trapped in the UK'",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
-        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];
