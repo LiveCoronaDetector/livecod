@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
-    },
-    {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
@@ -25,6 +21,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
+        "title": "1차 음성 판정 동아대 학생 확진…부산 코로나19 2명 추가",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092513113439608"
+    },
+    {
         "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009251101553548"
     },
     {
-        "title": "[전문] 광명시청 115번째 확진자 발생...소하2동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381892"
+        "title": "구글맵, 지역별 코로나 확진자 수 제공",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

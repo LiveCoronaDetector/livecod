@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
+        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
+        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+    },
+    {
         "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
     {
-        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
-        "link": "http://www.ajunews.com/view/20200925093712284"
-    },
-    {
-        "title": "제주도, 추석 입도객에 특별행정조치 발동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
+        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
+        "link": "https://jejumbc.com/article/VN615O33jfzs"
     }
 ];
