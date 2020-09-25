@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+        "title": "U.S.hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     },
     {
         "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
