@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
-    },
-    {
         "title": "서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
         "link": "http://yna.kr/AKR20200925162900017?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5418948"
+        "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
+        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
         "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020092521490005917?did=NA"
     },
     {
+        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
+    },
+    {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
-    },
-    {
-        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
+        "title": "신규 확진자 사흘 연속 세 자릿수...주말 이동량 3주 연속 증가",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009251820384403"
     }
 ];

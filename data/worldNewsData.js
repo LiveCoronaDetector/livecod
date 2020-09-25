@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
     },
     {
-        "title": "Record COVID-19 cases in France, UK; ‘Tough weeks ahead’ in Spain",
-        "link": "https://www.aljazeera.com/news/2020/9/25/record-covid-19-cases-in-france-uk-tough-weeks-ahead-in-spain"
+        "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
+        "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
         "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
