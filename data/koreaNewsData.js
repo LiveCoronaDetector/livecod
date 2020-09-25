@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "어린이집·요양시설 등 집단감염 지속…서울 일일 확진자 57명(종합)",
-        "link": "http://www.fnnews.com/news/202009251101553548"
+        "title": "[속보] 코로나 신규확진 114명...사흘째 세자릿수",
+        "link": "http://news.tf.co.kr/read/life/1815091.htm"
     },
     {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
-    },
-    {
-        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
-    },
-    {
         "title": "[2보] 코로나19 어제 114명 신규확진, 사흘째 세자릿수…지역발생 95명",
         "link": "http://yna.kr/AKR20200925035800530?did=1195m"
     },
     {
-        "title": "코로나 재확산에 소비심리 5개월만에 하락…집값 전망도 '뚝'",
-        "link": "https://www.news1.kr/articles/?4069855"
+        "title": "어린이집·요양시설 등 집단감염 지속…서울 일일 확진자 57명(종합)",
+        "link": "http://www.fnnews.com/news/202009251101553548"
     },
     {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
-        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
+        "title": "서울 일일 확진자 57명…8일 만에 50명대",
+        "link": "https://www.hankyung.com/life/article/2020092506857"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
-        "title": "[속보] 전북 코로나 확진자 추가 발생…전북 121번",
-        "link": "https://www.news1.kr/articles/?4070150"
+        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
+    },
+    {
+        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
+    },
+    {
+        "title": "[전문] 용인시청 357번째 용인외 37·38번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381880"
     }
 ];

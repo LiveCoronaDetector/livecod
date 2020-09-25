@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
     {
-        "title": "제주도, 추석 입도객에 특별행정조치 발동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
+        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
+        "link": "http://www.ajunews.com/view/20200925093712284"
     },
     {
-        "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
-        "link": "https://www.news1.kr/articles/?4066773"
+        "title": "제주도, 추석 입도객에 특별행정조치 발동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
     }
 ];
