@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925103400530?did=1195m"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
+    },
+    {
+        "title": "구글맵, 지역별 코로나 확진자 수 제공",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
     },
     {
         "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
-    },
-    {
-        "title": "[속보] 코로나 신규확진 114명...사흘째 세자릿수",
-        "link": "http://news.tf.co.kr/read/life/1815091.htm"
-    },
-    {
-        "title": "부천 주민 2명 코로나19 확진…감염 경로 조사 중(종합)",
-        "link": "http://yna.kr/AKR20200925066851065?did=1195m"
     }
 ];

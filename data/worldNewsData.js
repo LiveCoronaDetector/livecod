@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
     },
     {
-        "title": "Coronavirus live news: Iceland cluster traced to non-isolating French tourists; virus 'becoming more contagious'",
+        "title": "Coronavirus live news: full lockdown recommended for Madrid; Iceland cluster traced to French tourists",
         "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "September 24 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+    },
+    {
+        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
+        "link": "https://news.google.com/articles/CAIiEIYoE33QNzF4VD6YVAfB5i8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
         "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
-    },
-    {
-        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
-        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
     }
 ];
