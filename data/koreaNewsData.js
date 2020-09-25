@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925162900017?did=1195m"
     },
     {
-        "title": "어린이집·성경모임 등에서 확진자 속출…추석 앞두고 비상",
-        "link": "http://yna.kr/AKR20200925103400530?did=1195m"
-    },
-    {
-        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
-    },
-    {
-        "title": "[속보]대전서 코로나 확진자 1명 추가… 해외입국자",
-        "link": "http://www.joongdo.co.kr/web/view.php?key=20200925010008018"
-    },
-    {
-        "title": "전주 70대 모자 코로나19 확진…'n차 감염' 추정(종합)",
-        "link": "http://yna.kr/AKR20200925065951055?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5418948"
+    },
+    {
+        "title": "어린이집·성경모임 등에서 확진자 속출…추석 앞두고 비상",
+        "link": "http://yna.kr/AKR20200925103400530?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
+        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
+    },
+    {
+        "title": "전주 70대 모자 코로나19 확진…'n차 감염' 추정(종합)",
+        "link": "http://yna.kr/AKR20200925065951055?did=1195m"
+    },
+    {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
     }
 ];

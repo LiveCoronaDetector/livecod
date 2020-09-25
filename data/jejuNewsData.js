@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
     },
     {
+        "title": "제주 52·53번 확진자 오늘 퇴원…격리 치료 6명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013344&ref=A"
+    },
+    {
         "title": "[앵커의 눈] 추석 연휴 30만 명 제주도로…“구상권 청구 경고”에도 예약률↑",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5013279&ref=A"
     },
     {
         "title": "[현장연결] 박능후 \"코로나19 안정세·대규모 유행 여부 추석에 달려 있어\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200925007500038/?did=1825m"
-    },
-    {
-        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
-        "link": "http://www.ajunews.com/view/20200925093712284"
     }
 ];
