@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009251101553548"
     },
     {
-        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
-    },
-    {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
-        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
+        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
     },
     {
         "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
-        "title": "[포토] 코로나19 확진자 114명…사흘 연속 세 자릿수",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/09/25/2020092500065.html"
+        "title": "[2보] 코로나19 어제 114명 신규확진, 사흘째 세자릿수…지역발생 95명",
+        "link": "http://yna.kr/AKR20200925035800530?did=1195m"
+    },
+    {
+        "title": "코로나 재확산에 소비심리 5개월만에 하락…집값 전망도 '뚝'",
+        "link": "https://www.news1.kr/articles/?4069855"
+    },
+    {
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
+        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
-        "title": "코로나19 어제 신규 확진자 125명…‘국내발생’만 110명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
-    },
-    {
-        "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963444.html"
+        "title": "[속보] 전북 코로나 확진자 추가 발생…전북 121번",
+        "link": "https://www.news1.kr/articles/?4070150"
     }
 ];

@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
     },
     {
-        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
-        "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
+        "title": "[현장연결] 박능후 \"코로나19 안정세·대규모 유행 여부 추석에 달려 있어\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200925007500038/?did=1825m"
     },
     {
-        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
-        "link": "http://www.ajunews.com/view/20200925093712284"
+        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
+        "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
     {
         "title": "제주도, 추석 입도객에 특별행정조치 발동",
