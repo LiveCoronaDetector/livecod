@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925103400530?did=1195m"
     },
     {
+        "title": "[속보] 서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
+        "link": "https://www.hankyung.com/life/article/2020092527967"
+    },
+    {
         "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5418948"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
-        "title": "[속보] 서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
-        "link": "https://www.hankyung.com/life/article/2020092527967"
-    },
-    {
         "title": "[25일 부산 코로나19 확진자 관계도] 동아대 1명·감염경로 불명 1명 확진",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092516345457019"
     },
     {
-        "title": "코로나19 국내 발생현황 브리핑 (20. 09. 25. 14시)",
-        "link": "http://www.ktv.go.kr/content/view?content_id=609895"
+        "title": "[속보] 코로나 신규확진 114명...사흘째 세자릿수",
+        "link": "http://news.tf.co.kr/read/life/1815091.htm"
     },
     {
-        "title": "[속보] 전북 코로나 확진자 추가 발생…전북 121번",
-        "link": "https://www.news1.kr/articles/?4070150"
+        "title": "[전문] 안양시청 192번째 확진자 발생...평안동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381972"
     }
 ];

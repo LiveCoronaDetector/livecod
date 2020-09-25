@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
-        "title": "Coronavirus live news: France sees record new cases; virus may be becoming more contagious",
+        "title": "Coronavirus live news: Iceland cluster traced to non-isolating French tourists; virus 'becoming more contagious'",
         "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "Coronavirus digest: France imposes restrictions after record cases",
-        "link": "https://www.dw.com/en/coronavirus-digest-france-imposes-restrictions-after-record-cases/a-55046847"
-    },
-    {
         "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "September 24 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+    },
+    {
+        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
+        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
     }
 ];
