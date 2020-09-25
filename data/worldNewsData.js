@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "As pandemic winter looms, leaders in Europe and Canada issue stark warnings",
-        "link": "https://www.washingtonpost.com/world/europe/coronavirus-second-wave-europe-canada/2020/09/24/1bcb1aae-fe6a-11ea-b0e4-350e4e60cc91_story.html"
+        "title": "US nears 7 million Covid-19 cases as 23 states report rising numbers",
+        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Coronavirus is out of control in Syria, no matter what the government says",
-        "link": "https://www.washingtonpost.com/world/middle_east/syria-coronavirus-outbreak-doctors/2020/09/24/95d9323a-fcea-11ea-b0e4-350e4e60cc91_story.html"
+        "title": "Knesset fails to decide on protest regulations as Israel enters lockdown",
+        "link": "https://www.jpost.com/breaking-news/edelstein-i-will-not-allow-the-risk-of-human-life-in-gatherings-643560"
     },
     {
         "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
-    },
-    {
         "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
+        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
+    },
+    {
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];
