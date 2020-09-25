@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "Covid-19 Live Updates: Stalled U.S. Stimulus Talks Show Signs of Life",
+        "title": "Coronavirus digest: France imposes restrictions after record cases",
+        "link": "https://www.dw.com/en/coronavirus-digest-france-imposes-restrictions-after-record-cases/a-55046847"
+    },
+    {
+        "title": "One Sure Sign You've Caught the New Strain of Coronavirus",
+        "link": "https://www.yahoo.com/lifestyle/one-sure-sign-youve-caught-110135760.html"
+    },
+    {
+        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
     },
     {
         "title": "September 24 coronavirus news",
