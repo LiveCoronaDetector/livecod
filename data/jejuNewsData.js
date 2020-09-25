@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
+        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
+        "link": "http://www.ajunews.com/view/20200925093712284"
+    },
+    {
         "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
         "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 추석연휴 입도객 특별행정 조치 발동",
         "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19 확진자 다시 100명대…'추석 거리두기' 강화되나",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03749046625903072"
     }
 ];
