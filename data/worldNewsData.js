@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
+    },
+    {
         "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
-        "link": "https://news.google.com/articles/CAIiEIYoE33QNzF4VD6YVAfB5i8qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
-    },
-    {
-        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
     }
 ];

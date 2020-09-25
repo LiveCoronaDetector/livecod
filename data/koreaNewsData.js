@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
-        "link": "http://yna.kr/AKR20200925162900017?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5418948"
+        "title": "서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
+        "link": "http://yna.kr/AKR20200925162900017?did=1195m"
     },
     {
-        "title": "어린이집 또 집단감염...서울 8일 만에 확진자 50명대",
-        "link": "https://www.ytn.co.kr/_ln/0115_202009251115200009"
+        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
         "title": "어린이집·성경모임 등에서 확진자 속출…추석 앞두고 비상",
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
+        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
+    },
+    {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
+        "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
     },
     {
         "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
