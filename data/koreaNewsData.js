@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925153851080?did=1195m"
     },
     {
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만 명으로 늘 것\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005999033&plink=ORI&cooper=NAVER"
+    },
+    {
+        "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
+    },
+    {
         "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
         "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963444.html"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
-    },
-    {
-        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
-        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
