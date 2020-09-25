@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
+    },
+    {
         "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020092521490005917?did=NA"
     },
     {
-        "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
-    },
-    {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "신규 확진자 사흘 연속 세 자릿수...주말 이동량 3주 연속 증가",
         "link": "https://www.ytn.co.kr/_ln/0103_202009251820384403"
+    },
+    {
+        "title": "[25일 부산 코로나19 확진자 관계도] 동아대 1명·감염경로 불명 1명 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092516345457019"
     }
 ];
