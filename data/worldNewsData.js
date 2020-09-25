@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
-        "title": "Will Europe's second wave of Covid-19 cases mean a second huge death toll?",
-        "link": "https://www.cnn.com/2020/09/24/europe/europe-coronavirus-second-wave-deaths-intl/index.html"
+        "title": "Coronavirus live news: France sees record new cases; virus may be becoming more contagious",
+        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
         "title": "In India, engineers and MBAs are turning to manual labor to survive the economic crash",
         "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-jobs-economy/2020/09/23/6aab7d9c-f859-11ea-85f7-5941188a98cd_story.html"
     },
     {
-        "title": "Wuhan Covid journalist missing since February found, says friend",
-        "link": "https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china"
+        "title": "Coronavirus: 'We're Australian but we're trapped in the UK'",
+        "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
         "title": "Covid-19 Live Updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "U.S. closes in on 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];
