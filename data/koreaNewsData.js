@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925035800530?did=1195m"
     },
     {
-        "title": "노인데이케어센터 13명·어린이집 5명 등 신규 확진자 속출…서울 57명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200925_0001179627&cID=10801&pID=14000"
+        "title": "어린이집 또 집단감염...서울 8일 만에 확진자 50명대",
+        "link": "https://www.ytn.co.kr/_ln/0115_202009251115200009"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
-        "title": "1차 음성 판정 동아대 학생 확진…부산 코로나19 2명 추가",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092513113439608"
-    },
-    {
         "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
+    },
+    {
+        "title": "1차 음성 판정 동아대 학생 확진…부산 코로나19 2명 추가",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092513113439608"
     },
     {
         "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
-        "title": "어린이집·요양시설 등 집단감염 지속…서울 일일 확진자 57명(종합)",
-        "link": "http://www.fnnews.com/news/202009251101553548"
-    },
-    {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 어제 신규 확진자 125명…‘국내발생’만 110명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
     }
 ];

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
+        "title": "Rio postpones world-famous Carnival over COVID-19",
+        "link": "https://www.aljazeera.com/news/2020/9/25/rio-postpones-world-famous-carnival-over-covid-19"
+    },
+    {
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
+    },
+    {
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
+    },
+    {
         "title": "Covid-19 Live Updates: Stalled U.S. Stimulus Talks Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
-    },
-    {
-        "title": "Covid-19: Virus Treatment and Recovery Findings",
-        "link": "https://www.youtube.com/watch?v=yGwMZJkeguA"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
-    },
-    {
-        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];

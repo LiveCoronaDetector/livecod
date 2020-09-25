@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
     },
     {
-        "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
-    },
-    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200925007500038/?did=1825m"
     },
     {
+        "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
+        "link": "http://www.ajunews.com/view/20200925093712284"
+    },
+    {
         "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
         "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
     },
     {
-        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
-        "link": "https://jejumbc.com/article/VN615O33jfzs"
+        "title": "제주도, 추석 입도객에 특별행정조치 발동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351010"
     }
 ];
