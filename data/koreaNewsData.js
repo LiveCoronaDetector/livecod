@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
     },
     {
+        "title": "경남, 코로나19 확진자 1명 발생…누적 286명",
+        "link": "http://www.newsis.com/view/?id=NISX20200925_0001180277&cID=10812&pID=10800"
+    },
+    {
         "title": "건보공단 \"사랑제일교회 확진자 치료비 64억...교회가 배상해야\"",
         "link": "https://hankookilbo.com/News/Read/A2020092521490005917?did=NA"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 사흘 연속 세 자릿수...주말 이동량 3주 연속 증가",
         "link": "https://www.ytn.co.kr/_ln/0103_202009251820384403"
-    },
-    {
-        "title": "[25일 부산 코로나19 확진자 관계도] 동아대 1명·감염경로 불명 1명 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092516345457019"
     }
 ];
