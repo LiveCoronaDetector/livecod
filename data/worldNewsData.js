@@ -5,12 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
+        "title": "The US just topped more than 7 million coronavirus cases as 23 states report rising numbers",
+        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
+    },
+    {
         "title": "Israel under lockdown as coronavirus cases top 8,000 in a single day",
         "link": "https://www.jpost.com/health-science/israel-under-lockdown-as-cases-top-7700-in-a-single-day-643578"
     },
     {
-        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
-        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
+        "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
+        "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
         "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
@@ -21,20 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/asia/china-vaccine-who-intl/index.html"
     },
     {
-        "title": "Florida Gov. DeSantis lifts major restrictions on restaurants, other businesses, in push to boost economy",
-        "link": "https://www.foxnews.com/politics/florida-gov-desantis-lifts-major-restrictions-on-restaurants-other-businesses-in-push-to-boost-economy"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Florida Lifts State Restaurant Restrictions: Live Covid-19 Updates",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Coronavirus live news: 2 million could die before vaccine ready, warns WHO; cases surge in Europe",
-        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
-    },
-    {
-        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
+        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
     },
     {
         "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
