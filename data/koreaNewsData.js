@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
+        "link": "http://yna.kr/AKR20200925162900017?did=1195m"
+    },
+    {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
+    },
+    {
+        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
+        "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
         "title": "어린이집 또 집단감염...서울 8일 만에 확진자 50명대",
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200925103400530?did=1195m"
     },
     {
-        "title": "[속보] 서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
-        "link": "https://www.hankyung.com/life/article/2020092527967"
-    },
-    {
-        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5418948"
+        "title": "창원에서 코로나19 확진자 1명 발생…실제 거주지는 부산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
     },
     {
         "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
-        "title": "[25일 부산 코로나19 확진자 관계도] 동아대 1명·감염경로 불명 1명 확진",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092516345457019"
-    },
-    {
         "title": "[속보] 코로나 신규확진 114명...사흘째 세자릿수",
         "link": "http://news.tf.co.kr/read/life/1815091.htm"
     },
     {
-        "title": "[전문] 안양시청 192번째 확진자 발생...평안동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381972"
+        "title": "부천 주민 2명 코로나19 확진…감염 경로 조사 중(종합)",
+        "link": "http://yna.kr/AKR20200925066851065?did=1195m"
     }
 ];

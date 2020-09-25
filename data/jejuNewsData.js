@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
     {
-        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
-        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
-    },
-    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
         "title": "[현장연결] 박능후 \"코로나19 안정세·대규모 유행 여부 추석에 달려 있어\"",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200925007500038/?did=1825m"
+    },
+    {
+        "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
     },
     {
         "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",

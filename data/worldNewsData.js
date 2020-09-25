@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus Israel live: Netanyahu seeks emergency measures to curb protests amid Knesset deadlock",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
+        "title": "Israel Tightens Holiday Lockdown, Restricting Prayers and Protests",
+        "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
     },
     {
         "title": "Coronavirus live news: Iceland cluster traced to non-isolating French tourists; virus 'becoming more contagious'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+        "title": "September 24 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
         "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
         "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
+        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
     }
 ];
