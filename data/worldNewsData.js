@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "Covid-19 Live Updates: Stalled Stimulus Talks Show Signs of Life",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+        "title": "Virus delays Rio's Carnival for first time in a century",
+        "link": "https://apnews.com/article/virus-outbreak-brazil-rio-de-janeiro-archive-carnivals-c27885634f6bd417b95a6deb9d032970"
     },
     {
-        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
-        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
+        "title": "Covid-19 Live Updates: Stalled U.S. Stimulus Talks Show Signs of Life",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
         "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     },
     {
-        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     }
 ];

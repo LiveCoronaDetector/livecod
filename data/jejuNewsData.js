@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
-        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
-        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+        "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
     {
         "title": "[현장연결] 박능후 \"코로나19 안정세·대규모 유행 여부 추석에 달려 있어\"",
