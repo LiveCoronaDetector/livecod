@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
     },
     {
-        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
-        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
         "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
