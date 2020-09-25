@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200924007351081?did=1195m"
     },
     {
+        "title": "[포토] 코로나19 확진자 114명…사흘 연속 세 자릿수",
+        "link": "http://www.newdaily.co.kr/site/data/html/2020/09/25/2020092500065.html"
+    },
+    {
         "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
     },
@@ -21,20 +25,16 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/life/1815091.htm"
     },
     {
-        "title": "서울 코로나 확진자 39명 늘어… 강서구 어린이집서 13명 집단감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/24/2020092401904.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "코로나19 어제 신규 확진자 125명…‘국내발생’만 110명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
+        "title": "[전문] 대구 `코로나19` 신규 확진자 `0명`...사망자 1명 늘어",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=288721&part_idx=320"
     },
     {
-        "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963444.html"
-    },
-    {
-        "title": "대구 신규 확진자 ‘0’…경북 6명 확진(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202009250066"
+        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
