@@ -5,28 +5,28 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "노인데이케어센터 13명·어린이집 5명 등 신규 확진자 속출…서울 57명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200925_0001179627&cID=10801&pID=14000"
+        "title": "어린이집·요양시설 등 집단감염 지속…서울 일일 확진자 57명(종합)",
+        "link": "http://www.fnnews.com/news/202009251101553548"
     },
     {
         "title": "코로나19 확진자 사흘째 100명대…추석 앞두고 재유행 우려(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02086086625903728"
     },
     {
-        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
-        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진 114명, 사흘째 세자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
-        "title": "[전문] 대구 `코로나19` 신규 확진자 `0명`...사망자 1명 늘어",
-        "link": "http://www.kbsm.net/default/index_view_page.php?idx=288721&part_idx=320"
+        "title": "마르세유 식당·술집 폐쇄…프랑스, 코로나19 경계등급 조정(종합)",
+        "link": "http://yna.kr/AKR20200924007351081?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
-        "link": "https://www.nocutnews.co.kr/news/5418948"
+        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
+    },
+    {
+        "title": "[포토] 코로나19 확진자 114명…사흘 연속 세 자릿수",
+        "link": "http://www.newdaily.co.kr/site/data/html/2020/09/25/2020092500065.html"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",

@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
-    },
-    {
         "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "U.S.hits 7M Covid cases, 2 governors call response worst in world",
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
+    },
+    {
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
         "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     },
     {
-        "title": "Helsinki Airport Uses Dogs to Sniff Out Coronavirus",
-        "link": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/h_fe1fc9e4d1e3b6d4fb9aafa41e9c8a0f"
     }
 ];
