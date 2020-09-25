@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
-    },
-    {
         "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
+    },
+    {
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
     },
     {
-        "title": "U.S. closes in on 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+        "title": "'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
+        "link": "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19"
     }
 ];

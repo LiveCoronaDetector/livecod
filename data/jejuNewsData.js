@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
+        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
+        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+    },
+    {
         "title": "코로나19 확산 불안에…추석연휴 여행 계획 10% 밑돌아",
         "link": "http://www.ajunews.com/view/20200925093712284"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'코로나 구상권' 놓고 지자체간 싸움 붙었다",
         "link": "https://www.news1.kr/articles/?4066773"
-    },
-    {
-        "title": "제주도, 추석연휴 입도객 특별행정 조치 발동",
-        "link": "https://www.pressian.com/pages/articles/2020092321315568251?utm_source=naver&utm_medium=search"
     }
 ];
