@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
-        "title": "In India, engineers and MBAs are turning to manual labor to survive the economic crash",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-jobs-economy/2020/09/23/6aab7d9c-f859-11ea-85f7-5941188a98cd_story.html"
+        "title": "India’s top coronavirus adviser defends pandemic response",
+        "link": "https://www.ft.com/content/ff73c3ce-ec69-4245-9340-7ba9d9767fd1"
     },
     {
         "title": "Coronavirus: 'We're Australian but we're trapped in the UK'",
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
+        "title": "Coronavirus digest: France imposes restrictions after record cases",
+        "link": "https://www.dw.com/en/coronavirus-digest-france-imposes-restrictions-after-record-cases/a-55046847"
+    },
+    {
         "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
         "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
-        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
+        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
         "title": "September 24 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
-    },
-    {
-        "title": "Global Covid report: Rio cancels Carnival for first time in a century as global deaths near 1m",
-        "link": "https://www.theguardian.com/world/2020/sep/25/global-covid-report-rio-cancels-carnival-for-first-time-in-a-century-as-global-deaths-near-1m"
     }
 ];
