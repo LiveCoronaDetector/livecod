@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
-        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
+    },
+    {
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
         "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "How Countries Around The World Are Coping With New Surge In Coronavirus Cases : Consider This from NPR",
-        "link": "https://www.npr.org/2020/09/18/914512174/how-countries-around-the-world-are-coping-with-new-surge-in-coronavirus-cases"
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];

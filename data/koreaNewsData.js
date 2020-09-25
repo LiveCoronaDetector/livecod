@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5418948"
     },
     {
-        "title": "어린이집·성경모임 등에서 확진자 속출…추석 앞두고 비상",
-        "link": "http://yna.kr/AKR20200925103400530?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
@@ -29,8 +25,8 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092518482041071"
     },
     {
-        "title": "전주 70대 모자 코로나19 확진…'n차 감염' 추정(종합)",
-        "link": "http://yna.kr/AKR20200925065951055?did=1195m"
+        "title": "건보공단 \"사랑제일교회 확진자 치료비 64억...교회가 배상해야\"",
+        "link": "https://hankookilbo.com/News/Read/A2020092521490005917?did=NA"
     },
     {
         "title": "구글맵, 지역별 코로나 확진자 수 제공",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
+    },
+    {
+        "title": "코로나 국내 신규 확진 114명… 국내발생 95명·해외발생 19명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     }
 ];
