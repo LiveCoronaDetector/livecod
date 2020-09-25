@@ -5,11 +5,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/opinions/2020/09/22/africa-has-defied-covid-19-nightmare-scenarios-we-shouldnt-be-surprised/"
     },
     {
-        "title": "Trudeau warns Covid-19 second wave already happening in Canada",
-        "link": "https://www.cnn.com/2020/09/24/americas/canada-trudeau-covid-19-second-wave-intl/index.html"
+        "title": "Live updates: A ‘large proportion’ of U.S. population will not be vaccinated this year, Fauci says",
+        "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Coronavirus Israel live: Netanyahu, announcing stricter lockdown, slams ‘destructive, anarchist’ protests",
+        "title": "Coronavirus Israel live: Netanyahu seeks state of emergency to curb protests amid Knesset deadlock",
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-pandemic-czar-nauseated-by-decision-on-full-lockdown-report-says-1.9175585"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/coronavirus-digest-france-imposes-restrictions-after-record-cases/a-55046847"
     },
     {
-        "title": "One Sure Sign You've Caught the New Strain of Coronavirus",
-        "link": "https://www.yahoo.com/lifestyle/one-sure-sign-youve-caught-110135760.html"
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
         "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "September 24 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-24-20-intl/index.html"
+        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
+        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
     }
 ];

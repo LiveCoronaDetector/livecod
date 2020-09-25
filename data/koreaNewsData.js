@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5921205_32633.html"
     },
     {
+        "title": "어린이집 또 집단감염...서울 8일 만에 확진자 50명대",
+        "link": "https://www.ytn.co.kr/_ln/0115_202009251115200009"
+    },
+    {
+        "title": "[속보] '코로나19' 신규확진 114명…지역발생 95명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407092&class=33&grp="
+    },
+    {
         "title": "[2보] 코로나19 어제 114명 신규확진, 사흘째 세자릿수…지역발생 95명",
         "link": "http://yna.kr/AKR20200925035800530?did=1195m"
     },
@@ -17,27 +25,19 @@ var koreaNewsData = [
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/25/2020092501061.html"
     },
     {
-        "title": "어린이집 또 집단감염...서울 8일 만에 확진자 50명대",
-        "link": "https://www.ytn.co.kr/_ln/0115_202009251115200009"
+        "title": "[속보] 전북 코로나 확진자 추가 발생…전북 121번",
+        "link": "https://www.news1.kr/articles/?4070150"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명…3일째 100명대",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009250952001&code=940100"
     },
     {
-        "title": "어린이집·성경모임 등에서 확진자 속출…추석 앞두고 비상",
-        "link": "http://yna.kr/AKR20200925103400530?did=1195m"
+        "title": "[25일 부산 코로나19 확진자 관계도] 동아대 1명·감염경로 불명 1명 확진",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092516345457019"
     },
     {
-        "title": "[속보] 전북 코로나 확진자 추가 발생…전북 121번",
-        "link": "https://www.news1.kr/articles/?4070150"
-    },
-    {
-        "title": "구글맵, 지역별 코로나 확진자 수 제공",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092500549.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 125명…‘국내발생’만 110명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000220915"
+        "title": "[속보] 코로나 신규확진 114명...사흘째 세자릿수",
+        "link": "http://news.tf.co.kr/read/life/1815091.htm"
     }
 ];
