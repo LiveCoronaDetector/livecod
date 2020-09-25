@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
-        "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
+        "title": "Israel under lockdown as coronavirus cases top 8,000 in a single day",
+        "link": "https://www.jpost.com/health-science/israel-under-lockdown-as-cases-top-7700-in-a-single-day-643578"
     },
     {
         "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/asia/china-vaccine-who-intl/index.html"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+        "title": "Coronavirus live news: 2 million could die before vaccine ready, warns WHO; cases surge in Europe",
+        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "Live updates: WHO warns 2 million deaths ‘not impossible’ as global fatalities approach 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
+        "title": "Virginia Gov. Ralph Northam, first lady Pamela Northam, test positive for coronavirus",
+        "link": "https://www.youtube.com/watch?v=WDZMzxpfe-w"
     },
     {
         "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+    },
+    {
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     }
 ];
