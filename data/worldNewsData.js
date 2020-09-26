@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Coronavirus updates: 9% of American adults exposed to COVID-19; world deaths could double before a vaccine is widely available, WHO warns",
-        "link": "https://www.usatoday.com/story/news/health/2020/09/26/covid-news-herd-immunity-study-florida-lifts-restrictions/3545728001/"
+        "title": "Madrid defies Spanish government’s call for tougher Covid restrictions",
+        "link": "https://www.ft.com/content/7912c406-9758-4944-ae0f-0151f4648695"
     }
 ];
