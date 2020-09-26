@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% in the US have antibodies to the novel coronavirus",
-        "link": "https://www.cnn.com/2020/09/25/health/coronavirus-antibodies-dialysis-patients/index.html"
+        "title": "Covid-19 vaccinations could start in November or December, Fauci says",
+        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
-        "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
-        "link": "https://www.cnn.com/2020/09/25/entertainment/balasubrahmanyam-death-covid-intl-scli/index.html"
+        "title": "At UN, Pakistani leader says India sponsors anti-Muslim hate",
+        "link": "https://news.yahoo.com/un-pakistani-leader-calls-india-190222617.html"
     },
     {
         "title": "How South Korea Successfully Managed Coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Coronavirus mutation emerges that may bypass mask-wearing, hand-washing protections",
-        "link": "https://www.foxnews.com/us/coronavirus-mutation-emerges-that-may-bypass-mask-wearing-hand-washing-protections"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     }
 ];
