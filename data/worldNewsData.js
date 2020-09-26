@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
-        "title": "At UN, Pakistani leader says India sponsors anti-Muslim hate",
-        "link": "https://news.yahoo.com/un-pakistani-leader-calls-india-190222617.html"
+        "title": "India walks out of UNGA hall over Pakistan PM's speech | World News | WION News",
+        "link": "https://www.youtube.com/watch?v=z2gp0Yax0q4"
     },
     {
         "title": "How South Korea Successfully Managed Coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Live updates: WHO warns 2 million deaths ‘not impossible’ as global fatalities approach 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     }
 ];
