@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4068599"
     },
     {
+        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
+        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+    },
+    {
         "title": "제주 59번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020092322570631256?utm_source=naver&utm_medium=search"
     },
     {
         "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
         "link": "http://www.fnnews.com/news/202009232307251573"
-    },
-    {
-        "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
     {
         "title": "추석 연휴 30만 명 제주도로…“구상권 청구 경고”에도 예약률↑",

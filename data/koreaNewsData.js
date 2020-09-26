@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/PYH20200926026700013?did=1196m"
     },
     {
+        "title": "서울대병원, 코로나19 접촉자 154명 전원 음성",
+        "link": "http://www.fnnews.com/news/202009261431547036"
+    },
+    {
         "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
         "link": "http://www.inews24.com/view/1302902"
-    },
-    {
-        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     }
 ];
