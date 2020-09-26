@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
-        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
-    },
-    {
         "title": "코로나19 확진자 발생한 덕수고 야구부",
         "link": "http://yna.kr/PYH20200926026700013?did=1196m"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
         "link": "http://www.inews24.com/view/1302902"
+    },
+    {
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     },
     {
         "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
