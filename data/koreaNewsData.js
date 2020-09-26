@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200926005751091?did=1195m"
     },
     {
+        "title": "[속보] 전북 코로나19 113번 확진자 발생",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1311289"
+    },
+    {
+        "title": "코로나 신규확진 114명...사흘 연속 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만 명으로 늘 것\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005999033&plink=ORI&cooper=NAVER"
     },
@@ -15,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
         "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
-    },
-    {
-        "title": "코로나 신규확진 114명...사흘 연속 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/25/2020092501033.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "서울대병원 간호사 코로나19 확진…일부 병동 입실통제",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규 확진 114명, 사흘째 세 자릿수",
         "link": "https://www.nocutnews.co.kr/news/5418948"
-    },
-    {
-        "title": "코로나 신규 확진자 125명…이틀 연속 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963444.html"
     }
 ];
