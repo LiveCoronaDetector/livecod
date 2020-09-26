@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "September 25 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/h_37aff395e347b70eb90c6859f64c5fa6"
     }
 ];
