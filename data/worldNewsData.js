@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% in the US have antibodies to the novel coronavirus",
-        "link": "https://www.cnn.com/2020/09/25/health/coronavirus-antibodies-dialysis-patients/index.html"
+        "title": "Covid-19 vaccinations could start in November or December, Fauci says",
+        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
