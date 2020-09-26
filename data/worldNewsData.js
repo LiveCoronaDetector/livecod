@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
-    },
-    {
         "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+    },
+    {
+        "title": "September 25 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
     }
 ];

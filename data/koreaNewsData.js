@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
+    },
+    {
         "title": "코로나19 확진자 발생한 덕수고 야구부",
         "link": "http://yna.kr/PYH20200926026700013?did=1196m"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5013658&ref=A"
     },
     {
-        "title": "26일 포항지역 코로나19 확진자 6명 발생…대량 확산 우려",
-        "link": "https://news.imaeil.com/Society/2020092619384520087"
-    },
-    {
-        "title": "청주서 40대 코로나19 추가 확진…충북 169번째(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200926_0001180693&cID=10806&pID=10800"
-    },
-    {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
         "link": "http://www.inews24.com/view/1302902"
+    },
+    {
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
+        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
