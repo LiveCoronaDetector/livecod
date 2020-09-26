@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
+        "title": "오늘부터 제주도 방문객 항시 마스크 써야...행정조치 발동",
+        "link": "https://www.asiatime.co.kr/news/newsview.php?ncode=1065608911765023"
+    },
+    {
         "title": "코로나 19로 대중교통 이용객 '뚝'···운송수익도 24%↓",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172309"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
-    },
-    {
-        "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
     }
 ];

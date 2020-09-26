@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus live news: 7,523 new cases in Russia; Czech Republic sees second highest rise since start of pandemic",
-        "link": "https://www.theguardian.com/world/live/2020/sep/26/coronavirus-live-news-who-warns-2m-could-die-before-vaccine-victorias-health-minister-quits"
+        "title": "Florida's governor clears restaurants and bars to fully open",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/h_37aff395e347b70eb90c6859f64c5fa6"
     }
 ];
