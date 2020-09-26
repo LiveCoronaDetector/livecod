@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
     },
     {
+        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
+    },
+    {
         "title": "포항서 5명 코로나 확진…기존 확진자와 접촉",
         "link": "http://yna.kr/AKR20200926053000053?did=1195m"
     },
     {
         "title": "청주서 40대 코로나19 추가 확진…충북 169번째(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200926_0001180693&cID=10806&pID=10800"
-    },
-    {
-        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
         "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
     {
-        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
-        "link": "http://www.inews24.com/view/1302902"
+        "title": "코로나19 선방했던 중유럽, 휴가철 이후 확진자 최고치",
+        "link": "http://yna.kr/AKR20200926057500088?did=1195m"
     },
     {
-        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
-        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
+        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
+        "link": "http://www.inews24.com/view/1302902"
     }
 ];
