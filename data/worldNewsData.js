@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Madrid defies Spanish government’s call for tougher Covid restrictions",
+        "link": "https://www.ft.com/content/7912c406-9758-4944-ae0f-0151f4648695"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+        "title": "Coronavirus FAQs: Why Can't The CDC Make Up Its Mind About Airborne Transmission?",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/25/916624967/coronavirus-faqs-why-cant-the-cdc-make-up-its-mind-about-airborne-transmission"
     }
 ];
