@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
     },
     {
-        "title": "Pasta, Wine and Inflatable Pools: How Amazon Conquered Italy in the Pandemic",
-        "link": "https://www.nytimes.com/2020/09/26/technology/amazon-coronavirus-pandemic.html"
+        "title": "Coronavirus live news: France sees 14,000 new cases; police clash with anti-lockdown protesters in London",
+        "link": "https://www.theguardian.com/world/live/2020/sep/26/coronavirus-live-news-who-warns-2m-could-die-before-vaccine-victorias-health-minister-quits"
     },
     {
         "title": "As coronavirus cases soar, India’s hospitals race to secure badly needed oxygen",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
-    },
-    {
         "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
         "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Madrid defies Spanish government’s call for tougher Covid restrictions",
-        "link": "https://www.ft.com/content/7912c406-9758-4944-ae0f-0151f4648695"
+        "title": "Coronavirus FAQs: Why Can't The CDC Make Up Its Mind About Airborne Transmission?",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/25/916624967/coronavirus-faqs-why-cant-the-cdc-make-up-its-mind-about-airborne-transmission"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
