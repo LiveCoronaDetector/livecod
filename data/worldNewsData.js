@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
     },
     {
-        "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
-        "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
+        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
+        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
     },
     {
         "title": "India walks out of UNGA hall over Pakistan PM's speech | World News | WION News",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
+        "title": "Madrid defies Spanish government’s call for tougher Covid restrictions",
+        "link": "https://www.ft.com/content/7912c406-9758-4944-ae0f-0151f4648695"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
-        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
-    },
-    {
-        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
+        "title": "Coronavirus live news: 7,523 new cases in Russia; Czech Republic sees second highest rise since start of pandemic",
+        "link": "https://www.theguardian.com/world/live/2020/sep/26/coronavirus-live-news-who-warns-2m-could-die-before-vaccine-victorias-health-minister-quits"
     }
 ];
