@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
     {
+        "title": "[코로나19] 광명시 확진자 3명추가…기아차공장 여파",
+        "link": "http://www.fnnews.com/news/202009261220015464"
+    },
+    {
         "title": "코로나19 신규 환자 61명...나흘 만에 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009261001369359"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
         "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
-    },
-    {
-        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
-        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
-        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
+        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
+    },
+    {
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     }
 ];
