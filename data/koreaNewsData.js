@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5013658&ref=A"
     },
     {
+        "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
+    },
+    {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
         "link": "http://www.inews24.com/view/1302902"
     },
     {
         "title": "코로나19 선방했던 중부유럽, 휴가철 이후 확진자 최고치",
         "link": "https://www.ytn.co.kr/_ln/0104_202009270046177477"
-    },
-    {
-        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     }
 ];
