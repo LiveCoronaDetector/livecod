@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
+    },
+    {
+        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
+    },
+    {
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
+    },
+    {
         "title": "코로나19 확진자 발생한 덕수고 야구부",
         "link": "http://yna.kr/PYH20200926026700013?did=1196m"
+    },
+    {
+        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
     {
         "title": "포항, 26일 코로나19 신규확진자 5명 발생…총 90명",
         "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=2053895"
     },
     {
-        "title": "[창원] 해외입국 관련 코로나19 확진자 1명 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679544&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "서울 코로나19 31명 신규 확진...사우나 방문 등 감염경로 확인(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500044&wlog_tag3=naver"
     },
     {
-        "title": "광주서 해외입국자 2명 코로나19 확진",
-        "link": "http://www.newsis.com/view/?id=NISX20200926_0001180654&cID=10201&pID=10200"
+        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
+        "link": "http://www.inews24.com/view/1302902"
     },
     {
-        "title": "경주서 50대 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200926039751053?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
-    },
-    {
-        "title": "NPB 한신 타이거스, 3월에 이어 '또' 코로나19 확진자 7명 발생",
-        "link": "http://www.sportsseoul.com/news/read/962361?ref=naver"
-    },
-    {
-        "title": "독일프로축구 샬케 · 묀헨글라트바흐에 코로나19 확진자 발생",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005999138&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
+        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
