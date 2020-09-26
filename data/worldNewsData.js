@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     },
     {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
         "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",

@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
     {
-        "title": "포항, 26일 코로나19 신규확진자 5명 발생…총 90명",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=2053895"
-    },
-    {
-        "title": "서울 코로나19 31명 신규 확진...사우나 방문 등 감염경로 확인(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500044&wlog_tag3=naver"
-    },
-    {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
         "link": "http://www.inews24.com/view/1302902"
     },
     {
         "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
         "link": "http://yna.kr/AKR20200926003000109?did=1195m"
+    },
+    {
+        "title": "[코로나19] 광명시 확진자 3명추가…기아차공장 여파",
+        "link": "http://www.fnnews.com/news/202009261220015464"
+    },
+    {
+        "title": "26일 포항지역 코로나19 확진자 6명 발생…대량 확산 우려",
+        "link": "https://news.imaeil.com/Society/2020092619384520087"
     }
 ];
