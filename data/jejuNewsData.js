@@ -5,6 +5,18 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
     {
+        "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
+        "link": "http://yna.kr/AKR20200926055300004?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+    },
+    {
+        "title": "제주, 59번째 확진자 발생.. 51번 확진자는 퇴원",
+        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11665?feed=na"
+    },
+    {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
@@ -25,19 +37,7 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
     },
     {
-        "title": "추석 연휴 30만 명 제주도로…“구상권 청구 경고”에도 예약률↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013460&ref=A"
-    },
-    {
-        "title": "59번 코로나19 확진자 발생, 49번 확진자 가족",
-        "link": "https://jejumbc.com/article/fIM0xoUJG8r3Nun"
-    },
-    {
-        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
-    },
-    {
-        "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
+        "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326109"
     }
 ];

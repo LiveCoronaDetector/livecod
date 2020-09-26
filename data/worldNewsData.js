@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Experts are warning of a coming surge of Covid-19 cases in US",
-        "link": "https://www.cnn.com/2020/09/26/health/us-coronavirus-saturday/index.html"
+        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
+        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Coronavirus FAQs: Why Can't The CDC Make Up Its Mind About Airborne Transmission?",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/25/916624967/coronavirus-faqs-why-cant-the-cdc-make-up-its-mind-about-airborne-transmission"
+        "title": "Coronavirus updates: 9% of American adults exposed to COVID-19; world deaths could double before a vaccine is widely available, WHO warns",
+        "link": "https://www.usatoday.com/story/news/health/2020/09/26/covid-news-herd-immunity-study-florida-lifts-restrictions/3545728001/"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
