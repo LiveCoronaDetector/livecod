@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "Fewer than 10% in the US have antibodies to the novel coronavirus",
+        "link": "https://www.cnn.com/2020/09/25/health/coronavirus-antibodies-dialysis-patients/index.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/h_37aff395e347b70eb90c6859f64c5fa6"
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     }
 ];
