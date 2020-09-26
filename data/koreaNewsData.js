@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
-    },
-    {
         "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
-        "title": "코로나19 확진자 발생한 덕수고 야구부",
-        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
+        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
     },
     {
         "title": "서울대병원, 코로나19 접촉자 154명 전원 음성",
         "link": "http://www.fnnews.com/news/202009261431547036"
+    },
+    {
+        "title": "코로나19 확진자 발생한 덕수고 야구부",
+        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
     },
     {
         "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1302902"
     },
     {
-        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
+        "title": "코로나19 선방했던 중부유럽, 휴가철 이후 확진자 최고치",
+        "link": "https://www.ytn.co.kr/_ln/0104_202009270046177477"
     },
     {
-        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
-        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     }
 ];
