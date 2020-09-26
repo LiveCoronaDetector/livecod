@@ -13,12 +13,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
+        "title": "포항서 5명 코로나 확진…기존 확진자와 접촉",
+        "link": "http://yna.kr/AKR20200926053000053?did=1195m"
+    },
+    {
+        "title": "청주서 40대 코로나19 추가 확진…충북 169번째(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200926_0001180693&cID=10806&pID=10800"
+    },
+    {
         "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     },
     {
-        "title": "코로나19 확진자 발생한 덕수고 야구부",
-        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
+        "title": "덕수고 야구부서 코로나 19 확진자 3명 발생",
+        "link": "http://mksports.co.kr/view/2020/995736/"
     },
     {
         "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
         "link": "http://yna.kr/AKR20200926003000109?did=1195m"
-    },
-    {
-        "title": "[코로나19] 광명시 확진자 3명추가…기아차공장 여파",
-        "link": "http://www.fnnews.com/news/202009261220015464"
-    },
-    {
-        "title": "26일 포항지역 코로나19 확진자 6명 발생…대량 확산 우려",
-        "link": "https://news.imaeil.com/Society/2020092619384520087"
     }
 ];

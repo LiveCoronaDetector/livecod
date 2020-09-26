@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326109"
-    },
-    {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
         "link": "https://www.news1.kr/articles/?4068599"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+    },
+    {
+        "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
     }
 ];

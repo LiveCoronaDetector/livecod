@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=z2gp0Yax0q4"
     },
     {
-        "title": "How South Korea Successfully Managed Coronavirus",
-        "link": "https://www.wsj.com/articles/lessons-from-south-korea-on-how-to-manage-covid-11601044329"
+        "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
+        "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
     },
     {
         "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://news.google.com/articles/CAIiEGbjFwXltHO15cVfiUEDX6AqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+        "title": "As debate over Sweden’s covid-19 response continues, cases in the country are on the rise",
+        "link": "https://www.washingtonpost.com/world/2020/09/25/sweden-coronavirus-debate-lockdown-new-cases/"
     }
 ];
