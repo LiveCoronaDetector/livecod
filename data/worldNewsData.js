@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
     },
     {
-        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
-        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
+        "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
+        "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
         "title": "India walks out of UNGA hall over Pakistan PM's speech | World News | WION News",
