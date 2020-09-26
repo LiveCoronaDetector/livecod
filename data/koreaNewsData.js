@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020092610283488293"
     },
     {
-        "title": "코로나 신규 확진자 61명…국내 발생은 한달 반 만에 50명대 이하로",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963723.html"
+        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
+        "link": "http://www.inews24.com/view/1302902"
     },
     {
-        "title": "'코로나19' 신규 확진자 나흘만에 두자릿수…61명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407173&class=33&grp="
+        "title": "[코로나19] 광명시 확진자 3명추가…기아차공장 여파",
+        "link": "http://www.fnnews.com/news/202009261220015464"
+    },
+    {
+        "title": "코로나19 확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
         "title": "코로나19 신규 확진자 61명…명절 앞두고 '감소세'(종합)",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     },
     {
-        "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
-    },
-    {
-        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
+        "title": "[속보] 코로나 61명 신규확진…나흘만에 다시 두자릿수",
+        "link": "https://www.hankyung.com/life/article/2020092636157"
     }
 ];
