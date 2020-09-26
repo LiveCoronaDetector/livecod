@@ -13,8 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
+        "title": "코로나19 확진자 발생한 덕수고 야구부",
+        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
+    },
+    {
+        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
+    },
+    {
         "title": "코로나19 선방했던 중유럽, 휴가철 이후 확진자 최고치",
-        "link": "http://yna.kr/AKR20200926057500088?did=1195m"
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013658&ref=A"
     },
     {
         "title": "26일 포항지역 코로나19 확진자 6명 발생…대량 확산 우려",
@@ -23,14 +31,6 @@ var koreaNewsData = [
     {
         "title": "청주서 40대 코로나19 추가 확진…충북 169번째(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200926_0001180693&cID=10806&pID=10800"
-    },
-    {
-        "title": "덕수고 야구부서 코로나 19 확진자 3명 발생",
-        "link": "http://mksports.co.kr/view/2020/995736/"
-    },
-    {
-        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
