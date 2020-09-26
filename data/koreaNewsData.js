@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "포항서 5명 코로나 확진…기존 확진자와 접촉",
-        "link": "http://yna.kr/AKR20200926053000053?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
-    },
-    {
-        "title": "덕수고 야구부서 코로나 19 확진자 3명 발생",
-        "link": "http://mksports.co.kr/view/2020/995736/"
-    },
-    {
-        "title": "대전에서 코로나19 치료 중 사망자 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679478&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "NPB 한신 타이거스, 3월에 이어 '또' 코로나19 확진자 7명 발생",
-        "link": "http://www.sportsseoul.com/news/read/962361?ref=naver"
     },
     {
         "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
         "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
-        "title": "광주서 해외입국자 2명 코로나19 확진",
-        "link": "http://www.newsis.com/view/?id=NISX20200926_0001180654&cID=10201&pID=10200"
+        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     },
     {
-        "title": "[창원] 해외입국 관련 코로나19 확진자 1명 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679544&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 확진자 발생한 덕수고 야구부",
+        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
     },
     {
-        "title": "청주서 코로나19 40대 1명 추가 확진…충북 169번째",
-        "link": "https://www.news1.kr/articles/?4071522"
+        "title": "서울대병원, 코로나19 접촉자 154명 전원 음성",
+        "link": "http://www.fnnews.com/news/202009261431547036"
+    },
+    {
+        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
+    },
+    {
+        "title": "코로나19 선방했던 중유럽, 휴가철 이후 확진자 최고치",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013658&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
+        "link": "http://www.inews24.com/view/1302902"
+    },
+    {
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
+        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
