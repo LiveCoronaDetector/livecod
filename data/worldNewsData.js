@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://news.google.com/articles/CAIiEGbjFwXltHO15cVfiUEDX6AqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_5ngY?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
+        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "As debate over Sweden’s covid-19 response continues, cases in the country are on the rise",
-        "link": "https://www.washingtonpost.com/world/2020/09/25/sweden-coronavirus-debate-lockdown-new-cases/"
+        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
+        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     }
 ];
