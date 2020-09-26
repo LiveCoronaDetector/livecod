@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "The US just topped more than 7 million coronavirus cases as 23 states report rising numbers",
-        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/entertainment/balasubrahmanyam-death-covid-intl-scli/index.html"
     },
     {
-        "title": "China says it got WHO support for coronavirus vaccine emergency use",
-        "link": "https://www.cnn.com/2020/09/25/asia/china-vaccine-who-intl/index.html"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
+        "title": "How South Korea Successfully Managed Coronavirus",
+        "link": "https://www.wsj.com/articles/lessons-from-south-korea-on-how-to-manage-covid-11601044329"
     },
     {
         "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     },
     {
-        "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
-        "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
+        "title": "Live updates: WHO warns 2 million deaths ‘not impossible’ as global fatalities approach 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
