@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/lessons-from-south-korea-on-how-to-manage-covid-11601044329"
     },
     {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
-    },
-    {
-        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
-        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     },
     {
         "title": "Covid figures prompt French and Dutch warnings, and deepening row in Spain",
         "link": "https://www.theguardian.com/world/2020/sep/25/france-covid-cases-hit-record-high-as-anger-grows-over-restrictions"
     },
     {
-        "title": "Florida's governor clears restaurants and bars to fully open",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/h_37aff395e347b70eb90c6859f64c5fa6"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     }
 ];

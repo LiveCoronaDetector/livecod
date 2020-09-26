@@ -5,28 +5,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
+    },
+    {
+        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
         "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
     },
     {
+        "title": "코로나19 확진자 발생한 덕수고 야구부",
+        "link": "http://yna.kr/PYH20200926026700013?did=1196m"
+    },
+    {
         "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
-    },
-    {
-        "title": "[속보] 서울 관악구 어린이집·도봉구 데이케어센터 확진자 1명씩 추가",
-        "link": "http://www.segye.com/content/html/2020/09/26/20200926509294.html?OutUrl=naver"
-    },
-    {
-        "title": "경주서 50대 2명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20200926039751053?did=1195m"
     },
     {
         "title": "코로나19 신규 환자 61명...나흘 만에 두 자릿수",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1302902"
     },
     {
-        "title": "[코로나19] 광명시 확진자 3명추가…기아차공장 여파",
-        "link": "http://www.fnnews.com/news/202009261220015464"
+        "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
+    },
+    {
+        "title": "WHO \"코로나19 방치하면 전 세계 사망자 200만명으로 늘 것\"",
+        "link": "http://yna.kr/AKR20200926003000109?did=1195m"
     }
 ];
