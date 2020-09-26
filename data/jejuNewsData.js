@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
+        "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326109"
+    },
+    {
         "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
     },
     {
         "title": "제주 52·53번 확진자 오늘 퇴원…격리 치료 6명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5013344&ref=A"
-    },
-    {
-        "title": "[앵커의 눈] 추석 연휴 30만 명 제주도로…“구상권 청구 경고”에도 예약률↑",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013279&ref=A"
     }
 ];
