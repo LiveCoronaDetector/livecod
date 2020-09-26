@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "대구 신규확진 1명, 중구 40대女…확진자 접촉자(전문)",
-        "link": "https://news.imaeil.com/Society/2020092610283488293"
+        "title": "미국 코로나19 누적환자 700만명 넘어…첫 환자 발생 8개월만(종합)",
+        "link": "http://yna.kr/AKR20200926005751091?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
@@ -17,16 +17,20 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407173&class=33&grp="
     },
     {
-        "title": "[종합]코로나19 확진자 4일만에 100명 미만...61명 증가, 서울 25명, 경기 13...",
-        "link": "http://www.fnnews.com/news/202009260934482905"
+        "title": "대구 신규확진 1명, 중구 40대女…확진자 접촉자(전문)",
+        "link": "https://news.imaeil.com/Society/2020092610283488293"
+    },
+    {
+        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
+        "link": "http://www.inews24.com/view/1302902"
+    },
+    {
+        "title": "어제 코로나19 신규 확진자 61명…나흘만에 100명 아래로",
+        "link": "https://view.asiae.co.kr/article/2020092609372554826"
     },
     {
         "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
-    },
-    {
-        "title": "미국 코로나19 누적환자 700만명 넘어…첫 환자 발생 8개월만(종합)",
-        "link": "http://yna.kr/AKR20200926005751091?did=1195m"
     },
     {
         "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
         "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
-    },
-    {
-        "title": "확진자 나흘 만에 100명 아래…수도권 집단감염이 '좌우'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01426806625904056"
     }
 ];

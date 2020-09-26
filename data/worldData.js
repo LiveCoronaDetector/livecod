@@ -364,9 +364,9 @@ var marker = [
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "확진자수": 73193,
-        "사망자수": 2249,
-        "완치자수": 24580
+        "확진자수": 73840,
+        "사망자수": 2271,
+        "완치자수": 25728
     },
     {
         "Name": "Ethiopia",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 679,
+        "확진자수": 680,
         "사망자수": 5,
-        "완치자수": 602
+        "완치자수": 617
     },
     {
         "Name": "Channel Islands",

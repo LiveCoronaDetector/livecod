@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Covid-19 vaccinations could start in November or December, Fauci says",
-        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
+        "title": "Fewer than 10% in the US have antibodies to the novel coronavirus",
+        "link": "https://www.cnn.com/2020/09/25/health/coronavirus-antibodies-dialysis-patients/index.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
-        "title": "At UN, Pakistani leader says India sponsors anti-Muslim hate",
-        "link": "https://news.yahoo.com/un-pakistani-leader-calls-india-190222617.html"
+        "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
+        "link": "https://www.cnn.com/2020/09/25/entertainment/balasubrahmanyam-death-covid-intl-scli/index.html"
     },
     {
         "title": "How South Korea Successfully Managed Coronavirus",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Prevalence of SARS-CoV-2 antibodies in a large nationwide sample of patients on dialysis in the USA: a cross-sectional study",
-        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32009-2/fulltext"
-    },
-    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+    },
+    {
+        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
+        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
         "title": "Coronavirus mutation emerges that may bypass mask-wearing, hand-washing protections",

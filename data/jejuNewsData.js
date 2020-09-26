@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4068599"
     },
     {
+        "title": "제주 59번째 코로나19 확진자 발생",
+        "link": "https://www.pressian.com/pages/articles/2020092322570631256?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 산방산온천발 확진자 2명 나란히 퇴원 '6명 남아'",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320543"
-    },
-    {
-        "title": "제주 52·53번 확진자 오늘 퇴원…격리 치료 6명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013344&ref=A"
     }
 ];
