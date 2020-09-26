@@ -1356,7 +1356,7 @@ var marker = [
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "확진자수": 531,
+        "확진자수": 532,
         "사망자수": 7,
         "완치자수": 516
     },

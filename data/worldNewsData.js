@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "Prevalence of SARS-CoV-2 antibodies in a large nationwide sample of patients on dialysis in the USA: a cross-sectional study",
+        "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32009-2/fulltext"
     },
     {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
     },
     {
         "title": "Coronavirus mutation emerges that may bypass mask-wearing, hand-washing protections",
