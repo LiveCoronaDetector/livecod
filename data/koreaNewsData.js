@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
     },
     {
+        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
+    },
+    {
         "title": "코로나19 선방했던 중유럽, 휴가철 이후 확진자 최고치",
         "link": "http://yna.kr/AKR20200926057500088?did=1195m"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "청주서 40대 코로나19 추가 확진…충북 169번째(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200926_0001180693&cID=10806&pID=10800"
-    },
-    {
-        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
         "title": "덕수고 야구부서 코로나 19 확진자 3명 발생",
