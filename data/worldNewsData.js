@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Covid-19 vaccinations could start in November or December, Fauci says",
-        "link": "https://www.cnn.com/2020/09/25/health/us-coronavirus-friday/index.html"
+        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
+        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54303628"
     },
     {
-        "title": "Madrid defies Spanish government’s call for tougher Covid restrictions",
-        "link": "https://www.ft.com/content/7912c406-9758-4944-ae0f-0151f4648695"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
