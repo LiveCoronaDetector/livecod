@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 61명…명절 앞두고 '감소세'(종합)",
-        "link": "http://news.tf.co.kr/read/life/1815278.htm"
-    },
-    {
-        "title": "미국 코로나19 누적환자 700만명 넘어…첫 환자 발생 8개월만(종합)",
-        "link": "http://yna.kr/AKR20200926005751091?did=1195m"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
-    },
-    {
-        "title": "'코로나19' 신규 확진자 나흘만에 두자릿수…61명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407173&class=33&grp="
     },
     {
         "title": "대구 신규확진 1명, 중구 40대女…확진자 접촉자(전문)",
         "link": "https://news.imaeil.com/Society/2020092610283488293"
     },
     {
-        "title": "코로나19 신규 확진자 61명…국내발생 49명‧해외유입 12명",
-        "link": "http://www.inews24.com/view/1302902"
+        "title": "미국 코로나19 누적환자 700만명 넘어…첫 환자 발생 8개월만(종합)",
+        "link": "http://yna.kr/AKR20200926005751091?did=1195m"
     },
     {
-        "title": "미국 증시, 코로나19 불안 속 핵심 기술주 반등…다우, 1.34%↑",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009260014&t=NN"
+        "title": "코로나19 신규 확진자 61명…명절 앞두고 '감소세'(종합)",
+        "link": "http://news.tf.co.kr/read/life/1815278.htm"
     },
     {
-        "title": "[단독]사랑제일교회 \"CCTV 담당이 코로나 걸려 제출 늦어\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200925_0001180280&cID=10201&pID=10200"
+        "title": "코로나 신규 확진자 61명…수도권 39명, 해외 유입 12명",
+        "link": "https://news.joins.com/article/olink/23476268"
     },
     {
-        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
+        "title": "'코로나19' 신규 확진자 나흘만에 두자릿수…61명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407173&class=33&grp="
+    },
+    {
+        "title": "NPB 한신 타이거스, 3월에 이어 '또' 코로나19 확진자 7명 발생",
+        "link": "http://www.sportsseoul.com/news/read/962361?ref=naver"
+    },
+    {
+        "title": "[전문] 광명시청 116·117·118번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381987"
+    },
+    {
+        "title": "독일프로축구 샬케 · 묀헨글라트바흐에 코로나19 확진자 발생",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005999138&plink=ORI&cooper=NAVER"
     }
 ];
