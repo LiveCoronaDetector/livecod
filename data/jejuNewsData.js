@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
-        "link": "https://www.news1.kr/articles/?4068599"
-    },
-    {
         "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=326109"
+    },
+    {
+        "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
+        "link": "https://www.news1.kr/articles/?4068599"
     },
     {
         "title": "제주 59번째 코로나19 확진자 발생",
