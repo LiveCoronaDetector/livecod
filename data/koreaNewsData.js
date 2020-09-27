@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
+        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
+        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
+    },
+    {
         "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
-        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
-        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
+        "title": "직장‧요양병원‧어린이집 코로나19 집단감염 이어져",
+        "link": "https://www.nocutnews.co.kr/news/5419556"
     },
     {
         "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
