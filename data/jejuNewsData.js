@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
-        "title": "추석 연휴 국내공항에 96만명 몰린다…코로나 방역 초비상",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270065&t=NN"
-    },
-    {
         "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
         "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
@@ -37,7 +33,11 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
     },
     {
-        "title": "‘추강스’ 30만명 몰린다…제주도 ‘비상’",
-        "link": "http://sports.khan.co.kr/news/sk_index.html?art_id=202009271537003&sec_id=940100&pt=nv"
+        "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
+        "link": "https://www.news1.kr/articles/?4068599"
+    },
+    {
+        "title": "[뉴스초점] 코로나19 신규 확진 95명…이틀 연속 100명 아래",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200927002500038/?did=1825m"
     }
 ];

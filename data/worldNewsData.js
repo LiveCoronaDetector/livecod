@@ -6,15 +6,15 @@ var worldNewsData = [
     },
     {
         "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
-        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
+        "link": "https://news.google.com/articles/CAIiEGS8VL9r04YXsqmSvyW91kQqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Israelis protest against Netanyahu despite coronavirus lockdown",
         "link": "https://www.aljazeera.com/news/2020/9/27/israelis-protest-against-netanyahu-despite-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
-        "link": "https://www.bbc.com/news/world-europe-54309649"
+        "title": "Coronavirus live news: concern over case clusters at French schools and universities; Melbourne lifts curfew",
+        "link": "https://www.theguardian.com/world/live/2020/sep/27/coronavirus-live-updates-global-death-toll-nears-1m-australian-state-of-victoria-set-to-ease-restrictions"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "September 26 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];
