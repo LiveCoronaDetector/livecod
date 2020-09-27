@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
+        "title": "[단독]보건소 '코로나 체온계' 절반은 미인증 제품",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092715337637753"
+    },
+    {
         "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 산발적인 감염 지속...누적 사망자 400명 넘어(종합)",
         "link": "https://www.sedaily.com/NewsView/1Z80O6KSAH"
-    },
-    {
-        "title": "코로나19 산발 감염 지속",
-        "link": "https://view.asiae.co.kr/article/2020092714511724077"
     }
 ];
