@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
-        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
-        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
-    },
-    {
         "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
+    },
+    {
+        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
+        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
     },
     {
         "title": "코로나19 신규확진 95명…이틀연속 두 자릿수지만 100명 육박(종합)",

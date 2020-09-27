@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
-        "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
-        "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
+        "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
+        "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
     },
     {
         "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
