@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
     },
     {
-        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
-    },
-    {
         "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
     },
     {
         "title": "코로나19 신규확진 95명…이틀 연속 두자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
         "title": "직장‧요양병원‧어린이집 코로나19 집단감염 이어져",
