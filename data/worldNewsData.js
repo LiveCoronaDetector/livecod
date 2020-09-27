@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
+        "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of a fall surge",
+        "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
