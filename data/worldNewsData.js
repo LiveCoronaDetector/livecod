@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/concerns-mount-as-iran-gripped-by-third-major-covid-19-wave"
     },
     {
-        "title": "France’s coronavirus second wave ‘arriving faster than we thought’",
-        "link": "https://www.france24.com/en/20200927-france-s-coronavirus-second-wave-arriving-faster-than-we-thought"
+        "title": "Madrid in standoff with government over Covid-19 lockdown",
+        "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",

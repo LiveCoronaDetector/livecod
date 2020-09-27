@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5419556"
     },
     {
-        "title": "코로나19 확진자 대구는 없고 경북에서만 6명 나와",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679636&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "오늘부터 2주간 '추석 특별방역'...코로나19 재확산 시험대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009280027152821"
+        "title": "신규 확진자 이틀째 두 자릿수…서울시, 거리두기 2단계 유지",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013773&ref=A"
     }
 ];
