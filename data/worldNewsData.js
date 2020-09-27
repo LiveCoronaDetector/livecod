@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
+        "title": "Miami's mayor worries about the risk of rising Covid-19 cases as the state drops restrictions on restaurant and bars",
+        "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
         "link": "https://www.aljazeera.com/news/2020/9/27/concerns-mount-as-iran-gripped-by-third-major-covid-19-wave"
     },
     {
-        "title": "Madrid in standoff with government over Covid-19 lockdown",
-        "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
+        "title": "France’s coronavirus second wave ‘arriving faster than we thought’",
+        "link": "https://www.france24.com/en/20200927-france-s-coronavirus-second-wave-arriving-faster-than-we-thought"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
         "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
         "link": "https://www.bbc.com/news/world-54303628"
-    },
-    {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     }
 ];
