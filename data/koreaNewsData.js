@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
     },
     {
-        "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[단독] ‘코로나 피해’ 폭증…구제는 절반도 안돼",
-        "link": "http://www.segye.com/content/html/2020/09/27/20200927514941.html?OutUrl=naver"
-    },
-    {
         "title": "코로나19 어제 신규확진자 95명…국내 발생만 73명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221280"
     },
     {
         "title": "코로나19 신규확진자 73명…해외유입 22명",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407179&class=33&grp="
+    },
+    {
+        "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] ‘코로나 피해’ 폭증…구제는 절반도 안돼",
+        "link": "http://www.segye.com/content/html/2020/09/27/20200927514941.html?OutUrl=naver"
     }
 ];
