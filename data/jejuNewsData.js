@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
-        "title": "제주, 59번째 확진자 발생.. 51번 확진자는 퇴원",
-        "link": "http://www.jibs.co.kr/news/articles/articlesDetail/11665?feed=na"
-    },
-    {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
@@ -35,6 +31,10 @@ var jejuNewsData = [
     {
         "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+    },
+    {
+        "title": "한달 새 코로나 사망자 3배 이상 늘어…\"추석연휴 이후 걱정된다\"",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2003265"
     },
     {
         "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
