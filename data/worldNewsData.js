@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     },
     {
+        "title": "Madrid at 'serious risk' without tougher COVID-19 rules, health minister warns",
+        "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
+    },
+    {
         "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
         "title": "September 26 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
-    },
-    {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     }
 ];
