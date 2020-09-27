@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
-        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
+        "title": "Experts are warning of a coming surge of Covid-19 cases in US",
+        "link": "https://www.cnn.com/2020/09/26/health/us-coronavirus-saturday/index.html"
     },
     {
         "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
