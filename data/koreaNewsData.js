@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
     {
-        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
-    },
-    {
         "title": "코로나19 신규확진 95명…이틀 연속 두자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
@@ -21,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
-        "title": "[단독]보건소 '코로나 체온계' 절반은 미인증 제품",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092715337637753"
+        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
         "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 산발적인 감염 지속...누적 사망자 400명 넘어(종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z80O6KSAH"
+        "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
     }
 ];
