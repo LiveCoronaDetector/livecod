@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
     },
     {
-        "title": "Pasta, Wine and Inflatable Pools: How Amazon Conquered Italy in the Pandemic",
-        "link": "https://www.nytimes.com/2020/09/26/technology/amazon-coronavirus-pandemic.html"
+        "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
+        "link": "https://www.bbc.com/news/world-europe-54309649"
     },
     {
         "title": "As coronavirus cases soar, India’s hospitals race to secure badly needed oxygen",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
     },
     {
-        "title": "Dr. Fauci Says This 'Magic' Thing Could Turn COVID Around",
-        "link": "https://www.yahoo.com/lifestyle/dr-fauci-says-magic-thing-165817502.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
         "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/25/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Madrid at 'serious risk' without tougher COVID-19 rules, health minister warns",
+        "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
     }
 ];
