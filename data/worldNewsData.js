@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/26/health/us-coronavirus-saturday/index.html"
     },
     {
-        "title": "Indian gov’t ‘sponsors Islamophobia’, Pakistan PM tells UN",
-        "link": "https://www.aljazeera.com/news/2020/9/25/pakistan-pm-khan-slams-india-over-kashmir-islamophobia"
+        "title": "Israelis protest against Netanyahu despite coronavirus lockdown",
+        "link": "https://www.aljazeera.com/news/2020/9/27/israelis-protest-against-netanyahu-despite-coronavirus-lockdown"
     },
     {
         "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
         "link": "https://www.bbc.com/news/world-europe-54309649"
     },
     {
-        "title": "As coronavirus cases soar, India’s hospitals race to secure badly needed oxygen",
-        "link": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-india-oxygen-shortage/2020/09/26/b6acbb7c-fd2a-11ea-b0e4-350e4e60cc91_story.html"
+        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
+        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
         "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
+        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
     },
     {
         "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
         "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "Victoria is mid-crisis but there's a 'madman in charge'",
+        "link": "https://www.youtube.com/watch?v=kCRdK5YbWf4"
     }
 ];
