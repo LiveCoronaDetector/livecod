@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/26/20200926509898.html?OutUrl=naver"
     },
     {
-        "title": "\"저걸 맨손으로?\" 中이 공개한 코로나 백신공장, 외신들 '깜짝'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092615335469821"
+        "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나19 산발적인 감염 지속...누적 사망자 400명 넘어(종합)",
         "link": "https://www.sedaily.com/NewsView/1Z80O6KSAH"
     },
     {
-        "title": "'코로나 승리 자축' 中, 입국 규제 풀고 국제박람회 연다",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700485.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 산발 감염 지속",
+        "link": "https://view.asiae.co.kr/article/2020092714511724077"
     }
 ];

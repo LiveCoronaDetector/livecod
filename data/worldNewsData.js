@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
-        "title": "Victoria records 16 new cases of COVID-19 and two deaths",
-        "link": "https://www.youtube.com/watch?v=2AZDnjXL5_o"
+        "title": "Premier 'bad news' Andrews blaming everyone else is 'cowardice': Matthew Guy",
+        "link": "https://www.youtube.com/watch?v=Z5kZFJBWPXw"
     },
     {
         "title": "Asia Today: Victoria health chief quits in quarantine probe",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     }
 ];
