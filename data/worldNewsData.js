@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
     },
     {
-        "title": "Coronavirus Israel live: 1,500 patients hospitalized as Israel set to mark Yom Kippur",
+        "title": "Coronavirus Israel live: 1,500 patients hospitalized as Israel marks Yom Kippur",
         "link": "https://www.haaretz.com/israel-news/coronavirus-covid-israel-west-bank-gaza-protests-yom-kippur-sukkot-holidays-1.9189838"
     },
     {

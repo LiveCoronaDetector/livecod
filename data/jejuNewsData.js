@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
     },
     {
-        "title": "제주 59번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020092322570631256?utm_source=naver&utm_medium=search"
+        "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
+        "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
