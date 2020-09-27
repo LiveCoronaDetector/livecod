@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/israelis-protest-against-netanyahu-despite-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
-        "link": "https://www.bbc.com/news/world-europe-54309649"
+        "title": "Coronavirus live updates: France's second wave 'faster than we thought' says top doctor; Melbourne lifts curfew",
+        "link": "https://www.theguardian.com/world/live/2020/sep/27/coronavirus-live-updates-global-death-toll-nears-1m-australian-state-of-victoria-set-to-ease-restrictions"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
         "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
-        "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
-        "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
+        "title": "Curfew Lifts in Australia’s Virus Hot-Spot as Infections Slow",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2508f410-008b-11eb-ae44-13e44f6ae74f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yNy9hdXN0cmFsaWEtdGFyZ2V0cy1jcmVhdGluZy10cmF2ZWwtYnViYmxlLXdpdGgtbi16LWJ5LXllYXItZW5k"
+    },
+    {
+        "title": "Winston Peters optimistic about Australian travel bubble",
+        "link": "https://www.rnz.co.nz/news/world/427033/winston-peters-optimistic-about-australian-travel-bubble"
     },
     {
         "title": "Madrid at 'serious risk' without tougher COVID-19 rules, health minister warns",
         "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
     },
     {
+        "title": "Prime Minister Modi Offers Indian Vaccine Production Capacity to Help Humanity",
+        "link": "https://www.youtube.com/watch?v=lIwzei08iZM"
+    },
+    {
         "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
         "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
-    },
-    {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
-    },
-    {
-        "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
-        "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     }
 ];
