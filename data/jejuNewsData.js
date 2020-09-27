@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
+        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
+    },
+    {
         "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
         "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
         "title": "“추석 연휴, 늘어나는 관광객”...제주도, 연휴 기간 행정조치 발동",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
-    },
-    {
-        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
     },
     {
         "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",

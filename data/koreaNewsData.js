@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
-        "title": "직장‧요양병원‧어린이집 코로나19 집단감염 이어져",
-        "link": "https://www.nocutnews.co.kr/news/5419556"
-    },
-    {
         "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "신규 확진자 이틀째 두 자릿수…서울시, 거리두기 2단계 유지",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013773&ref=A"
     }
 ];

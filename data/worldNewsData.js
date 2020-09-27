@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Miami's mayor worries about the risk of rising Covid-19 cases as the state drops restrictions on restaurant and bars",
+        "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of a fall surge",
         "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
     },
     {
@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/concerns-mount-as-iran-gripped-by-third-major-covid-19-wave"
     },
     {
-        "title": "France’s coronavirus second wave ‘arriving faster than we thought’",
-        "link": "https://www.france24.com/en/20200927-france-s-coronavirus-second-wave-arriving-faster-than-we-thought"
+        "title": "Madrid in standoff with government over Covid-19 lockdown",
+        "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
         "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
-        "title": "China Gives Unproven Covid-19 Vaccines to Thousands, With Risks Unknown",
-        "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
+        "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
+        "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
         "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
