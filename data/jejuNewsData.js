@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.yonhapnewstv.co.kr/MYH20200927002500038/?did=1825m"
     },
     {
-        "title": "제주 59번째 코로나19 확진자 발생",
-        "link": "https://www.pressian.com/pages/articles/2020092322570631256?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
         "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+    },
+    {
+        "title": "한달 새 코로나 사망자 3배 이상 늘어…\"추석연휴 이후 걱정된다\"",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2003265"
     }
 ];
