@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
+        "title": "Transcript: Don McGahn on \"Face the Nation,\" September 27, 2020",
+        "link": "https://www.cbsnews.com/news/transcript-don-mcgahn-on-face-the-nation-september-27-2020/"
+    },
+    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     },
     {
-        "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
-        "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
+        "title": "US cases pass 7m; Australian PM says countries must share vaccines – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
         "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
         "link": "https://www.bbc.com/news/world-54303628"
-    },
-    {
-        "title": "Coronavirus continuing to mutate, study finds, as US cases rise",
-        "link": "https://www.theguardian.com/world/2020/sep/24/coronavirus-mutate-contagious-study-us-cases"
     }
 ];

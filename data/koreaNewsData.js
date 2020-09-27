@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200928001500109?did=1195m"
     },
     {
+        "title": "코로나19 확진자 100명 안팎서 등락…오늘부터 '추석 특별방역'",
+        "link": "http://yna.kr/AKR20200927042400530?did=1195m"
+    },
+    {
         "title": "[단독] JTBC ‘런 온’ 스태프 코로나 확진…“임시완 신세경 등 검사·자가격...",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
@@ -29,12 +33,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
-        "title": "‘코로나 확진자 다녀감’ 자영업자 울리는 ‘별점 테러’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015054404&code=61121111&cp=nv"
-    },
-    {
-        "title": "코로나19 확진자 100명 안팎서 등락…오늘부터 '추석 특별방역'",
-        "link": "http://yna.kr/AKR20200927042400530?did=1195m"
+        "title": "전 세계 코로나19 사망자수 100만명 돌파",
+        "link": "http://www.fnnews.com/news/202009280652048109"
     },
     {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
