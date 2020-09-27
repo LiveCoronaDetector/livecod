@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
-        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
+        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
     },
     {
         "title": "Israelis protest against Netanyahu despite coronavirus lockdown",
         "link": "https://www.aljazeera.com/news/2020/9/27/israelis-protest-against-netanyahu-despite-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
-        "link": "https://www.bbc.com/news/world-europe-54309649"
+        "title": "France’s coronavirus second wave ‘arriving faster than we thought’",
+        "link": "https://www.france24.com/en/20200927-france-s-coronavirus-second-wave-arriving-faster-than-we-thought"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     },
     {
-        "title": "Madrid at 'serious risk' without tougher COVID-19 rules, health minister warns",
-        "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
-    },
-    {
         "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "September 26 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+    },
+    {
+        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
+        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
     }
 ];
