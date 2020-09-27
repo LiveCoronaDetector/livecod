@@ -5,12 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200927016751530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
+        "title": "[속보] 코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009270936001&code=940100"
+    },
+    {
+        "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
+        "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
     {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
+    },
+    {
+        "title": "코로나19 신규확진 95명…이틀 연속 두자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
         "title": "코로나19 확진자 100명 내외 '증감' 반복…사망자 400명 넘어(종합)",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
-    },
-    {
-        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     }
 ];

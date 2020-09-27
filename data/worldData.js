@@ -284,7 +284,7 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 107659,
+        "확진자수": 107723,
         "사망자수": 1699,
         "완치자수": 102530
     },
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 680,
+        "확진자수": 681,
         "사망자수": 5,
-        "완치자수": 617
+        "완치자수": 620
     },
     {
         "Name": "Channel Islands",
