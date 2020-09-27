@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자 95명...\"추석, 재확산 시험대\"",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
+    },
+    {
         "title": "“추석 연휴, 늘어나는 관광객”...제주도, 연휴 기간 행정조치 발동",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
@@ -21,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4068599"
     },
     {
+        "title": "[뉴스초점] 코로나19 신규 확진 95명…이틀 연속 100명 아래",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20200927002500038/?did=1825m"
+    },
+    {
         "title": "제주 59번째 코로나19 확진자 발생",
         "link": "https://www.pressian.com/pages/articles/2020092322570631256?utm_source=naver&utm_medium=search"
     },
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
         "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
-    },
-    {
-        "title": "한달 새 코로나 사망자 3배 이상 늘어…\"추석연휴 이후 걱정된다\"",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2003265"
-    },
-    {
-        "title": "제주도 코로나19 방지 '특별입도절차 시즌3' 가동",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326109"
     }
 ];

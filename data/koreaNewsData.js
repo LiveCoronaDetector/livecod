@@ -5,28 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200927016751530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
-    },
-    {
         "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
     },
     {
-        "title": "[속보]코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
-        "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
-    },
-    {
-        "title": "코로나19 신규 확진자 95명…국내 발생 73명(속보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625904384"
-    },
-    {
-        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
-    },
-    {
-        "title": "[전문] 정읍시청 2번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382019"
+        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
         "title": "코로나19 확진자 100명 내외 '증감' 반복…사망자 400명 넘어(종합)",
@@ -39,5 +23,21 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
+    },
+    {
+        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
+    },
+    {
+        "title": "[속보]코로나19 어제 61명 신규 확진…추석 연휴가 고비",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015051394&code=61121111&cp=nv"
     }
 ];
