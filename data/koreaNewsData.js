@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
-        "title": "[속보]코로나19 어제 95명 신규확진…이틀 연속 100명 아래 유지",
-        "link": "http://www.munhwa.com/news/view.html?no=20200927MW093638874360"
-    },
-    {
         "title": "[단독] JTBC ‘런 온’ 스태프 코로나 확진…“임시완 신세경 등 검사·자가격...",
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.segye.com/content/html/2020/09/26/20200926509898.html?OutUrl=naver"
     },
     {
-        "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "\"저걸 맨손으로?\" 中이 공개한 코로나 백신공장, 외신들 '깜짝'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020092615335469821"
     },
     {
-        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
+        "title": "코로나19 산발적인 감염 지속...누적 사망자 400명 넘어(종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z80O6KSAH"
+    },
+    {
+        "title": "'코로나 승리 자축' 中, 입국 규제 풀고 국제박람회 연다",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700485.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
