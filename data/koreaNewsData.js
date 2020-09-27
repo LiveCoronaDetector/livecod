@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
     {
-        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
-        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진 95명…이틀연속 두 자릿수지만 100명 육박(종합)",
         "link": "http://yna.kr/AKR20200927016751530?did=1195m"
     },
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
+        "title": "코로나19 확진자 대구는 없고 경북에서만 6명 나와",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679636&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
+        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
         "title": "직장‧요양병원‧어린이집 코로나19 집단감염 이어져",
         "link": "https://www.nocutnews.co.kr/news/5419556"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

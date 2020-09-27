@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
-        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
+        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
     },
     {
-        "title": "Amid coronavirus, Israeli rabbis say stay out of synagogues on Yom Kippur",
-        "link": "https://www.jpost.com/health-science/israeli-rosh-yeshiva-stay-out-of-synagogues-on-yom-kippur-643719"
+        "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
+        "link": "https://www.aljazeera.com/news/2020/9/27/concerns-mount-as-iran-gripped-by-third-major-covid-19-wave"
     },
     {
         "title": "France’s coronavirus second wave ‘arriving faster than we thought’",
