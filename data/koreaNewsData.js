@@ -17,6 +17,18 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
     {
+        "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 산발 감염 지속",
+        "link": "https://view.asiae.co.kr/article/2020092714511724077"
+    },
+    {
+        "title": "인천서 서울 확진자 가족 등 2명 감염…누적 912명(종합)",
+        "link": "http://yna.kr/AKR20200927022651065?did=1195m"
+    },
+    {
         "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
     },
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 신규확진자 95명…국내 발생만 73명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221280"
-    },
-    {
-        "title": "중대본 \"향후 2주 코로나19 유행 결정…잠복감염 상당수 존재\"",
-        "link": "https://www.hankyung.com/life/article/2020092762047"
-    },
-    {
-        "title": "코로나19 신규확진 95명…이틀 연속 두자릿수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     }
 ];

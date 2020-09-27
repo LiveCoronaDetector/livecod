@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
+        "title": "추석 '코로나19 유입 차단' 비상 방역체계 시험대",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
+    },
+    {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
         "link": "https://www.news1.kr/articles/?4068599"
     },
     {
         "title": "[뉴스초점] 코로나19 신규 확진 95명…이틀 연속 100명 아래",
         "link": "http://www.yonhapnewstv.co.kr/MYH20200927002500038/?did=1825m"
-    },
-    {
-        "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
-        "link": "http://www.fnnews.com/news/202009232307251573"
     }
 ];

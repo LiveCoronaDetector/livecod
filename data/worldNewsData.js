@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
+        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
+        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
     },
     {
         "title": "Israelis protest against Netanyahu despite coronavirus lockdown",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];
