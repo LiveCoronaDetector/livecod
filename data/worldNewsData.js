@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/26/business/china-coronavirus-vaccine.html"
     },
     {
-        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
-        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
     },
     {
         "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
+        "title": "Investor Baillie Gifford bets more on China as Asia draws more capital in a post-coronavirus world",
+        "link": "https://www.cnbc.com/2020/09/25/investor-baillie-gifford-bets-on-china-in-a-post-coronavirus-world.html"
     }
 ];

@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
-        "title": "코로나19 확진자 대구는 없고 경북에서만 6명 나와",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679636&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만명(종합)",
-        "link": "http://yna.kr/AKR20200928001500109?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
         "title": "직장‧요양병원‧어린이집 코로나19 집단감염 이어져",
         "link": "https://www.nocutnews.co.kr/news/5419556"
+    },
+    {
+        "title": "코로나19 확진자 대구는 없고 경북에서만 6명 나와",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002679636&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
+        "title": "오늘부터 2주간 '추석 특별방역'...코로나19 재확산 시험대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009280027152821"
     }
 ];
