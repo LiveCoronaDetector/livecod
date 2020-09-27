@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200927016751530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
-    },
-    {
         "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
@@ -21,8 +17,8 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
     },
     {
-        "title": "[속보] 코로나19 어제 신규확진 95명…누적 사망 400명 넘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092709365682099"
+        "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
     },
     {
         "title": "서울 어린이집·요양시설·사우나·오피스텔 등서 확진자 속출",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]코로나19 어제 95명 신규확진…이틀 연속 100명 아래 유지",
-        "link": "http://www.munhwa.com/news/view.html?no=20200927MW093638874360"
+        "title": "“아슬아슬” 코로나19 신규 95명 확진…전날보다 34명 늘어(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200927500013&wlog_tag3=naver"
     },
     {
-        "title": "\"저걸 맨손으로?\" 中이 공개한 코로나 백신공장, 외신들 '깜짝'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020092615335469821"
+        "title": "[종합] 전북 코로나19 이틀간 5명 확진자 발생",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1311359"
+    },
+    {
+        "title": "[속보] 코로나19 어제 신규확진 95명…누적 사망 400명 넘어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092709365682099"
     }
 ];
