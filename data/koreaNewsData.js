@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200927042400530?did=1195m"
     },
     {
-        "title": "[단독] JTBC ‘런 온’ 스태프 코로나 확진…“임시완 신세경 등 검사·자가격...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
-    },
-    {
         "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
+    },
+    {
+        "title": "[단독] JTBC ‘런 온’ 스태프 코로나 확진…“임시완 신세경 등 검사·자가격...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
         "title": "코로나19 신규확진 95명…이틀연속 두 자릿수지만 100명 육박(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202009280652048109"
     },
     {
-        "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963750.html"
+        "title": "오늘부터 2주간 '추석특별방역'…\"코로나19 재유행 여부 가른다\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200927_0001181044&cID=10201&pID=10200"
     }
 ];

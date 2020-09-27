@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
-        "title": "Transcript: Don McGahn on \"Face the Nation,\" September 27, 2020",
-        "link": "https://www.cbsnews.com/news/transcript-don-mcgahn-on-face-the-nation-september-27-2020/"
+        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     },
     {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
+        "title": "Coronavirus global death toll passes 1 million",
+        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
     }
 ];
