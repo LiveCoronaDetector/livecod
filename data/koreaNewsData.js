@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
+        "title": "코로나19 확진자 100명 안팎서 등락…오늘부터 '추석 특별방역'",
+        "link": "http://yna.kr/AKR20200927042400530?did=1195m"
+    },
+    {
+        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만 명",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006000524&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 61명… 나흘 만에 다시 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "신규 확진자 이틀째 두 자릿수…서울시, 거리두기 2단계 유지",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013773&ref=A"
     }
 ];
