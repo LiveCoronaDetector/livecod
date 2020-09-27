@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
     },
     {
-        "title": "코로나19 신규확진 95명…이틀연속 두 자릿수지만 100명 육박(종합)",
-        "link": "http://yna.kr/AKR20200927016751530?did=1195m"
-    },
-    {
         "title": "코로나 신규확진자 95명…지역발생 73명·해외유입 22명",
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
+    },
+    {
+        "title": "코로나19 신규확진 95명…이틀연속 두 자릿수지만 100명 육박(종합)",
+        "link": "http://yna.kr/AKR20200927016751530?did=1195m"
     },
     {
         "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
-        "title": "코로나19 신규확진자 73명…해외유입 22명",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407179&class=33&grp="
+        "title": "확진자 61명으로 줄었으나, 곳곳 집단 감염 이어져",
+        "link": "http://www.hani.co.kr/arti/politics/bluehouse/963735.html"
     },
     {
         "title": "중대본 “향후 2주가 코로나 재유행 기로… 연휴 이동 자제”",

@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];
