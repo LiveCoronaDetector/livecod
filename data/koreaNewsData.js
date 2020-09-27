@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200927/103155232/1"
     },
     {
+        "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
+    },
+    {
+        "title": "서울시 코로나 19 확진자 34명 늘어…신도림역 미화원 집단감염 여파",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013739&ref=A"
+    },
+    {
         "title": "코로나19 신규 확진자 95명…이틀 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/963750.html"
     },
     {
-        "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
+        "title": "“아슬아슬” 코로나19 신규 95명 확진…전날보다 34명 늘어(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200927500013&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규 확진자 수 95명…이틀 연속 100명 아래",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
+        "title": "코로나19 산발적인 감염 지속...누적 사망자 400명 넘어(종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z80O6KSAH"
     },
     {
         "title": "서울 어린이집·요양시설·사우나·오피스텔 등서 확진자 속출",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "“아슬아슬” 코로나19 신규 95명 확진…전날보다 34명 늘어(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200927500013&wlog_tag3=naver"
-    },
-    {
-        "title": "[종합] 전북 코로나19 이틀간 5명 확진자 발생",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1311359"
-    },
-    {
-        "title": "[속보] 코로나19 어제 신규확진 95명…누적 사망 400명 넘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020092709365682099"
+        "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
     }
 ];

@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
+        "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
+        "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
+    },
+    {
         "title": "“추석 연휴, 늘어나는 관광객”...제주도, 연휴 기간 행정조치 발동",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
         "link": "http://www.fnnews.com/news/202009232307251573"
-    },
-    {
-        "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
-        "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
         "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
