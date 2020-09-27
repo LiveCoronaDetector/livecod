@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997708?division=NAVER"
     },
     {
-        "title": "코로나19 어제 신규확진자 95명…국내 발생만 73명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221280"
+        "title": "코로나19 신규확진 95명…이틀 연속 두자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
         "title": "코로나19 신규확진자 73명…해외유입 22명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/27/2020092700959.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] ‘코로나 피해’ 폭증…구제는 절반도 안돼",
-        "link": "http://www.segye.com/content/html/2020/09/27/20200927514941.html?OutUrl=naver"
+        "title": "포항시·경주시, 코로나 공동대응체계 구축",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015054131&code=61122022&cp=nv"
     }
 ];
