@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
-    },
-    {
-        "title": "서울시 코로나 19 확진자 34명 늘어…신도림역 미화원 집단감염 여파",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5013739&ref=A"
-    },
-    {
         "title": "코로나19 확진자 100명 내외 '증감' 반복…사망자 400명 넘어(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01325126625904384"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 61명…나흘 만에 두 자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009260939001&code=940100"
+        "title": "[전문] 정읍시청 2번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382019"
+    },
+    {
+        "title": "울산서 코로나19 146번 확진자 발생…고스톱모임 ‘n차 감염’",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092710051669052"
+    },
+    {
+        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
     }
 ];
