@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
-        "title": "Curfew Lifts in Australia’s Virus Hot-Spot as Infections Slow",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2508f410-008b-11eb-ae44-13e44f6ae74f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yNy9hdXN0cmFsaWEtdGFyZ2V0cy1jcmVhdGluZy10cmF2ZWwtYnViYmxlLXdpdGgtbi16LWJ5LXllYXItZW5k"
+        "title": "Victoria is now the welfare state due to 'scandalously stupid' Andrews decisions",
+        "link": "https://www.youtube.com/watch?v=fEfxw2kVBNo"
     },
     {
-        "title": "Winston Peters optimistic about Australian travel bubble",
-        "link": "https://www.rnz.co.nz/news/world/427033/winston-peters-optimistic-about-australian-travel-bubble"
+        "title": "Asia Today: Victoria health chief quits in quarantine probe",
+        "link": "https://apnews.com/article/virus-outbreak-australia-asia-victoria-melbourne-e92ee35da35adc73947c0b99bbe33856"
     },
     {
         "title": "Madrid at 'serious risk' without tougher COVID-19 rules, health minister warns",
         "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
     },
     {
-        "title": "Prime Minister Modi Offers Indian Vaccine Production Capacity to Help Humanity",
-        "link": "https://www.youtube.com/watch?v=lIwzei08iZM"
+        "title": "Covid-19 Live Updates: Latest News and Analysis",
+        "link": "https://www.nytimes.com/2020/09/26/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Under 10 Percent of Americans Have Covid-19 Antibodies, Study Finds",
-        "link": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     }
 ];

@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5922800_32633.html"
     },
     {
+        "title": "[속보]코로나19 어제 95명 신규확진…이틀 연속 100명 아래 유지",
+        "link": "http://www.munhwa.com/news/view.html?no=20200927MW093638874360"
+    },
+    {
+        "title": "[단독] JTBC ‘런 온’ 스태프 코로나 확진…“임시완 신세경 등 검사·자가격...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020092715134607236"
+    },
+    {
         "title": "내일부터 2주간 추석특별방역…코로나19 재확산 갈림길",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009270008&t=NN"
-    },
-    {
-        "title": "“아슬아슬” 코로나19 신규 95명 확진…전날보다 34명 늘어(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200927500013&wlog_tag3=naver"
-    },
-    {
-        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
     },
     {
         "title": "서울 어린이집·요양시설·사우나·오피스텔 등서 확진자 속출",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/26/2020092600447.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 지속 발생...당국, 추석 연휴 방역 고삐(종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z80O6Y4ZJ"
+        "title": "경남, 창원서 해외입국 확진자 1명 추가…총 288명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200927_0001180847&cID=10812&pID=10800"
     }
 ];

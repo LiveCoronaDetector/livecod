@@ -21,16 +21,16 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
     {
+        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
+    },
+    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
-    },
-    {
-        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
     },
     {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
