@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.msn.com/en-us/news/world/madrid-at-serious-risk-without-tougher-covid-19-rules-health-minister-warns/ar-BB19rCLR"
     },
     {
-        "title": "September 26 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
+        "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
+        "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
+        "title": "September 26 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-26-20-intl/index.html"
     }
 ];
