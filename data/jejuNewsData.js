@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
-        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
-        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
+        "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
+        "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
-        "title": "한달 새 코로나 사망자 3배 이상 늘어…\"추석연휴 이후 걱정된다\"",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2003265"
+        "title": "코로나19로 버스이용객 감소... 29개 노선 감축",
+        "link": "http://www.ihalla.com/read.php3?aid=1600997157692929073"
     }
 ];
