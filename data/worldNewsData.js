@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study finds",
-        "link": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html"
+        "title": "COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/26/917275615/covid-19-cases-on-the-rise-in-nearly-half-the-u-s"
     },
     {
         "title": "Israelis protest against Netanyahu despite coronavirus lockdown",
         "link": "https://www.aljazeera.com/news/2020/9/27/israelis-protest-against-netanyahu-despite-coronavirus-lockdown"
     },
     {
-        "title": "Coronavirus live updates: France's second wave 'faster than we thought' says top doctor; Melbourne lifts curfew",
-        "link": "https://www.theguardian.com/world/live/2020/sep/27/coronavirus-live-updates-global-death-toll-nears-1m-australian-state-of-victoria-set-to-ease-restrictions"
+        "title": "Coronavirus: Madrid at serious risk without tougher rules, minister warns",
+        "link": "https://www.bbc.com/news/world-europe-54309649"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
