@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
+        "title": "India reports six million COVID-19 cases: Live news",
+        "link": "https://www.aljazeera.com/news/2020/9/28/india-reports-its-six-millionth-covid-19-case-live-news"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",

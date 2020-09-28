@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
-        "title": "코로나19 53·54·55번 확진자 3명 퇴원",
-        "link": "https://jejumbc.com/article/Z0H-z3OtBkp"
-    },
-    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+    },
+    {
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];
