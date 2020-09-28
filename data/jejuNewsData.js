@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
+        "title": "코로나19 재확산에 상용직 16.3만명 실직…역대 최대 감소",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
+    },
+    {
         "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
-    },
-    {
-        "title": "추석 '코로나19 유입 차단' 비상 방역체계 시험대",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
     }
 ];
