@@ -5,12 +5,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     },
     {
-        "title": "코로나19 재확산에 상용직 16.3만명 실직…역대 최대 감소",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
-    },
-    {
         "title": "코로나19 신규 확진자 95명...\"추석, 재확산 시험대\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
+    },
+    {
+        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
+    },
+    {
+        "title": "코로나19 재확산에 상용직 16.3만명 실직…역대 최대 감소",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     },
     {
         "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
         "link": "https://www.news1.kr/articles/?4068599"
-    },
-    {
-        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     }
 ];

@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Global Cases Top 33 Million; Death Milestone Looms: Virus Update",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e63519e0-0160-11eb-a4e8-3ff3b6f11ea8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yNy9uZXcteW9yay1jaXR5LWNhc2VzLXN0aWxsLWFsYXJtaW5nLWluLXNvbWUtYXJlYXMtdmlydXMtdXBkYXRl"
-    },
-    {
         "title": "Coronavirus death toll quickly approaches 1 million",
         "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
         "title": "Coronavirus global death toll passes 1 million",
         "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
+        "title": "US cases pass 7m; Australian PM says countries must share vaccines – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
     }
 ];
