@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
-        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
-        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
+        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
+        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
