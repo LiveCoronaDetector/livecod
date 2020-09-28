@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/963870.html"
     },
     {
+        "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5923652_32633.html"
+    },
+    {
         "title": "[종합] 코로나19 확진자 3일째 100명 미만...50명 증가, 서울 19명, 경기 13명",
         "link": "http://www.fnnews.com/news/202009280936378004"
     },
     {
-        "title": "사우나 발 감염 확산…서울시 코로나 확진자 19명 증가",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5923904_32633.html"
+        "title": "서울시의회 전문위원 1명 코로나19 확진…의원회관 잠정폐쇄",
+        "link": "https://www.donga.com/news/article/all/20200928/103172295/2"
+    },
+    {
+        "title": "서울 확진자 19명, 48일만에 최소…사우나 집단감염 이어져",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/28/2020092801599.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나로 원산·함흥 등 북한서도 사망자 나왔다",
+        "link": "https://www.chosun.com/politics/north_korea/2020/09/28/AKJD43C7LJAINO4GRRVX5UGFAQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 신규확진 50명…국내 발생 40명·해외유입 10명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/28/2020092890069.html"
     },
     {
         "title": "“수능 예정대로 12월 3일 실시…유증상자·확진자는 별도 시험실”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5014381&ref=A"
     },
     {
-        "title": "서울시의회 첫 확진자…의원회관 등 폐쇄",
-        "link": "http://news.heraldcorp.com/view.php?ud=20200928000284"
-    },
-    {
-        "title": "코로나19 확진자 100명 안팎서 등락…오늘부터 '추석 특별방역'",
-        "link": "http://yna.kr/AKR20200927042400530?did=1195m"
-    },
-    {
-        "title": "[속보]서울시의회 의원회관 코로나 확진자 발생 폐쇄(종합)",
-        "link": "https://view.asiae.co.kr/article/2020092809184209696"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 50명...수도권은 33명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009280939001&code=940601"
-    },
-    {
-        "title": "'전쟁보다 무서운 바이러스' 세계 코로나19 사망자 100만 명",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006000524&plink=ORI&cooper=NAVER"
     }
 ];
