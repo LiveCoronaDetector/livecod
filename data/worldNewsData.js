@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of a fall surge",
-        "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
+        "title": "Positive COVID-19 test rates top 25% in some U.S. Midwest states",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/positive-covid-19-test-rates-top-25-in-some-u-s-midwest-states-idUKKBN26I10Y"
     },
     {
         "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
@@ -17,16 +17,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India poised to pass 6m cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
+        "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
+        "link": "https://www.youtube.com/watch?v=70VEMQK_csg"
     },
     {
         "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
-        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
-        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
+        "title": "New Zealanders may be able to travel to some Australian states before Christmas, Ardern says",
+        "link": "https://japantoday.com/category/world/new-zealanders-may-be-able-to-travel-to-some-australian-states-before-christmas-ardern-says"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Coronavirus global death toll passes 1 million",
-        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
+        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     }
 ];
