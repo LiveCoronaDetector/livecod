@@ -33,8 +33,8 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
-        "title": "[전문] 제주도 59번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
+        "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
+        "link": "https://www.news1.kr/articles/?4068599"
     },
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",

@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
-        "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
-        "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
+        "title": "Mother’s milk could help fight coronavirus, study finds",
+        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
         "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
         "link": "https://www.youtube.com/watch?v=70VEMQK_csg"
     },
     {
-        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
-        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
-    },
-    {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+        "title": "Coronavirus: 'Forced to work' as medics fighting Covid",
+        "link": "https://www.bbc.com/news/av/world-latin-america-54314557"
     },
     {
         "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
+    },
+    {
+        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
+        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     }
 ];
