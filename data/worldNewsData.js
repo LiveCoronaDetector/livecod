@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
+        "title": "Why India should worry about post-Covid-19 care",
+        "link": "https://www.bbc.com/news/world-asia-india-54261125"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
-    },
-    {
         "title": "Top White House Official Denies Pressuring F.D.A. on Vaccine Guidelines",
         "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
     },
     {
         "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
         "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "12 crew members on Aegean cruise test positive for coronavirus",
+        "link": "https://www.marinelog.com/shipping/cruising/12-crew-members-on-aegean-cruise-test-positive-for-coronavirus/"
     }
 ];
