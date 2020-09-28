@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
+        "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
+        "link": "https://www.hankyung.com/opinion/article/2020092807181"
+    },
+    {
         "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 53·54·55번 확진자 3명 퇴원",
         "link": "https://jejumbc.com/article/Z0H-z3OtBkp"
-    },
-    {
-        "title": "원희룡 지사, 추석연휴 앞두고 코로나19 피해지역 방문",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428715"
     },
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",

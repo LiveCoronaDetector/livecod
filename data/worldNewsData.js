@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
-    },
-    {
         "title": "Breaking: COVID-19 breaks out on one of first ships to resume cruising",
         "link": "https://thepointsguy.com/news/covid-outbreak-tui-cruise-ship/"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
+        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Covid-19 Live Updates: NYC Scrambles to Open Schools",
+        "link": "https://www.nytimes.com/live/2020/09/28/world/covid-19-coronavirus"
     }
 ];
