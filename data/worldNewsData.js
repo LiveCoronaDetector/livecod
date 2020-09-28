@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
-        "title": "Italy's government showed the world how to take responsibility in a pandemic",
-        "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
+        "title": "As Europe’s Coronavirus Cases Rise, So Do Voices Crying Hoax",
+        "link": "https://www.nytimes.com/2020/09/28/world/europe/europe-coronavirus-protests.html"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "Why India should worry about post-Covid-19 care",
+        "link": "https://www.bbc.com/news/world-asia-india-54261125"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
-    },
-    {
         "title": "Covid-19 tests that give results in minutes to be rolled out across world",
         "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
+    },
+    {
+        "title": "Global coronavirus death toll passes one million",
+        "link": "https://www.yahoo.com/news/global-coronavirus-death-toll-passes-225324933.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
