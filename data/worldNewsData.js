@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "CDC director takes aim at Trump's Covid adviser: 'Everything he says is false'",
-        "link": "https://www.theguardian.com/us-news/2020/sep/28/covid-coronavirus-cdc-director-robert-redfield-trump-adviser-scott-atlas"
+        "title": "The U.S. is 'not in a good place' as daily coronavirus cases grow beyond 40,000, Fauci says",
+        "link": "https://www.cnbc.com/2020/09/28/the-us-is-not-in-a-good-place-as-coronavirus-cases-grow-beyond-.html"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Why India should worry about post-Covid-19 care",
-        "link": "https://www.bbc.com/news/world-asia-india-54261125"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
-    },
-    {
         "title": "Breaking: COVID-19 scare on one of first ships to resume cruising",
         "link": "https://thepointsguy.com/news/covid-outbreak-tui-cruise-ship/"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/09/28/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
+        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
     }
 ];
