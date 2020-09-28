@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5014107&ref=A"
     },
     {
-        "title": "[단독] 학교 확진자 발생... 비정규직만 출근 지시 논란",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680060&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "경기도, 코로나 확진자 14명…3명은 감염경로 불명",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/28/2020092801401.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[단독] 학교 확진자 발생... 비정규직만 출근 지시 논란",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680060&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/national/1815625.htm"
     },
     {
-        "title": "[단독] '광화문집회' 코로나 확진율, 오히려 낮았다… '文정부 정치방역' 첫 ...",
-        "link": "http://www.newdaily.co.kr/site/data/html/2020/09/28/2020092800013.html"
-    },
-    {
         "title": "“수능 예정대로 12월 3일 실시…유증상자·확진자는 별도 시험실”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5014381&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진자 50명…사흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963870.html"
     }
 ];
