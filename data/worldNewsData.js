@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Canada's 'me first' COVID-19 vaccine strategy may come at the cost of global health",
-        "link": "https://theconversation.com/canadas-me-first-covid-19-vaccine-strategy-may-come-at-the-cost-of-global-health-146908"
+        "title": "CDC director takes aim at Trump's Covid adviser: 'Everything he says is false'",
+        "link": "https://www.theguardian.com/us-news/2020/sep/28/covid-coronavirus-cdc-director-robert-redfield-trump-adviser-scott-atlas"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Why India should worry about post-Covid-19 care",
-        "link": "https://www.bbc.com/news/world-asia-india-54261125"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "12 crew members test positive for COVID-19 on cruise ship sailing in Greece",
-        "link": "https://www.usatoday.com/story/travel/cruises/2020/09/28/covid-19-tui-cruise-12-crew-members-test-positive/3559971001/"
+        "title": "Breaking: COVID-19 breaks out on one of first ships to resume cruising",
+        "link": "https://thepointsguy.com/news/covid-outbreak-tui-cruise-ship/"
     },
     {
         "title": "Coronavirus death toll quickly approaches 1 million",
