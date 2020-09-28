@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of a fall surge",
-        "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
+        "title": "Canada's 'me first' COVID-19 vaccine strategy may come at the cost of global health",
+        "link": "https://theconversation.com/canadas-me-first-covid-19-vaccine-strategy-may-come-at-the-cost-of-global-health-146908"
     },
     {
         "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
-        "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
-        "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
+        "title": "Mother’s milk could help fight coronavirus, study finds",
+        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
         "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     },
     {
-        "title": "Coronavirus global death toll passes 1 million",
-        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+        "title": "Coronavirus death toll quickly approaches 1 million",
+        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     },
     {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     }
 ];

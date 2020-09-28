@@ -5,32 +5,32 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200928024751530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 50명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963870.html"
-    },
-    {
-        "title": "코로나19 어제 신규 확진자 50명…국내 발생만 40명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221367"
-    },
-    {
-        "title": "코로나 신규 확진자 50명…사흘째 100명 이하",
-        "link": "https://www.nocutnews.co.kr/news/5420036"
-    },
-    {
         "title": "[종합] 코로나19 확진자 3일째 100명 미만...50명 증가, 서울 19명, 경기 13명",
         "link": "http://www.fnnews.com/news/202009280936378004"
     },
     {
-        "title": "코로나19 확진자 50명으로 줄었지만…주말 검사건수도 '절반'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02187766625904712"
+        "title": "코로나19 신규 확진자 50명…사흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/963870.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 50명...수도권은 33명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009280939001&code=940601"
     },
     {
         "title": "박능후 \"확진자 감소추세나 9월만 사망자 약 80명\"",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407216&class=33&grp="
     },
     {
+        "title": "코로나19 확진자 50명으로 줄었지만…주말 검사건수도 '절반'(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02187766625904712"
+    },
+    {
         "title": "코로나19 확진자 100명 안팎서 등락…오늘부터 '추석 특별방역'",
         "link": "http://yna.kr/AKR20200927042400530?did=1195m"
+    },
+    {
+        "title": "“수능 예정대로 12월 3일 실시…유증상자·확진자는 별도 시험실”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5014381&ref=A"
     },
     {
         "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
