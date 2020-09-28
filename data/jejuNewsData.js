@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
+        "title": "코로나19 53·54·55번 확진자 3명 퇴원",
+        "link": "https://jejumbc.com/article/Z0H-z3OtBkp"
+    },
+    {
         "title": "원희룡 지사, 추석연휴 앞두고 코로나19 피해지역 방문",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428715"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
-    },
-    {
-        "title": "추석 코로나19 '분수령'…공무원 이동 자제령 속 '추캉스' 족도",
-        "link": "http://www.newspim.com/news/view/20200928000503"
     }
 ];
