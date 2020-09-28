@@ -25,16 +25,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009232307251573"
     },
     {
+        "title": "[전문] 제주도 59번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
+    },
+    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
-    },
-    {
-        "title": "[전문] 제주도 59번째 확진자 발생",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
     },
     {
         "title": "추석 '코로나19 유입 차단' 비상 방역체계 시험대",
