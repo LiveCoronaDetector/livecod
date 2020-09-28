@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "Why India should worry about post-Covid-19 care",
+        "link": "https://www.bbc.com/news/world-asia-india-54261125"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
