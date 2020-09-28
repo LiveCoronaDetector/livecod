@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://theconversation.com/canadas-me-first-covid-19-vaccine-strategy-may-come-at-the-cost-of-global-health-146908"
     },
     {
-        "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
-        "link": "https://www.aljazeera.com/news/2020/9/27/concerns-mount-as-iran-gripped-by-third-major-covid-19-wave"
+        "title": "Greece reports first COVID-19 refugee death since pandemic began",
+        "link": "https://www.aljazeera.com/news/2020/9/28/greece-reports-first-covid-19-refugee-death-since-pandemic-began"
     },
     {
         "title": "Madrid in standoff with government over Covid-19 lockdown",
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
-        "link": "https://www.youtube.com/watch?v=70VEMQK_csg"
+        "title": "Global Cases Top 33 Million; Death Milestone Looms: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e63519e0-0160-11eb-a4e8-3ff3b6f11ea8&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wOS0yNy9uZXcteW9yay1jaXR5LWNhc2VzLXN0aWxsLWFsYXJtaW5nLWluLXNvbWUtYXJlYXMtdmlydXMtdXBkYXRl"
     },
     {
         "title": "Coronavirus death toll quickly approaches 1 million",
         "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     },
     {
-        "title": "September 27 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus global death toll passes 1 million",
         "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+    },
+    {
+        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     }
 ];

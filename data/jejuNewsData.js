@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4068599"
     },
     {
-        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     }
 ];

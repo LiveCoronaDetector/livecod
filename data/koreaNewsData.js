@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200928024751530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 50명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/963870.html"
-    },
-    {
-        "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5923652_32633.html"
+        "title": "코로나19 어제 신규 확진자 50명…국내 발생만 40명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221367"
     },
     {
         "title": "[종합] 코로나19 확진자 3일째 100명 미만...50명 증가, 서울 19명, 경기 13명",
@@ -21,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.donga.com/news/article/all/20200928/103172295/2"
     },
     {
+        "title": "[속보]서울시의회 의원회관 코로나 확진자 발생 폐쇄(종합)",
+        "link": "https://view.asiae.co.kr/article/2020092809184209696"
+    },
+    {
         "title": "서울 확진자 19명, 48일만에 최소…사우나 집단감염 이어져",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/28/2020092801599.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -29,8 +29,8 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/north_korea/2020/09/28/AKJD43C7LJAINO4GRRVX5UGFAQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규확진 50명…국내 발생 40명·해외유입 10명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/28/2020092890069.html"
+        "title": "코로나 국내 신규 확진 50명… 국내발생 40명·해외유입 10명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/28/2020092800977.html"
     },
     {
         "title": "“수능 예정대로 12월 3일 실시…유증상자·확진자는 별도 시험실”",
