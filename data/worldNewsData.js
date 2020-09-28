@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
-        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
-        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-27-20-intl/index.html"
     },
     {
-        "title": "Coronavirus global death toll passes 1 million",
-        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+        "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
+        "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: 'Forced to work' as medics fighting Covid",
+        "link": "https://www.bbc.com/news/av/world-latin-america-54314557"
     }
 ];
