@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
+        "title": "Coronavirus live news: fresh restrictions in French cities include ban on parties; global deaths near 1m",
         "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/28/australia/melbourne-lifts-lockdown-intl-hnk-scli/index.html"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Coronavirus global death toll passes 1 million",
-        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+        "title": "Coronavirus death toll quickly approaches 1 million",
+        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     },
     {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
+        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
+        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1 million",
+        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
     }
 ];
