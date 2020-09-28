@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
+        "title": "Canada's 'me first' COVID-19 vaccine strategy may come at the cost of global health",
+        "link": "https://theconversation.com/canadas-me-first-covid-19-vaccine-strategy-may-come-at-the-cost-of-global-health-146908"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",

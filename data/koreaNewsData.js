@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200928084200504?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 50명, 사흘째 두 자릿수…추석연휴 최대 변수(종합)",
-        "link": "http://yna.kr/AKR20200928024751530?did=1195m"
-    },
-    {
         "title": "서울시의회 전문위원 1명 코로나19 확진…의원회관 잠정폐쇄",
         "link": "https://www.donga.com/news/article/all/20200928/103172295/2"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/national/1815625.htm"
     },
     {
+        "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5923652_32633.html"
+    },
+    {
         "title": "[단독] 학교 확진자 발생... 비정규직만 출근 지시 논란",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680060&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "코로나19 50명 신규확진, 사흘째 두 자릿수…지역발생 40명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5923652_32633.html"
+        "title": "“수능 예정대로 12월 3일 실시…유증상자·확진자는 별도 시험실”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5014381&ref=A"
     }
 ];
