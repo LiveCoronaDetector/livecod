@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Canada's 'me first' COVID-19 vaccine strategy may come at the cost of global health",
-        "link": "https://theconversation.com/canadas-me-first-covid-19-vaccine-strategy-may-come-at-the-cost-of-global-health-146908"
+        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
+        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
     },
     {
-        "title": "Greece reports first COVID-19 refugee death since pandemic began",
-        "link": "https://www.aljazeera.com/news/2020/9/28/greece-reports-first-covid-19-refugee-death-since-pandemic-began"
+        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
         "title": "Madrid in standoff with government over Covid-19 lockdown",
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
+        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Ford applies for German Covid-19 loan guarantees: Report",
-        "link": "https://auto.hindustantimes.com/auto/news/ford-applies-for-german-covid-19-loan-guarantees-report-41601284343253.html"
+        "title": "Top White House Official Denies Pressuring F.D.A. on Vaccine Guidelines",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus death toll quickly approaches 1 million",
+        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     },
     {
         "title": "Coronavirus global death toll passes 1 million",
         "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
-    },
-    {
-        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
-        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];

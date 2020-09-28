@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     },
     {
+        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
+    },
+    {
         "title": "코로나19 재확산에 상용직 16.3만명 실직…역대 최대 감소",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newspim.com/news/view/20200928000503"
     },
     {
-        "title": "“추석 연휴, 늘어나는 관광객”...제주도, 연휴 기간 행정조치 발동",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
-    },
-    {
-        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
-    },
-    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+    },
+    {
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];
