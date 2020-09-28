@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
-        "title": "Mother’s milk could help fight coronavirus, study finds",
-        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
+        "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
+        "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
     },
     {
         "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
         "link": "https://www.youtube.com/watch?v=70VEMQK_csg"
     },
     {
-        "title": "Coronavirus: 'Forced to work' as medics fighting Covid",
-        "link": "https://www.bbc.com/news/av/world-latin-america-54314557"
-    },
-    {
-        "title": "Global report: Colombia and Argentina pass major milestones as Covid grips Americas",
-        "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
-    },
-    {
         "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
         "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1 million",
+        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+    },
+    {
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];
