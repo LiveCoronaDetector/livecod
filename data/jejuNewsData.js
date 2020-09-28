@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
+        "title": "코로나19 피해지역 찾은 원희룡 “민생 더 챙기겠다” [fn포토]",
+        "link": "http://www.fnnews.com/news/202009290436381051"
+    },
+    {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
-    },
-    {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
-        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];

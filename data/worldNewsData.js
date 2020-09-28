@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
     },
     {
-        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
-        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/09/28/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Live updates: U.S. coronavirus cases top 7 million, as global death toll nears milestone",
+        "link": "https://www.washingtonpost.com/nation/2020/09/28/coronavirus-covid-live-updates-us/"
     }
 ];
