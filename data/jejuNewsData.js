@@ -5,6 +5,14 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     },
     {
+        "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
+        "link": "https://www.hankyung.com/opinion/article/2020092807181"
+    },
+    {
+        "title": "원희룡 지사, 추석연휴 전 코로나19 피해지역 현장 방문",
+        "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     },
@@ -21,23 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202009290436381051"
     },
     {
-        "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
-        "link": "https://www.hankyung.com/opinion/article/2020092807181"
-    },
-    {
-        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
-    },
-    {
-        "title": "다가오는 추석 연휴, 귀향자제가 코로나 3차 유행 막는다",
-        "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
-    },
-    {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
+    },
+    {
+        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
     }
 ];
