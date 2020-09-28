@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.kmaeil.com/news/articleView.html?idxno=243090"
     },
     {
+        "title": "추석 코로나19 '분수령'…공무원 이동 자제령 속 '추캉스' 족도",
+        "link": "http://www.newspim.com/news/view/20200928000503"
+    },
+    {
         "title": "“추석 연휴, 늘어나는 관광객”...제주도, 연휴 기간 행정조치 발동",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
-    },
-    {
-        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
-        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];
