@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Positive COVID-19 test rates top 25% in some U.S. Midwest states",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-usa/positive-covid-19-test-rates-top-25-in-some-u-s-midwest-states-idUKKBN26I10Y"
+        "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of a fall surge",
+        "link": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Concerns mount as Iran gripped by third major COVID-19 wave",
@@ -17,16 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Jacinda Ardern flags trans-Tasman bubble could come soon",
-        "link": "https://www.youtube.com/watch?v=70VEMQK_csg"
+        "title": "Coronavirus live news: global deaths near 1m as India poised to pass 6m cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
         "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
         "link": "https://www.nbcnews.com/news/world/how-south-korea-has-eliminated-coronavirus-risk-foreign-travelers-n1240957"
-    },
-    {
-        "title": "New Zealanders may be able to travel to some Australian states before Christmas, Ardern says",
-        "link": "https://japantoday.com/category/world/new-zealanders-may-be-able-to-travel-to-some-australian-states-before-christmas-ardern-says"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
-        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
+        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: 'Forced to work' as medics fighting Covid",
+        "link": "https://www.bbc.com/news/av/world-latin-america-54314557"
     }
 ];
