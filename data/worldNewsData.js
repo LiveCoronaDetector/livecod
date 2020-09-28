@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India poised to pass 6m cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
+        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
+        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
         "title": "How South Korea has eliminated coronavirus risk from foreign travelers",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/global-report-colombia-and-argentina-pass-major-milestones-as-covid-grips-americas"
     },
     {
-        "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
-        "link": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html"
+        "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
+        "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     },
     {
         "title": "Coronavirus: 'Forced to work' as medics fighting Covid",
