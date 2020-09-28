@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "추석 '코로나19 유입 차단' 비상 방역체계 시험대",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
-    },
-    {
         "title": "[전문] 제주도 59번째 확진자 발생",
         "link": "http://www.dailygrid.net/news/articleView.html?idxno=381631"
+    },
+    {
+        "title": "추석 '코로나19 유입 차단' 비상 방역체계 시험대",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151664"
     }
 ];
