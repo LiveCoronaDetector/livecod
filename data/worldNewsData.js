@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/27/madrid-standoff-government-covid-19-lockdown-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     },
     {
         "title": "Melbourne lifts curfew after nearly two months of lockdown as coronavirus cases fall",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus global death toll passes 1 million",
         "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
     },
     {
-        "title": "Coronavirus live news: global deaths near 1m as India passes 6m cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
-    },
-    {
-        "title": "WHO says 2 million coronavirus deaths is 'not impossible' as world approaches 1 million",
-        "link": "https://www.cnbc.com/2020/09/25/who-says-2-million-coronavirus-deaths-is-not-impossible-as-world-approaches-1-million-.html"
+        "title": "Coronavirus: Two million deaths 'very likely' even with vaccine, WHO warns",
+        "link": "https://www.bbc.com/news/world-54303628"
     }
 ];

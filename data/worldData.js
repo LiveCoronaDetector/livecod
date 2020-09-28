@@ -500,9 +500,9 @@ var marker = [
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "확진자수": 42876,
-        "사망자수": 787,
-        "완치자수": 33589
+        "확진자수": 43432,
+        "사망자수": 790,
+        "완치자수": 34052
     },
     {
         "Name": "아제르바이잔",
@@ -1001,20 +1001,20 @@ var marker = [
         "완치자수": 1707
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 4490,
+        "사망자수": 92,
+        "완치자수": 2327
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "확진자수": 4487,
         "사망자수": 42,
         "완치자수": 2199
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 4385,
-        "사망자수": 91,
-        "완치자수": 2327
     },
     {
         "Name": "Trinidad and Tobago",

@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200926500046&wlog_tag3=naver"
     },
     {
-        "title": "제주 59번째 코로나19 확진자 발생…49번과 미국 방문",
-        "link": "http://www.fnnews.com/news/202009232307251573"
+        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
     },
     {
-        "title": "[속보]제주 59번째 코로나 확진자 발생…\"이동 동선 없어\"",
-        "link": "https://www.news1.kr/articles/?4068599"
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];
