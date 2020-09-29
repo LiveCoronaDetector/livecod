@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4074003"
     },
     {
+        "title": "[정면승부] 코로나 병동 의료진 \"추석에 여행? 모두 어려워진다 생각하면 자제...",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009291921491300"
+    },
+    {
         "title": "'반짝 대목' 반갑지만…제주도는 '살얼음판'",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
     },
@@ -27,10 +31,6 @@ var jejuNewsData = [
     {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
-    },
-    {
-        "title": "[정면승부] 코로나 병동 의료진 \"추석에 여행? 모두 어려워진다 생각하면 자제...",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009291921491300"
     },
     {
         "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",

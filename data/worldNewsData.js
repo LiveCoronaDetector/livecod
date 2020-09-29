@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/h_7718ab781c40f62425c01a8bcce26f7c"
-    },
-    {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
+        "title": "German Chancellor Angela Merkel visits Kremlin critic Navalny in hospital | World News",
+        "link": "https://www.youtube.com/watch?v=T5SQwxgu6_U"
     },
     {
         "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
         "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Covid-19 tests that give results in minutes to be rolled out across world",
+        "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
     }
 ];

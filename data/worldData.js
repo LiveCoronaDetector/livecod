@@ -225,20 +225,20 @@ var marker = [
         "완치자수": 94324
     },
     {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "확진자수": 125533,
+        "사망자수": 214,
+        "완치자수": 122448
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "확진자수": 125414,
         "사망자수": 4792,
         "완치자수": 100636
-    },
-    {
-        "Name": "카타르",
-        "Name_ch": "卡塔尔",
-        "Name_en": "Qatar",
-        "확진자수": 125311,
-        "사망자수": 214,
-        "완치자수": 122209
     },
     {
         "Name": "모로코",
@@ -292,9 +292,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 103981,
-        "사망자수": 605,
-        "완치자수": 95511
+        "확진자수": 104568,
+        "사망자수": 607,
+        "완치자수": 96049
     },
     {
         "Name": "이집트",
@@ -445,7 +445,7 @@ var marker = [
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "확진자수": 56068,
-        "사망자수": 462,
+        "사망자수": 463,
         "완치자수": 52466
     },
     {
@@ -1524,9 +1524,17 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 117,
+        "확진자수": 118,
         "사망자수": 1,
-        "완치자수": 110
+        "완치자수": 113
+    },
+    {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 106,
+        "사망자수": 1,
+        "완치자수": 24
     },
     {
         "Name": "Antigua and Barbuda",
@@ -1535,14 +1543,6 @@ var marker = [
         "확진자수": 101,
         "사망자수": 3,
         "완치자수": 92
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 88,
-        "사망자수": 1,
-        "완치자수": 21
     },
     {
         "Name": "British Virgin Islands",
@@ -1593,6 +1593,14 @@ var marker = [
         "완치자수": 24
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "확진자수": 28,
+        "사망자수": 0,
+        "완치자수": 31
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1604,14 +1612,6 @@ var marker = [
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
-        "확진자수": 27,
-        "사망자수": 0,
-        "완치자수": 27
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
         "확진자수": 27,
         "사망자수": 0,
         "완치자수": 27
