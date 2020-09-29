@@ -9,20 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
-        "link": "https://www.nocutnews.co.kr/news/5420802"
-    },
-    {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
     {
         "title": "코로나 확진자 감소세…49일만에 38명으로 ‘뚝’",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
-    },
-    {
-        "title": "코로나19 신규확진 38명, 49일만에 50명 아래",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020092902109919039013&ref=naver"
     },
     {
         "title": "코로나19 어제 38명 신규확진…49일 만에 첫 50명 아래",
@@ -33,8 +25,16 @@ var koreaNewsData = [
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
-        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
+        "title": "충주 체류 서울 코로나19 확진자 접촉 11명 확인(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20200929_0001184017&cID=10806&pID=10800"
+    },
+    {
+        "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
+    },
+    {
+        "title": "\"국내 코로나19 완치자 91％ 최소 1개 이상 후유증 호소\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006003807&plink=ORI&cooper=NAVER"
     },
     {
         "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
