@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 38명…나흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
-    },
-    {
         "title": "대구시, 사흘연속 신규확진자 '0명'(전문)",
         "link": "https://news.imaeil.com/Society/2020092910291065916"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5420783"
     },
     {
-        "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
+        "title": "서울서 확진자 이틀 연속 10명대...\"개천절 집회로 확진자 발생시 손배 청구\"",
+        "link": "http://www.fnnews.com/news/202009291106045627"
     },
     {
         "title": "EPL, 코로나19 확진자 10명 발생",
         "link": "http://www.munhwa.com/news/view.html?no=20200929MW091450129233"
     },
     {
-        "title": "코로나19 확진자 경북에서 2명, 대구는 사흘째 '0'명",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680261&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "한국은행 강남본부 확진자 발생…건물 폐쇄",
+        "link": "https://view.asiae.co.kr/article/2020092911320233447"
     },
     {
-        "title": "코로나 재확산에 전산업 생산 감소…소비지표는 반등(상보)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01613766625905040"
+        "title": "[속보] 코로나19 신규 확진자 38명…나흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
+    },
+    {
+        "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
     }
 ];

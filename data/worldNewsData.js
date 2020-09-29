@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
-        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
+        "title": "Pence says Americans should expect coronavirus cases to rise 'in the days ahead'",
+        "link": "https://www.cnbc.com/2020/09/28/coronavirus-pence-says-expect-us-cases-to-rise-in-the-days-ahead.html"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
+        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     },
     {
         "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
         "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
         "link": "https://www.bbc.com/news/world-europe-54331925"
+    },
+    {
+        "title": "Coronavirus global death toll surpasses 1 million",
+        "link": "https://www.cbsnews.com/video/coronavirus-global-death-toll-surpasses-1-million/"
     }
 ];
