@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
+        "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
+        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.munhwa.com/news/view.html?no=20200929MW091450129233"
     },
     {
-        "title": "한국은행 강남본부 확진자 발생…건물 폐쇄",
-        "link": "https://view.asiae.co.kr/article/2020092911320233447"
+        "title": "알아두면 쓸모 있는 코로나 백과사전",
+        "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "대우건설, 이라크 정부에 코로나19 진단키트 기증",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901405.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 재확산에 전산업 생산 감소…소비지표는 반등(상보)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01613766625905040"
     }
 ];

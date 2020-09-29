@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54300855"
     },
     {
-        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
-        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
+        "title": "Pence says Americans should expect coronavirus cases to rise 'in the days ahead'",
+        "link": "https://www.cnbc.com/2020/09/28/coronavirus-pence-says-expect-us-cases-to-rise-in-the-days-ahead.html"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
-    },
-    {
-        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
-        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
-    },
-    {
-        "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
-        "link": "https://www.bbc.com/news/world-europe-54331925"
+        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
+        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     },
     {
         "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
         "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+    },
+    {
+        "title": "Covid-19 tests that give results in minutes to be rolled out across world",
+        "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
+    },
+    {
+        "title": "Dutch advise masks in shops as virus surges - The Jakarta Post",
+        "link": "https://www.thejakartapost.com/news/2020/09/29/dutch-advise-masks-in-shops-as-virus-surges.html"
     }
 ];
