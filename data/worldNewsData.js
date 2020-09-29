@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "1 person dies of COVID-19 every 16 seconds around the world | Daily Sabah",
-        "link": "https://www.dailysabah.com/world/1-person-dies-of-covid-19-every-16-seconds-around-the-world/news"
+        "title": "More Than 1 Million People Have Died From COVID-19 Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",

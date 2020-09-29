@@ -5,12 +5,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
-    },
-    {
-        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
-        "link": "https://www.nocutnews.co.kr/news/5420802"
+        "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
+        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
@@ -29,15 +25,19 @@ var koreaNewsData = [
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
-        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
-    },
-    {
-        "title": "코로나19 확진자 경북에서 2명, 대구는 사흘째 '0'명",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680261&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "코로나19 신규확진 38명, 49일만에 50명 아래…추석연휴 '불안'(종합)",
+        "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
         "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
+    },
+    {
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+    },
+    {
+        "title": "경기도 코로나 확진자 10명…지역발생 6명, 49일 만에 한자릿수",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901242.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
