@@ -9,20 +9,20 @@ var jejuNewsData = [
         "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     },
     {
-        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
-    },
-    {
-        "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
-        "link": "https://www.news1.kr/articles/?4074003"
-    },
-    {
         "title": "[정면승부] 코로나 병동 의료진 \"추석에 여행? 모두 어려워진다 생각하면 자제...",
         "link": "https://www.ytn.co.kr/_ln/0103_202009291921491300"
     },
     {
         "title": "'반짝 대목' 반갑지만…제주도는 '살얼음판'",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
+    },
+    {
+        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
+    },
+    {
+        "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
+        "link": "https://www.news1.kr/articles/?4074003"
     },
     {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
