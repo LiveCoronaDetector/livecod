@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "The US ranks at the top of the world's coronavirus death toll of more than 1 million",
-        "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
+        "title": "America's CEOs say Trump failed on coronavirus -- and they're backing Biden",
+        "link": "https://www.cnn.com/2020/09/29/business/ceos-endorse-joe-biden/index.html"
     },
     {
         "title": "TUI Cruises ship docks in Greece after coronavirus scare: 'Possible false alarm'",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "As Covid-19 Closes Schools, the World’s Children Go to Work",
-        "link": "https://www.nytimes.com/2020/09/27/world/asia/covid-19-india-children-school-education-labor.html"
+        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
+        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "More Than 1 Million People Have Died From COVID-19 Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
+        "title": "Florida to receive millions of rapid COVID-19 tests from federal government",
+        "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
     },
     {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
