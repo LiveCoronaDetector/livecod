@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4074003"
     },
     {
+        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
+    },
+    {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
         "link": "https://news.joins.com/article/olink/23478476"
-    },
-    {
-        "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     }
 ];
