@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
     },
     {
+        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
+        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
+    },
+    {
         "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
+    },
+    {
+        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
+        "link": "https://www.nocutnews.co.kr/news/5420802"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
@@ -17,10 +25,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
     {
-        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
-        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "알아두면 쓸모 있는 코로나 백과사전",
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "코로나19 사망자 총 409명… 이달 들어 85명 늘어",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092902920.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
+        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
-        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
-    },
-    {
-        "title": "전북서 코로나19 확진자 2명 추가",
-        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+        "title": "[속보] 코로나19 어제 확진자 38명···국내 발생 23명",
+        "link": "https://www.sedaily.com/NewsView/1Z81K6ZF11"
     }
 ];
