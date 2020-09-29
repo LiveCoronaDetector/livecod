@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Coronavirus: Global Covid-19 death toll passes one million",
-        "link": "https://www.bbc.com/news/world-54334496"
-    },
-    {
-        "title": "German Chancellor Angela Merkel visits Kremlin critic Navalny in hospital | World News",
-        "link": "https://www.youtube.com/watch?v=T5SQwxgu6_U"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
+        "title": "1 person dies of COVID-19 every 16 seconds around the world | Daily Sabah",
+        "link": "https://www.dailysabah.com/world/1-person-dies-of-covid-19-every-16-seconds-around-the-world/news"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
