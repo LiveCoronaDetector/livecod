@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
-        "title": "Mother’s milk could help fight coronavirus, study finds",
-        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
+        "title": "Australia sends troops to help contain coronavirus on cargo ship",
+        "link": "https://www.aljazeera.com/news/2020/9/29/australia-sends-troops-to-help-contain-coronavirus-on-cargo-ship"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
-        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
-        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
+        "title": "Coronavirus Deaths Pass One Million Worldwide",
+        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "More Than 1 Million People Have Died From COVID-19 Worldwide : Goats and Soda",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
     },
     {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
         "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
-    },
-    {
-        "title": "Coronavirus Deaths Pass One Million Worldwide",
-        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     }
 ];

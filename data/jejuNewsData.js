@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
     },
     {
-        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
-    },
-    {
         "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
         "link": "https://www.news1.kr/articles/?4074003"
+    },
+    {
+        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
+        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
     },
     {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
