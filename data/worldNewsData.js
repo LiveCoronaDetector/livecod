@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
     },
     {
-        "title": "'Coronavirus lockdown to last more than 10 days'",
-        "link": "https://www.jpost.com/health-science/coronavirus-lockdown-to-last-more-than-10-days-643808"
+        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
         "title": "Coronavirus live news: one million deaths worldwide; Netherlands reports record daily rise in cases",
         "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     },
     {
-        "title": "Why India should worry about post-Covid-19 care",
-        "link": "https://www.bbc.com/news/world-asia-india-54261125"
+        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
+        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     },
     {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
