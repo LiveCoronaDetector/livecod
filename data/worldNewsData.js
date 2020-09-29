@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     },
     {
-        "title": "September 28 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
+        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
+        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/h_7718ab781c40f62425c01a8bcce26f7c"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",

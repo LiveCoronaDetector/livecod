@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
+        "title": "코로나19 완치자가 가장 많이 호소하는 후유증은?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
+    },
+    {
         "title": "코로나 확진자 감소세…49일만에 38명으로 ‘뚝’",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "전북서 코로나19 확진자 2명 추가",
         "link": "http://news.tf.co.kr/read/national/1815989.htm"
-    },
-    {
-        "title": "코로나 확진자 10명 중 9명 후유증…\"피로감, 집중력 저하, 후각 손실 호소\"",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971882"
     },
     {
         "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",

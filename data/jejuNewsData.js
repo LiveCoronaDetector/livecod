@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4074003"
     },
     {
+        "title": "'반짝 대목' 반갑지만…제주도는 '살얼음판'",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
+    },
+    {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "원희룡 지사, 추석연휴 전 코로나19 피해지역 현장 방문",
         "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
-        "link": "https://news.joins.com/article/olink/23478476"
     }
 ];
