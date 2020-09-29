@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Coronavirus update: Latest world news for September 29",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
-    },
-    {
-        "title": "Global coronavirus deaths surpass one million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
-    },
-    {
         "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
         "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
+    },
+    {
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
+    },
+    {
+        "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
+        "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
     }
 ];
