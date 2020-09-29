@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
     },
     {
-        "title": "September 28 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
+        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
+        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "One millionth death from COVID-19 'an agonizing milestone': UN Secretary-General",
-        "link": "https://news.un.org/en/story/2020/09/1074102"
+        "title": "Global coronavirus deaths surpass one million: Reuters tally",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
-        "title": "Coronavirus update: Latest world news for September 29",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
+        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
+        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     }
 ];
