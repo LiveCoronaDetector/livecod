@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
-        "title": "Italy's government showed the world how to take responsibility in a pandemic",
-        "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
+        "title": "As Europe’s Coronavirus Cases Rise, So Do Voices Crying Hoax",
+        "link": "https://www.nytimes.com/2020/09/28/world/europe/europe-coronavirus-protests.html"
     },
     {
         "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
-    },
-    {
         "title": "Covid-19 tests that give results in minutes to be rolled out across world",
         "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/09/28/watch-live-world-health-organization-holds-briefing-on-the-coronavirus.html"
-    },
-    {
         "title": "Coronavirus update: World nears 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
         "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
+        "link": "https://www.bbc.com/news/world-europe-54331925"
     }
 ];
