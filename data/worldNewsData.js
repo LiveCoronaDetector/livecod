@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
     },
     {
-        "title": "As Europe’s Coronavirus Cases Rise, So Do Voices Crying Hoax",
-        "link": "https://www.nytimes.com/2020/09/28/world/europe/europe-coronavirus-protests.html"
+        "title": "How Tourism Drove Europe's Second Wave of Covid-19",
+        "link": "https://www.wsj.com/video/how-tourism-drove-europes-second-wave-of-covid-19/B30CF26C-C561-414B-A8F9-E4F1B5318C5B.html"
     },
     {
         "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     },
     {
-        "title": "Coronavirus death toll hits 1M worldwide",
-        "link": "https://www.foxnews.com/health/coronavirus-death-toll-hits-1m-worldwide"
-    },
-    {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
         "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus Deaths Pass One Million Worldwide",
+        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     }
 ];

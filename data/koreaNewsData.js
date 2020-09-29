@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
     },
     {
-        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
-        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
+    },
+    {
+        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
+        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
