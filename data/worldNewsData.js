@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
     },
     {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
+        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

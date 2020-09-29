@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
-        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
-    },
-    {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
@@ -27,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "알아두면 쓸모 있는 코로나 백과사전",
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
+    },
+    {
+        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
+        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
     },
     {
         "title": "코로나19 신규확진 38명, 49일만에 50명 아래…추석연휴 '불안'(종합)",
