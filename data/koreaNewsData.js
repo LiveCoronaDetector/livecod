@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
-        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
-    },
-    {
         "title": "코로나19 신규확진 38명, 49일만에 50명 아래…추석연휴 '불안'(종합)",
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "전북서 코로나19 확진자 2명 추가",
-        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+        "title": "코로나19 사망자 총 409명… 이달 들어 85명 늘어",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092902920.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
+        "title": "모스크바시 코로나19 급속 확산에 \"초중교 2주간 가을방학\"(종합)",
+        "link": "http://yna.kr/AKR20200929176651080?did=1195m"
+    },
+    {
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
     }
 ];

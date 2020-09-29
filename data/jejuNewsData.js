@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
     },
     {
+        "title": "원희룡 지사, 추석연휴 전 코로나19 피해지역 현장 방문",
+        "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
+    },
+    {
         "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
         "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 재확산될라...추캉스 관광객에 방역당국 ‘긴장’",
         "link": "http://www.ekn.kr/news/article.html?no=526175"
-    },
-    {
-        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
     }
 ];

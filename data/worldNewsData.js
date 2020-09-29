@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
-        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
+        "title": "Why India should worry about post-Covid-19 care",
+        "link": "https://www.bbc.com/news/world-asia-india-54261125"
     },
     {
-        "title": "Australia sends troops to help contain coronavirus on cargo ship",
-        "link": "https://www.aljazeera.com/news/2020/9/29/australia-sends-troops-to-help-contain-coronavirus-on-cargo-ship"
+        "title": "Mother’s milk could help fight coronavirus, study finds",
+        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
