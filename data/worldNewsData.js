@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54300855"
     },
     {
-        "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
+        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "September 28 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Global coronavirus deaths surpass one million: Reuters tally",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "Coronavirus update: Latest world news for September 29",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
+    },
+    {
+        "title": "One millionth death from COVID-19 'an agonizing milestone': UN Secretary-General",
+        "link": "https://news.un.org/en/story/2020/09/1074102"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
-    },
-    {
-        "title": "Coronavirus update: Latest world news for September 29",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     }
 ];
