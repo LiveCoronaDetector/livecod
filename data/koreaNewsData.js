@@ -17,18 +17,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 어제 38명 신규확진…49일 만에 첫 50명 아래",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/29/2020092990028.html"
-    },
-    {
-        "title": "알아두면 쓸모 있는 코로나 백과사전",
-        "link": "https://shindonga.donga.com/3/all/13/2195566/1"
-    },
-    {
-        "title": "충주 체류 서울 코로나19 확진자 접촉 11명 확인(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200929_0001184017&cID=10806&pID=10800"
-    },
-    {
         "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
     },
@@ -39,5 +27,17 @@ var koreaNewsData = [
     {
         "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "방역당국, 코로나19 확진자 30명대로 감소추세...추석 연휴까지 이어가야",
+        "link": "http://www.fnnews.com/news/202009291449288523"
+    },
+    {
+        "title": "코로나19로 세상 떠난 시장에 투표한 루마니아 주민들",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009291625001&code=970205"
+    },
+    {
+        "title": "인천서 확진자 가족 등 4명 감염…지역 누적 916명(종합)",
+        "link": "http://yna.kr/AKR20200929065551065?did=1195m"
     }
 ];
