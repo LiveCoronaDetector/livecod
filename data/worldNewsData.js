@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Covid cases climbing again in U.S. while Fauci warns 'we're not in a good place'",
-        "link": "https://www.nbcnews.com/news/us-news/covid-cases-climbing-again-u-s-while-fauci-warns-we-n1241256"
+        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
+        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
-        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
-    },
-    {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
         "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
+        "link": "https://www.bbc.com/news/world-europe-54331925"
     }
 ];
