@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Covid cases climbing again in U.S. while Fauci warns 'we're not in a good place'",
-        "link": "https://www.nbcnews.com/news/us-news/covid-cases-climbing-again-u-s-while-fauci-warns-we-n1241256"
+        "title": "The US ranks at the top of the world's coronavirus death toll of more than 1 million",
+        "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/commentisfree/2020/sep/28/italy-covid-19-response-sweden-coronavirus"
     },
     {
-        "title": "September 28 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/h_486efadfe0e9354392b45c26ad901760"
+        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
+        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
+        "title": "Coronavirus Deaths Pass One Million Worldwide",
+        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
         "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
         "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Covid-19 tests that give results in minutes to be rolled out across world",
+        "link": "https://www.theguardian.com/world/2020/sep/28/covid-19-tests-that-give-results-in-minutes-to-be-rolled-out-across-world"
     }
 ];

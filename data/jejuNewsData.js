@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
     },
     {
+        "title": "[정면승부] 코로나 병동 의료진 \"추석에 여행? 모두 어려워진다 생각하면 자제...",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009291921491300"
+    },
+    {
         "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
-    },
-    {
-        "title": "코로나19 재확산에 상용직 16.3만명 실직…역대 최대 감소",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     }
 ];
