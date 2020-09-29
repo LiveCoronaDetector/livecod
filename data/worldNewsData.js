@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
-        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
+        "title": "As Covid-19 Closes Schools, the World’s Children Go to Work",
+        "link": "https://www.nytimes.com/2020/09/27/world/asia/covid-19-india-children-school-education-labor.html"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
     },
     {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
+        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

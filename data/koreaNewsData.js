@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tf.co.kr/read/national/1815989.htm"
     },
     {
-        "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
-    },
-    {
         "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
+    },
+    {
+        "title": "경기도 코로나 확진자 10명…지역발생 6명, 49일 만에 한자릿수",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901242.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
     },
     {
-        "title": "코로나19 재확산될라...추캉스 관광객에 방역당국 ‘긴장’",
-        "link": "http://www.ekn.kr/news/article.html?no=526175"
+        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
     }
 ];
