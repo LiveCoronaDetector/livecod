@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     },
     {
-        "title": "추석 연휴 30만명 입도···제주도, 방역 총력",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172351"
+        "title": "제주 59번째 코로나19 확진자 발생",
+        "link": "http://www.ihalla.com/read.php3?aid=1600865049692829073"
     }
 ];

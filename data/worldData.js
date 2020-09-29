@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7359109,
-        "사망자수": 209756,
-        "완치자수": 4605558
+        "확진자수": 7361293,
+        "사망자수": 209777,
+        "완치자수": 4609381
     },
     {
         "Name": "인도",
@@ -513,6 +513,14 @@ var marker = [
         "완치자수": 37725
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 39432,
+        "사망자수": 818,
+        "완치자수": 23063
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
@@ -527,14 +535,6 @@ var marker = [
         "확진자수": 39121,
         "사망자수": 299,
         "완치자수": 30220
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "확진자수": 38684,
-        "사망자수": 803,
-        "완치자수": 22419
     },
     {
         "Name": "Kenya",
@@ -1132,9 +1132,9 @@ var marker = [
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "확진자수": 2772,
-        "사망자수": 76,
-        "완치자수": 1564
+        "확진자수": 2787,
+        "사망자수": 78,
+        "완치자수": 1608
     },
     {
         "Name": "South Sudan",
@@ -1185,20 +1185,20 @@ var marker = [
         "완치자수": 1266
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 2028,
+        "사망자수": 57,
+        "완치자수": 1279
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "확진자수": 2010,
         "사망자수": 47,
         "완치자수": 1755
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 2008,
-        "사망자수": 56,
-        "완치자수": 1276
     },
     {
         "Name": "안도라",
@@ -1228,9 +1228,9 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 1743,
-        "사망자수": 46,
-        "완치자수": 1330
+        "확진자수": 1749,
+        "사망자수": 47,
+        "완치자수": 1336
     },
     {
         "Name": "Cyprus",
@@ -1340,7 +1340,7 @@ var marker = [
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "확진자수": 656,
+        "확진자수": 664,
         "사망자수": 48,
         "완치자수": 600
     },
@@ -1380,7 +1380,7 @@ var marker = [
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "확진자수": 485,
+        "확진자수": 502,
         "사망자수": 1,
         "완치자수": 472
     },
