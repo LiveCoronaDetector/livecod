@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
     },
     {
+        "title": "연휴 잊고 명절에도 비상근무…“코로나19 방역 최선”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015641&ref=A"
+    },
+    {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
         "link": "https://www.hankyung.com/opinion/article/2020092807181"
     },
     {
-        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
-    },
-    {
-        "title": "원희룡 지사, 추석연휴 전 코로나19 피해지역 현장 방문",
-        "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
+        "title": "코로나19 재확산될라...추캉스 관광객에 방역당국 ‘긴장’",
+        "link": "http://www.ekn.kr/news/article.html?no=526175"
     }
 ];
