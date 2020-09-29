@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5420783"
     },
     {
+        "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
+    },
+    {
         "title": "서울서 확진자 이틀 연속 10명대...\"개천절 집회로 확진자 발생시 손배 청구\"",
         "link": "http://www.fnnews.com/news/202009291106045627"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092911320233447"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 38명…나흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
-    },
-    {
-        "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
+        "title": "대우건설, 이라크 정부에 코로나19 진단키트 기증",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901405.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
