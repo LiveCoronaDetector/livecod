@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54300855"
     },
     {
-        "title": "Pence says Americans should expect coronavirus cases to rise 'in the days ahead'",
-        "link": "https://www.cnbc.com/2020/09/28/coronavirus-pence-says-expect-us-cases-to-rise-in-the-days-ahead.html"
+        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
+        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
-        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
+        "title": "One millionth death from COVID-19 'an agonizing milestone': UN Secretary-General",
+        "link": "https://news.un.org/en/story/2020/09/1074102"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
-        "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
+        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     }
 ];

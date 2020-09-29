@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
     {
+        "title": "서울서 확진자 이틀 연속 10명대...\"개천절 집회로 확진자 발생시 손배 청구\"",
+        "link": "http://www.fnnews.com/news/202009291106045627"
+    },
+    {
         "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "EPL, 코로나19 확진자 10명 발생",
         "link": "http://www.munhwa.com/news/view.html?no=20200929MW091450129233"
-    },
-    {
-        "title": "대구시, 사흘연속 신규확진자 '0명'(전문)",
-        "link": "https://news.imaeil.com/Society/2020092910291065916"
     }
 ];
