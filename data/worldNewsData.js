@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
     },
     {
-        "title": "How Tourism Drove Europe's Second Wave of Covid-19",
-        "link": "https://www.wsj.com/video/how-tourism-drove-europes-second-wave-of-covid-19/B30CF26C-C561-414B-A8F9-E4F1B5318C5B.html"
+        "title": "Germany: Angela Merkel unveils new coronavirus measures",
+        "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
+        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
         "title": "Australia sends troops to help contain coronavirus on cargo ship",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
     },
     {
-        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
