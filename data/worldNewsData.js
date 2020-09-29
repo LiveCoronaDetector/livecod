@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
     },
     {
-        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
+        "title": "'Coronavirus lockdown to last more than 10 days'",
+        "link": "https://www.jpost.com/health-science/coronavirus-lockdown-to-last-more-than-10-days-643808"
     },
     {
-        "title": "How Tourism Drove Europe's Second Wave of Covid-19",
-        "link": "https://www.wsj.com/video/how-tourism-drove-europes-second-wave-of-covid-19/B30CF26C-C561-414B-A8F9-E4F1B5318C5B.html"
+        "title": "Coronavirus live news: one million deaths worldwide; Netherlands reports record daily rise in cases",
+        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     },
     {
         "title": "Why India should worry about post-Covid-19 care",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
+        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

@@ -9,14 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
-        "link": "https://www.nocutnews.co.kr/news/5420802"
-    },
-    {
-        "title": "코로나19 신규 확진 38명, 49일 만에 50명 아래…추석 연휴 '불안'",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006003038&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
@@ -25,8 +17,8 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 신규확진자 38명, 49일 만에 50명 이하",
-        "link": "https://www.nocutnews.co.kr/news/5420783"
+        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
+        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
     },
     {
         "title": "알아두면 쓸모 있는 코로나 백과사전",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
-        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+    },
+    {
+        "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
+    },
+    {
+        "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
     }
 ];
