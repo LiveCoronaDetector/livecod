@@ -13,28 +13,28 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
-        "title": "Coronavirus live news: one million deaths worldwide; Netherlands reports record daily rise in cases",
-        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
+        "title": "How Tourism Drove Europe's Second Wave of Covid-19",
+        "link": "https://www.wsj.com/video/how-tourism-drove-europes-second-wave-of-covid-19/B30CF26C-C561-414B-A8F9-E4F1B5318C5B.html"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "Why India should worry about post-Covid-19 care",
+        "link": "https://www.bbc.com/news/world-asia-india-54261125"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "More Than 1 Million People Have Died From COVID-19 Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
-    },
-    {
-        "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
