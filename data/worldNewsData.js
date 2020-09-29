@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "America's CEOs say Trump failed on coronavirus -- and they're backing Biden",
-        "link": "https://www.cnn.com/2020/09/29/business/ceos-endorse-joe-biden/index.html"
+        "title": "Florida reports spike in new coronavirus cases days after restrictions relaxed",
+        "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
     },
     {
-        "title": "TUI Cruises ship docks in Greece after coronavirus scare: 'Possible false alarm'",
-        "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
+        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
+        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
     },
     {
-        "title": "Germany: Angela Merkel unveils new coronavirus measures",
-        "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
+        "title": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
+        "link": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html"
     },
     {
         "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Florida to receive millions of rapid COVID-19 tests from federal government",
-        "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
+        "title": "South Florida grapples with confusing move to Phase 3",
+        "link": "https://www.sun-sentinel.com/coronavirus/fl-ne-counties-cities-confused-over-governor-orders-to-open-state-20200929-si25h63aqzczljf2whepr4sk7m-story.html"
     },
     {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
