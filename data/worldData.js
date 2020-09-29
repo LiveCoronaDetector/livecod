@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7394635,
-        "사망자수": 210571,
-        "완치자수": 4640809
+        "확진자수": 7397138,
+        "사망자수": 210624,
+        "완치자수": 4643397
     },
     {
         "Name": "인도",
@@ -188,9 +188,9 @@ var marker = [
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "확진자수": 235465,
-        "사망자수": 1523,
-        "완치자수": 167568
+        "확진자수": 236926,
+        "사망자수": 1528,
+        "완치자수": 167804
     },
     {
         "Name": "Ukraine",
@@ -708,7 +708,7 @@ var marker = [
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "확진자수": 13606,
+        "확진자수": 13640,
         "사망자수": 836,
         "완치자수": 6764
     },
@@ -868,9 +868,9 @@ var marker = [
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "확진자수": 7474,
+        "확진자수": 7488,
         "사망자수": 161,
-        "완치자수": 7091
+        "완치자수": 7111
     },
     {
         "Name": "Jamaica",
@@ -1020,7 +1020,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 4441,
+        "확진자수": 4463,
         "사망자수": 74,
         "완치자수": 2454
     },
@@ -1132,9 +1132,9 @@ var marker = [
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "확진자수": 2787,
+        "확진자수": 2846,
         "사망자수": 78,
-        "완치자수": 1608
+        "완치자수": 1644
     },
     {
         "Name": "South Sudan",
@@ -1177,6 +1177,14 @@ var marker = [
         "완치자수": 1685
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "확진자수": 2033,
+        "사망자수": 48,
+        "완치자수": 1771
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1191,14 +1199,6 @@ var marker = [
         "확진자수": 2031,
         "사망자수": 587,
         "완치자수": 1275
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "확진자수": 2010,
-        "사망자수": 47,
-        "완치자수": 1755
     },
     {
         "Name": "안도라",

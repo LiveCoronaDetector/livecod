@@ -22,22 +22,22 @@ var jejuNewsData = [
     },
     {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
+    },
+    {
+        "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
+        "link": "https://news.joins.com/article/olink/23478476"
+    },
+    {
+        "title": "코로나19 재확산될라...추캉스 관광객에 방역당국 ‘긴장’",
+        "link": "http://www.ekn.kr/news/article.html?no=526175"
+    },
+    {
+        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
     },
     {
         "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
         "link": "https://www.news1.kr/articles/?4074003"
-    },
-    {
-        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
-    },
-    {
-        "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",
-        "link": "https://www.hankyung.com/opinion/article/2020092807181"
-    },
-    {
-        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
     }
 ];
