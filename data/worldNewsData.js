@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
-        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
+        "title": "Covid cases climbing again in U.S. while Fauci warns 'we're not in a good place'",
+        "link": "https://www.nbcnews.com/news/us-news/covid-cases-climbing-again-u-s-while-fauci-warns-we-n1241256"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
-        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
-        "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+        "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

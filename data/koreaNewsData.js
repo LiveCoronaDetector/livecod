@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
-    },
-    {
-        "title": "코로나 확진자 감소세…49일만에 38명으로 ‘뚝’",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
-    },
-    {
-        "title": "\"국내 코로나19 완치자 91％ 최소 1개 이상 후유증 호소\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006003807&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "알아두면 쓸모 있는 코로나 백과사전",
-        "link": "https://shindonga.donga.com/3/all/13/2195566/1"
-    },
-    {
-        "title": "문 대통령 “코로나 확진자 8·15 이전 수준 도달…안심은 일러”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009291602001&code=910402"
-    },
-    {
-        "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 확진자 10명 중 9명 후유증…\"피로감, 집중력 저하, 후각 손실 호소\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971882"
     },
     {
         "title": "재래시장 찾은 文대통령 “코로나 점차 안정세 …안심은 이르다”",
         "link": "http://news.heraldcorp.com/view.php?ud=20200929000865"
     },
     {
-        "title": "방역당국, 코로나19 확진자 30명대로 감소추세...추석 연휴까지 이어가야",
-        "link": "http://www.fnnews.com/news/202009291449288523"
+        "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
+    },
+    {
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+    },
+    {
+        "title": "서울서 확진자 이틀 연속 10명대...\"개천절 집회로 확진자 발생시 손배 청구\"",
+        "link": "http://www.fnnews.com/news/202009291106045627"
+    },
+    {
+        "title": "코로나19로 세상 떠난 시장에 투표한 루마니아 주민들",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009291625001&code=970205"
+    },
+    {
+        "title": "인천서 확진자 가족 등 4명 감염…지역 누적 916명(종합)",
+        "link": "http://yna.kr/AKR20200929065551065?did=1195m"
     }
 ];
