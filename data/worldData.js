@@ -596,8 +596,8 @@ var marker = [
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "확진자수": 27044,
-        "사망자수": 875,
+        "확진자수": 27055,
+        "사망자수": 882,
         "완치자수": 24676
     },
     {
@@ -1334,7 +1334,7 @@ var marker = [
         "Name_en": "Turks and Caicos",
         "확진자수": 682,
         "사망자수": 5,
-        "완치자수": 620
+        "완치자수": 631
     },
     {
         "Name": "Channel Islands",
@@ -1348,9 +1348,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 644,
+        "확진자수": 645,
         "사망자수": 22,
-        "완치자수": 532
+        "완치자수": 549
     },
     {
         "Name": "Papua New Guinea",
@@ -1460,7 +1460,7 @@ var marker = [
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "확진자수": 276,
+        "확진자수": 277,
         "사망자수": 0,
         "완치자수": 275
     },

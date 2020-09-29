@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
-        "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
-        "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
-    },
-    {
-        "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
-        "link": "https://www.bbc.com/news/world-europe-54331925"
     }
 ];
