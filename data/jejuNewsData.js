@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200929135500056?did=1195m"
     },
     {
+        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
+        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
+    },
+    {
         "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
     },
     {
         "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
         "link": "https://www.news1.kr/articles/?4074003"
-    },
-    {
-        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
-        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     },
     {
         "title": "[이슈 프리즘] 코로나와 추석, 그리고 소망하는 것",

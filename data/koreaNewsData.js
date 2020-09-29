@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "코로나 신규 확진자 38명…49일만에 50명 아래로",
-        "link": "http://www.hani.co.kr/arti/society/health/964033.html"
+        "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/29/2020092990028.html"
     },
     {
-        "title": "한국은행 강남본부 확진자 발생…건물 폐쇄",
-        "link": "https://view.asiae.co.kr/article/2020092911320233447"
+        "title": "EPL, 코로나19 확진자 10명 발생",
+        "link": "http://www.munhwa.com/news/view.html?no=20200929MW091450129233"
     },
     {
         "title": "알아두면 쓸모 있는 코로나 백과사전",
         "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 방역당국 “코로나19 추가 발생 억제 가능하다”",
+        "link": "http://www.segye.com/content/html/2020/09/29/20200929514383.html?OutUrl=naver"
     },
     {
-        "title": "대구시, 사흘연속 신규확진자 '0명'(전문)",
-        "link": "https://news.imaeil.com/Society/2020092910291065916"
+        "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

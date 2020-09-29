@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-africa-54300855"
     },
     {
-        "title": "Ontario in grip of second Covid-19 wave that will be 'worse than first', officials say",
-        "link": "https://www.theguardian.com/world/2020/sep/28/ontario-coronavirus-cases-second-wave-record-daily-infections"
+        "title": "Live updates: Global coronavirus death toll tops 1 million as U.N. chief warns that ‘misinformation kills’",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
-        "title": "Coronavirus live news: one million deaths worldwide; White House Covid taskforce rift deepens",
-        "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
+        "title": "Coronavirus update: Latest world news for September 29",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     }
 ];
