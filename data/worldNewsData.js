@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
-        "title": "Italy's government showed the world how to take responsibility in a pandemic",
-        "link": "https://news.google.com/articles/CAIiEB42fRte9EPq_26IBi4FWb0qFggEKg4IACoGCAowl6p7MN-zCTC9vBU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "As Europe’s Coronavirus Cases Rise, So Do Voices Crying Hoax",
+        "link": "https://www.nytimes.com/2020/09/28/world/europe/europe-coronavirus-protests.html"
     },
     {
         "title": "‘The future is uncertain’: India coronavirus cases top 6 million",

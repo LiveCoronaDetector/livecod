@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     },
     {
+        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
+        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
+    },
+    {
         "title": "코로나19 신규 확진자 95명...\"추석, 재확산 시험대\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
         "link": "http://yna.kr/AKR20200924133900530?did=1195m"
-    },
-    {
-        "title": "제주 59번째 코로나19 확진자 발생",
-        "link": "http://www.ihalla.com/read.php3?aid=1600865049692829073"
     }
 ];
