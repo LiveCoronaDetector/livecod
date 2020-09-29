@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
     },
     {
-        "title": "서울서 확진자 이틀 연속 10명대...\"개천절 집회로 확진자 발생시 손배 청구\"",
-        "link": "http://www.fnnews.com/news/202009291106045627"
-    },
-    {
-        "title": "코로나 국내 신규 확진 38명… 국내발생 23명·해외유입 15명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/09/29/2020092900963.html"
-    },
-    {
         "title": "코로나19 어제 38명 신규확진…49일 만에 첫 50명 아래",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/29/2020092990028.html"
     },
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020092911320233447"
     },
     {
-        "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
+        "title": "알아두면 쓸모 있는 코로나 백과사전",
+        "link": "https://shindonga.donga.com/3/all/13/2195566/1"
     },
     {
-        "title": "EPL, 코로나19 확진자 10명 발생",
-        "link": "http://www.munhwa.com/news/view.html?no=20200929MW091450129233"
+        "title": "[속보]서울 코로나19 확진자 11명…2차 재유행 전보다 낮은 수준",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009291111001&code=940100"
+    },
+    {
+        "title": "대구시, 사흘연속 신규확진자 '0명'(전문)",
+        "link": "https://news.imaeil.com/Society/2020092910291065916"
+    },
+    {
+        "title": "서울대 도서관서 추가 확진자 1명… 학내 2차 감염사례",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/29/2020092901930.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
