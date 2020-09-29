@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
+        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
+    },
+    {
         "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     },
@@ -21,16 +25,12 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     },
     {
-        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
-        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
-    },
-    {
         "title": "코로나19 신규 확진자 95명...\"추석, 재확산 시험대\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
-        "title": "코로나19 피해지역 찾은 원희룡 “민생 더 챙기겠다” [fn포토]",
-        "link": "http://www.fnnews.com/news/202009290436381051"
+        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
     },
     {
         "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",

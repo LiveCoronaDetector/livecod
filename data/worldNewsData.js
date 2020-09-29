@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/science/science-news/africa-has-held-worst-coronavirus-researchers-are-working-figure-out-n1241026"
     },
     {
-        "title": "The U.S. is 'not in a good place' as daily coronavirus cases grow beyond 40,000, Fauci says",
-        "link": "https://www.cnbc.com/2020/09/28/the-us-is-not-in-a-good-place-as-coronavirus-cases-grow-beyond-.html"
+        "title": "Pence says Americans should expect coronavirus cases to rise 'in the days ahead'",
+        "link": "https://www.cnbc.com/2020/09/28/coronavirus-pence-says-expect-us-cases-to-rise-in-the-days-ahead.html"
     },
     {
         "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
     },
     {
         "title": "Coronavirus update: World tops 1M deaths; Inovio delays late-stage trial as vaccine race quickens",
         "link": "https://finance.yahoo.com/news/coronavirus-update-world-nears-1-m-deaths-inovio-delays-latestage-trial-as-vaccine-race-quickens-173116124.html"
+    },
+    {
+        "title": "Coronavirus Deaths Pass One Million Worldwide",
+        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
         "title": "Coronavirus: New rules in Netherlands to cope with virus surge",

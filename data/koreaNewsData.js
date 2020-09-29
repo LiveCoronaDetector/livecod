@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "[속보] 코로나19 어제 확진자 38명···국내 발생 23명",
-        "link": "https://www.sedaily.com/NewsView/1Z81K6ZF11"
-    },
-    {
-        "title": "[속보] 코로나19 어제 38명 추가…49일 만에 50명 아래",
-        "link": "https://www.hankyung.com/life/article/2020092923037"
-    },
-    {
-        "title": "코로나19 어제 38명 신규확진…50명 아래",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221532"
-    },
-    {
         "title": "[코로나19] 신규확진 38명…49일 만에 50명 미만(상보)",
         "link": "http://www.ajunews.com/view/20200929094121993"
+    },
+    {
+        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
+        "link": "https://www.nocutnews.co.kr/news/5420802"
     },
     {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
     {
-        "title": "[종합] 코로나19 신규 확진자 38명…49일 만에 50명 아래로",
-        "link": "https://www.etoday.co.kr/news/view/1945979"
+        "title": "코로나19 어제 38명 신규확진…49일 만에 첫 50명 아래",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/29/2020092990028.html"
     },
     {
         "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
     },
     {
+        "title": "대구시, 사흘연속 신규확진자 '0명'(전문)",
+        "link": "https://news.imaeil.com/Society/2020092910291065916"
+    },
+    {
         "title": "코로나 재확산에 전산업 생산 감소…소비지표는 반등(상보)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01613766625905040"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 38명 증가..48일만에 최저",
+        "link": "http://www.fnnews.com/news/202009290935294558"
     }
 ];
