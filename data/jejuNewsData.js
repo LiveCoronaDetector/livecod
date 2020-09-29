@@ -21,10 +21,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020092906432078417?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
-    },
-    {
         "title": "제주도, 3년 연속 대한민국 SNS 광역자치단체 최우수상",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320602"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02879846625904712"
     },
     {
+        "title": "제주, 연휴 코로나19 대비 '5분 대기조' 가동",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351314"
+    },
+    {
         "title": "코로나19 신규 확진자 95명...\"추석, 재확산 시험대\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202009271022115953"
     },
     {
-        "title": "코로나19 신규 확진자 125명…추석 연휴, 이것만은 꼭!",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5012039&ref=A"
+        "title": "병원-요양시설 이어 어린이집까지 방역 비상…코로나19 확산세",
+        "link": "http://yna.kr/AKR20200924133900530?did=1195m"
     }
 ];
