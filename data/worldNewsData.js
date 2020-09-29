@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/29/coronavirus-live-news-rapid-covid-19-tests-to-be-rolled-out-worldwide-as-global-deaths-near-one-million"
     },
     {
-        "title": "‘The future is uncertain’: India coronavirus cases top 6 million",
-        "link": "https://www.aljazeera.com/news/2020/9/28/the-future-is-uncertain-india-coronavirus-cases-pass-6-million"
+        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
+        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
     },
     {
         "title": "Mother’s milk could help fight coronavirus, study finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
+        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
+        "link": "https://news.google.com/articles/CAIiEJlWdDcBS_fY3uL6VwPADgMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Covid-19: Milestones of the global pandemic",
-        "link": "https://www.bbc.com/news/world-54337098"
-    },
-    {
         "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/&c=16135931400209174994&mkt=en-us/"
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];
