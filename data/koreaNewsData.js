@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964033.html"
     },
     {
-        "title": "코로나19 신규확진자 38명, 49일 만에 가장 적어",
-        "link": "https://www.nocutnews.co.kr/news/5420802"
-    },
-    {
         "title": "‘코로나19’ 신규 확진자 38명…국내 발생 23명 중 수도권 17명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015100&ref=A"
     },
     {
         "title": "코로나 확진자 감소세…49일만에 38명으로 ‘뚝’",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200929500026&wlog_tag3=naver"
+    },
+    {
+        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
+        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
     },
     {
         "title": "알아두면 쓸모 있는 코로나 백과사전",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "29일 코로나 확진자 38명... 8월 집단감염 전으로 돌아갔다",
-        "link": "https://www.pressian.com/pages/articles/2020092909422759092?utm_source=naver&utm_medium=search"
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
     },
     {
-        "title": "[속보] 코로나19 어제 확진자 38명···국내 발생 23명",
-        "link": "https://www.sedaily.com/NewsView/1Z81K6ZF11"
+        "title": "경북 포항·영덕서 코로나19 확진자 1명씩 추가",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290933001&code=620115"
     }
 ];

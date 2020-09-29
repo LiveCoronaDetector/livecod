@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/29/health/us-coronavirus-tuesday/index.html"
     },
     {
-        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
+        "title": "TUI Cruises ship docks in Greece after coronavirus scare: 'Possible false alarm'",
+        "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
     },
     {
         "title": "Coronavirus live news: one million deaths worldwide; Netherlands reports record daily rise in cases",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "The Coronavirus Has Now Claimed Over 1 Million Lives",
-        "link": "https://hypebeast.com/2020/9/coronavirus-1-million-global-death-toll-news"
-    },
-    {
-        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
-        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
-    },
-    {
-        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/&c=16135931400209174994&mkt=en-us/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "Covid-19: Milestones of the global pandemic",
+        "link": "https://www.bbc.com/news/world-54337098"
+    },
+    {
+        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/&c=16135931400209174994&mkt=en-us/"
     }
 ];
