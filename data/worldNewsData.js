@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html"
     },
     {
-        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
-        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
+        "title": "As Covid-19 Closes Schools, the World’s Children Go to Work",
+        "link": "https://www.nytimes.com/2020/09/27/world/asia/covid-19-india-children-school-education-labor.html"
     },
     {
         "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus: Global Covid-19 death toll passes one million",
-        "link": "https://www.bbc.com/news/world-54334496"
-    },
-    {
-        "title": "Florida publishes new report showing COVID-19 cases in schools",
-        "link": "https://www.wesh.com/article/florida-covid-19-cases-in-schools/34212159"
-    },
-    {
         "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
         "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
     },
     {
+        "title": "Florida Department of Health releases report on COVID cases in schools",
+        "link": "https://www.winknews.com/2020/09/29/florida-department-of-health-releases-reprot-on-covid-cases-in-schools/"
+    },
+    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
