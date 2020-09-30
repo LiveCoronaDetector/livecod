@@ -1699,6 +1699,6 @@ var koreaTotalCumulativeData = [
         23812,
         113,
         413,
-        21590
+        21591
     ]
 ];
