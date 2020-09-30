@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "New Mexico reports 2 new deaths, 178 additional COVID-19 cases",
-        "link": "https://www.kob.com/new-mexico-news/new-mexico-reports-2-new-deaths-178-additional-covid-19-cases/5878516/"
+        "title": "Coronavirus: Florida reports 3,266 new cases Tuesday after just 738 a day earlier",
+        "link": "https://www.local10.com/news/local/2020/09/29/coronavirus-florida-reports-3266-new-cases-tuesday-after-just-738-a-day-earlier/"
     },
     {
-        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
+        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
