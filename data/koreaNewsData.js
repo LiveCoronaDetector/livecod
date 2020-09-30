@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200929037551530?did=1195m"
     },
     {
-        "title": "전북서 코로나19 확진자 2명 추가",
-        "link": "http://news.tf.co.kr/read/national/1815989.htm"
+        "title": "[전문] 용인시청 367번째 368번째 확진자 발생",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382400"
     },
     {
-        "title": "문 대통령 “코로나 확진자 8·15 이전 수준 도달…안심은 일러”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009291602001&code=910402"
+        "title": "전북서 코로나19 확진자 2명 추가",
+        "link": "http://news.tf.co.kr/read/national/1815989.htm"
     }
 ];

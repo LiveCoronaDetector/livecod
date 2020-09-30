@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
-        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
+        "title": "WHO says official COVID-19 deaths underestimates true toll: Live",
+        "link": "https://www.aljazeera.com/news/2020/9/28/india-reports-its-six-millionth-covid-19-case-live-news"
     },
     {
-        "title": "Mother’s milk could help fight coronavirus, study finds",
-        "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
+        "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
+        "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "More Than 1 Million People Have Died From COVID-19 Worldwide : Goats and Soda",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/09/28/916984072/covid-19-deaths-top-1-million-how-these-5-countries-are-driving-the-pandemic"
+        "title": "Coronavirus: Florida reports 3,266 new cases Tuesday after just 738 a day earlier",
+        "link": "https://www.local10.com/news/local/2020/09/29/coronavirus-florida-reports-3266-new-cases-tuesday-after-just-738-a-day-earlier/"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
+        "title": "Live updates: U.N. chief warns that ‘misinformation kills’ as global coronavirus death toll tops 1 million",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];
