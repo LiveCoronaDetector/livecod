@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
-        "title": "[속보] 포항 70번 확진자와 접촉한 충북 청주 70대 코로나19 확진",
-        "link": "https://www.news1.kr/articles/?4075107"
+        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
+        "link": "https://www.news1.kr/articles/?4074986"
     },
     {
         "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     }
 ];
