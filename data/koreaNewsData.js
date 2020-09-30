@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
-        "link": "https://www.news1.kr/articles/?4074883"
-    },
-    {
         "title": "고속道 휴게소 '코로나 직격탄'…매출 급감",
         "link": "https://www.nocutnews.co.kr/news/5421480"
+    },
+    {
+        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
+        "link": "https://www.news1.kr/articles/?4074883"
     },
     {
         "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
