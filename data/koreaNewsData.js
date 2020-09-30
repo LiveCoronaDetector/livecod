@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964152.html"
     },
     {
-        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
-        "link": "https://www.news1.kr/articles/?4074883"
+        "title": "정신과 병원서 30명 무더기 확진…3배 늘어난 신규 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971971"
+    },
+    {
+        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
         "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
         "link": "https://view.asiae.co.kr/article/2020093012370422981"
     },
     {
-        "title": "추석 연휴 앞두고 대구와 경북에서 코로나19 확진자 계속 나와",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680521&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
         "title": "[속보] 부산 코로나19 확진자 7명 추가…북구 목욕탕 접촉자 포함",
         "link": "http://www.busan.com/view/busan/view.php?code=2020093013263892896"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 113명·사망 6명…닷새만에 다시 세자리",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009300050&t=NN"
     },
     {
         "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     }
 ];

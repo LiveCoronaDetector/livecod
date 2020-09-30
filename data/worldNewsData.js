@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Florida to receive millions of rapid COVID-19 tests from federal government",
-        "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
+    },
+    {
+        "title": "Dallas County Adds 803 COVID-19 Cases Tuesday, 1 Death",
+        "link": "https://www.nbcdfw.com/news/coronavirus/dallas-county-adds-803-covid-19-cases-tuesday-1-death/2452367/"
     },
     {
         "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
         "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
-    },
-    {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
