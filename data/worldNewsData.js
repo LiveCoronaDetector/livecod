@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
+        "title": "Snohomish County laying groundwork for COVID vaccine",
+        "link": "https://www.youtube.com/watch?v=7PD2qd4B3Qc"
+    },
+    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
     },
     {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
-    },
-    {
-        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
-        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
+        "title": "Disney to lay off 28,000 employees as coronavirus slams its theme park business",
+        "link": "https://www.cnbc.com/2020/09/29/disney-to-layoff-28000-employees-as-coronavirus-slams-theme-park-business.html"
     }
 ];
