@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
-        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
-    },
-    {
         "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
         "link": "https://www.news1.kr/articles/?4074883"
     },
@@ -21,20 +17,24 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
-        "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
-        "link": "https://view.asiae.co.kr/article/2020093012370422981"
+        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
+        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
     },
     {
-        "title": "[30일 부산 코로나19 확진자 관계도] 목욕탕 접촉자·수도권 귀성객 등 7명 추...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020093017004848316"
+        "title": "포항 98번째 코로나19 확진자 발생…죽도동 포교원 신도",
+        "link": "https://news.imaeil.com/Society/2020093015093308326"
+    },
+    {
+        "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     },
     {
         "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
-        "title": "포항 98번째 코로나19 확진자 발생…죽도동 포교원 신도",
-        "link": "https://news.imaeil.com/Society/2020093015093308326"
+        "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
+        "link": "https://view.asiae.co.kr/article/2020093012370422981"
     },
     {
         "title": "코로나 시대에 커진 온라인 식품시장…상반기에만 19조원",

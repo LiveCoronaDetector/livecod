@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "Netanyahu: Coronavirus lockdown to last at least a month",
-        "link": "https://www.jpost.com/health-science/coronavirus-lockdown-to-last-more-than-10-days-643808"
+        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
+        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
     },
     {
-        "title": "Germany: Angela Merkel unveils new coronavirus measures",
-        "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
+        "title": "Germany looks to tackle coronavirus rise with 3 simple strategies",
+        "link": "https://www.cnbc.com/2020/09/30/germany-looks-to-tackle-coronavirus-rise-with-3-simple-strategies.html"
     },
     {
         "title": "More than 60 million people in India may have caught Covid-19, survey finds",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
+        "title": "Coronavirus live news: Belgium's death toll passes 10,000; Ukraine and Slovakia record daily case highs",
+        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
-    },
-    {
-        "title": "More than 50 women in DRC allege abuse by WHO Ebola aid workers",
-        "link": "https://www.theguardian.com/world/2020/sep/29/women-in-drc-say-aid-workers-sexually-abused-them-during-ebola-crisis"
-    },
-    {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
