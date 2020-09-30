@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "As virus curbs Nepal's festivals, devotees fear gods' anger",
-        "link": "https://www.taiwannews.com.tw/en/news/4020130"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
         "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
