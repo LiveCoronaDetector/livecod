@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
+        "title": "'Anti-democratic law': Israel bans mass protests as Covid lockdown tightens",
+        "link": "https://www.theguardian.com/world/2020/sep/30/anti-democratic-law-israel-bans-mass-protest-lockdown-tightens-netanyahu"
     },
     {
         "title": "Germans embrace fresh air to ward off coronavirus",
