@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
-        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
-        "link": "https://www.news1.kr/articles/?4074986"
-    },
-    {
         "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
         "link": "https://news.imaeil.com/Society/2020093018442317745"
+    },
+    {
+        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
+        "link": "https://www.news1.kr/articles/?4074986"
     },
     {
         "title": "\"추석이 코로나19 변곡점 될 수 있어…확진자 재급증 가능성도\"",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998085?division=NAVER"
     },
     {
-        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
+        "title": "서울 코로나19 확진자 51명 급증…정신과병원 내 집단감염 여파",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009301143001&code=940100"
     },
     {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",

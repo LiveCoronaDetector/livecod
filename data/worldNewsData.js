@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus live news: Belgium's death toll passes 10,000; vaccine trial raises hopes of some protection",
+        "title": "Coronavirus live news: vaccine trial raises hopes of some protection; Covid travel slump could cost 46m jobs",
         "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
-    },
-    {
-        "title": "More than 50 women in DRC allege abuse by Ebola aid workers",
-        "link": "https://www.theguardian.com/world/2020/sep/29/women-in-drc-say-aid-workers-sexually-abused-them-during-ebola-crisis"
     }
 ];
