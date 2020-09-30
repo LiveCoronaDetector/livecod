@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4074003"
     },
     {
-        "title": "추석 연휴 국내 공항에 96만 명 모인다…코로나19 확산 분수령 될 듯",
-        "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4293912"
+        "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
+        "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     }
 ];
