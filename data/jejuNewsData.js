@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23478476"
     },
     {
-        "title": "코로나19 재확산될라...추캉스 관광객에 방역당국 ‘긴장’",
-        "link": "http://www.ekn.kr/news/article.html?no=526175"
-    },
-    {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
+    },
+    {
+        "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
+        "link": "https://www.news1.kr/articles/?4074003"
     }
 ];

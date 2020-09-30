@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
-        "title": "More than 60 million people in India may have caught Covid-19, survey finds",
-        "link": "https://www.cnn.com/2020/09/30/asia/india-covid-antibody-study-intl-hnk-scli/index.html"
+        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
+        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
         "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "More than 50 women in DRC allege abuse by Ebola aid workers",
+        "link": "https://www.theguardian.com/world/2020/sep/29/women-in-drc-say-aid-workers-sexually-abused-them-during-ebola-crisis"
     }
 ];

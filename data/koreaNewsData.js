@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
-        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
-        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
-    },
-    {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
+    },
+    {
+        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
+        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
     },
     {
         "title": "코로나19 사망자 지속 증가에 방역당국 우려",
