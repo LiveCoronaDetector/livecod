@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
+        "title": "고속道 휴게소 '코로나 직격탄'…매출 급감",
+        "link": "https://www.nocutnews.co.kr/news/5421480"
+    },
+    {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 사망자 지속 증가에 방역당국 우려",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998102?division=NAVER"
-    },
-    {
-        "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
         "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
