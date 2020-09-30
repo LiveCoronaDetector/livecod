@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Florida is getting 6.4 million rapid antigen tests, DeSantis says",
-        "link": "https://www.wfla.com/community/health/coronavirus/florida-is-getting-6-4-million-rapid-antigen-tests-says-desantis/"
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
