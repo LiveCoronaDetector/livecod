@@ -13,20 +13,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
     },
     {
-        "title": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
-        "link": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html"
+        "title": "Germany: Angela Merkel unveils new coronavirus measures",
+        "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
-        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
+        "title": "Presidential debate: Trump accuses India of concealing coronavirus death toll",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3103611/presidential-debate-trump-accuses-india-concealing-true"
     },
     {
         "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
-    },
-    {
-        "title": "Snohomish County laying groundwork for COVID vaccine",
-        "link": "https://www.youtube.com/watch?v=7PD2qd4B3Qc"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
     },
     {
-        "title": "Disney to lay off 28,000 employees as coronavirus slams its theme park business",
-        "link": "https://www.cnbc.com/2020/09/29/disney-to-layoff-28000-employees-as-coronavirus-slams-theme-park-business.html"
+        "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
+        "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
+        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     }
 ];

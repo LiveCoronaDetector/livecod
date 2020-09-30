@@ -9,16 +9,20 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971971"
     },
     {
-        "title": "[속보] 코로나19 신규 확진 113명·사망 6명…닷새만에 다시 세자리",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009300050&t=NN"
-    },
-    {
         "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
+        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
+    },
+    {
         "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
         "title": "코로나19 신규확진 113명…닷새 만에 다시 세 자릿수",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
-    },
-    {
-        "title": "[속보] 부산 코로나19 확진자 7명 추가…북구 목욕탕 접촉자 포함",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020093013263892896"
     }
 ];
