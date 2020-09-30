@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "As Cases Surge, Pandemic Restrictions Again Descend on Quebec",
-        "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
+        "title": "Covid-19 Cases Jump in Canada, Prompting New Restrictions",
+        "link": "https://www.wsj.com/articles/covid-19-cases-jump-in-canada-prompting-new-restrictions-11601417303"
     },
     {
-        "title": "COVID-19 lockdown may last over a month: How will Israelis be affected?",
-        "link": "https://www.jpost.com/israel-news/covid-19-lockdown-may-last-over-a-month-how-will-israelis-be-affected-644014"
+        "title": "'Anti-democratic law': Israel bans mass protests as Covid lockdown tightens",
+        "link": "https://www.theguardian.com/world/2020/sep/30/anti-democratic-law-israel-bans-mass-protest-lockdown-tightens-netanyahu"
     },
     {
         "title": "Germans embrace fresh air to ward off coronavirus",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
-    },
-    {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
+    },
+    {
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
         "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
