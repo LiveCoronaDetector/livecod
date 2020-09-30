@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7408066,
-        "사망자수": 210835,
-        "완치자수": 4649827
+        "확진자수": 7410724,
+        "사망자수": 210867,
+        "완치자수": 4650581
     },
     {
         "Name": "인도",
@@ -876,9 +876,9 @@ var marker = [
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "확진자수": 6408,
-        "사망자수": 101,
-        "완치자수": 1770
+        "확진자수": 6482,
+        "사망자수": 107,
+        "완치자수": 1867
     },
     {
         "Name": "조지아",
@@ -1009,20 +1009,20 @@ var marker = [
         "완치자수": 2365
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "확진자수": 4517,
+        "사망자수": 75,
+        "완치자수": 2560
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "확진자수": 4487,
         "사망자수": 42,
         "완치자수": 2199
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "확진자수": 4463,
-        "사망자수": 74,
-        "완치자수": 2454
     },
     {
         "Name": "Syria",
@@ -1033,20 +1033,20 @@ var marker = [
         "완치자수": 1088
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 4022,
+        "사망자수": 95,
+        "완치자수": 2141
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "확진자수": 3934,
         "사망자수": 26,
         "완치자수": 3181
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 3903,
-        "사망자수": 91,
-        "완치자수": 2072
     },
     {
         "Name": "Réunion",
@@ -1396,9 +1396,9 @@ var marker = [
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "확진자수": 463,
+        "확진자수": 467,
         "사망자수": 0,
-        "완치자수": 428
+        "완치자수": 429
     },
     {
         "Name": "지브롤터",

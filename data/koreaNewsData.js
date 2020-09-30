@@ -5,24 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930037351104?did=1195m"
     },
     {
-        "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
-    },
-    {
-        "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
-        "link": "https://news.imaeil.com/Society/2020093018442317745"
-    },
-    {
-        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
-        "link": "https://www.news1.kr/articles/?4074986"
-    },
-    {
-        "title": "\"추석이 코로나19 변곡점 될 수 있어…확진자 재급증 가능성도\"",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020093014395008806"
-    },
-    {
-        "title": "포항서 확진자 3명 추가…누계 100명(종합)",
-        "link": "http://yna.kr/AKR20200930047551053?did=1195m"
+        "title": "포항 30대·50대 남성 2명 코로나19 확진…누적확진자 100명",
+        "link": "https://www.news1.kr/articles/?4075076"
     },
     {
         "title": "코로나 신규 확진자 113명…닷새 만에 세 자릿수",
@@ -33,11 +17,27 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998085?division=NAVER"
     },
     {
-        "title": "서울 코로나19 확진자 51명 급증…정신과병원 내 집단감염 여파",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009301143001&code=940100"
+        "title": "서울 도봉구 다나병원 입원환자 28명 코로나19 추가 확진",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407422&class=33&grp="
+    },
+    {
+        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
+    },
+    {
+        "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
+    },
+    {
+        "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
+        "link": "https://news.imaeil.com/Society/2020093018442317745"
+    },
+    {
+        "title": "\"추석이 코로나19 변곡점 될 수 있어…확진자 재급증 가능성도\"",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020093014395008806"
     }
 ];
