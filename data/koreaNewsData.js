@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964152.html"
     },
     {
-        "title": "정신과 병원서 30명 무더기 확진…3배 늘어난 신규 확진자",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971971"
+        "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "서울 신규 확진자 51명…도봉구 다나병원서 환자 28명 집단감염",
+        "link": "https://www.news1.kr/articles/?4074907"
+    },
+    {
+        "title": "코로나19 완치자가 가장 많이 호소하는 후유증은?",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
     },
     {
         "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
     },
     {
         "title": "코로나19 신규확진 113명…닷새 만에 다시 세 자릿수",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/30/2020093090004.html"
     },
     {
-        "title": "[종합]코로나19 신규확진 113명..'추석 초비상'",
-        "link": "http://www.fnnews.com/news/202009301000388378"
+        "title": "추석 연휴 앞두고 대구와 경북에서 코로나19 확진자 계속 나와",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680521&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "[속보] 코로나 신규확진자 113명…5일 만에 세자릿수",
         "link": "http://news.tf.co.kr/read/life/1816023.htm"
-    },
-    {
-        "title": "코로나에 움츠러든 고속도로 이용객... 휴게소 매출 28% 급감",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500025&wlog_tag3=naver"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 113명, 하루만에 다시 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009300943001&code=940100"
     }
 ];

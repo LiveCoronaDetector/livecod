@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html"
     },
     {
-        "title": "Modi offers India’s COVID-19 vaccine capacity to ‘all humanity’",
-        "link": "https://www.aljazeera.com/news/2020/9/27/modi-pledges-to-use-india-vaccine-capacity-to-help-all-humanity"
+        "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
+        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
     },
     {
         "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
-        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Dallas County Adds 803 COVID-19 Cases Tuesday, 1 Death",
-        "link": "https://www.nbcdfw.com/news/coronavirus/dallas-county-adds-803-covid-19-cases-tuesday-1-death/2452367/"
+        "title": "Florida to receive millions of rapid COVID-19 tests from federal government",
+        "link": "https://www.wesh.com/article/florida-rapid-covid-19-tests-federal-government/34210098"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
+    },
+    {
+        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
+        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     }
 ];
