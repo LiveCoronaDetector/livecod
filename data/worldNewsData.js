@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
-        "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-29-20-intl/index.html"
     },
     {
-        "title": "Florida Department of Health releases report on COVID cases in schools",
-        "link": "https://www.winknews.com/2020/09/29/florida-department-of-health-releases-reprot-on-covid-cases-in-schools/"
+        "title": "First presidential debate devolves into chaos as Trump derails the night with insults and interruptions",
+        "link": "https://www.cnn.com/2020/09/29/politics/us-election-first-presidential-debate/index.html"
+    },
+    {
+        "title": "Florida’s increase in daily COVID-19 cases, deaths makes up for low numbers Monday",
+        "link": "https://www.news4jax.com/news/florida/2020/09/29/floridas-increase-in-daily-covid-19-cases-deaths-makes-up-for-low-numbers-monday/"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
-    },
-    {
-        "title": "Coronavirus global death toll passes 1m mark",
-        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
