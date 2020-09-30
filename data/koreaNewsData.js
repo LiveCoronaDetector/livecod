@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964152.html"
     },
     {
-        "title": "서울 신규 확진자 51명…도봉구 다나병원서 환자 28명 집단감염",
-        "link": "https://www.news1.kr/articles/?4074907"
-    },
-    {
-        "title": "[종합] 추석 앞 코로나 다시 세 자리수…어제 113명 확진",
-        "link": "https://www.hankyung.com/life/article/2020093059087"
+        "title": "정신과 병원서 30명 무더기 확진…3배 늘어난 신규 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971971"
     },
     {
         "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "코로나에 움츠러든 고속도로 이용객... 휴게소 매출 28% 급감",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500025&wlog_tag3=naver"
+        "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규확진 113명…닷새 만에 다시 세 자릿수",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/30/2020093090004.html"
     },
     {
         "title": "[종합]코로나19 신규확진 113명..'추석 초비상'",
         "link": "http://www.fnnews.com/news/202009301000388378"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 113명, 하루만에 다시 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009300943001&code=940100"
-    },
-    {
         "title": "[속보] 코로나 신규확진자 113명…5일 만에 세자릿수",
         "link": "http://news.tf.co.kr/read/life/1816023.htm"
     },
     {
-        "title": "서울 어제 확진자 닷새 만에 50명대로 늘어…사망자 2명 추가(종합)",
-        "link": "http://yna.kr/AKR20200930032851004?did=1195m"
+        "title": "코로나에 움츠러든 고속도로 이용객... 휴게소 매출 28% 급감",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500025&wlog_tag3=naver"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 113명, 하루만에 다시 100명대",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009300943001&code=940100"
     }
 ];
