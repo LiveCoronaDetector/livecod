@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "TUI Cruises ship docks in Greece after coronavirus scare: 'Possible false alarm'",
-        "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
+        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
+        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
     },
     {
         "title": "Germany looks to tackle coronavirus rise with 3 simple strategies",
