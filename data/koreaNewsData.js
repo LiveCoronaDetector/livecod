@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
+        "title": "코로나19 신규 확진자, 30명대에서 100명대로 급증…귀성객에 추캉스 행렬까지...",
+        "link": "http://www.segye.com/content/html/2020/10/01/20201001503881.html?OutUrl=naver"
+    },
+    {
         "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
         "link": "https://www.news1.kr/articles/?4074883"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "추석연휴 첫날 포항서 확진자 3명 추가…누적 100명",
         "link": "https://news.imaeil.com/Society/2020093018442317745"
-    },
-    {
-        "title": "\"추석이 코로나19 변곡점 될 수 있어…확진자 재급증 가능성도\"",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020093014395008806"
     }
 ];
