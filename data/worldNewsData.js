@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest world news for September 30",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Disney to lay off 28,000 employees as coronavirus slams its theme park business",
-        "link": "https://www.cnbc.com/2020/09/29/disney-to-layoff-28000-employees-as-coronavirus-slams-theme-park-business.html"
+        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

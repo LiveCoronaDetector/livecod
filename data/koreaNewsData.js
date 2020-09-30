@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4074883"
     },
     {
-        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
-    },
-    {
         "title": "고속道 휴게소 '코로나 직격탄'…매출 급감",
         "link": "https://www.nocutnews.co.kr/news/5421480"
+    },
+    {
+        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
