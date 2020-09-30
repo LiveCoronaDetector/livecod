@@ -5,12 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964152.html"
     },
     {
+        "title": "정신과 병원서 30명 무더기 확진…3배 늘어난 신규 확진자",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11971971"
+    },
+    {
+        "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
+        "link": "https://view.asiae.co.kr/article/2020093012370422981"
+    },
+    {
         "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
-        "link": "https://www.news1.kr/articles/?4074883"
+        "title": "포항 98번째 코로나19 확진자 발생…죽도동 포교원 신도",
+        "link": "https://news.imaeil.com/Society/2020093015093308326"
     },
     {
         "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
@@ -21,10 +29,6 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
     },
     {
-        "title": "포항 98번째 코로나19 확진자 발생…죽도동 포교원 신도",
-        "link": "https://news.imaeil.com/Society/2020093015093308326"
-    },
-    {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
     },
     {
-        "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
-        "link": "https://view.asiae.co.kr/article/2020093012370422981"
-    },
-    {
-        "title": "코로나 시대에 커진 온라인 식품시장…상반기에만 19조원",
-        "link": "http://yna.kr/AKR20200928133500030?did=1195m"
+        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
+        "link": "https://www.news1.kr/articles/?4074986"
     }
 ];
