@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
