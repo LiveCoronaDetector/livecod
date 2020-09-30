@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
-        "title": "Germany looks to tackle coronavirus rise with 3 simple strategies",
-        "link": "https://www.cnbc.com/2020/09/30/germany-looks-to-tackle-coronavirus-rise-with-3-simple-strategies.html"
+        "title": "Germans embrace fresh air to ward off coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
         "title": "More than 60 million people in India may have caught Covid-19, survey finds",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
     },
     {
-        "title": "Germans embrace fresh air to ward off coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+    },
+    {
+        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];

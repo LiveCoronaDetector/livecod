@@ -9,12 +9,24 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
+        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
+        "link": "https://www.news1.kr/articles/?4074883"
+    },
+    {
+        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
+    },
+    {
         "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
         "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
     },
     {
         "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
+    },
+    {
+        "title": "코로나19 사망자 지속 증가에 방역당국 우려",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998102?division=NAVER"
     },
     {
         "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
@@ -25,19 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020093018442317745"
     },
     {
-        "title": "도봉구 다나병원서 확진자 총 30명…1분거리 노인요양시설도 30명",
-        "link": "https://www.news1.kr/articles/?4074986"
-    },
-    {
-        "title": "포항서 확진자 3명 추가…누계 100명(종합)",
-        "link": "http://yna.kr/AKR20200930047551053?did=1195m"
-    },
-    {
-        "title": "서울 도봉구 다나병원 입원환자 28명 코로나19 추가 확진",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407422&class=33&grp="
-    },
-    {
-        "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
+        "title": "코로나 시대에 커진 온라인 식품시장…상반기에만 19조원",
+        "link": "http://yna.kr/AKR20200928133500030?did=1195m"
     }
 ];
