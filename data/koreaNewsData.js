@@ -5,8 +5,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964152.html"
     },
     {
-        "title": "인도 코로나 감염자 6천만 추정…일부 병원 산소부족(종합)",
-        "link": "http://yna.kr/AKR20200930037351104?did=1195m"
+        "title": "정부 \"코로나19 가장 큰 변곡점은 추석…환자 재급증 가능성도\"",
+        "link": "http://yna.kr/AKR20200930034400530?did=1195m"
+    },
+    {
+        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
+        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
+    },
+    {
+        "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     },
     {
         "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
@@ -25,19 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930047551053?did=1195m"
     },
     {
-        "title": "정부 “코로나 가장 큰 변곡점 추석…환자 재급증 가능성도”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998085?division=NAVER"
-    },
-    {
         "title": "서울 도봉구 다나병원 입원환자 28명 코로나19 추가 확진",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407422&class=33&grp="
     },
     {
         "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
-    },
-    {
-        "title": "서울→부산 코로나 옮겨갔다...귀성객 1명 코로나19 확진",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015064708&code=61121111&cp=nv"
     }
 ];

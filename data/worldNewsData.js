@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+        "title": "Germans embrace fresh air to ward off coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     }
 ];
