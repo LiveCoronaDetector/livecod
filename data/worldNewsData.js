@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/covid-19-cases-jump-in-canada-prompting-new-restrictions-11601417303"
     },
     {
-        "title": "'Anti-democratic law': Israel bans mass protests as Covid lockdown tightens",
-        "link": "https://www.theguardian.com/world/2020/sep/30/anti-democratic-law-israel-bans-mass-protest-lockdown-tightens-netanyahu"
+        "title": "Netanyahu: Full exit from closure could take up to a year",
+        "link": "https://www.jpost.com/health-science/less-hospitalization-for-covid-19-patients-may-show-worse-quality-of-care-643992"
     },
     {
         "title": "Germans embrace fresh air to ward off coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: New global test will give results 'in minutes'",
-        "link": "https://www.bbc.com/news/world-54331921"
-    },
-    {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
+    },
+    {
+        "title": "Dutch advise masks in shops as virus surges – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/sep/28/coronavirus-live-news-global-deaths-near-1m-as-india-poised-to-pass-6m-cases"
     }
 ];
