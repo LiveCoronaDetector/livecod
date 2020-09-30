@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
+        "title": "Coronavirus: Belgium death toll passes 10,000, UK breaks new daily cases record",
+        "link": "https://www.euronews.com/2020/09/30/coronavirus-belgium-death-toll-passes-10-000-uk-breaks-new-daily-cases-record"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+        "title": "More than 50 women in DRC allege abuse by WHO Ebola aid workers",
+        "link": "https://www.theguardian.com/world/2020/sep/29/women-in-drc-say-aid-workers-sexually-abused-them-during-ebola-crisis"
     },
     {
-        "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     }
 ];
