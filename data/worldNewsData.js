@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
     },
     {
-        "title": "Germany: Angela Merkel unveils new coronavirus measures",
-        "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
+        "title": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
+        "link": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html"
     },
     {
         "title": "As Covid-19 Closes Schools, the World’s Children Go to Work",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus Deaths Pass One Million Worldwide",
-        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
-    },
-    {
-        "title": "Coronavirus: Florida reports 3,266 new cases Tuesday after just 738 a day earlier",
-        "link": "https://www.local10.com/news/local/2020/09/29/coronavirus-florida-reports-3266-new-cases-tuesday-after-just-738-a-day-earlier/"
-    },
-    {
         "title": "Coronavirus live news: 60m Indians may have contracted Covid; Disney announces mass layoffs",
         "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
+    },
+    {
+        "title": "Coronavirus Deaths Pass One Million Worldwide",
+        "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
+    },
+    {
+        "title": "Florida publishes new report showing COVID-19 cases in schools",
+        "link": "https://www.wesh.com/article/florida-covid-19-cases-in-schools/34212159"
     }
 ];
