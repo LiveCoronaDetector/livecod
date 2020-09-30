@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
     },
     {
-        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Florida is getting 6.4 million rapid antigen tests, DeSantis says",
+        "link": "https://www.wfla.com/community/health/coronavirus/florida-is-getting-6-4-million-rapid-antigen-tests-says-desantis/"
     }
 ];
