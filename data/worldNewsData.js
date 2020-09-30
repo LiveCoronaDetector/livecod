@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
-        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
+        "title": "Netanyahu: Coronavirus lockdown to last at least a month",
+        "link": "https://www.jpost.com/health-science/coronavirus-lockdown-to-last-more-than-10-days-643808"
     },
     {
         "title": "Germany: Angela Merkel unveils new coronavirus measures",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
     },
     {
-        "title": "Coronavirus: Belgium death toll passes 10,000, UK breaks new daily cases record",
-        "link": "https://www.euronews.com/2020/09/30/coronavirus-belgium-death-toll-passes-10-000-uk-breaks-new-daily-cases-record"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
-        "title": "Coronavirus: Global Covid-19 death toll passes one million",
-        "link": "https://www.bbc.com/news/world-54334496"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
+        "title": "More than 50 women in DRC allege abuse by WHO Ebola aid workers",
+        "link": "https://www.theguardian.com/world/2020/sep/29/women-in-drc-say-aid-workers-sexually-abused-them-during-ebola-crisis"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];

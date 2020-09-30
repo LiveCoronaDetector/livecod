@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
     },
     {
+        "title": "[현장르포] 제주공항 '추캉스족' 23만명 몰려···제주도 코로나 대책 분주",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009300113&t=NN"
+    },
+    {
         "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
         "link": "https://news.joins.com/article/olink/23478476"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
-    },
-    {
-        "title": "제주 '추캉스족'만 걱정?…'코로나 구멍' 우려 역귀성객은 어쩌나",
-        "link": "https://www.news1.kr/articles/?4074003"
     }
 ];

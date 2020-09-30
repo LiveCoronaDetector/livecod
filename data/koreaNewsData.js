@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
+        "title": "“인도 코로나 감염자 6,000만명 이상일 수도”",
+        "link": "https://www.sedaily.com/NewsView/1Z822QMZWA"
+    },
+    {
         "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
         "link": "https://www.news1.kr/articles/?4074883"
     },
@@ -17,27 +21,23 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20200930500021&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 완치자가 가장 많이 호소하는 후유증은?",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015470&ref=A"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 38명…49일 만 50명 아래",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009290936001&code=940100"
-    },
-    {
-        "title": "코로나19 어제 113명 신규 확진…닷새만에 다시 세 자릿수",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/30/2020093000393.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "확진자 다녀간 부산 북구 목욕탕서 2명 추가 확진",
-        "link": "http://news.tf.co.kr/read/national/1816053.htm"
-    },
-    {
         "title": "서울 확진자 51명·사망 2명…도봉구 '다나병원' 코호트 격리 (종합)",
         "link": "https://view.asiae.co.kr/article/2020093012370422981"
     },
     {
+        "title": "[30일 부산 코로나19 확진자 관계도] 목욕탕 접촉자·수도권 귀성객 등 7명 추...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020093017004848316"
+    },
+    {
         "title": "코로나19로 고속도로 휴게소 직격탄…매출 28% 감소",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01636726625905368"
+    },
+    {
+        "title": "포항 98번째 코로나19 확진자 발생…죽도동 포교원 신도",
+        "link": "https://news.imaeil.com/Society/2020093015093308326"
+    },
+    {
+        "title": "코로나 시대에 커진 온라인 식품시장…상반기에만 19조원",
+        "link": "http://yna.kr/AKR20200928133500030?did=1195m"
     }
 ];
