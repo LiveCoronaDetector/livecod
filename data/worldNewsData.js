@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
-        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
+        "title": "Crew on first post-lockdown Greek cruise contract coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/28/crew-first-post-lockdown-greek-cruise-contract-coronavirus-maltese"
     },
     {
         "title": "Germany looks to tackle coronavirus rise with 3 simple strategies",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/sep/30/coronavirus-live-news-60m-indians-may-have-contracted-covid-disney-announces-mass-layoffs"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
         "link": "https://www.nytimes.com/2020/09/28/world/covid-1-million-deaths.html"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1m mark",
+        "link": "https://www.ft.com/content/e18eabb5-6cb5-4790-824e-49562e310255"
     }
 ];
