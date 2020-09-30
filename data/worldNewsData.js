@@ -9,20 +9,24 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/29/world/canada/coronavirus-quebec-ontario-lockdowns.html"
     },
     {
-        "title": "TUI Cruises ship docks in Greece after coronavirus scare: 'Possible false alarm'",
-        "link": "https://www.foxnews.com/travel/coronavirus-cruise-crew-test-negative-for-coronavirus-twice-after-initially-testing-positive"
+        "title": "Israelis who fell sick with COVID-19 twice: Second time was worse",
+        "link": "https://www.jpost.com/israel-news/israelis-who-fell-sick-with-covid-19-twice-second-time-was-worse-643817"
     },
     {
         "title": "Germany: Angela Merkel unveils new coronavirus measures",
         "link": "https://www.dw.com/en/germany-angela-merkel-unveils-new-coronavirus-measures/a-55092025"
     },
     {
-        "title": "Presidential debate: Trump accuses India of concealing coronavirus death toll",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3103611/presidential-debate-trump-accuses-india-concealing-true"
+        "title": "More than 60 million people in India may have caught Covid-19, survey finds",
+        "link": "https://www.cnn.com/2020/09/30/asia/india-covid-antibody-study-intl-hnk-scli/index.html"
     },
     {
         "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
         "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
+    },
+    {
+        "title": "As virus curbs Nepal's festivals, devotees fear gods' anger",
+        "link": "https://www.taiwannews.com.tw/en/news/4020130"
     },
     {
         "title": "Coronavirus Deaths Pass One Million Worldwide",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Live updates: Seven former FDA commissioners accuse Trump administration of undermining the agency",
         "link": "https://www.washingtonpost.com/nation/2020/09/30/coronavirus-covid-live-updates-us/"
-    },
-    {
-        "title": "Global coronavirus deaths pass 1m with no sign rate is slowing",
-        "link": "https://www.theguardian.com/world/2020/sep/29/global-coronavirus-deaths-pass-1m-with-no-sign-rate-slowing"
     }
 ];
