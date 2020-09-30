@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930034400530?did=1195m"
     },
     {
-        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
-        "link": "https://www.news1.kr/articles/?4074883"
-    },
-    {
         "title": "고속道 휴게소 '코로나 직격탄'…매출 급감",
         "link": "https://www.nocutnews.co.kr/news/5421480"
+    },
+    {
+        "title": "도봉구 다나병원서 확진자 28명 무더기 발생…코호트 격리 조치",
+        "link": "https://www.news1.kr/articles/?4074883"
     },
     {
         "title": "추석 연휴 앞두고 신규 확진자 113명…도봉구 다나병원 등 급증",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020093018442317745"
     },
     {
-        "title": "코로나 시대에 커진 온라인 식품시장…상반기에만 19조원",
-        "link": "http://yna.kr/AKR20200928133500030?did=1195m"
+        "title": "\"추석이 코로나19 변곡점 될 수 있어…확진자 재급증 가능성도\"",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020093014395008806"
     }
 ];
