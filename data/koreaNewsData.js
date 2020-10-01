@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[전문] 강남구청 273번째 확진자 발생과 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382470"
-    },
-    {
         "title": "WHO \"北, 3,374명 코로나19 검사… 확진자 없어\"",
         "link": "https://hankookilbo.com/News/Read/A2020100111120001433?did=NA"
     },
@@ -35,6 +31,10 @@ var koreaNewsData = [
     {
         "title": "인천서 확진자 가족 등 4명 코로나19 감염…지역 누적 922명(종합)",
         "link": "http://yna.kr/AKR20201001020751065?did=1195m"
+    },
+    {
+        "title": "코로나19 신규 확진자 77명…다시 두자릿수로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010010931011&code=940601"
     },
     {
         "title": "어제 코로나19로 2명 사망… 누적 415명",
