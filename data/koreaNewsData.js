@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
-        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
-    },
-    {
         "title": "어제 코로나19로 2명 사망… 누적 415명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
+    },
+    {
+        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
+        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     },
     {
         "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로 감소",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202009301135346096"
     },
     {
-        "title": "정부 “코로나 가장 큰 변곡점 추석…환자 재급증 가능성도”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998085?division=NAVER"
+        "title": "코로나 확진자 77명...하루만에 두자릿수로 감소",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205878"
     },
     {
         "title": "대구 1명, 경북 5명 코로나 확진자 발생",

@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
     },
     {
-        "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
-    },
-    {
         "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
+    },
+    {
+        "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
+        "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
     },
     {
         "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
