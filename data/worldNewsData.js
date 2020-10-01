@@ -26,11 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
-    },
-    {
-        "title": "UN welcomes nearly $1 billion in recent pledges - to bolster access to lifesaving tests, treatments and vaccines to end COVID-19",
-        "link": "https://www.who.int/news-room/detail/30-09-2020-un-welcomes-nearly-1-billion-in-recent-pledges-to-bolster-access-to-lifesaving-tests-treatments-and-vaccines-to-end-covid-19"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
     },
     {
         "title": "Covid-19 News: Live Updates",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+    },
+    {
+        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
     }
 ];
