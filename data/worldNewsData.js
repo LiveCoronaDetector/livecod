@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
-        "title": "Gov’t tightens coronavirus restrictions, extends closure as cases soar",
-        "link": "https://www.jpost.com/health-science/govt-tightens-coronavirus-restrictions-extends-closure-as-cases-soar-644120"
+        "title": "Covid: Poland and Turkey added to UK's quarantine list as fines rise",
+        "link": "https://www.bbc.com/news/uk-54376357"
     },
     {
         "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
+        "title": "\"We are nearing a crisis,\" Wisconsin doctor says as state marks record high of Covid-19 related deaths",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
+    },
+    {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
-    },
-    {
-        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
-        "link": "https://www.bbc.com/news/world-54370316"
     }
 ];

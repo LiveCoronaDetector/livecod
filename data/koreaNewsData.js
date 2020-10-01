@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
-        "title": "[1일 부산 코로나19 확진자 관계도] 평강의원 등 집단감염 18명 추가…총 440...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100116484003149"
-    },
-    {
         "title": "코로나 확진자 77명...하루만에 두자릿수로 감소",
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=205878"
     },
@@ -23,6 +19,10 @@ var koreaNewsData = [
     {
         "title": "부산시 \"만덕동 일대 소공원 폐쇄 등 코로나 방역조치 강화\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/01/2020100100612.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[1일 부산 코로나19 확진자 관계도] 평강의원 등 집단감염 18명 추가…총 440...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100116484003149"
     },
     {
         "title": "명일동 사우나에 확진자 방문…강동구 \"방문자 검사받아야\"",
