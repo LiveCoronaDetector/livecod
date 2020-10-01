@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Puzzled scientists seek reasons behind Africa's low fatality rates from pandemic",
-        "link": "https://in.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idINKBN26K0AI"
+        "link": "https://news.google.com/articles/CAIiEMBTK8DwenLXObR1KcrsVpMqFggEKg0IACoGCAowt6AMMLAmMIT6lwM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Canada cops crash covert Covid casino",

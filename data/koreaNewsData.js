@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
-        "title": "코로나 확진자 77명...하루만에 두자릿수로 감소",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205878"
-    },
-    {
-        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
-        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
+        "title": "어제 코로나19로 2명 사망… 누적 415명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
     },
     {
         "title": "부산시 \"만덕동 일대 소공원 폐쇄 등 코로나 방역조치 강화\"",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 77명 중 국내 발생 67명…다시 두 자릿수로",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016426&ref=A"
+    },
+    {
+        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
+        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     }
 ];
