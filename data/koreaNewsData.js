@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016426&ref=A"
     },
     {
-        "title": "명일동 사우나에 확진자 방문…강동구 \"방문자 검사받아야\"",
-        "link": "https://www.hankyung.com/life/article/2020100179877"
+        "title": "文대통령, 메르켈 총리와 통화…'코로나·유명희' 등 논의",
+        "link": "http://news.tf.co.kr/read/ptoday/1816125.htm"
     },
     {
-        "title": "스페인 전체 코로나 1/3은 마드리드서...정부, 봉쇄 조치 발표",
-        "link": "https://www.chosun.com/international/europe/2020/10/01/X2OVW6S7GFFY5NUDM7RRGFM7BY/?utm_source=naver&utm_medium=original&utm_campaign=news"
+        "title": "명일동 사우나에 확진자 방문…강동구 \"방문자 검사받아야\"",
+        "link": "https://www.hankyung.com/life/article/2020100179877"
     }
 ];

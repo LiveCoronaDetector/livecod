@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200929083800062?did=1195m"
     },
     {
+        "title": "\"코로나 대응 잘했다\"…기본소득 찬반 팽팽",
+        "link": "https://jejumbc.com/article/0mK8klDvY8jux"
+    },
+    {
         "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
         "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
-    },
-    {
-        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015451&ref=A"
     }
 ];
