@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "Canada cops crash covert Covid casino",
-        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
+        "title": "Coronavirus live news: Madrid lockdown looms; 34m jobs lost in Latin America",
+        "link": "https://www.theguardian.com/world/live/2020/oct/01/coronavirus-live-news-spain-puts-madrid-under-lockdown-34m-jobs-lost-in-latin-america"
     },
     {
         "title": "Netanyahu: Full exit from closure could take up to a year",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
-    },
-    {
         "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
         "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Global Covid-19 death toll passes one million",
-        "link": "https://www.bbc.com/news/world-54334496"
+        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
     },
     {
         "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
         "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
