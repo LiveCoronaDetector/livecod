@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
-        "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
-        "link": "https://news.imaeil.com/Society/2020100110213251416"
+        "title": "코로나 신규 확진자 77명…다시 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "WHO \"北, 3,374명 코로나19 검사… 확진자 없어\"",
-        "link": "https://hankookilbo.com/News/Read/A2020100111120001433?did=NA"
+        "title": "추석 당일 부산 코로나19 확진자 18명 추가… 역대 2번째 확산세(오후 1시 30...",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100114011028879"
+    },
+    {
+        "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
+        "link": "https://news.imaeil.com/Society/2020100110213251416"
     },
     {
         "title": "대구 1명, 경북 5명 코로나 확진자 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
+        "title": "[전문] 강남구청 273번째 확진자 발생과 동선공개",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382470"
+    },
+    {
+        "title": "WHO \"北, 3,374명 코로나19 검사… 확진자 없어\"",
+        "link": "https://hankookilbo.com/News/Read/A2020100111120001433?did=NA"
+    },
+    {
         "title": "경기도 어제 코로나19 신규 확진자 21명…누적 4405명",
         "link": "http://news.tf.co.kr/read/national/1816116.htm"
     },
     {
-        "title": "[전문] 용인시청 373~377번째 확진자 발생과 364번째 확진자 동선공개",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382443"
-    },
-    {
         "title": "인천서 확진자 가족 등 4명 코로나19 감염…지역 누적 922명(종합)",
         "link": "http://yna.kr/AKR20201001020751065?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진자 77명…다시 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 77명…다시 두자릿수로",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010010931011&code=940601"
     },
     {
         "title": "어제 코로나19로 2명 사망… 누적 415명",
