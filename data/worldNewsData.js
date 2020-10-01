@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
-        "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
-        "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
+        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
         "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Dr. Fauci Says You Haven't Done this Yet, But Should",
-        "link": "https://www.yahoo.com/lifestyle/dr-fauci-says-havent-done-173627622.html"
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
