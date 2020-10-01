@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7469542,
-        "사망자수": 212173,
-        "완치자수": 4714538
+        "확진자수": 7471839,
+        "사망자수": 212184,
+        "완치자수": 4716143
     },
     {
         "Name": "인도",
@@ -140,9 +140,9 @@ var marker = [
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "확진자수": 318663,
-        "사망자수": 8195,
-        "완치자수": 279749
+        "확진자수": 320070,
+        "사망자수": 8262,
+        "완치자수": 281151
     },
     {
         "Name": "이탈리아",
@@ -932,17 +932,17 @@ var marker = [
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "확진자수": 5482,
-        "사망자수": 109,
-        "완치자수": 4912
+        "확진자수": 5500,
+        "사망자수": 111,
+        "완치자수": 5000
     },
     {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "확진자수": 5416,
+        "확진자수": 5417,
         "사망자수": 61,
-        "완치자수": 5344
+        "완치자수": 5346
     },
     {
         "Name": "Nicaragua",
@@ -1172,9 +1172,9 @@ var marker = [
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "확진자수": 2231,
+        "확진자수": 2238,
         "사망자수": 72,
-        "완치자수": 1687
+        "완치자수": 1695
     },
     {
         "Name": "Burkina Faso",
@@ -1369,20 +1369,20 @@ var marker = [
         "완치자수": 484
     },
     {
+        "Name": "Burundi",
+        "Name_ch": "",
+        "Name_en": "Burundi",
+        "확진자수": 510,
+        "사망자수": 1,
+        "완치자수": 472
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "확진자수": 509,
         "사망자수": 21,
         "완치자수": 183
-    },
-    {
-        "Name": "Burundi",
-        "Name_ch": "",
-        "Name_en": "Burundi",
-        "확진자수": 508,
-        "사망자수": 1,
-        "완치자수": 472
     },
     {
         "Name": "Comoros",
@@ -1518,7 +1518,7 @@ var marker = [
         "Name_en": "Seychelles",
         "확진자수": 144,
         "사망자수": 0,
-        "완치자수": 140
+        "완치자수": 143
     },
     {
         "Name": "Caribbean Netherlands",
@@ -1532,9 +1532,9 @@ var marker = [
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "확진자수": 118,
+        "확진자수": 119,
         "사망자수": 1,
-        "완치자수": 113
+        "완치자수": 114
     },
     {
         "Name": "Antigua and Barbuda",

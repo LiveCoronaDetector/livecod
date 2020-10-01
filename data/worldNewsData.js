@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
-    },
-    {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     },
     {
         "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
