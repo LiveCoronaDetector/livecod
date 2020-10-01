@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
     },
     {
-        "title": "대구 1명, 경북 5명 코로나 확진자 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
+        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     },
     {
         "title": "추석 당일 부산 코로나19 확진자 18명 추가… 역대 2번째 확산세(오후 1시 30...",
@@ -23,6 +23,10 @@ var koreaNewsData = [
     {
         "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
         "link": "https://news.imaeil.com/Society/2020100110213251416"
+    },
+    {
+        "title": "대구 1명, 경북 5명 코로나 확진자 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
         "title": "WHO \"北, 3,374명 코로나19 검사… 확진자 없어\"",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "인천서 확진자 가족 등 4명 코로나19 감염…지역 누적 922명(종합)",
         "link": "http://yna.kr/AKR20201001020751065?did=1195m"
-    },
-    {
-        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
-        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     }
 ];

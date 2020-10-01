@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+        "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
+        "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
+    },
+    {
+        "title": "Italy likely to prolong Covid emergency health rules until 31 January",
+        "link": "https://www.rfi.fr/en/europe/20201001-italy-likely-to-prolong-covid-emergency-health-rules-until-31-january"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Dr. Fauci Says You Haven't Done this Yet, But Should",
-        "link": "https://www.yahoo.com/lifestyle/dr-fauci-says-havent-done-173627622.html"
-    },
-    {
-        "title": "September 28 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+        "title": "Top US infectious disease expert Dr. Anthony Fauci calls some of Fox News' prime time coverage of the coronavirus 'outlandish'",
+        "link": "https://www.msn.com/en-us/news/us/top-us-infectious-disease-expert-dr-anthony-fauci-calls-some-of-fox-news-prime-time-coverage-of-the-coronavirus-outlandish/ar-BB19yoHP"
     }
 ];

@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     },
     {
-        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
-    },
-    {
         "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
+    },
+    {
+        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
     },
     {
         "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
