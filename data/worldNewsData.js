@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
-        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
-        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
-    },
-    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
+    },
+    {
+        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
+        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
     {
         "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",

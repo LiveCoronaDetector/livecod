@@ -13,10 +13,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200929135500056?did=1195m"
     },
     {
-        "title": "[정면승부] 코로나 병동 의료진 \"추석에 여행? 모두 어려워진다 생각하면 자제...",
-        "link": "https://www.ytn.co.kr/_ln/0103_202009291921491300"
-    },
-    {
         "title": "'반짝 대목' 반갑지만…제주도는 '살얼음판'",
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
         "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
+    },
+    {
+        "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
     }
 ];
