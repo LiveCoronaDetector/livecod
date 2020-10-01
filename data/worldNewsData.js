@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/govt-tightens-coronavirus-restrictions-extends-closure-as-cases-soar-644120"
     },
     {
-        "title": "Coronavirus: How Italy has fought back from virus disaster",
-        "link": "https://www.bbc.com/news/world-europe-54356335"
+        "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",
+        "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
         "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
     {
-        "title": "Germans embrace fresh air to ward off coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
-    },
-    {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
+    },
+    {
+        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
     }
 ];
