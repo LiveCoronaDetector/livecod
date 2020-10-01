@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus updates: 'Saturday Night Live' may be violating New York rules; Moderna vaccine won't come until spring 2021",
-        "link": "https://www.usatoday.com/story/news/health/2020/10/01/covid-news-american-united-layoffs-mississippi-cdc-india/5871929002/"
+        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
         "title": "China encouraging 'revenge travel' following coronavirus lockdowns to help economy",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
+    },
+    {
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+    },
+    {
         "title": "Global coronavirus report: row as Spain announces Madrid lockdown measures",
         "link": "https://www.theguardian.com/world/2020/oct/01/global-coronavirus-report-row-as-spain-announces-madrid-lockdown-measures"
-    },
-    {
-        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
-        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
-    },
-    {
-        "title": "(17) \"We are nearing a crisis,\" Wisconsin doctor says as state marks record high of Covid-19 related deaths",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
     }
 ];

@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010020146221245"
     },
     {
+        "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
+        "link": "https://www.news1.kr/articles/?4073837"
+    },
+    {
         "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "\"코로나 대응 잘했다\"…기본소득 찬반 팽팽",
         "link": "https://jejumbc.com/article/0mK8klDvY8jux"
-    },
-    {
-        "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
-        "link": "http://yna.kr/AKR20200926055300004?did=1195m"
     }
 ];

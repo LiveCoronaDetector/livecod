@@ -9,7 +9,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
-        "title": "[속보]추석 연휴 이후 코로나19 대유행 우려…산발적 집단감염 잇따라",
+        "title": "추석 연휴 이후 코로나19 대유행 우려…산발적 집단감염 잇따라",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100100000"
     },
     {
