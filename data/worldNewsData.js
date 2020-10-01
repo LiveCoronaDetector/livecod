@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
         "title": "Covid-19 News: Live Updates",

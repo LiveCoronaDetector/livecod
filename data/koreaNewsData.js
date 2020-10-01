@@ -17,20 +17,12 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=205878"
     },
     {
-        "title": "부산시 \"만덕동 일대 소공원 폐쇄 등 코로나 방역조치 강화\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/01/2020100100612.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "명일동 사우나에 확진자 방문…강동구 \"방문자 검사받아야\"",
-        "link": "https://www.hankyung.com/life/article/2020100179877"
-    },
-    {
-        "title": "다나병원·직장·확진자접촉 감염…서울 확진 기세 여전(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201001_0001184761&cID=10201&pID=10200"
-    },
-    {
         "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
         "link": "http://yna.kr/AKR20200930055800530?did=1195m"
+    },
+    {
+        "title": "부산시 \"만덕동 일대 소공원 폐쇄 등 코로나 방역조치 강화\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/01/2020100100612.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "순천 50대 남성, 코로나 확진자 발생...방역 당국 긴장",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 77명 중 국내 발생 67명…다시 두 자릿수로",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016426&ref=A"
+    },
+    {
+        "title": "명일동 사우나에 확진자 방문…강동구 \"방문자 검사받아야\"",
+        "link": "https://www.hankyung.com/life/article/2020100179877"
+    },
+    {
+        "title": "스페인 전체 코로나 1/3은 마드리드서...정부, 봉쇄 조치 발표",
+        "link": "https://www.chosun.com/international/europe/2020/10/01/X2OVW6S7GFFY5NUDM7RRGFM7BY/?utm_source=naver&utm_medium=original&utm_campaign=news"
     }
 ];
