@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest world news for October 1",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
+    },
+    {
+        "title": "UN welcomes nearly $1 billion in recent pledges - to bolster access to lifesaving tests, treatments and vaccines to end COVID-19",
+        "link": "https://www.who.int/news-room/detail/30-09-2020-un-welcomes-nearly-1-billion-in-recent-pledges-to-bolster-access-to-lifesaving-tests-treatments-and-vaccines-to-end-covid-19"
     },
     {
         "title": "Covid-19 News: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     },
     {
-        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
-        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
-    },
-    {
-        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_e71ea28c816195105aae21e35b44de2e"
     }
 ];
