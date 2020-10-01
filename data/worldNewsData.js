@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     },
     {
-        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
-        "link": "https://www.bbc.com/news/world-54370316"
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     }
 ];
