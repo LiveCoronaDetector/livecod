@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     },
     {
-        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
     }
 ];
