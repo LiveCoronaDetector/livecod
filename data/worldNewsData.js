@@ -21,12 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
-    },
-    {
-        "title": "Italy to extend COVID-19 state of emergency to end of January: PM",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME"
+        "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
+        "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+    },
+    {
+        "title": "Dr. Fauci Says You Haven't Done this Yet, But Should",
+        "link": "https://www.yahoo.com/lifestyle/dr-fauci-says-havent-done-173627622.html"
     }
 ];
