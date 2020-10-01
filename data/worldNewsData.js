@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "Covid-19 Cases Jump in Canada, Prompting New Restrictions",
-        "link": "https://www.wsj.com/articles/covid-19-cases-jump-in-canada-prompting-new-restrictions-11601417303"
+        "title": "Canada cops crash covert Covid casino",
+        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
         "title": "Netanyahu: Full exit from closure could take up to a year",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
-        "title": "More than 60 million people in India may have caught Covid-19, survey finds",
-        "link": "https://www.cnn.com/2020/09/30/asia/india-covid-antibody-study-intl-hnk-scli/index.html"
+        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
+        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
         "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
