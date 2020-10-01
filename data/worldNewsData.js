@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Puzzled scientists seek reasons behind Africa's low fatality rates from pandemic",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
+        "link": "https://in.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idINKBN26K0AI"
     },
     {
         "title": "Canada cops crash covert Covid casino",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 1",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_e71ea28c816195105aae21e35b44de2e"
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
     }
 ];
