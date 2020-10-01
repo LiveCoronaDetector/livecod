@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54356335"
     },
     {
-        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
-        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
+        "title": "Largest COVID-19 study highlights role of super-spreaders",
+        "link": "https://www.latimes.com/world-nation/story/2020-09-30/largest-covid-19-transmission-study-highlights-super-spreaders"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
@@ -30,7 +30,7 @@ var worldNewsData = [
     },
     {
         "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
-        "link": "https://news.google.com/articles/CAIiEN4h5WRumHUEGme3u-ABkn8qFwgEKg8IACoHCAowjuuKAzCWrzwwqIQY?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
     {
         "title": "Germans embrace fresh air to ward off coronavirus",
@@ -38,6 +38,6 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
-        "link": "https://news.google.com/articles/CAIiELs-LyKDaxv43lVeqpePhc4qGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     }
 ];

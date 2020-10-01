@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20200929083800062?did=1195m"
     },
     {
+        "title": "[아주경제 오늘의 뉴스 종합] 제주도 일가족 5명 차량 전복 外",
+        "link": "http://www.ajunews.com/view/20201001222047704"
+    },
+    {
         "title": "\"코로나 대응 잘했다\"…기본소득 찬반 팽팽",
         "link": "https://jejumbc.com/article/0mK8klDvY8jux"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5015873&ref=A"
-    },
-    {
-        "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
-        "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
     }
 ];
