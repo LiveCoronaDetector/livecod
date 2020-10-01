@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "Coronavirus live news: Madrid lockdown looms; 34m jobs lost in Latin America",
-        "link": "https://www.theguardian.com/world/live/2020/oct/01/coronavirus-live-news-spain-puts-madrid-under-lockdown-34m-jobs-lost-in-latin-america"
+        "title": "Canada cops crash covert Covid casino",
+        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
         "title": "Netanyahu: Full exit from closure could take up to a year",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
-        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
+        "title": "Coronavirus: Four probed over outbreak at Austrian ski resort",
+        "link": "https://www.dw.com/en/coronavirus-four-probed-over-outbreak-at-austrian-ski-resort/a-55108053"
     },
     {
-        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "September 28 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
         "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",

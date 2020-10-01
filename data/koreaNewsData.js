@@ -9,20 +9,24 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 77명…다시 두 자릿수로·국내 발생 67명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016327&ref=A"
+        "title": "[속보] 코로나 신규확진 77명, 지역발생 67명… 다시 두자릿수로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/01/2020100100152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
         "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     },
     {
+        "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로 감소",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/01/2020100190004.html"
+    },
+    {
         "title": "순천 50대 남성, 코로나 확진자 발생...방역 당국 긴장",
         "link": "https://hankookilbo.com/News/Read/A2020100110280003913?did=NA"
     },
     {
-        "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로 감소",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/01/2020100190004.html"
+        "title": "[속보] 부산 연제구·금정구 확진자 18명 비상",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066720&code=61121111&cp=nv"
     },
     {
         "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "대구 1명, 경북 5명 코로나 확진자 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "[속보] 부산 코로나19 확진자 18명 추가…누적 440명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100113474462420"
     },
     {
         "title": "경기도 어제 코로나19 신규 확진자 21명…누적 4405명",
