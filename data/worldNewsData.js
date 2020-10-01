@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "Covid live news: study suggests UK infection controls 'may be working'; Madrid lockdown looms",
-        "link": "https://www.theguardian.com/world/live/2020/oct/01/coronavirus-live-news-spain-puts-madrid-under-lockdown-34m-jobs-lost-in-latin-america"
+        "title": "Canada cops crash covert Covid casino",
+        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
         "title": "Netanyahu: Full exit from closure could take up to a year",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
-        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
-        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
+        "title": "Largest COVID-19 study highlights role of super-spreaders",
+        "link": "https://www.latimes.com/world-nation/story/2020-09-30/largest-covid-19-transmission-study-highlights-super-spreaders"
     },
     {
         "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
-        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
-        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
+        "title": "Coronavirus: Four probed over outbreak at Austrian ski resort",
+        "link": "https://www.dw.com/en/coronavirus-four-probed-over-outbreak-at-austrian-ski-resort/a-55108053"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
-        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
-        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+        "title": "Covid live news: study suggests UK infection controls 'may be working'; Madrid lockdown looms",
+        "link": "https://www.theguardian.com/world/live/2020/oct/01/coronavirus-live-news-spain-puts-madrid-under-lockdown-34m-jobs-lost-in-latin-america"
     }
 ];
