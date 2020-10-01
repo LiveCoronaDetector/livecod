@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
-        "title": "Coronavirus latest: Turkey admits to excluding asymptomatic cases from daily tally",
-        "link": "https://www.ft.com/content/6a97c621-583d-3506-b9e4-6b58c54a9215"
+        "title": "Gov’t tightens coronavirus restrictions, extends closure as cases soar",
+        "link": "https://www.jpost.com/health-science/govt-tightens-coronavirus-restrictions-extends-closure-as-cases-soar-644120"
     },
     {
         "title": "Coronavirus: How Italy has fought back from virus disaster",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
-        "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
-        "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
+        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
+        "title": "Italy to extend COVID-19 state of emergency to end of January: PM",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME"
     },
     {
-        "title": "Italy likely to prolong Covid emergency health rules until 31 January",
-        "link": "https://www.rfi.fr/en/europe/20201001-italy-likely-to-prolong-covid-emergency-health-rules-until-31-january"
+        "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
+        "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
+    },
+    {
+        "title": "Germans embrace fresh air to ward off coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
-    },
-    {
-        "title": "Top US infectious disease expert Dr. Anthony Fauci calls some of Fox News' prime time coverage of the coronavirus 'outlandish'",
-        "link": "https://www.msn.com/en-us/news/us/top-us-infectious-disease-expert-dr-anthony-fauci-calls-some-of-fox-news-prime-time-coverage-of-the-coronavirus-outlandish/ar-BB19yoHP"
     }
 ];

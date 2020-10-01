@@ -9,12 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "어제 코로나19로 2명 사망… 누적 415명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
+        "title": "코로나19 신규 확진자 77명…다시 두자릿수로",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010010931011&code=940601"
     },
     {
-        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
-        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
+        "title": "[속보] 코로나 신규확진 77명, 지역발생 67명… 다시 두자릿수로",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/01/2020100100152.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로, 지역발생 67명",
+        "link": "http://www.munhwa.com/news/view.html?no=20201001MW09523353041"
     },
     {
         "title": "추석 당일 부산 코로나19 확진자 18명 추가… 역대 2번째 확산세(오후 1시 30...",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020100110213251416"
     },
     {
+        "title": "신규확진 77명…널뛰는 확진자 수에 방역당국 '긴장'",
+        "link": "http://www.segye.com/content/html/2020/10/01/20201001507367.html?OutUrl=naver"
+    },
+    {
+        "title": "부산서 코로나19 확진자 18명…가족에 의한 감염만 8명",
+        "link": "https://www.news1.kr/articles/?4075302"
+    },
+    {
         "title": "대구 1명, 경북 5명 코로나 확진자 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "WHO \"北, 3,374명 코로나19 검사… 확진자 없어\"",
-        "link": "https://hankookilbo.com/News/Read/A2020100111120001433?did=NA"
-    },
-    {
-        "title": "경기도 어제 코로나19 신규 확진자 21명…누적 4405명",
-        "link": "http://news.tf.co.kr/read/national/1816116.htm"
-    },
-    {
-        "title": "인천서 확진자 가족 등 4명 코로나19 감염…지역 누적 922명(종합)",
-        "link": "http://yna.kr/AKR20201001020751065?did=1195m"
     }
 ];
