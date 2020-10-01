@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cfr.org/blog/covid-19-less-deadly-africa"
     },
     {
-        "title": "Coronavirus live news: Madrid lockdown looms; 34m jobs lost in Latin America",
-        "link": "https://www.theguardian.com/world/live/2020/oct/01/coronavirus-live-news-spain-puts-madrid-under-lockdown-34m-jobs-lost-in-latin-america"
+        "title": "Canada cops crash covert Covid casino",
+        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
         "title": "Netanyahu: Full exit from closure could take up to a year",

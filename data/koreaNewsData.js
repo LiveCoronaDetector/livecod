@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 77명…다시 두 자릿수로·국내 발생 67명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016327&ref=A"
-    },
-    {
         "title": "코로나 신규 확진자 77명…다시 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
@@ -17,27 +13,31 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20200930055800530?did=1195m"
     },
     {
-        "title": "순천 50대 남성, 코로나 확진자 발생...방역 당국 긴장",
-        "link": "https://hankookilbo.com/News/Read/A2020100110280003913?did=NA"
+        "title": "어제 코로나19로 2명 사망… 누적 415명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로 감소",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/01/2020100190004.html"
     },
     {
-        "title": "코로나 어제 77명 신규확진…다시 두 자릿수로 감소",
-        "link": "https://www.donga.com/news/article/all/20201001/103210401/1"
-    },
-    {
-        "title": "대구 1명, 경북 5명 코로나 확진자 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "순천 50대 남성, 코로나 확진자 발생...방역 당국 긴장",
+        "link": "https://hankookilbo.com/News/Read/A2020100110280003913?did=NA"
     },
     {
         "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
         "link": "https://news.imaeil.com/Society/2020100110213251416"
     },
     {
-        "title": "코로나19 확진자 100명 아래지만…검사 줄고 수도권 집중발생(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01387446625928656"
+        "title": "코로나19 신규 확진자 113명...닷새 만에 세 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202009301135346096"
+    },
+    {
+        "title": "정부 “코로나 가장 큰 변곡점 추석…환자 재급증 가능성도”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998085?division=NAVER"
+    },
+    {
+        "title": "대구 1명, 경북 5명 코로나 확진자 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
