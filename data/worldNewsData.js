@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Puzzled scientists seek reasons behind Africa's low fatality rates from pandemic",
-        "link": "https://news.google.com/articles/CAIiEMBTK8DwenLXObR1KcrsVpMqFggEKg0IACoGCAowt6AMMLAmMIT6lwM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
         "title": "Canada cops crash covert Covid casino",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54370316"
     },
     {
-        "title": "Germans embrace fresh air to ward off coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
-    },
-    {
         "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
         "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
+    },
+    {
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     }
 ];
