@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
+        "title": "[속보]추석 연휴 이후 코로나19 대유행 우려…산발적 집단감염 잇따라",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100100000"
+    },
+    {
         "title": "어제 코로나19로 2명 사망… 누적 415명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066290&code=61121111&cp=nv"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "신규 확진자 77명 중 국내 발생 67명…다시 두 자릿수로",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016426&ref=A"
-    },
-    {
-        "title": "코로나19 신규확진 100명 안팎 등락 지속…추석 이후가 '걱정'",
-        "link": "http://yna.kr/AKR20201001033300530?did=1195m"
     }
 ];

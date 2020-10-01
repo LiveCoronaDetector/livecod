@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "Canada cops crash covert Covid casino",
-        "link": "https://news.google.com/articles/CAIiEDl8JQ0-RSPXgv_6K2INTVwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
-        "title": "Covid-19: Turkey and Poland off safe travel list, and more local restrictions announced",
-        "link": "https://www.bbc.com/news/uk-54374461"
+        "title": "Four in 10 people diagnosed with coronavirus are haredi",
+        "link": "https://www.jpost.com/breaking-news/40-percent-of-all-coronavirus-patients-are-haredi-ronnie-gamzu-644147"
     },
     {
         "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
-        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
-        "link": "https://www.bbc.com/news/world-54370316"
+        "title": "Global coronavirus report: row as Spain announces Madrid lockdown measures",
+        "link": "https://www.theguardian.com/world/2020/oct/01/global-coronavirus-report-row-as-spain-announces-madrid-lockdown-measures"
     },
     {
         "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
         "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
+        "title": "(17) \"We are nearing a crisis,\" Wisconsin doctor says as state marks record high of Covid-19 related deaths",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
     }
 ];
