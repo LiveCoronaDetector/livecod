@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010020146221245"
     },
     {
+        "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
+    },
+    {
         "title": "[현장르포] 제주공항 '추캉스족' 23만명 몰려···제주도 코로나 대책 분주",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009300113&t=NN"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 연휴 국내공항에 96만명 몰릴 듯…'코로나19 통로' 우려",
         "link": "http://yna.kr/AKR20200926055300004?did=1195m"
-    },
-    {
-        "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
-        "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     }
 ];

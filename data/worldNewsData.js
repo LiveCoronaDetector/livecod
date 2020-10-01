@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
-        "title": "Covid: Poland and Turkey added to UK's quarantine list as fines rise",
-        "link": "https://www.bbc.com/news/uk-54376357"
+        "title": "Four in 10 people diagnosed with coronavirus are haredi",
+        "link": "https://www.jpost.com/breaking-news/40-percent-of-all-coronavirus-patients-are-haredi-ronnie-gamzu-644147"
     },
     {
         "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+        "title": "China encouraging 'revenge travel' following coronavirus lockdowns to help economy",
+        "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
-        "title": "\"We are nearing a crisis,\" Wisconsin doctor says as state marks record high of Covid-19 related deaths",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/h_4f0cc47e5d8d7cb9269340bab6e7e5f6"
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
     },
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
-        "title": "Covid-19 News: Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
+        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
+        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
