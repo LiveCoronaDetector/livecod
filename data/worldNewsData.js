@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/09/30/asia/india-covid-antibody-study-intl-hnk-scli/index.html"
     },
     {
-        "title": "Chinese Citizens Are Already Receiving a Coronavirus Vaccine",
-        "link": "https://www.newyorker.com/news/news-desk/the-november-surprise-of-chinas-coronavirus-vaccine"
+        "title": "China contained Covid-19. Now, hundreds of millions of people there are about to go on vacation at the same time",
+        "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
     {
-        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
+        "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
     },
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
