@@ -5,12 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
     },
     {
+        "title": "코로나 신규 확진자 77명…다시 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
+    },
+    {
         "title": "[속보] 코로나19 신규 확진자 77명…다시 두 자릿수로·국내 발생 67명",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016327&ref=A"
     },
     {
-        "title": "[속보] 코로나 신규 확진자 77명…다시 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
+        "title": "[속보] 순천서 27일만에 지역감염 확진자 추가 발생…누적 71명",
+        "link": "https://www.news1.kr/articles/?4075148"
     },
     {
         "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
@@ -21,12 +25,8 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006005504&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "27일 만에 코로나 확진자 나온 전남 순천",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015066374&code=61121211&cp=nv"
-    },
-    {
-        "title": "코로나 어제 77명 신규확진…다시 두 자릿수로 감소",
-        "link": "https://www.donga.com/news/article/all/20201001/103210401/1"
+        "title": "코로나19 신규확진 77명…다시 두 자릿수로",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5927102_32633.html"
     },
     {
         "title": "대구 신규확진자 1명…대구역 지하 식당 운영자[전문]",
