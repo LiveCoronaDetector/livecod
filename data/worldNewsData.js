@@ -6,11 +6,11 @@ var worldNewsData = [
     },
     {
         "title": "Canada cops crash covert Covid casino",
-        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
+        "link": "https://news.google.com/articles/CAIiEDl8JQ0-RSPXgv_6K2INTVwqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Four in 10 people diagnosed with coronavirus are haredi",
-        "link": "https://www.jpost.com/breaking-news/40-percent-of-all-coronavirus-patients-are-haredi-ronnie-gamzu-644147"
+        "title": "Covid-19: Turkey and Poland off safe travel list, and more local restrictions announced",
+        "link": "https://www.bbc.com/news/uk-54374461"
     },
     {
         "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",

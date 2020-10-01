@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016426&ref=A"
     },
     {
-        "title": "'귀성객 확진자' 발생에 당국 긴장…신규확진 38명→113명→?",
-        "link": "http://yna.kr/AKR20200930055800530?did=1195m"
+        "title": "코로나19 신규확진 100명 안팎 등락 지속…추석 이후가 '걱정'",
+        "link": "http://yna.kr/AKR20201001033300530?did=1195m"
     }
 ];
