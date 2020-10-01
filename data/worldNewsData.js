@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54356335"
     },
     {
-        "title": "Largest COVID-19 study highlights role of super-spreaders",
-        "link": "https://www.latimes.com/world-nation/story/2020-09-30/largest-covid-19-transmission-study-highlights-super-spreaders"
+        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
+        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
-        "title": "Global coronavirus pandemic passes 'agonizing milestone' of a million deaths",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-global-deaths-idUSKBN26K08Y"
+        "title": "Covid-19 News: Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     }
 ];
