@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
     },
     {
-        "title": "'Anti-democratic law': Israel bans mass protests as Covid lockdown tightens",
-        "link": "https://www.theguardian.com/world/2020/sep/30/anti-democratic-law-israel-bans-mass-protest-lockdown-tightens-netanyahu"
+        "title": "Coronavirus latest: Turkey admits to excluding asymptomatic cases from daily tally",
+        "link": "https://www.ft.com/content/6a97c621-583d-3506-b9e4-6b58c54a9215"
     },
     {
         "title": "Coronavirus: How Italy has fought back from virus disaster",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 1",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
-    },
-    {
-        "title": "Live Coronavirus latest news: Liverpool restrictions expected to be announced this morning, says Mayor",
-        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-uk-covid-cases-today-lockdown-update/"
-    },
-    {
-        "title": "Coronavirus: Four probed over outbreak at Austrian ski resort",
-        "link": "https://www.dw.com/en/coronavirus-four-probed-over-outbreak-at-austrian-ski-resort/a-55108053"
-    },
-    {
         "title": "Coronavirus has killed 1 million people worldwide. Experts fear the toll may double before a vaccine is ready",
         "link": "https://www.cnn.com/2020/09/28/health/coronavirus-million-global-deaths-intl/index.html"
+    },
+    {
+        "title": "September 28 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
+    },
+    {
+        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
+    },
+    {
+        "title": "Coronavirus: New global test will give results 'in minutes'",
+        "link": "https://www.bbc.com/news/world-54331921"
     }
 ];
