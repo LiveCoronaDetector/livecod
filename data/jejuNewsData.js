@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
     },
     {
+        "title": "\"추석 연휴 코로나19 재유행할라\" 청정 강원 동해안 비상",
+        "link": "http://yna.kr/AKR20200929083800062?did=1195m"
+    },
+    {
         "title": "[TF사진관] '30만 명 제주도 향한다'…추석 연휴 앞두고 북적이는 공항",
         "link": "http://news.tf.co.kr/read/photomovie/1815756.htm"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "[르포]명절에도 코로나19 비상근무…\"누군가는 해야 할 일\"",
         "link": "http://www.newsis.com/view/?id=NISX20200929_0001184009&cID=10803&pID=14000"
-    },
-    {
-        "title": "추석날도 코로나 최전방 사수…'집담감염' 우려에 바짝 긴장",
-        "link": "https://news.joins.com/article/olink/23478476"
     },
     {
         "title": "추석 명절에도 비상근무…“코로나19 방역 최선”",

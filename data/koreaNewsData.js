@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020100110213251416"
     },
     {
+        "title": "[속보]신규 코로나19 확진자 77명…국내 발생 67명",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01380886625928656"
+    },
+    {
         "title": "코로나19 신규 확진자 113명...닷새 만에 세 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202009301135346096"
     },
     {
-        "title": "코로나 확진자 77명...하루만에 두자릿수로 감소",
-        "link": "http://www.sisajournal.com/news/articleView.html?idxno=205878"
-    },
-    {
-        "title": "대구 1명, 경북 5명 코로나 확진자 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680663&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+        "title": "[속보] 부산 코로나19 확진자 18명 추가",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100113474462420"
     }
 ];

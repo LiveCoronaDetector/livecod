@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/travel/article/china-golden-week-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "September 30 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html"
-    },
-    {
         "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
         "link": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: New global test will give results 'in minutes'",
         "link": "https://www.bbc.com/news/world-54331921"
+    },
+    {
+        "title": "Seven former FDA commissioners accuse Trump administration of undermining the agency",
+        "link": "https://www.washingtonpost.com/nation/2020/09/29/coronavirus-covid-live-updates-us/"
     }
 ];
