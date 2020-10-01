@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists",
-        "link": "https://www.nytimes.com/2020/09/30/health/covid-india-children.html"
+        "title": "Coronavirus updates: 'Saturday Night Live' may be violating New York rules; Moderna vaccine won't come until spring 2021",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/01/covid-news-american-united-layoffs-mississippi-cdc-india/5871929002/"
     },
     {
         "title": "China encouraging 'revenge travel' following coronavirus lockdowns to help economy",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54370316"
     },
     {
-        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+        "title": "Germans embrace fresh air to ward off coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     },
     {
         "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
