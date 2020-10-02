@@ -2,7 +2,7 @@
 var worldNewsData = [
     {
         "title": "Nigerian scientists develop Covid-19 vaccine need human trials",
-        "link": "https://news.google.com/articles/CAIiEE2pH36-538-mme6nm7BNOEqGQgEKhAIACoHCAowkcPeCjDDiNYBMLC8oAM?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
         "title": "Covid: Donald Trump and Melania test positive",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
     },
     {
-        "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",
-        "link": "https://www.theguardian.com/business/live/2020/oct/02/global-markets-retreat-after-trump-tests-positive-for-covid-19-business-live"
-    },
-    {
         "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
         "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
+    },
+    {
+        "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",
+        "link": "https://www.theguardian.com/business/live/2020/oct/02/global-markets-retreat-after-trump-tests-positive-for-covid-19-business-live"
     },
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
