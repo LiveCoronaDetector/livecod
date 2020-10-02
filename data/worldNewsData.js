@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
-        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
+        "title": "With the US making no progress on average daily Covid-19 cases last month, officials fear a coming crisis",
+        "link": "https://www.cnn.com/2020/10/02/health/us-coronavirus-friday/index.html"
     },
     {
         "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
-        "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
-        "link": "https://www.bbc.com/news/world-australia-54381811"
+        "title": "Hold China accountable for Trump contracting coronavirus: Sen. Loeffler",
+        "link": "https://news.google.com/articles/CAIiEP7IUCB9nW6JIcQ6falfkC4qGQgEKhAIACoHCAowwL2ICzCckocDMMaPqQY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Live Trump Coronavirus Tracker: The Latest",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
-        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
+        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
+        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
     },
     {
-        "title": "US futures and global markets rattled after Trump tests positive for coronavirus",
-        "link": "https://www.cnn.com/2020/10/02/investing/global-stocks/index.html"
+        "title": "World leaders react as President Trump tests positive for coronavirus",
+        "link": "https://www.cnbc.com/2020/10/02/coronavirus-trump-tests-positive-and-this-is-how-eu-leaders-reacted.html"
     }
 ];
