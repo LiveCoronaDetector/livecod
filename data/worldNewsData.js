@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
+        "title": "Trump says he and first lady will begin 'quarantine process' after top aide Hope Hicks tests positive for Covid-19",
+        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     },
     {
         "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
         "link": "https://www.bbc.com/news/world-54370316"
     },
     {
-        "title": "Trump says he and first lady will begin 'quarantine process' after top aide Hope Hicks tests positive for Covid-19",
-        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
+        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
+        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
