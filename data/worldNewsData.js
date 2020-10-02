@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "World leaders react as President Trump tests positive for coronavirus",
-        "link": "https://www.cnbc.com/2020/10/02/coronavirus-trump-tests-positive-and-this-is-how-eu-leaders-reacted.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Countries plot changes to World Health Organization once pandemic recedes",
-        "link": "https://www.politico.com/news/2020/10/02/countries-plot-changes-at-the-world-health-organization-once-pandemic-recedes-425072"
+        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
+        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     },
     {
         "title": "US futures and global markets rattled after Trump tests positive for coronavirus",
