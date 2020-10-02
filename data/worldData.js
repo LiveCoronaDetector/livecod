@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7532246,
-        "사망자수": 213305,
-        "완치자수": 4762450
+        "확진자수": 7534380,
+        "사망자수": 213337,
+        "완치자수": 4763408
     },
     {
         "Name": "인도",
@@ -1409,20 +1409,20 @@ var marker = [
         "완치자수": 351
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "확진자수": 411,
+        "사망자수": 1,
+        "완치자수": 197
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "확진자수": 403,
         "사망자수": 8,
         "완치자수": 309
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "확진자수": 399,
-        "사망자수": 1,
-        "완치자수": 185
     },
     {
         "Name": "Mauritius",

@@ -9,8 +9,12 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     },
     {
-        "title": "제주, 코로나19 59번째 확진자 퇴원...'입원 환자 0명'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
+        "title": "제주 코로나19 59번째 확진자 퇴원…입원 환자 0명",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=129022"
+    },
+    {
+        "title": "“제주도, 코로나19 환자 단 1명도 없다”…2일 59번 퇴원",
+        "link": "http://www.fnnews.com/news/202010021831217815"
     },
     {
         "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
@@ -25,19 +29,15 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
     },
     {
+        "title": "[아주경제 오늘의 뉴스 종합] 제주도 일가족 5명 차량 전복 外",
+        "link": "http://www.ajunews.com/view/20201001222047704"
+    },
+    {
         "title": "제주행 추캉스 '절정' 1일까지 20만명↑…신규 확진자 제로",
         "link": "http://www.fnnews.com/news/202010020146221245"
     },
     {
         "title": "제주 찾은 '추캉스족' 20만명 돌파…코로나19 확진자 없어",
         "link": "https://www.news1.kr/articles/?4075525"
-    },
-    {
-        "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
-    },
-    {
-        "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
-        "link": "https://www.news1.kr/articles/?4073837"
     }
 ];

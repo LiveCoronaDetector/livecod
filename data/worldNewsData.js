@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.politico.com/news/2020/10/02/countries-plot-changes-at-the-world-health-organization-once-pandemic-recedes-425072"
     },
     {
-        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
-        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
+        "title": "US futures and global markets rattled after Trump tests positive for coronavirus",
+        "link": "https://www.cnn.com/2020/10/02/investing/global-stocks/index.html"
     }
 ];
