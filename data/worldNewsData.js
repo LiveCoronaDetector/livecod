@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
-        "title": "Four in 10 people diagnosed with coronavirus are haredi",
-        "link": "https://www.jpost.com/breaking-news/40-percent-of-all-coronavirus-patients-are-haredi-ronnie-gamzu-644147"
+        "title": "Top ultra-Orthodox Rabbi Chaim Kanievsky, 92, tests positive for coronavirus",
+        "link": "https://www.timesofisrael.com/top-ultra-orthodox-rabbi-92-tests-positive-for-coronavirus/"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "Live Trump Covid-19 Positive Test: Latest Updates",
+        "title": "Trump Tests Positive for Coronavirus: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
-    },
-    {
-        "title": "The world reacts to President Trump's coronavirus diagnosis",
-        "link": "https://www.cbsnews.com/news/trump-tests-positive-covid-19-world-reactions/"
     },
     {
         "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
         "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     },
     {
-        "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",
-        "link": "https://www.theguardian.com/business/live/2020/oct/02/global-markets-retreat-after-trump-tests-positive-for-covid-19-business-live"
+        "title": "What Trump’s coronavirus diagnosis could mean for markets",
+        "link": "https://www.cnbc.com/2020/10/02/what-trumps-coronavirus-diagnosis-could-mean-for-markets.html"
+    },
+    {
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     }
 ];
