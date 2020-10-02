@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020100212323078127"
     },
     {
-        "title": "인천 주민 8명 확진…3명 같은 식당서 기존 확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20201002024551065?did=1195m"
-    },
-    {
         "title": "'코로나 추석'…정은경이 꼽은 위험요소 '셋'",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010021718001&code=940100"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
+    },
+    {
+        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
     }
 ];

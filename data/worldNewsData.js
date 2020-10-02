@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
-        "title": "Iran's coronavirus strategy divides health experts, government",
-        "link": "https://www.dw.com/en/iran-coronavirus-cases-treatment/a-55127145"
+        "title": "Top ultra-Orthodox Rabbi Chaim Kanievsky, 92, tests positive for coronavirus",
+        "link": "https://www.timesofisrael.com/top-ultra-orthodox-rabbi-92-tests-positive-for-coronavirus/"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "Trump's Symptoms Mild After Positive Coronavirus Test: Live Updates",
+        "title": "Covid-19 Live Updates: Trump’s Virus Symptoms Appear Mild So Far",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
-    },
-    {
-        "title": "Coronavirus: latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/index.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
-        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
+        "title": "Covid: Donald Trump and Melania test positive",
+        "link": "https://www.bbc.com/news/world-us-canada-54381848"
+    },
+    {
+        "title": "‘Paid the price’: world reacts to Trump testing positive for coronavirus",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3103957/paid-price-reactions-trump-testing-positive"
     }
 ];
