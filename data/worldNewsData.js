@@ -22,22 +22,22 @@ var worldNewsData = [
     },
     {
         "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
-        "link": "https://www.bbc.com/news/world-australia-54381811"
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hdXN0cmFsaWEtNTQzODE4MTHSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWF1c3RyYWxpYS01NDM4MTgxMQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Covid-19 Live Updates: Trump’s Virus Symptoms Appear Mild So Far",
+        "title": "Live Trump Coronavirus Tracker: The Latest",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "World leaders react as President Trump tests positive for coronavirus",
-        "link": "https://www.cnbc.com/2020/10/02/coronavirus-trump-tests-positive-and-this-is-how-eu-leaders-reacted.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Countries plot changes to World Health Organization once pandemic recedes",
-        "link": "https://www.politico.com/news/2020/10/02/countries-plot-changes-at-the-world-health-organization-once-pandemic-recedes-425072"
+        "title": "World Reacts to Trump’s Coronavirus Infection With Shock and Unease",
+        "link": "https://www.nytimes.com/2020/10/02/world/europe/global-voices-trump-coronavirus-positive.html"
     },
     {
-        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
-        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
+        "title": "President Donald Trump and first lady Melania Trump test positive for Covid-19",
+        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     }
 ];
