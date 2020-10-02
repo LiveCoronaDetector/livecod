@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
+        "title": "Coronavirus live news: Hope Hicks tests positive for Covid after flying with Trump on Air Force One – reports",
+        "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
         "title": "China encouraging 'revenge travel' following coronavirus lockdowns to help economy",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-54370316"
     },
     {
-        "title": "Germans embrace fresh air to ward off coronavirus",
-        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
+        "title": "Close Trump adviser Hope Hicks tests positive for coronavirus, sources say",
+        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     }
 ];

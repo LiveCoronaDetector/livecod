@@ -5,16 +5,16 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
     },
     {
+        "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
+    },
+    {
         "title": "제주행 추캉스 '절정' 1일까지 20만명↑…신규 확진자 제로",
         "link": "http://www.fnnews.com/news/202010020146221245"
     },
     {
         "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
         "link": "https://www.news1.kr/articles/?4073837"
-    },
-    {
-        "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
     },
     {
         "title": "[현장르포] 제주공항 '추캉스족' 23만명 몰려···제주도 코로나 대책 분주",
