@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "Covid: Donald Trump and Melania test positive",
-        "link": "https://www.bbc.com/news/world-us-canada-54381848"
+        "title": "Trump Tests Positive for the Coronavirus",
+        "link": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html"
     },
     {
         "title": "Four in 10 people diagnosed with coronavirus are haredi",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "World leaders react as President Trump tests positive for coronavirus",
-        "link": "https://www.cnbc.com/2020/10/02/coronavirus-trump-tests-positive-and-this-is-how-eu-leaders-reacted.html"
+        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
+        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
     },
     {
         "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",

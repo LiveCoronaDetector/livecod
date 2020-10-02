@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
     },
     {
-        "title": "트럼프 美 대통령 부부, 코로나 확진 판정… 건강 이상 없다(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200355.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 신규 확진자 63명…이틀 연속 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200168.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나 신규 확진자 77명…다시 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
         "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
     },
     {
+        "title": "'사상 초유' 트럼프 대통령 코로나 확진…11월 대선 '비상'[종합]",
+        "link": "https://www.hankyung.com/international/article/2020100289057"
+    },
+    {
         "title": "트럼프 美 대통령 부부, 코로나19 확진…11월 대선 변수로 작용할듯",
         "link": "http://news.heraldcorp.com/view.php?ud=20201002000060"
     },
     {
-        "title": "'대구역 지하상가' 관련 추가 확진자 현재까지 '0명' [전문]",
-        "link": "https://news.imaeil.com/Society/2020100210250943840"
-    },
-    {
         "title": "'코로나 추석'…정은경이 꼽은 위험요소 '셋'",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010021718001&code=940100"
-    },
-    {
-        "title": "서울 코로나19 확진자 수, 확진 비율 최근 2주간 최저치",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201002500042&wlog_tag3=naver"
     }
 ];
