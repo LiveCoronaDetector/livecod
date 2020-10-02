@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
-        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
+        "title": "Trump flown to hospital after Covid-19 positive test",
+        "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
         "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
-        "link": "https://www.cnn.com/2020/10/02/us/five-things-october-2-trnd/index.html"
+        "link": "https://news.google.com/articles/CAIiEA1EFIlmiJn6F5NrZi9S_hMqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "World leaders react after President Trump and first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://news.google.com/articles/CAIiEFMtQXmGvFbeXIQFGsLs2RsqGAgEKg8IACoHCAowjtSUCjC30XQwn6G5AQ?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "US futures and global markets rattled after Trump tests positive for coronavirus",
-        "link": "https://www.cnn.com/2020/10/02/investing/global-stocks/index.html"
+        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
+        "link": "https://www.cnn.com/videos/world/2020/10/02/world-reacts-trump-coronavirus-diagnosis-intl-ldn-vpx.cnn"
     }
 ];
