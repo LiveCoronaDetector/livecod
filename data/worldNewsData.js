@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
-        "title": "Iran's coronavirus strategy divides health experts, government",
-        "link": "https://www.dw.com/en/iran-coronavirus-cases-treatment/a-55127145"
+        "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
+        "link": "https://www.cnn.com/2020/10/02/us/five-things-october-2-trnd/index.html"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "World leaders react as President Trump tests positive for coronavirus",
+        "link": "https://www.cnbc.com/2020/10/02/coronavirus-trump-tests-positive-and-this-is-how-eu-leaders-reacted.html"
     },
     {
-        "title": "President Donald Trump and first lady Melania Trump test positive for Covid-19",
-        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
+        "title": "Countries plot changes to World Health Organization once pandemic recedes",
+        "link": "https://www.politico.com/news/2020/10/02/countries-plot-changes-at-the-world-health-organization-once-pandemic-recedes-425072"
     },
     {
         "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
