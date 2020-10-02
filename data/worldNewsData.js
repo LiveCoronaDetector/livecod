@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
-        "title": "Global coronavirus report: row as Spain announces Madrid lockdown measures",
-        "link": "https://www.theguardian.com/world/2020/oct/01/global-coronavirus-report-row-as-spain-announces-madrid-lockdown-measures"
+        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
+        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
