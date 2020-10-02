@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "Hope Hicks: Top aide to Trump tests positive for coronavirus",
+        "title": "Trump in quarantine as top aide Hope Hicks tests positive for coronavirus",
         "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Trump to begin 'quarantine process' after close aide Hope Hicks catches virus",
+        "title": "Coronavirus live news: Donald Trump and his wife, Melania, test positive for Covid",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
     },
     {
-        "title": "Trump says he and first lady will begin 'quarantine process' after top aide Hope Hicks tests positive for Covid-19",
+        "title": "President Donald Trump tweets he and first lady Melania Trump test positive for Covid-19",
         "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     },
     {
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+        "title": "Covid-19 vaccine alone won't defeat spread of virus, report warns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/covid-19-vaccine-alone-wont-defeat-spread-of-virus-report-warns"
     },
     {
-        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
-        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
+        "title": "October 1 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
     }
 ];
