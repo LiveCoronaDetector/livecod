@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
-        "title": "Top ultra-Orthodox Rabbi Chaim Kanievsky, 92, tests positive for coronavirus",
-        "link": "https://www.timesofisrael.com/top-ultra-orthodox-rabbi-92-tests-positive-for-coronavirus/"
+        "title": "Iran's coronavirus strategy divides health experts, government",
+        "link": "https://www.dw.com/en/iran-coronavirus-cases-treatment/a-55127145"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
         "link": "https://www.cnn.com/2020/10/02/europe/paris-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: WHO approves new rapid Covid test; Madrid to enter partial lockdown",
-        "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
+        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
         "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Covid: Donald Trump and Melania test positive",
-        "link": "https://www.bbc.com/news/world-us-canada-54381848"
+        "title": "President Donald Trump and first lady Melania Trump test positive for Covid-19",
+        "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     },
     {
-        "title": "‘Paid the price’: world reacts to Trump testing positive for coronavirus",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3103957/paid-price-reactions-trump-testing-positive"
+        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
+        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     }
 ];
