@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4075525"
     },
     {
+        "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
+    },
+    {
         "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[현장르포] 제주공항 '추캉스족' 23만명 몰려···제주도 코로나 대책 분주",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009300113&t=NN"
-    },
-    {
-        "title": "제주 코로나 57-58 확진자 퇴원...1명만 격리치료 중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320648"
     }
 ];

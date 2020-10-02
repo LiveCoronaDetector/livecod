@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Donald Trump and his wife, Melania, test positive for Covid",
+        "title": "Coronavirus live news: Donald Trump goes into quarantine after positive test; Russia sees most cases since May",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "President Trump and Melania Trump test positive for Covid-19",
-        "link": "https://www.youtube.com/watch?v=KdXLARNcHIM"
+        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
+        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
+    },
+    {
+        "title": "Trump tests positive for Covid-19 as pandemic hits White House: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/index.html"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
-    },
-    {
-        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
-        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
