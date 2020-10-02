@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
     },
     {
-        "title": "President Trump and Melania Trump test positive for Covid-19",
-        "link": "https://www.youtube.com/watch?v=KdXLARNcHIM"
+        "title": "Folks: He's Got It",
+        "link": "https://gizmodo.com/folks-hes-got-it-1845249076"
+    },
+    {
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
     },
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
-    },
-    {
-        "title": "What Happened in The Coronavirus Pandemic Today",
-        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
+        "title": "Covid-19 vaccine alone won't defeat spread of virus, report warns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/covid-19-vaccine-alone-wont-defeat-spread-of-virus-report-warns"
     }
 ];
