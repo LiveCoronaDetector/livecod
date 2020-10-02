@@ -2,11 +2,11 @@
 var worldNewsData = [
     {
         "title": "Nigerian scientists develop Covid-19 vaccine need human trials",
-        "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
+        "link": "https://news.google.com/articles/CAIiEE2pH36-538-mme6nm7BNOEqGQgEKhAIACoHCAowkcPeCjDDiNYBMLC8oAM?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "Trump Tests Positive for the Coronavirus",
-        "link": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html"
+        "title": "Covid: Donald Trump and Melania test positive",
+        "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
         "title": "Four in 10 people diagnosed with coronavirus are haredi",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     },
     {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     }
 ];
