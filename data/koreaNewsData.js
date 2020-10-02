@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 63명…이틀째 두자릿수 진정세",
-        "link": "http://news.tf.co.kr/read/life/1816169.htm"
-    },
-    {
         "title": "코로나19 국내 신규 확진자 63명…이틀 연속 두자릿수",
         "link": "http://www.inews24.com/view/1303960"
     },
     {
         "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
+    },
+    {
+        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
     }
 ];

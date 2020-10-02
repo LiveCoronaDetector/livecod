@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
-        "title": "Top ultra-Orthodox Rabbi Chaim Kanievsky, 92, tests positive for coronavirus",
-        "link": "https://www.timesofisrael.com/top-ultra-orthodox-rabbi-92-tests-positive-for-coronavirus/"
+        "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
+        "link": "https://www.cnn.com/2020/10/02/us/five-things-october-2-trnd/index.html"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "Trump Tests Positive for Coronavirus: Live Updates",
+        "title": "Trump's Symptoms Mild After Positive Coronavirus Test: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+    },
+    {
+        "title": "World leaders react to Trump's coronavirus diagnosis",
+        "link": "https://nypost.com/2020/10/02/world-leaders-react-to-trumps-coronavirus-diagnosis/"
     },
     {
         "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
         "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     },
     {
-        "title": "What Trump’s coronavirus diagnosis could mean for markets",
-        "link": "https://www.cnbc.com/2020/10/02/what-trumps-coronavirus-diagnosis-could-mean-for-markets.html"
-    },
-    {
-        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+        "title": "Germans embrace fresh air to ward off coronavirus",
+        "link": "https://www.theguardian.com/world/2020/sep/30/germans-embrace-fresh-air-to-ward-off-coronavirus"
     }
 ];
