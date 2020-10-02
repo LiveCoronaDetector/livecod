@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002020151530?did=1195m"
     },
     {
-        "title": "트럼프 美 대통령 부부, 코로나 확진 판정… 건강 이상 없다(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200355.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 확진자와 접촉한 인천 시민 5명 확진 판정",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016912&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 63명...국내발생 53명·해외유입 10명",
         "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
     },
     {
+        "title": "트럼프 美 대통령 부부, 코로나 확진 판정… 건강 이상 없다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200355.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나 신규 확진자 63명…이틀 연속 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200168.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자와 접촉한 인천 시민 5명 확진 판정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016912&ref=A"
     },
     {
         "title": "'코로나 추석'…정은경이 꼽은 위험요소 '셋'",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 63명…이틀째 두자릿수 진정세",
+        "link": "http://news.tf.co.kr/read/life/1816169.htm"
+    },
+    {
         "title": "코로나19 국내 신규 확진자 63명…이틀 연속 두자릿수",
         "link": "http://www.inews24.com/view/1303960"
     },
     {
         "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
-    },
-    {
-        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
     }
 ];
