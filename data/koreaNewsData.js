@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
     {
+        "title": "트럼프 美 대통령 부부, 코로나 확진 판정… 건강 이상 없다(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200355.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보] 트럼프 부부, 코로나19 확진 판정…백악관 '초비상'",
         "link": "https://www.hankyung.com/life/article/2020100288547"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010020024&t=NN"
     },
     {
-        "title": "트럼프 美 대통령 부부, 코로나19 확진…11월 대선 변수로 작용할듯",
-        "link": "http://news.heraldcorp.com/view.php?ud=20201002000060"
-    },
-    {
         "title": "'대구역 지하상가' 관련 추가 확진자 현재까지 '0명' [전문]",
         "link": "https://news.imaeil.com/Society/2020100210250943840"
     },
     {
-        "title": "코로나 신규 확진자 63명…추석 연휴 이후가 변곡점",
-        "link": "http://www.hani.co.kr/arti/society/health/964213.html"
+        "title": "[속보] 부산 코로나19 확진자 8명 추가…목욕탕·평강의원 접촉 확진 잇따라",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100212323078127"
     }
 ];

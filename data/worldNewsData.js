@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Donald Trump and his wife, Melania, test positive for Covid-19",
+        "title": "Covid live news: Donald Trump and his wife, Melania, test positive for coronavirus",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "'May God's healing powers touch them': Twitter reacts after President Donald Trump announces he and Melania are positive for COVID-19",
-        "link": "https://www.usatoday.com/story/news/politics/2020/10/01/donald-trump-coronavirus-twitter-best-wishes-prayers/5892102002/"
+        "title": "President Trump and Melania Trump test positive for Covid-19",
+        "link": "https://www.youtube.com/watch?v=KdXLARNcHIM"
     },
     {
-        "title": "Trump tests positive for Covid-19 as pandemic hits White House: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/index.html"
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
         "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
+        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
