@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "Coronavirus: Trump and first lady test positive for coronavirus after going into quarantine",
+        "title": "Coronavirus: Donald Trump and Melania test positive",
         "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
     },
     {
-        "title": "October 1 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
+        "title": "President Trump and Melania Trump test positive for Covid-19",
+        "link": "https://www.youtube.com/watch?v=KdXLARNcHIM"
+    },
+    {
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
         "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
-        "link": "https://www.bbc.com/news/world-54370316"
-    },
-    {
-        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
+        "title": "What Happened in The Coronavirus Pandemic Today",
+        "link": "https://www.nytimes.com/live/2020/10/01/world/covid-19-coronavirus"
     }
 ];
