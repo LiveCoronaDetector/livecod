@@ -17,7 +17,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Poland reports new infections record; Russia sees most cases since May",
+        "title": "Coronavirus live news: Madrid to enter partial lockdown; Poland reports new infections record",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "Trump joins list of world leaders that have tested positive for coronavirus",
+        "title": "Trump joins list of world leaders who have tested positive for coronavirus",
         "link": "https://www.foxnews.com/world/trump-joins-list-world-leaders-tested-positive-covid-19"
-    },
-    {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
         "title": "Coronavirus: latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/h_81cbea6e85fbb981dc501e735fffb5f4"
     },
     {
-        "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",
-        "link": "https://www.theguardian.com/business/live/2020/oct/02/global-markets-retreat-after-trump-tests-positive-for-covid-19-business-live"
+        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
+    },
+    {
+        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
+        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     }
 ];

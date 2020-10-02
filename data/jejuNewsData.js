@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
     },
     {
+        "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016993&ref=A"
+    },
+    {
         "title": "제주 찾은 추캉스 입도객 약 20만명…코로나 확진자 없어",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
-    },
-    {
-        "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
-        "link": "https://www.news1.kr/articles/?4073837"
     }
 ];
