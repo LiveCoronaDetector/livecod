@@ -14,10 +14,10 @@ var worldNewsData = [
     },
     {
         "title": "Madrid locks back down as European leaders sound alarm on Covid-19 surges",
-        "link": "https://news.google.com/articles/CAIiEGLMN4DoLkXy-hxkTyxDMqkqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "link": "https://www.cnn.com/2020/10/01/europe/madrid-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Donald Trump goes into quarantine after positive test; Russia sees most cases since May",
+        "title": "Coronavirus live news: Trump tests positive; Russia sees most cases since May",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
-        "title": "Live Trump Coronavirus World Reaction",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "title": "Trump joins list of world leaders that have tested positive for coronavirus",
+        "link": "https://www.foxnews.com/world/trump-joins-list-world-leaders-tested-positive-covid-19"
+    },
+    {
+        "title": "Global markets retreat after Trump tests positive for Covid-19 – business live",
+        "link": "https://www.theguardian.com/business/live/2020/oct/02/global-markets-retreat-after-trump-tests-positive-for-covid-19-business-live"
     },
     {
         "title": "Coronavirus: latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/h_81cbea6e85fbb981dc501e735fffb5f4"
     },
     {
         "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
         "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
-    },
-    {
-        "title": "US futures and global markets rattled after Trump tests positive for coronavirus",
-        "link": "https://www.cnn.com/2020/10/02/investing/global-stocks/index.html"
     }
 ];
