@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200168.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "[속보] 부산 코로나19 확진자 8명 추가…목욕탕·평강의원 접촉 확진 잇따라",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100212323078127"
+    },
+    {
         "title": "인천 주민 8명 확진…3명 같은 식당서 기존 확진자 접촉(종합)",
         "link": "http://yna.kr/AKR20201002024551065?did=1195m"
-    },
-    {
-        "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
-        "link": "http://yna.kr/AKR20201002024351009?did=1195m"
-    },
-    {
-        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
     },
     {
         "title": "'코로나 추석'…정은경이 꼽은 위험요소 '셋'",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010021718001&code=940100"
     },
     {
-        "title": "코로나19 신규 환자 63명…이틀째 두 자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016908&ref=A"
+        "title": "코로나 신규 확진자 77명…다시 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "[속보] 부산 코로나19 확진자 8명 추가…목욕탕·평강의원 접촉 확진 잇따라",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100212323078127"
+        "title": "[속보] 코로나19 신규 확진자 63명…이틀째 두자릿수 진정세",
+        "link": "http://news.tf.co.kr/read/life/1816169.htm"
     },
     {
-        "title": "'대구역 지하상가' 관련 추가 확진자 현재까지 '0명' [전문]",
-        "link": "https://news.imaeil.com/Society/2020100210250943840"
+        "title": "코로나19 국내 신규 확진자 63명…이틀 연속 두자릿수",
+        "link": "http://www.inews24.com/view/1303960"
+    },
+    {
+        "title": "트럼프 \"코로나 검사 받고 자가격리\"…최측근 감염에 `비상'(종합)",
+        "link": "http://yna.kr/AKR20201002024351009?did=1195m"
     }
 ];

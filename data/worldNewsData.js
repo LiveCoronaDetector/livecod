@@ -5,19 +5,19 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "Covid: Donald Trump and Melania test positive",
-        "link": "https://www.bbc.com/news/world-us-canada-54381848"
+        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
+        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
-        "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
-        "link": "https://www.cnn.com/2020/10/02/us/five-things-october-2-trnd/index.html"
+        "title": "Iran's coronavirus strategy divides health experts, government",
+        "link": "https://www.dw.com/en/iran-coronavirus-cases-treatment/a-55127145"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
         "link": "https://www.cnn.com/2020/10/02/europe/paris-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: WHO approves rapid Covid test; Madrid to enter partial lockdown",
+        "title": "Coronavirus live news: WHO approves new rapid Covid test; Madrid to enter partial lockdown",
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
-        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
+        "title": "Coronavirus: latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/index.html"
     },
     {
-        "title": "World leaders react to Trump's coronavirus diagnosis",
-        "link": "https://nypost.com/2020/10/02/world-leaders-react-to-trumps-coronavirus-diagnosis/"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 2",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-02-20-intl/h_81cbea6e85fbb981dc501e735fffb5f4"
+        "title": "Boris Johnson shows what happens when a world leader gets Covid-19",
+        "link": "https://www.nbcnews.com/news/world/u-k-s-boris-johnson-has-showed-what-happens-when-n1241773"
     }
 ];
