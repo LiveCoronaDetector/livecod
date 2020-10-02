@@ -13,16 +13,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
-    },
-    {
-        "title": "트럼프 美 대통령 부부, 코로나19 확진…11월 대선 변수로 작용할듯",
-        "link": "http://news.heraldcorp.com/view.php?ud=20201002000060"
-    },
-    {
-        "title": "'사상 초유' 트럼프 대통령 코로나 확진…11월 대선 '비상'[종합]",
-        "link": "https://www.hankyung.com/international/article/2020100289057"
+        "title": "코로나19 확진자와 접촉한 인천 시민 5명 확진 판정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016912&ref=A"
     },
     {
         "title": "'대구역 지하상가' 관련 추가 확진자 현재까지 '0명' [전문]",
@@ -33,11 +25,19 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
     },
     {
+        "title": "'코로나 추석'…정은경이 꼽은 위험요소 '셋'",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010021718001&code=940100"
+    },
+    {
+        "title": "트럼프 부부, 코로나 확진돼 자가격리…美 대선 변수 되나",
+        "link": "https://www.hankyung.com/international/article/202010028930i"
+    },
+    {
         "title": "[종합]트럼프 부부, 코로나 확진 \"우리는 함께 이겨낼 것\"",
         "link": "http://www.fnnews.com/news/202010021411069678"
     },
     {
-        "title": "코로나19 확진자 63명…서울 9명 그쳤으나 부산서 16명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625928984"
+        "title": "서울 코로나19 확진자 수, 확진 비율 최근 2주간 최저치",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201002500042&wlog_tag3=naver"
     }
 ];

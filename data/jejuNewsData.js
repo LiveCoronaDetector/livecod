@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4075525"
     },
     {
-        "title": "추석연휴 연일 코로나 고강도 방역...아직 확진자 없어",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151781"
-    },
-    {
         "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
         "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
+    },
+    {
+        "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
+        "link": "https://www.news1.kr/articles/?4073837"
     }
 ];
