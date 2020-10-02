@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-01-20-intl/index.html"
-    },
-    {
-        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
-        "link": "https://www.bbc.com/news/world-54370316"
+        "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
         "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
         "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
+    },
+    {
+        "title": "Coronavirus: Global Covid-19 death toll passes one million",
+        "link": "https://www.bbc.com/news/world-54334496"
     }
 ];

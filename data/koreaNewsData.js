@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 63명…이틀 연속 두 자릿수 기록",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100100007"
-    },
-    {
-        "title": "코로나19 확진자 63명…서울 9명 그쳤으나 부산서 16명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625928984"
+        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진자 63명...국내발생 53명·해외유입 10명",
         "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
+    },
+    {
+        "title": "코로나19 확진자 63명…서울 9명 그쳤으나 부산서 16명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625928984"
     },
     {
         "title": "코로나19 국내 신규 확진자 63명…이틀 연속 두자릿수",
@@ -25,8 +25,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201001033300530?did=1195m"
     },
     {
-        "title": "[속보] 인천서 코로나19 확진자 5명 발생…누적 927명",
-        "link": "https://www.hankyung.com/life/article/2020100286847"
+        "title": "코로나19 확진자와 접촉한 인천 시민 5명 확진 판정",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016912&ref=A"
     },
     {
         "title": "코로나 신규 확진자 63명…이틀 연속 두자릿수(종합)",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100209444904813"
     },
     {
-        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
+        "title": "코로나19 어제 63명 신규확진…사망자 1명 늘어 총 416명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998150?division=NAVER"
     }
 ];
