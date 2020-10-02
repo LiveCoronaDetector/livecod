@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002024351009?did=1195m"
     },
     {
-        "title": "코로나19 확진자 63명…서울 9명 그쳤으나 부산서 16명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625928984"
-    },
-    {
-        "title": "[속보] 부산 코로나19 확진자 8명 추가…목욕탕·평강의원 접촉 확진 잇따라",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100212323078127"
-    },
-    {
-        "title": "코로나19 신규 환자 63명…이틀째 두 자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016908&ref=A"
-    },
-    {
-        "title": "코로나 신규 확진자 63명…추석 연휴 이후가 변곡점",
-        "link": "http://www.hani.co.kr/arti/society/health/964213.html"
-    },
-    {
-        "title": "코로나19 신규확진 100명 안팎 등락 지속…추석 이후가 '걱정'",
-        "link": "http://yna.kr/AKR20201001033300530?did=1195m"
+        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
     {
         "title": "코로나 신규 확진자 63명…이틀 연속 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200168.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 전국 63명 신규확진…이틀연속 감소세(상보)",
-        "link": "https://view.asiae.co.kr/article/2020100209444904813"
+        "title": "트럼프·멜라니아, 코로나19 확진 판정...\"코로나 극복할 것\"(종합)",
+        "link": "https://view.asiae.co.kr/article/2020100214231230286"
     },
     {
-        "title": "측근 코로나19 확진·본인 검사에 “테러블” 외친 트럼프",
-        "link": "http://www.segye.com/content/html/2020/10/02/20201002509324.html?OutUrl=naver"
+        "title": "코로나19 신규 환자 63명…이틀째 두 자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016908&ref=A"
     },
     {
-        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
+        "title": "[속보] 코로나19 신규 확진 63명…지역발생 53명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010020024&t=NN"
+    },
+    {
+        "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
+        "link": "http://yna.kr/AKR20201002028700056?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 63명…추석 연휴 이후가 변곡점",
+        "link": "http://www.hani.co.kr/arti/society/health/964213.html"
+    },
+    {
+        "title": "트럼프 美 대통령 부부, 코로나19 확진…11월 대선 변수로 작용할듯",
+        "link": "http://news.heraldcorp.com/view.php?ud=20201002000060"
+    },
+    {
+        "title": "[종합]트럼프 부부, 코로나 확진 \"우리는 함께 이겨낼 것\"",
+        "link": "http://www.fnnews.com/news/202010021411069678"
     }
 ];

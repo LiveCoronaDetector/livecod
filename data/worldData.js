@@ -1540,9 +1540,9 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 101,
+        "확진자수": 106,
         "사망자수": 3,
-        "완치자수": 92
+        "완치자수": 94
     },
     {
         "Name": "British Virgin Islands",

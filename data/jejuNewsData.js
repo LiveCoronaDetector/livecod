@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.news1.kr/articles/?4075525"
     },
     {
+        "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
+    },
+    {
         "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
         "link": "https://www.news1.kr/articles/?4073837"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 57-58 확진자 퇴원...1명만 격리치료 중",
         "link": "http://www.jejusori.net/news/articleView.html?idxno=320648"
-    },
-    {
-        "title": "'반짝 대목' 반갑지만…제주도는 '살얼음판'",
-        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5925748_32524.html"
     }
 ];
