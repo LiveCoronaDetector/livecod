@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625928984"
     },
     {
-        "title": "코로나19 신규 확진자 63명...국내발생 53명·해외유입 10명",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
-    },
-    {
         "title": "코로나 신규 확진자 63명…추석 연휴 이후가 변곡점",
         "link": "http://www.hani.co.kr/arti/society/health/964213.html"
     },
     {
         "title": "코로나19 신규확진 100명 안팎 등락 지속…추석 이후가 '걱정'",
         "link": "http://yna.kr/AKR20201001033300530?did=1195m"
+    },
+    {
+        "title": "신규확진 63명, 이틀연속 두 자릿수…경기서만 확진자 19명(2보)",
+        "link": "https://www.news1.kr/articles/?4075485"
     },
     {
         "title": "코로나 신규 확진자 63명…이틀 연속 두자릿수(종합)",
@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100209444904813"
     },
     {
-        "title": "[종합] 코로나19 신규확진 63명…이틀째 두 자릿수, 지역발생 53명",
-        "link": "https://www.hankyung.com/life/article/2020100285647"
-    },
-    {
         "title": "코로나19 신규 확진자 77명…다시 두자릿수로",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010010931011&code=940601"
     },
     {
-        "title": "경북 코로나19 포항·경주에서 지속…대구 0명(종합)",
-        "link": "http://www.kukinews.com/newsView/kuk202010020008"
+        "title": "코로나19 신규 확진자 63명...국내발생 53명·해외유입 10명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010021000352875"
     },
     {
         "title": "코로나19 어제 77명 신규확진…다시 두 자릿수로, 지역발생 67명(종합)",
         "link": "http://yna.kr/AKR20201001017651530?did=1195m"
+    },
+    {
+        "title": "코로나19 국내 신규 확진자 53명…해외유입 10명",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407453&class=33&grp="
     }
 ];

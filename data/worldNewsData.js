@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/02/coronavirus-live-news-paris-faces-being-placed-on-maximum-alert-as-india-nears-100000-deaths"
     },
     {
-        "title": "China encouraging 'revenge travel' following coronavirus lockdowns to help economy",
-        "link": "https://www.foxnews.com/travel/china-revenge-travel-coronavirus-economy"
+        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Close Trump adviser Hope Hicks tests positive for coronavirus, sources say",
+        "title": "Trump and first lady take coronavirus tests after top aide Hope Hicks tests positive for Covid-19",
         "link": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
+    },
+    {
+        "title": "Coronavirus risks ‘greatest surge in child marriages in 25 years’",
+        "link": "https://www.bbc.com/news/world-54370316"
     },
     {
         "title": "Coronavirus update: Global case tally above 34 million — with U.S. accounting for a fifth — as Dr. Fauci hits back at Trump’s mask claim",
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
-    },
-    {
-        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
-        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
         "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
