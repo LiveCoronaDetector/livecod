@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/society_general/964180.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 63명…이틀째 두자릿수 진정세",
-        "link": "http://news.tf.co.kr/read/life/1816169.htm"
-    },
-    {
         "title": "코로나19 국내 신규 확진자 63명…이틀 연속 두자릿수",
         "link": "http://www.inews24.com/view/1303960"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "트럼프 대통령 부부 코로나19 확진…\"상태 양호\"",
         "link": "https://imnews.imbc.com/replay/2020/nw1700/article/5928197_32510.html"
+    },
+    {
+        "title": "코로나19 신규확진 63명...이틀째 두 자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221886"
     }
 ];
