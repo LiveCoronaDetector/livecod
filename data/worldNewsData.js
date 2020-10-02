@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1911951/nigerian-scientists-develop-covid-19-vaccine-need-human-trials/"
     },
     {
-        "title": "Canada cops crash covert Covid casino",
-        "link": "https://www.theguardian.com/world/2020/sep/30/canada-illegal-casino-charges"
+        "title": "Hope Hicks: Top aide to Trump tests positive for coronavirus",
+        "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
         "title": "Four in 10 people diagnosed with coronavirus are haredi",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-above-34-million-with-us-accounting-for-a-fifth-as-dr-fauci-hits-back-at-trumps-mask-claims-2020-10-01"
     },
     {
-        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
-        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
+        "title": "China promotes 'revenge travel' to boost economy after Covid lockdowns",
+        "link": "https://www.theguardian.com/world/2020/oct/01/china-promotes-revenge-travel-boost-economy-coronavirus-golden-week"
     },
     {
-        "title": "Coronavirus: Global Covid-19 death toll passes one million",
-        "link": "https://www.bbc.com/news/world-54334496"
+        "title": "Trump's coronavirus dispute with World Health Organization is ‘tragic’: Ex-Obama official",
+        "link": "https://finance.yahoo.com/news/trumps-coronavirus-dispute-with-world-health-organization-tragic-ex-gayle-smith-131021171.html"
     }
 ];
