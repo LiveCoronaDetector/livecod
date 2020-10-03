@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
-        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
+        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
+        "link": "https://www.cnn.com/videos/world/2020/10/02/world-reacts-trump-coronavirus-diagnosis-intl-ldn-vpx.cnn"
     }
 ];
