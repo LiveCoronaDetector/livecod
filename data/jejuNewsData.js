@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997959?division=NAVER"
     },
     {
+        "title": "제주 찾은 추캉스 입도객 약 20만명…코로나 확진자 없어",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
+    },
+    {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
         "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
-    },
-    {
-        "title": "제주, 코로나19 59번째 확진자 퇴원...'입원 환자 0명'",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
     }
 ];

@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
-        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
+        "title": "India’s Covid-19 Death Toll Passes 100,000",
+        "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
     },
     {
-        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
-        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
+        "title": "Ex-Ukrainian President Petro Poroshenko hospitalized with Covid-19, diagnosed with 'bilateral pneumonia'",
+        "link": "https://www.rt.com/russia/502465-ukraine-poroshenko-hospitalized-covid19/"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+        "title": "Where is China’s accountability in the coronavirus crisis?",
+        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
