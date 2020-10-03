@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     },
     {
+        "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
+    },
+    {
         "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
         "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "제주 코로나 확진자 모두 퇴원 ...고강도 방역 유지",
         "link": "https://www.ytn.co.kr/_ln/0115_202010031021471394"
-    },
-    {
-        "title": "112일만에 ‘코로나 0명’ 제주…안도 속에서도 연휴 끝날 때까지 긴장",
-        "link": "https://news.joins.com/article/olink/23479807"
     },
     {
         "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",

@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
+        "title": "Trump, stricken by Covid-19, flown to military hospital",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-presidential-elections/trump-stricken-by-covid-19-flown-to-military-hospital/articleshow/78455930.cms"
     },
     {
         "title": "Where is China’s accountability in the coronavirus crisis?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+    },
+    {
         "title": "China's 1st reaction as Trump tests positive | World News",
         "link": "https://www.youtube.com/watch?v=1H3Qmd-lzbw"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    },
-    {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];

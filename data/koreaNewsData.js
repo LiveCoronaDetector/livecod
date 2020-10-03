@@ -5,6 +5,22 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002048651530?did=1195m"
     },
     {
+        "title": "코로나19 확진자 사흘째 100명 아래…수도권 집중 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086625929312"
+    },
+    {
+        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[속보]코로나 신규 75명, 사흘째 두자릿수…다나병원 11명 추가 확진",
+        "link": "https://news.joins.com/article/olink/23479760"
+    },
+    {
+        "title": "[속보] 부산 8명 등 코로나19 어제 75명 신규확진…사흘째 두자릿수",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100309445402704"
+    },
+    {
         "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
     },
@@ -13,31 +29,15 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964253.html"
     },
     {
+        "title": "인천, 코로나19 확진자 5명 추가 발생",
+        "link": "http://www.kyeongin.com/main/view.php?key=20201003010000067"
+    },
+    {
         "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
         "link": "http://www.inews24.com/view/1304000"
     },
     {
-        "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01476006625929312"
-    },
-    {
-        "title": "코로나19 신규확진자 75명…사흘째 두자릿수 그쳐",
-        "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
-    },
-    {
-        "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
-    },
-    {
-        "title": "[전문] 광명시청 125번째 확진자 발생...학온동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382541"
-    },
-    {
-        "title": "코로나19 확진자 사흘째 100명 아래…수도권 집중 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086625929312"
-    },
-    {
-        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 확진자 경주와 상주에서 각각 1명씩 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     }
 ];
