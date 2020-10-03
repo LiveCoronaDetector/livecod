@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Covid: Donald Trump and Melania test positive",
-        "link": "https://www.bbc.com/news/world-us-canada-54381848"
+        "title": "We're paying a lot of attention to Trump's case, but the US just recorded the most daily COVID-19 infections in nearly 2 months",
+        "link": "https://www.usatoday.com/story/news/nation/2020/10/03/united-states-reports-highest-covid-cases-august/3610298001/"
     },
     {
         "title": "Iran to implement stricter restrictions as COVID-19 cases mount",
         "link": "https://www.aljazeera.com/news/2020/10/3/iran-to-implement-stricter-restrictions-as-covid-cases-mount"
     },
     {
-        "title": "Coronavirus live news: big rise in infectioins in Italy; Tehran and Madrid impose new lockdown measures",
+        "title": "Coronavirus live news: big rise in infections in Italy; Tehran and Madrid impose new lockdown measures",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
+        "title": "Source tells reporters: Next 48 hours will be critical for Trump",
+        "link": "https://www.cnn.com/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
