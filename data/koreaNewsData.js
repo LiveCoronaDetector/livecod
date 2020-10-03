@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390002.html"
     },
     {
+        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
+    },
+    {
         "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
         "link": "http://www.inews24.com/view/1304000"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
     {
-        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
-    },
-    {
-        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 코로나19 신규 확진자 75명...누적 환자 24,027명",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010030934319376"
     }
 ];

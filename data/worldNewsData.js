@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
     },
     {
-        "title": "Coronavirus live news: Boris Johnson says Trump will come through Covid well",
+        "title": "Coronavirus live news: Tehran and Madrid adopt new lockdown measures as cases rise",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Kellyanne Conway announces she tested positive for coronavirus",
-        "link": "https://www.cnn.com/2020/10/02/politics/kellyanne-conway-positive-for-covid-19/index.html"
+        "title": "Schools and mosques closed in Tehran as COVID-19 infections rise",
+        "link": "https://www.arabnews.com/node/1743706/middle-east"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "World Reacts to Trump’s Coronavirus Infection With Shock and Unease",
-        "link": "https://www.nytimes.com/2020/10/02/world/europe/global-voices-trump-coronavirus-positive.html"
-    },
-    {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+    },
+    {
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     }
 ];
