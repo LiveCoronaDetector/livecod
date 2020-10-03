@@ -132,9 +132,9 @@ var marker = [
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "확진자수": 335578,
-        "사망자수": 4823,
-        "완치자수": 320348
+        "확진자수": 335997,
+        "사망자수": 4850,
+        "완치자수": 320974
     },
     {
         "Name": "터키",
@@ -233,20 +233,20 @@ var marker = [
         "완치자수": 107058
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "확진자수": 131889,
+        "사망자수": 6449,
+        "완치자수": 0
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "확진자수": 128565,
         "사망자수": 2263,
         "완치자수": 106044
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "확진자수": 127922,
-        "사망자수": 6428,
-        "완치자수": 0
     },
     {
         "Name": "카타르",
@@ -292,9 +292,9 @@ var marker = [
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "확진자수": 106087,
-        "사망자수": 615,
-        "완치자수": 97898
+        "확진자수": 106458,
+        "사망자수": 620,
+        "완치자수": 98435
     },
     {
         "Name": "이집트",
@@ -500,9 +500,9 @@ var marker = [
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "확진자수": 46694,
+        "확진자수": 46768,
         "사망자수": 301,
-        "완치자수": 45945
+        "완치자수": 45964
     },
     {
         "Name": "Paraguay",
@@ -676,9 +676,9 @@ var marker = [
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "확진자수": 16493,
+        "확진자수": 16529,
         "사망자수": 232,
-        "완치자수": 15467
+        "완치자수": 15480
     },
     {
         "Name": "Myanmar",
@@ -812,9 +812,9 @@ var marker = [
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "확진자수": 9852,
+        "확진자수": 9895,
         "사망자수": 77,
-        "완치자수": 8661
+        "완치자수": 8707
     },
     {
         "Name": "Mozambique",
@@ -1521,20 +1521,20 @@ var marker = [
         "완치자수": 143
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "확진자수": 124,
+        "사망자수": 1,
+        "완치자수": 46
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "확진자수": 123,
         "사망자수": 1,
         "완치자수": 116
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "확진자수": 121,
-        "사망자수": 1,
-        "완치자수": 32
     },
     {
         "Name": "Antigua and Barbuda",

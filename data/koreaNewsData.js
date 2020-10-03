@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017244&ref=A"
     },
     {
-        "title": "[속보] 확진자 속출 부산 만덕동 일대 5일부터 전 학년 원격수업",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100320110101069"
-    },
-    {
         "title": "방역당국 \"추석연휴 귀성·귀경객 중 코로나19 확진자 2명 확인\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
     {
         "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
+    },
+    {
+        "title": "[속보] 확진자 속출 부산 만덕동 일대 5일부터 전 학년 원격수업",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100320110101069"
     },
     {
         "title": "코로나19 확진자 경주와 상주에서 각각 1명씩 발생",

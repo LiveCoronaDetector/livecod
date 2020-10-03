@@ -21,7 +21,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
-        "title": "Trump will come through Covid well, says Boris Johnson – live news",
+        "title": "Coronavirus live news: Boris Johnson says Trump will come through Covid well",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/trump-taken-to-walter-reed-hospital-for-tests-following-covid-19-diagnosis-212316884.html"
     },
     {
-        "title": "Where is China’s accountability in the coronavirus crisis?",
-        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
+        "title": "World Reacts to Trump’s Coronavirus Infection With Shock and Unease",
+        "link": "https://www.nytimes.com/2020/10/02/world/europe/global-voices-trump-coronavirus-positive.html"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
-        "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
-        "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     }
 ];
