@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 positive test",
+        "title": "Trump flown to hospital after positive Covid-19 test",
         "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
@@ -21,16 +21,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
-        "title": "Where is China’s accountability in the coronavirus crisis?",
-        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
-    },
-    {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
-    },
-    {
-        "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
-        "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
+        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
+        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "Shock, sympathy, mockery: World reacts to Trump infection",
@@ -39,5 +31,13 @@ var worldNewsData = [
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
+        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
     }
 ];

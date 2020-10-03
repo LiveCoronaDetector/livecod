@@ -5,20 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002048651530?did=1195m"
     },
     {
-        "title": "“귀성·귀경객 중 코로나19 확진자 2명 확인”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017214&ref=A"
+        "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
+    },
+    {
+        "title": "추석 연휴 귀성·귀경객 중 확진자 2명 확인",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100200011"
     },
     {
         "title": "방역당국 \"추석 연휴 귀성·귀경객 중 코로나 확진자 2명 확인\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
-    },
-    {
-        "title": "코로나 19 신규 확진자 75명…사흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964253.html"
     },
     {
         "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
@@ -29,6 +25,10 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1304000"
     },
     {
+        "title": "코로나19 확진자 경주와 상주에서 각각 1명씩 발생",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
+    },
+    {
         "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.womennews.co.kr/news/articleView.html?idxno=202841"
     },
     {
-        "title": "'입원환자 코로나19 확진' 부산 온종합병원, 16일까지 코호트 격리",
+        "title": "'입원환자 코로나19 확진' 부산 온종합병원 6병동 16일까지 코호트 격리",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100314184416822"
     }
 ];

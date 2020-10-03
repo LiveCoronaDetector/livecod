@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
     },
     {
+        "title": "제주, 112일만에 코로나 환자 0명",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351424"
+    },
+    {
         "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
         "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016993&ref=A"
     },
     {
-        "title": "제주 찾은 추캉스 입도객 약 20만명…코로나 확진자 없어",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
-    },
-    {
-        "title": "'20만명 제주로' 현재까지 코로나19 확진자 없다",
-        "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
+        "title": "제주, 1일 기준 우려했던 코로나19 확진자 발생 없었다",
+        "link": "https://view.asiae.co.kr/article/2020100211072729178"
     }
 ];
