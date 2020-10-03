@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017244&ref=A"
     },
     {
+        "title": "[속보] 확진자 속출 부산 만덕동 일대 5일부터 전 학년 원격수업",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100320110101069"
+    },
+    {
         "title": "방역당국 \"추석연휴 귀성·귀경객 중 코로나19 확진자 2명 확인\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390044.html"
     },
     {
+        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
+        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
+    },
+    {
         "title": "지인 모임-요양원 등 수도권-부산 코로나19 산발적 감염 지속(종합)",
         "link": "http://yna.kr/AKR20201003035651530?did=1195m"
-    },
-    {
-        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
     }
 ];
