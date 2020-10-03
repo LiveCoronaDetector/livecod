@@ -5,12 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002048651530?did=1195m"
     },
     {
-        "title": "사흘째 두자릿수 확진···추석 끝나면 확진자 다시 늘까(종합)",
-        "link": "https://www.sedaily.com/NewsView/1Z8ZKC6DOA"
+        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "\"추석 연휴 귀성·귀경객 중 코로나 확진자 2명 확인\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006007293&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
+    },
+    {
+        "title": "코로나19 확진자 사흘째 100명 아래…수도권 집중 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086625929312"
     },
     {
         "title": "코로나 19 신규 확진자 75명…사흘 연속 두 자릿수",
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
     },
     {
-        "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01476006625929312"
-    },
-    {
-        "title": "인천, 코로나19 확진자 5명 추가 발생",
-        "link": "http://www.kyeongin.com/main/view.php?key=20201003010000067"
-    },
-    {
-        "title": "코로나19 확진자 경주와 상주에서 각각 1명씩 발생",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
-    },
-    {
-        "title": "코로나 신규 확진자 75명, 국내 52명·해외유입 23명(종합)",
-        "link": "http://www.fnnews.com/news/202010031002056528"
+        "title": "다나병원서 코로나19 확진자 11명 추가 발생",
+        "link": "http://www.viva100.com/main/view.php?key=20201003010000101"
     },
     {
         "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
         "link": "http://www.inews24.com/view/1304000"
+    },
+    {
+        "title": "[속보] “추석 귀성·귀경객 중 확진자 2명…모두 부산”",
+        "link": "http://www.segye.com/content/html/2020/10/03/20201003510028.html?OutUrl=naver"
     }
 ];
