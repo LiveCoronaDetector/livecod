@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/trump-taken-to-walter-reed-hospital-for-tests-following-covid-19-diagnosis-212316884.html"
     },
     {
-        "title": "World Reacts to Trump’s Coronavirus Infection With Shock and Unease",
-        "link": "https://www.nytimes.com/2020/10/02/world/europe/global-voices-trump-coronavirus-positive.html"
-    },
-    {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    },
+    {
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     }
 ];

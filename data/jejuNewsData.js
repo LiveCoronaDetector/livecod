@@ -13,8 +13,8 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
     },
     {
-        "title": "'추캉스' 25만명 찾은 제주...코로나 확진자 '0' 유지중",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320709"
+        "title": "추석 연휴 나흘 째 25만 입도 제주도 방역당국 '긴장의 연속'",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326201"
     },
     {
         "title": "[코로나가 산업 지형을 바꾼다] 코로나가 바꾼 일상",
