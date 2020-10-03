@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100317162059828"
     },
     {
+        "title": "[단독] 강경화 장관 배우자, ‘코로나’에도 미국 여행…목적은 요트 구입",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017244&ref=A"
+    },
+    {
         "title": "방역당국 \"추석연휴 귀성·귀경객 중 코로나19 확진자 2명 확인\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
@@ -25,12 +29,8 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390044.html"
     },
     {
-        "title": "코로나19 신규 확진 75명…“연휴 막바지 방심 금물”",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017199&ref=A"
-    },
-    {
-        "title": "확진자 75명…수도권-부산 산발적 감염 지속",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20201003008200038/?did=1825m"
+        "title": "추석 연휴 나흘간 38명 확진자 나온 부산…도대체 무슨 일이",
+        "link": "https://www.news1.kr/articles/?4076084"
     },
     {
         "title": "지인 모임-요양원 등 수도권-부산 코로나19 산발적 감염 지속(종합)",

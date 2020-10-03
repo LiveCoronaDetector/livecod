@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
+        "title": "India passes grim milestone of 100,000 COVID-19 deaths",
+        "link": "https://www.aljazeera.com/news/2020/10/3/india-grim-coronavirus-death-toll-as-it-passes-100000-deaths"
     },
     {
-        "title": "Trump treated for Covid with remdesivir in hospital as allies test positive – live news",
+        "title": "Trump will come through Covid well, says Boris Johnson – live news",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
-        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
+        "title": "Trump in hospital after COVID-19 diagnosis",
+        "link": "https://news.yahoo.com/trump-taken-to-walter-reed-hospital-for-tests-following-covid-19-diagnosis-212316884.html"
+    },
+    {
+        "title": "Where is China’s accountability in the coronavirus crisis?",
+        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
-        "link": "https://news.google.com/articles/CAIiEJvUiSEtUoxJQAGsSmQsDA4qGQgEKhAIACoHCAowocv1CjCSptoCMI29pgU?hl=en-US&gl=US&ceid=US%3Aen"
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     }
 ];
