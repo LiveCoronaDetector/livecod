@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "'The Donald Trump Show' is a crazy-making script",
-        "link": "https://www.latimes.com/entertainment-arts/story/2020-10-03/trump-tests-positive-covid-tax-returns"
-    },
-    {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "Before Trump, another US president downplayed a pandemic and was infected",
+        "link": "https://www.cnn.com/2020/10/03/us/woodrow-wilson-coronavirus-trnd/index.html"
     }
 ];
