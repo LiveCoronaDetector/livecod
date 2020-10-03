@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 positive test",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
+        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
         "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Live Trump Coronavirus Tracker: The Latest",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "link": "https://news.google.com/articles/CAIiEI_u-2Y8FEhdX8IjrS8rc2oqFwgEKg8IACoHCAowjuuKAzCWrzwwt4QY?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "China's 1st reaction as Trump tests positive | World News",

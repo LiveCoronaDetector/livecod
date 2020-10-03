@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
     },
     {
-        "title": "제주 코로나 확진자 모두 퇴원 ...고강도 방역 유지",
-        "link": "https://www.ytn.co.kr/_ln/0115_202010031021471394"
+        "title": "'20만명 제주로' 현재까지 코로나19 확진자 없다",
+        "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
     },
     {
-        "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",
-        "link": "http://www.viva100.com/main/view.php?key=20201002010000092"
+        "title": "제주행 추캉스 '절정' 1일까지 20만명↑…신규 확진자 제로",
+        "link": "http://www.fnnews.com/news/202010020146221245"
     }
 ];

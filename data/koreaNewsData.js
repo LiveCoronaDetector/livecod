@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002048651530?did=1195m"
     },
     {
-        "title": "코로나19 확진자 사흘째 100명 아래…수도권 집중 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086625929312"
+        "title": "사흘째 두자릿수 확진···추석 끝나면 확진자 다시 늘까(종합)",
+        "link": "https://www.sedaily.com/NewsView/1Z8ZKC6DOA"
     },
     {
         "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
@@ -17,27 +17,27 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964253.html"
     },
     {
-        "title": "인천, 코로나19 확진자 5명 추가 발생",
-        "link": "http://www.kyeongin.com/main/view.php?key=20201003010000067"
+        "title": "코로나19 신규확진자 75명…사흘째 두자릿수 그쳐",
+        "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
     },
     {
         "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01476006625929312"
     },
     {
-        "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
-        "link": "http://www.inews24.com/view/1304000"
-    },
-    {
-        "title": "코로나19 신규확진자 75명…사흘째 두자릿수 그쳐",
-        "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
+        "title": "인천, 코로나19 확진자 5명 추가 발생",
+        "link": "http://www.kyeongin.com/main/view.php?key=20201003010000067"
     },
     {
         "title": "코로나19 확진자 경주와 상주에서 각각 1명씩 발생",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
+        "title": "코로나 신규 확진자 75명, 국내 52명·해외유입 23명(종합)",
+        "link": "http://www.fnnews.com/news/202010031002056528"
+    },
+    {
+        "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
+        "link": "http://www.inews24.com/view/1304000"
     }
 ];
