@@ -9,12 +9,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
     },
     {
-        "title": "추석 연휴 귀성·귀경객 중 확진자 2명 확인",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100200011"
-    },
-    {
-        "title": "방역당국 \"추석 연휴 귀성·귀경객 중 코로나 확진자 2명 확인\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "방역당국 \"추석연휴 귀성·귀경객 中 코로나19 확진자 2명 확인\"",
+        "link": "http://news.heraldcorp.com/view.php?ud=20201003000072"
     },
     {
         "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[속보] 충주서 80대 코로나19 확진…30일부터 폐렴 증상",
-        "link": "https://www.hankyung.com/life/article/2020100300737"
+        "title": "방역당국 \"추석연휴 귀성·귀경객 중 코로나19 확진자 2명 확인\"",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
     {
         "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
+    },
+    {
+        "title": "'입원환자 코로나19 확진' 부산 온종합병원 6병동 16일까지 코호트 격리",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100314184416822"
     },
     {
         "title": "코로나19 신규확진 75명, 지역발생 52명…사흘 연속 두자릿수",
