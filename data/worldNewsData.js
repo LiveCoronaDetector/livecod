@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 positive test",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
+        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
     },
     {
         "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/europe/paris-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Shock, sympathy, mockery: World reacts to Trump testing Covid positive",
-        "link": "https://timesofindia.indiatimes.com/world/us/shock-sympathy-mockery-world-reacts-to-trump-testing-covid-positive/articleshow/78443594.cms"
+        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
         "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
-        "title": "World leaders react after President Trump and first lady test positive for coronavirus",
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
+        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
     }
 ];

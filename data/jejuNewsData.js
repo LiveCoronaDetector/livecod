@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     },
     {
+        "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
+        "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
+    },
+    {
         "title": "제주, 코로나19 59번째 확진자 퇴원...'입원 환자 0명'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
     },
     {
         "title": "코로나19 사흘째 두자릿수...개천절집회에 방역당국 ‘예의주시’",
         "link": "http://www.ekn.kr/news/article.html?no=526347"
-    },
-    {
-        "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
-        "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
     },
     {
         "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
     },
     {
-        "title": "'20만명 제주로' 현재까지 코로나19 확진자 없다",
-        "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
-    },
-    {
-        "title": "제주행 추캉스 '절정' 1일까지 20만명↑…신규 확진자 제로",
-        "link": "http://www.fnnews.com/news/202010020146221245"
+        "title": "제주 코로나 확진자 모두 퇴원 ...고강도 방역 유지",
+        "link": "https://www.ytn.co.kr/_ln/0115_202010031021471394"
     },
     {
         "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",
         "link": "http://www.viva100.com/main/view.php?key=20201002010000092"
+    },
+    {
+        "title": "제주, 112일만에 코로나 환자 0명",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351424"
     }
 ];
