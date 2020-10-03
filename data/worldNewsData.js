@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
     },
     {
-        "title": "Coronavirus live news: Tehran and Madrid adopt new lockdown measures as cases rise",
-        "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
-    },
-    {
         "title": "Schools and mosques closed in Tehran as COVID-19 infections rise",
         "link": "https://www.arabnews.com/node/1743706/middle-east"
+    },
+    {
+        "title": "Fines and business closures among new Iran COVID-19 restrictions",
+        "link": "https://www.todayonline.com/world/fines-and-business-closures-among-new-iran-covid-19-restrictions"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
