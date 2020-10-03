@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1304000"
     },
     {
-        "title": "[속보] “추석 귀성·귀경객 중 확진자 2명…모두 부산”",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003510028.html?OutUrl=naver"
-    },
-    {
         "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
+    },
+    {
+        "title": "[속보] “추석 귀성·귀경객 중 확진자 2명…모두 부산”",
+        "link": "http://www.segye.com/content/html/2020/10/03/20201003510028.html?OutUrl=naver"
     }
 ];

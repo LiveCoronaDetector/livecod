@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "Trump, stricken by Covid-19, flown to military hospital",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-presidential-elections/trump-stricken-by-covid-19-flown-to-military-hospital/articleshow/78455930.cms"
+        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
         "title": "Where is China’s accountability in the coronavirus crisis?",
         "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
+        "title": "Live Trump Coronavirus Tracker: The Latest",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+    },
+    {
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    },
+    {
         "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
         "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
     },
     {
-        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
-        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
-    },
-    {
-        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
-        "link": "https://www.cnn.com/videos/world/2020/10/02/world-reacts-trump-coronavirus-diagnosis-intl-ldn-vpx.cnn"
-    },
-    {
-        "title": "Countries plot changes to World Health Organization once pandemic recedes",
-        "link": "https://www.politico.com/news/2020/10/02/countries-plot-changes-at-the-world-health-organization-once-pandemic-recedes-425072"
+        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
+        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
     }
 ];
