@@ -13,24 +13,20 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/3/iran-to-implement-stricter-restrictions-as-covid-cases-mount"
     },
     {
-        "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54383548"
+        "title": "Coronavirus live news: big rise in infections in Italy; Tehran and Madrid impose new lockdown measures",
+        "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
         "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
         "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
-        "title": "Ex-Ukrainian President Petro Poroshenko hospitalized with Covid-19, diagnosed with 'bilateral pneumonia'",
-        "link": "https://www.rt.com/russia/502465-ukraine-poroshenko-hospitalized-covid19/"
+        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
+        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    },
-    {
-        "title": "Covid-19 Live Updates: Trump’s Symptoms Are Said to Be ‘Very Concerning’",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "Where is China’s accountability in the coronavirus crisis?",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
         "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
+    },
+    {
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     }
 ];
