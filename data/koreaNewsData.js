@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201003036000530?did=1195m"
     },
     {
+        "title": "\"젊은 층도 코로나19 안전하지 않다\"… \"적극방역 고수할 것\"",
+        "link": "https://view.asiae.co.kr/article/2020100317162059828"
+    },
+    {
         "title": "방역당국 \"추석연휴 귀성·귀경객 중 코로나19 확진자 2명 확인\"",
         "link": "https://imnews.imbc.com/news/2020/society/article/5929047_32633.html"
     },
@@ -17,8 +21,8 @@ var koreaNewsData = [
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002680944&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
     },
     {
-        "title": "[전문] 중랑구청 191번째 확진자 발생...면목본동",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382554"
+        "title": "감염력 우한의 10배…계속되는 변종 코로나 비상",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390044.html"
     },
     {
         "title": "코로나19 신규 확진 75명…“연휴 막바지 방심 금물”",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201003035651530?did=1195m"
     },
     {
-        "title": "[속보] 부산 8명 등 코로나19 어제 75명 신규확진…사흘째 두자릿수",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100309445402704"
-    },
-    {
-        "title": "코로나19 어제 75명 신규확진…사흘째 두 자릿수, 지역발생 52명(종합)",
-        "link": "http://yna.kr/AKR20201002048651530?did=1195m"
+        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
