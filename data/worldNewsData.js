@@ -6,38 +6,38 @@ var worldNewsData = [
     },
     {
         "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTQzOTY2NzDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01NDM5NjY3MA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
-        "link": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919706601/could-u-s-adversaries-exploit-americas-moment-of-confusion"
+        "link": "https://news.google.com/articles/CAIiEJMpVKBJxGaFzOV96wGCl_UqFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
         "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54383548"
+        "link": "https://news.google.com/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNTQzODM1NDjSATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLWV1cm9wZS01NDM4MzU0OA?hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-        "title": "India passes grim milestone of 100,000 COVID-19 deaths",
-        "link": "https://www.aljazeera.com/news/2020/10/3/india-grim-coronavirus-death-toll-as-it-passes-100000-deaths"
+        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
+        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
         "title": "Trump will come through Covid well, says Boris Johnson – live news",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Trump in hospital after COVID-19 diagnosis",
-        "link": "https://news.yahoo.com/trump-taken-to-walter-reed-hospital-for-tests-following-covid-19-diagnosis-212316884.html"
+        "title": "Expert panel recommends who should be first in line for COVID-19 vaccine. Where will your family be?",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/02/covid-vaccine-expert-panel-lays-out-which-americans-get-first-nih-cdc/5887107002/"
     },
     {
-        "title": "Where is China’s accountability in the coronavirus crisis?",
-        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
-    },
-    {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+        "title": "Kellyanne Conway announces she tested positive for coronavirus",
+        "link": "https://www.cnn.com/2020/10/02/politics/kellyanne-conway-positive-for-covid-19/index.html"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    },
+    {
+        "title": "Madrid Imposes Travel Restrictions Due to COVID-19",
+        "link": "https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm5vdmluaXRlLmNvbS9hcnRpY2xlcy8yMDYwODUvTWFkcmlkK0ltcG9zZXMrVHJhdmVsK1Jlc3RyaWN0aW9ucytEdWUrdG8rQ09WSUQtMTnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
     }
 ];

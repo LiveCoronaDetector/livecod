@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390044.html"
     },
     {
-        "title": "추석 연휴 나흘간 38명 확진자 나온 부산…도대체 무슨 일이",
-        "link": "https://www.news1.kr/articles/?4076084"
-    },
-    {
         "title": "지인 모임-요양원 등 수도권-부산 코로나19 산발적 감염 지속(종합)",
         "link": "http://yna.kr/AKR20201003035651530?did=1195m"
     },
     {
         "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
     }
 ];
