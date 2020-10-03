@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.ekn.kr/news/article.html?no=526347"
     },
     {
+        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
+        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
+    },
+    {
         "title": "[코로나가 산업 지형을 바꾼다] 코로나가 바꾼 일상",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000997959?division=NAVER"
     },
     {
-        "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5016993&ref=A"
-    },
-    {
-        "title": "제주, 1일 기준 우려했던 코로나19 확진자 발생 없었다",
-        "link": "https://view.asiae.co.kr/article/2020100211072729178"
+        "title": "추석 연휴 나흘 째 25만 입도 제주도 방역당국 '긴장의 연속'",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326201"
     }
 ];

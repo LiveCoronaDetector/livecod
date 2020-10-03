@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "Trump flown to hospital after positive Covid-19 test",
+        "title": "Trump flown to hospital after Covid-19 diagnosis",
         "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
-        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
-        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
+        "title": "Coronavirus live news: Trump treated with remdesivir in hospital as allies test positive to Covid",
+        "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
-        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
+        "title": "Solomon Islands has first case of Covid-19",
+        "link": "https://www.rnz.co.nz/international/pacific-news/427539/solomon-islands-has-first-case-of-covid-19"
+    },
+    {
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
-        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
     }
 ];
