@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Solomon Islands has first case of Covid-19",
-        "link": "https://www.rnz.co.nz/international/pacific-news/427539/solomon-islands-has-first-case-of-covid-19"
+        "title": "'Increasing level of concern': Trump hospitalized with Covid-19",
+        "link": "https://www.youtube.com/watch?v=y94hZuN5MfU"
+    },
+    {
+        "title": "President Donald Trump, First Lady test positive for Covid-19",
+        "link": "https://www.youtube.com/watch?v=PNq-aWOzhsg"
     },
     {
         "title": "Shock, sympathy, mockery: World reacts to Trump infection",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
-    },
-    {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     }
 ];

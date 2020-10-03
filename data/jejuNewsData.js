@@ -9,16 +9,24 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20201003043500056?did=1195m"
     },
     {
+        "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
+    },
+    {
+        "title": "'추캉스' 25만명 찾은 제주...코로나 확진자 '0' 유지중",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320709"
+    },
+    {
+        "title": "[코로나가 산업 지형을 바꾼다] 코로나가 바꾼 일상",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000997959?division=NAVER"
+    },
+    {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
     {
         "title": "추석 연휴 제주 관광객 30만명 넘어설 듯...\"코로나 확진자 없어\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/02/2020100200327.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
     },
     {
         "title": "제주, 112일만에 코로나 환자 0명",
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
     },
     {
-        "title": "[속보] ‘추캉스’ 25만명 몰린 제주, 현재까지 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512160.html?OutUrl=naver"
-    },
-    {
         "title": "제주, 코로나19 59번째 확진자 퇴원...'입원 환자 0명'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
-    },
-    {
-        "title": "코로나19 사흘째 두자릿수...개천절집회에 방역당국 ‘예의주시’",
-        "link": "http://www.ekn.kr/news/article.html?no=526347"
     }
 ];
