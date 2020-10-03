@@ -260,8 +260,8 @@ var marker = [
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "확진자수": 121059,
-        "사망자수": 10023,
+        "확진자수": 124234,
+        "사망자수": 10037,
         "완치자수": 19521
     },
     {
@@ -284,9 +284,9 @@ var marker = [
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "확진자수": 108044,
+        "확진자수": 108106,
         "사망자수": 1725,
-        "완치자수": 103028
+        "완치자수": 103110
     },
     {
         "Name": "쿠웨이트",
@@ -369,6 +369,14 @@ var marker = [
         "완치자수": 74982
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "확진자수": 78269,
+        "사망자수": 2386,
+        "완치자수": 28978
+    },
+    {
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
@@ -383,14 +391,6 @@ var marker = [
         "확진자수": 77829,
         "사망자수": 930,
         "완치자수": 42621
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "확진자수": 77598,
-        "사망자수": 2380,
-        "완치자수": 28517
     },
     {
         "Name": "포르투갈",
@@ -412,9 +412,9 @@ var marker = [
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "확진자수": 76029,
-        "사망자수": 635,
-        "완치자수": 66245
+        "확진자수": 76820,
+        "사망자수": 643,
+        "완치자수": 67216
     },
     {
         "Name": "바레인",
@@ -1332,9 +1332,9 @@ var marker = [
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "확진자수": 690,
+        "확진자수": 695,
         "사망자수": 6,
-        "완치자수": 648
+        "완치자수": 651
     },
     {
         "Name": "Channel Islands",
@@ -1348,9 +1348,9 @@ var marker = [
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "확진자수": 668,
+        "확진자수": 674,
         "사망자수": 22,
-        "완치자수": 567
+        "완치자수": 572
     },
     {
         "Name": "Papua New Guinea",

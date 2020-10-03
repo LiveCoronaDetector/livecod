@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0115_202010031021471394"
     },
     {
-        "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",
-        "link": "http://www.viva100.com/main/view.php?key=20201002010000092"
+        "title": "112일만에 ‘코로나 0명’ 제주…안도 속에서도 연휴 끝날 때까지 긴장",
+        "link": "https://news.joins.com/article/olink/23479807"
     },
     {
-        "title": "제주, 112일만에 코로나 환자 0명",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351424"
+        "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",
+        "link": "http://www.viva100.com/main/view.php?key=20201002010000092"
     }
 ];

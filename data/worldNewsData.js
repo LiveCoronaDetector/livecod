@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919706601/could-u-s-adversaries-exploit-americas-moment-of-confusion"
     },
     {
-        "title": "Paris at risk of total lockdown as Europe cases rise",
-        "link": "https://www.cnn.com/2020/10/02/europe/paris-lockdown-coronavirus-europe-intl/index.html"
+        "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
+        "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "Trump, stricken by Covid-19, flown to military hospital",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-presidential-elections/trump-stricken-by-covid-19-flown-to-military-hospital/articleshow/78455930.cms"
+        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
+        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
     },
     {
         "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "Live Trump Coronavirus Tracker: The Latest",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus/news-that-the-president-contracted-the-virus-leaves-the-world-shaken"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
