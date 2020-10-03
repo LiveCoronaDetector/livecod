@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.arabnews.com/node/1743706/middle-east"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
