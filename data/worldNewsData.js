@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
-        "title": "5 things to know for October 2: Covid-19, election, economy, police violence, Syria",
-        "link": "https://www.cnn.com/2020/10/02/us/five-things-october-2-trnd/index.html"
+        "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
+        "link": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919706601/could-u-s-adversaries-exploit-americas-moment-of-confusion"
     },
     {
         "title": "Paris at risk of total lockdown as Europe cases rise",
@@ -21,12 +21,16 @@ var worldNewsData = [
         "link": "https://timesofindia.indiatimes.com/world/us/shock-sympathy-mockery-world-reacts-to-trump-testing-covid-positive/articleshow/78443594.cms"
     },
     {
-        "title": "Hold China accountable for Trump contracting coronavirus: Sen. Loeffler",
-        "link": "https://www.foxnews.com/politics/trump-coronavirus-china-accountable-loeffler"
+        "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
+        "link": "https://www.bbc.com/news/world-australia-54381811"
     },
     {
         "title": "Live Trump Coronavirus Tracker: The Latest",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus/news-that-the-president-contracted-the-virus-leaves-the-world-shaken"
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+    },
+    {
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "World leaders react after President Trump and first lady test positive for coronavirus",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
-        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
-        "link": "https://www.cnn.com/videos/world/2020/10/02/world-reacts-trump-coronavirus-diagnosis-intl-ldn-vpx.cnn"
     }
 ];

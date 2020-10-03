@@ -13,6 +13,14 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=428938"
     },
     {
+        "title": "코로나19 사흘째 두자릿수...개천절집회에 방역당국 ‘예의주시’",
+        "link": "http://www.ekn.kr/news/article.html?no=526347"
+    },
+    {
+        "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
+        "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
+    },
+    {
         "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016993&ref=A"
     },
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010020146221245"
     },
     {
-        "title": "제주 찾은 '추캉스족' 20만명 돌파…코로나19 확진자 없어",
-        "link": "https://www.news1.kr/articles/?4075525"
-    },
-    {
-        "title": "코로나19 신규 확진자 63명 발생…지역발생 53명",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=206766"
-    },
-    {
-        "title": "코로나 효과적인 통제 제주…그 뒤엔 평범한 그들이 있었다",
-        "link": "https://www.news1.kr/articles/?4073837"
+        "title": "추석 황금 연휴 이후 코로나19 방역 난점 세 가지",
+        "link": "http://www.viva100.com/main/view.php?key=20201002010000092"
     }
 ];
