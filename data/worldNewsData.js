@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    },
-    {
         "title": "Covid-19 Live Updates: Trump’s Symptoms Are Said to Be ‘Very Concerning’",
         "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
-        "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
-        "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
