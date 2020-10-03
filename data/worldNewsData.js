@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
+        "title": "Live updates: Press conference with Trump’s doctor raises questions about timeline of diagnosis, treatment",
+        "link": "https://www.washingtonpost.com/elections/2020/10/03/trump-covid-live-updates/"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
-        "title": "Before Trump, another US president downplayed a pandemic and was infected",
-        "link": "https://www.cnn.com/2020/10/03/us/woodrow-wilson-coronavirus-trnd/index.html"
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     }
 ];
