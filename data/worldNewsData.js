@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
         "title": "China's 1st reaction as Trump tests positive | World News",
         "link": "https://www.youtube.com/watch?v=1H3Qmd-lzbw"
+    },
+    {
+        "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
+        "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
