@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
-        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
+        "title": "India passes grim milestone of 100,000 COVID-19 deaths",
+        "link": "https://www.aljazeera.com/news/2020/10/3/india-grim-coronavirus-death-toll-as-it-passes-100000-deaths"
     },
     {
         "title": "Coronavirus live news: Boris Johnson says Trump will come through Covid well",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "Trump in hospital after COVID-19 diagnosis",
-        "link": "https://news.yahoo.com/trump-taken-to-walter-reed-hospital-for-tests-following-covid-19-diagnosis-212316884.html"
+        "title": "'Increasing level of concern': Trump hospitalized with Covid-19",
+        "link": "https://www.youtube.com/watch?v=y94hZuN5MfU"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "title": "With Trump hospitalized, more Covid cases emerge in White House and campaign",
+        "link": "https://www.cnn.com/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
     }
 ];
