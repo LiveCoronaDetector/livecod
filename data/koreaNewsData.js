@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201002048651530?did=1195m"
     },
     {
-        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "“귀성·귀경객 중 코로나19 확진자 2명 확인”",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017214&ref=A"
     },
     {
-        "title": "\"추석 연휴 귀성 · 귀경객 중 코로나 확진자 2명 확인\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006007293&plink=ORI&cooper=NAVER"
+        "title": "방역당국 \"추석 연휴 귀성·귀경객 중 코로나 확진자 2명 확인\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300460.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
+        "title": "코로나19 어제 신규확진자 75명…사흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000221976"
     },
     {
         "title": "코로나 19 신규 확진자 75명…사흘 연속 두 자릿수",
@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01476006625929312"
     },
     {
-        "title": "코로나19 신규확진자 75명…사흘째 두자릿수 그쳐",
-        "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
-    },
-    {
         "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
         "link": "http://www.inews24.com/view/1304000"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
     },
     {
-        "title": "[속보] “추석 귀성·귀경객 중 확진자 2명…모두 부산”",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003510028.html?OutUrl=naver"
+        "title": "코로나19 신규확진 75명, 지역발생 52명…사흘 연속 두자릿수",
+        "link": "http://www.womennews.co.kr/news/articleView.html?idxno=202841"
+    },
+    {
+        "title": "'입원환자 코로나19 확진' 부산 온종합병원, 16일까지 코호트 격리",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100314184416822"
     }
 ];

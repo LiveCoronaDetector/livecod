@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://www.ekn.kr/news/article.html?no=526347"
     },
     {
+        "title": "[코로나가 산업 지형을 바꾼다] 코로나가 바꾼 일상",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000997959?division=NAVER"
+    },
+    {
         "title": "입도객 20만 명 ↑…코로나19 확진자 아직 없어",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5016993&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'20만명 제주로' 현재까지 코로나19 확진자 없다",
         "link": "http://www.ihalla.com/read.php3?aid=1601559394693221073"
-    },
-    {
-        "title": "제주행 추캉스 '절정' 1일까지 20만명↑…신규 확진자 제로",
-        "link": "http://www.fnnews.com/news/202010020146221245"
     }
 ];

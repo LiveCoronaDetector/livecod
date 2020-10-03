@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
-        "title": "Live Trump Coronavirus Tracker: The Latest",
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
-    },
-    {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
         "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
         "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
     },
     {
-        "title": "The World Shudders as President Trump Tests Positive for Covid-19",
-        "link": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html"
+        "title": "Shock, sympathy, mockery: World reacts to Trump infection",
+        "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
+    },
+    {
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     }
 ];
