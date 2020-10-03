@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/3/iran-to-implement-stricter-restrictions-as-covid-cases-mount"
     },
     {
-        "title": "Coronavirus live news: big rise in infections in Italy; Tehran and Madrid impose new lockdown measures",
+        "title": "Coronavirus live news: nearly 13,000 new UK cases in one day; large rise in infections in Italy",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
-        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
+        "title": "India’s Covid-19 Death Toll Passes 100,000",
+        "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
     },
     {
         "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
