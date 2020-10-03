@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964253.html"
     },
     {
+        "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
+        "link": "http://www.inews24.com/view/1304000"
+    },
+    {
         "title": "서울 다나병원, 코로나19 확진자 11명 추가 발생..46명으로 늘어",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01476006625929312"
     },
     {
-        "title": "코로나 신규 확진자 75명, 국내 52명·해외유입 23명(종합)",
-        "link": "http://www.fnnews.com/news/202010031002056528"
+        "title": "코로나19 신규확진자 75명…사흘째 두자릿수 그쳐",
+        "link": "https://www.dailian.co.kr/news/view/924127/?sc=Naver"
     },
     {
         "title": "코로나19 신규 확진자 75명...사흘 연속 두자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010031200075279"
     },
     {
-        "title": "[전문] 성북구청 340번째 확진자 발생..종암동 거주",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382537"
+        "title": "[전문] 광명시청 125번째 확진자 발생...학온동 거주",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=382541"
     },
     {
         "title": "코로나19 확진자 사흘째 100명 아래…수도권 집중 지속(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01430086625929312"
     },
     {
-        "title": "코로나19 어제 75명 신규확진 사흘째 두 자릿수",
-        "link": "http://www.dongascience.com/news/view/40268"
-    },
-    {
-        "title": "코로나19 어제 75명 신규확진…사흘째 두 자릿수, 지역발생 52명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5928871_32633.html"
+        "title": "코로나 신규 확진 75명…지역발생 52명, 사흘째 두자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/03/2020100300117.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
