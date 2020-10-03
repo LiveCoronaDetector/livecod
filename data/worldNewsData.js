@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-africa-mortality-i/puzzled-scientists-seek-reasons-behind-africas-low-fatality-rates-from-pandemic-idUSKBN26K0AI"
     },
     {
-        "title": "China state-run media honcho: Trump 'paid the price,' coronavirus diagnosis will hurt United States' image",
-        "link": "https://www.foxnews.com/media/china-media-trump-coronavirus"
+        "title": "Trump flown to hospital after Covid-19 positive test",
+        "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
         "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/europe/paris-lockdown-coronavirus-europe-intl/index.html"
     },
     {
-        "title": "Kids And Superspreaders Are Driving COVID-19 Cases In India, Huge Study Finds",
-        "link": "https://www.npr.org/sections/goatsandsoda/2020/10/01/919237103/kids-and-superspreaders-are-driving-covid-19-cases-in-india-huge-study-finds"
+        "title": "Trump, stricken by Covid-19, flown to military hospital",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-presidential-elections/trump-stricken-by-covid-19-flown-to-military-hospital/articleshow/78455930.cms"
     },
     {
         "title": "Coronavirus: Australia opens 'travel zone' to New Zealanders",
