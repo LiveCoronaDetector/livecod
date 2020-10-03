@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
-        "title": "'Increasing level of concern': Trump hospitalized with Covid-19",
-        "link": "https://www.youtube.com/watch?v=y94hZuN5MfU"
+        "title": "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'",
+        "link": "https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
     },
     {
-        "title": "President Donald Trump, First Lady test positive for Covid-19",
-        "link": "https://www.youtube.com/watch?v=PNq-aWOzhsg"
+        "title": "What happened in the days leading up to Trump's COVID-19 diagnosis?",
+        "link": "https://www.youtube.com/watch?v=jmSsVixS4uE"
     },
     {
         "title": "Shock, sympathy, mockery: World reacts to Trump infection",
