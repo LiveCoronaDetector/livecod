@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "Covid: Donald Trump and Melania test positive",
+        "link": "https://www.bbc.com/news/world-us-canada-54381848"
     },
     {
         "title": "Iran to implement stricter restrictions as COVID-19 cases mount",
         "link": "https://www.aljazeera.com/news/2020/10/3/iran-to-implement-stricter-restrictions-as-covid-cases-mount"
     },
     {
-        "title": "Coronavirus live news: confusion over number of new UK cases; large rise in infections in Italy",
+        "title": "Coronavirus live news: big rise in infectioins in Italy; Tehran and Madrid impose new lockdown measures",
         "link": "https://www.theguardian.com/world/live/2020/oct/03/coronavirus-live-news-australia-sydney-melbourne-victoria-who-rapid-covid-19-test-donald-trump-positiveglobal-news-latest-updates"
     },
     {
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
-        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
-        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
+        "title": "Op-Ed: Trump's coronavirus diagnosis provides China with fresh gains",
+        "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
         "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
