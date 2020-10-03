@@ -9,24 +9,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
-        "title": "Could U.S. Adversaries Exploit America's Moment Of Confusion?",
-        "link": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919706601/could-u-s-adversaries-exploit-americas-moment-of-confusion"
+        "title": "Iran to implement stricter restrictions as COVID-19 cases mount",
+        "link": "https://www.aljazeera.com/news/2020/10/3/iran-to-implement-stricter-restrictions-as-covid-cases-mount"
     },
     {
         "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "India’s Covid-19 Death Toll Passes 100,000",
-        "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
+        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
+        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
-        "title": "Schools and mosques closed in Tehran as COVID-19 infections rise",
-        "link": "https://www.arabnews.com/node/1743706/middle-east"
-    },
-    {
-        "title": "Fines and business closures among new Iran COVID-19 restrictions",
-        "link": "https://www.todayonline.com/world/fines-and-business-closures-among-new-iran-covid-19-restrictions"
+        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
+        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
         "title": "World leaders react after President Trump, first lady test positive for coronavirus",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
