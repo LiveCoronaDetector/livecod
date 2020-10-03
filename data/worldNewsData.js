@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
-        "title": "Where is China’s accountability in the coronavirus crisis?",
-        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
+        "title": "Covid-19 Live Updates: Trump’s Symptoms Are Said to Be ‘Very Concerning’",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
