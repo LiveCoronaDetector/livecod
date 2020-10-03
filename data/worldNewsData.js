@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "India’s Covid-19 Death Toll Passes 100,000",
-        "link": "https://www.nytimes.com/2020/10/03/world/asia/india-coronavirus-deaths.html"
+        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
+        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
     },
     {
         "title": "Ex-Ukrainian President Petro Poroshenko hospitalized with Covid-19, diagnosed with 'bilateral pneumonia'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+        "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
+        "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     }
 ];
