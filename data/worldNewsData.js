@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Live updates: Press conference with Trump’s doctor raises questions about timeline of diagnosis, treatment",
-        "link": "https://www.washingtonpost.com/elections/2020/10/03/trump-covid-live-updates/"
+        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     },
     {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
