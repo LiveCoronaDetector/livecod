@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     },
     {
+        "title": "Covid-19 Live Updates: Trump’s Symptoms Are Said to Be ‘Very Concerning’",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
+    },
+    {
         "title": "Where is China’s accountability in the coronavirus crisis?",
         "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
     },
     {
         "title": "Boris Johnson, Vladimir Putin, and other world leaders to Trump’s coronavirus test",
         "link": "https://www.vox.com/2020/10/2/21499004/trump-coronavirus-test-world-reaction"
-    },
-    {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
     }
 ];
