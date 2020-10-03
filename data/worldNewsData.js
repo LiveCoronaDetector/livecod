@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.rnz.co.nz/international/pacific-news/427539/solomon-islands-has-first-case-of-covid-19"
     },
     {
-        "title": "Where is China’s accountability in the coronavirus crisis?",
-        "link": "https://www.foxnews.com/world/where-is-chinas-accountability-in-the-coronavirus-crisis"
-    },
-    {
         "title": "Shock, sympathy, mockery: World reacts to Trump infection",
         "link": "https://www.politico.com/news/2020/10/02/trump-coronavirus-world-reacts-424999"
     },
     {
-        "title": "'Thanks for the chaos': Madrid returns to lockdown",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-spain-madrid/thanks-for-the-chaos-madrid-returns-to-lockdown-idUSKBN26N1QS"
+        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
+        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+    },
+    {
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     }
 ];

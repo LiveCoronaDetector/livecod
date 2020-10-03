@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://yna.kr/AKR20201003043500056?did=1195m"
     },
     {
-        "title": "[속보] ‘추캉스’ 25만명 몰린 제주, 현재까지 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512160.html?OutUrl=naver"
-    },
-    {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     },
@@ -31,6 +27,10 @@ var jejuNewsData = [
     {
         "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
         "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
+    },
+    {
+        "title": "[속보] ‘추캉스’ 25만명 몰린 제주, 현재까지 확진자 ‘0’",
+        "link": "http://www.segye.com/content/html/2020/10/03/20201003512160.html?OutUrl=naver"
     },
     {
         "title": "제주, 코로나19 59번째 확진자 퇴원...'입원 환자 0명'",
