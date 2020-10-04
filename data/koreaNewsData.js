@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201004_0001185675&cID=10808&pID=10800"
     },
     {
-        "title": "코로나19 신규 확진 64명...나흘 연속 두자릿수에도 불안 계속 (종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201004500016&wlog_tag3=naver"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 64명, 나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
+        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
     },
     {
         "title": "코로나19 신규확진자 64명…나흘 연속 두 자릿수",
         "link": "https://www.dailian.co.kr/news/view/924222/?sc=Naver"
+    },
+    {
+        "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
     },
     {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017214&ref=A"
     },
     {
-        "title": "할머니 집 방문한 30대 코로나 감염…인천서 4명 추가 확진",
-        "link": "https://www.hankyung.com/life/article/2020100415807"
+        "title": "포천 육군 병사 3명 코로나19 확진…부대 전수조사",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006007812&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 어제 64명 신규확진…나흘째 두자릿수, 지역발생 47명",
-        "link": "http://www.munhwa.com/news/view.html?no=20201004MW10003767409"
+        "title": "코로나19 어제 64명 신규확진…지역발생 47명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
     }
 ];

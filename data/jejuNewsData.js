@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
     {
-        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
-        "link": "http://www.lkp.news/news/article.html?no=10704"
-    },
-    {
         "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
@@ -33,11 +29,15 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010041545348600"
     },
     {
+        "title": "추석에 28만명 찾은 제주, 코로나19 확진자 0명...“긴장 늦추지 않겠다”",
+        "link": "https://www.vop.co.kr/A00001516571.html"
+    },
+    {
         "title": "제주시, \"추캉스족 25만명 조마조마…현재까지 확진자없어\"",
         "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=234247"
     },
     {
-        "title": "추캉스족 27만명 다녀 간 제주… 현재까지 확진자 없어",
-        "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
+        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
+        "link": "http://www.lkp.news/news/article.html?no=10704"
     }
 ];
