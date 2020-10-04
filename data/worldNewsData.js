@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
+        "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+        "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
+        "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
-        "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
+        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     }
 ];
