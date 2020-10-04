@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/03/us/coronavirus-united-states.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
+        "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
-        "title": "Coronavirus live news: close to 35m cases worldwide; 10,499 new infections in Russia",
+        "title": "Coronavirus live news: global cases pass 35 million; 10,499 new infections in Russia",
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
