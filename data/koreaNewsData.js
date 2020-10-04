@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
-        "title": "추석연휴 내내 코로나19 확진자 두자릿수…수도권 집중 지속(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625929640"
-    },
-    {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
     },
     {
+        "title": "간호사들 일주일에 3명꼴 코로나19 감염, 보호대책 마련 시급",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041522001&code=940100"
+    },
+    {
         "title": "포천 육군 병사 3명 코로나19 확진…부대 전수조사",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006007812&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "국내 코로나 첫 발생 이후 의료진 159명 감염...간호사 64% 차지",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/04/2020100400676.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "[속보] 4일 신규 코로나 확진 64명…대구 0명·경북 3명",
+        "link": "https://news.imaeil.com/Society/2020100409434075682"
     }
 ];
