@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "New coronavirus cases are on the decline in only three US states",
+        "title": "Only three US states are reporting declines in new coronavirus cases",
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {

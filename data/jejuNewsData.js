@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
-        "title": "추석연휴 '28만명 방문' 제주 코로나19 확진자 '0'",
-        "link": "http://www.ihalla.com/read.php3?aid=1601791783693285073"
-    },
-    {
         "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
+    },
+    {
+        "title": "추석연휴 '28만명 방문' 제주 코로나19 확진자 '0'",
+        "link": "http://www.ihalla.com/read.php3?aid=1601791783693285073"
     },
     {
         "title": "추캉스족 28만명 다녀 간 제주, 4일까지 확진자 제로…5일부터 위험 관리기간",
@@ -25,19 +25,19 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
     },
     {
-        "title": "28만명 관광객 찾은 제주도, 코로나19 확진자 '0' 유지",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429025"
-    },
-    {
-        "title": "추석연휴 28만명 찾은 제주…코로나19 확진자 없지만 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010042011015&code=620117"
-    },
-    {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
     },
     {
-        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
-        "link": "http://www.lkp.news/news/article.html?no=10704"
+        "title": "28만명 관광객 찾은 제주도, 코로나19 확진자 '0' 유지",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429025"
+    },
+    {
+        "title": "추캉스 28만명 몰린 제주…신규 확진자 10일째 '제로'",
+        "link": "http://www.fnnews.com/news/202010041545348600"
+    },
+    {
+        "title": "제주시, \"추캉스족 25만명 조마조마…현재까지 확진자없어\"",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=234247"
     }
 ];
