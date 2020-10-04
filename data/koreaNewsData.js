@@ -25,12 +25,12 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010042306224792"
     },
     {
-        "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
-        "link": "http://www.fnnews.com/news/202010041635565190"
-    },
-    {
         "title": "일본 패션의 거장 겐조, 코로나로 떠나다",
         "link": "https://www.chosun.com/international/europe/2020/10/05/B3HWNC5JGRDGHGOZDY5UGI7VHI/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
+        "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
         "title": "포천 군부대 코로나19 집단 감염…감염경로 오리무중",

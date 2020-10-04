@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
+        "title": "Covid-19: Live Trump Health Updates and Global News",
         "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+    },
+    {
+        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/oct/04/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
-        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
-        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
     }
 ];
