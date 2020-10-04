@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Sex on the beach leads to four fines for violating coronavirus rules",
-        "link": "https://www.jpost.com/israel-news/sex-on-the-beach-leads-to-four-fines-for-violating-coronavirus-regulations-644416"
+        "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
+        "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
     },
     {
         "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.ft.com/content/6a7289e6-45a5-410d-98c0-9977e4026af1"
     },
     {
-        "title": "Coronavirus live news: Russia's daily caseload passes 10,000 for first time since May",
-        "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
-    },
-    {
-        "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
-    },
-    {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
         "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
+    },
+    {
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
