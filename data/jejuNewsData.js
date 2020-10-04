@@ -5,16 +5,24 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
     },
     {
-        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
-        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
-    },
-    {
         "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
         "link": "http://www.lkp.news/news/article.html?no=10704"
     },
     {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
+    },
+    {
+        "title": "제주시, \"추캉스족 25만명 조마조마…현재까지 확진자없어\"",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=234247"
+    },
+    {
+        "title": "추캉스족 27만명 다녀 간 제주… 현재까지 확진자 없어",
+        "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
+    },
+    {
+        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
+        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
         "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주 찾은 추캉스 입도객 약 20만명…코로나 확진자 없어",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
-    },
-    {
-        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
-    },
-    {
-        "title": "제주시, \"추캉스족 25만명 조마조마…현재까지 확진자없어\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=234247"
     }
 ];
