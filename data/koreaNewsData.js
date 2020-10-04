@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
+        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
+    },
+    {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
@@ -27,10 +31,6 @@ var koreaNewsData = [
     {
         "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
         "link": "http://www.fnnews.com/news/202010041635565190"
-    },
-    {
-        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
     },
     {
         "title": "코로나19 신규 확진 64명 늘어…나흘 연속 두 자릿수",
