@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Coronavirus cabinet to convene, discuss next stage of lockdown",
+        "link": "https://www.jpost.com/health-science/coronavirus-for-nearly-five-days-percentage-of-positive-cases-declines-644443"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
