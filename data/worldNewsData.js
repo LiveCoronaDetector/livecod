@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
-        "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
-        "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
+        "title": "Sex on the beach leads to four fines for violating coronavirus rules",
+        "link": "https://www.jpost.com/israel-news/sex-on-the-beach-leads-to-four-fines-for-violating-coronavirus-regulations-644416"
     },
     {
         "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
+        "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
         "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
+        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
     }
 ];

@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 64명, 닷새째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
-    },
-    {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
         "title": "전북 130번, 131번째 확진자…폴란드 입국·확진자 접촉 (종합)",
         "link": "http://www.fnnews.com/news/202010041018503554"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 64명, 닷새째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     },
     {
         "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390002.html"
     },
     {
-        "title": "코로나19 어제 64명 신규확진…지역발생 47명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
+        "title": "[전문] 대구서, 추석 연휴 확진자 단 `2명`...배꼽시계 관련 `141명 음성`",
+        "link": "http://www.kbsm.net/default/index_view_page.php?idx=289106&part_idx=320"
     },
     {
-        "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
+        "title": "코로나19 어제 64명 신규확진…지역발생 47명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
     }
 ];
