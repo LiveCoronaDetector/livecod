@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.lkp.news/news/article.html?no=10704"
     },
     {
+        "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
+    },
+    {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
     },
@@ -21,23 +25,19 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
     },
     {
+        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
+        "link": "https://view.asiae.co.kr/article/2020100317540796929"
+    },
+    {
+        "title": "제주, 25만 추캉스족 입도…코로나19 확진자 없어",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20201003212554556146a9e4dd7f_30"
+    },
+    {
+        "title": "'추캉스' 25만명 찾은 제주...코로나 확진자 '0' 유지중",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=320709"
+    },
+    {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
-    },
-    {
-        "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
-    },
-    {
-        "title": "추석 연휴 나흘 째 25만 입도 제주도 방역당국 '긴장의 연속'",
-        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326201"
-    },
-    {
-        "title": "[코로나가 산업 지형을 바꾼다] 코로나가 바꾼 일상",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000997959?division=NAVER"
-    },
-    {
-        "title": "제주 찾은 추캉스 입도객 약 20만명…코로나 확진자 없어",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351421"
     }
 ];

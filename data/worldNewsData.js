@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
-    },
-    {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
-        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
+        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "Madrid Begins Partial Covid-19 Lockdown",
+        "link": "https://www.youtube.com/watch?v=Krhu4Uv20zI"
     }
 ];

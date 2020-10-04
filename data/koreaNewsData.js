@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004012951530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964283.html"
+        "title": "추석연휴 내내 코로나19 확진자 두자릿수…수도권 집중 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625929640"
     },
     {
-        "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
+        "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
         "title": "전북 130번, 131번째 확진자…폴란드 입국·확진자 접촉 (종합)",
         "link": "http://www.fnnews.com/news/202010041018503554"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 64명, 닷새째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
+        "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
-        "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
+        "title": "할머니 집 방문한 30대 코로나 감염…인천서 4명 추가 확진",
+        "link": "https://www.hankyung.com/life/article/2020100415807"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 64명, 나흘째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     },
     {
         "title": "“귀성·귀경객 중 코로나19 확진자 2명 확인”",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5017214&ref=A"
     },
     {
+        "title": "[속보] 전북 132번 코로나19 확진자 발생...전북 122번 n차 감염",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1311830"
+    },
+    {
         "title": "국내 코로나19 신규확진 75명…사흘째 두자릿수",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390002.html"
-    },
-    {
-        "title": "[전문] 대구서, 추석 연휴 확진자 단 `2명`...배꼽시계 관련 `141명 음성`",
-        "link": "http://www.kbsm.net/default/index_view_page.php?idx=289106&part_idx=320"
-    },
-    {
-        "title": "코로나19 어제 64명 신규확진…지역발생 47명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
     }
 ];
