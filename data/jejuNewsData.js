@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
+        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
+        "link": "http://www.lkp.news/news/article.html?no=10704"
+    },
+    {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
         "link": "http://yna.kr/AKR20201002028700056?did=1195m"
-    },
-    {
-        "title": "제주, 112일만에 코로나 환자 0명",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351424"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "We're paying a lot of attention to Trump's case, but the US just recorded the most daily COVID-19 infections in nearly 2 months",
+        "link": "https://www.usatoday.com/story/news/nation/2020/10/03/united-states-reports-highest-covid-cases-august/3610298001/"
     },
     {
         "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
-        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
+        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
+        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+        "title": "Donald Trump's positive coronavirus test puts him in the company of Boris Johnson and Jair Bolsonaro",
+        "link": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html"
     }
 ];

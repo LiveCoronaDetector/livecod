@@ -5,24 +5,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004012951530?did=1195m"
     },
     {
-        "title": "코로나 신규확진 64명, 나흘째 두 자릿수...지역발생 47명(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/04/2020100400301.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 64명…나흘째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 64명, 닷새째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
+        "title": "경남, 7일 만에 코로나19 신규 확진 1명 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201004_0001185471&cID=10812&pID=10800"
     },
     {
         "title": "전북 130번, 131번째 확진자…폴란드 입국·확진자 접촉 (종합)",
         "link": "http://www.fnnews.com/news/202010041018503554"
     },
     {
-        "title": "경남, 7일 만에 코로나19 신규 확진 1명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201004_0001185471&cID=10812&pID=10800"
+        "title": "[속보] 코로나19 신규 확진자 64명, 닷새째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     },
     {
         "title": "“귀성·귀경객 중 코로나19 확진자 2명 확인”",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
     },
     {
-        "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
+        "title": "국내 코로나19 신규확진 75명…사흘째 두자릿수",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/03/2020100390002.html"
     },
     {
-        "title": "[속보]코로나19 어제 64명 신규확진…지역발생 47명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
+        "title": "코로나19 신규 확진자 75명…사흘째 두자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017179&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진자 75명…국내발생 52명‧해외유입 23명",
+        "link": "http://www.inews24.com/view/1304000"
     }
 ];
