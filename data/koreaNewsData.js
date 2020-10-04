@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
+        "title": "포천 군부대서 병사 9명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20201004021551504?did=1195m"
+    },
+    {
         "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "거동불편 70대 확진자 목욕 도운 아들·손자도 코로나19 양성(종합)",
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진 64명 늘어…나흘 연속 두 자릿수",
-        "link": "https://www.donga.com/news/article/all/20201004/103228741/1"
     }
 ];
