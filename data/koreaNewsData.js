@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
+        "title": "日출신 패션 디자이너 다카다 겐조, 코로나19로 사망",
+        "link": "https://www.donga.com/news/article/all/20201005/103239517/1"
+    },
+    {
+        "title": "포천 군부대에서 병사 12명 코로나19 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010050113032319"
+    },
+    {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
@@ -21,23 +29,15 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     },
     {
-        "title": "일본 패션의 거장 겐조, 코로나로 떠나다",
-        "link": "https://www.chosun.com/international/europe/2020/10/05/B3HWNC5JGRDGHGOZDY5UGI7VHI/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "포천 군부대에서 병사 12명 코로나19 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010042306224792"
-    },
-    {
         "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
     },
     {
-        "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
-        "link": "http://www.fnnews.com/news/202010041635565190"
+        "title": "포천 군부대서 병사 9명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20201004021551504?did=1195m"
     },
     {
-        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
+        "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
+        "link": "http://www.fnnews.com/news/202010041635565190"
     }
 ];
