@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
+        "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
+        "link": "http://www.ekn.kr/news/article.html?no=526430"
+    },
+    {
         "title": "제주, 112일 만에 코로나19 환자 '0'…긴장 못 늦춰",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01574406625929312"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주, 112일만에 코로나 환자 0명",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351424"
-    },
-    {
-        "title": "[이슈레터] \"유럽 안 부러운 신의 한 수\" 신혼여행 성지 된 제주도",
-        "link": "https://hankookilbo.com/News/Read/A2020082414530001553?did=NA"
     }
 ];
