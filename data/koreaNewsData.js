@@ -9,7 +9,7 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015073534&code=61121111&cp=nv"
     },
     {
-        "title": "포천 육군 부대서 12명 코로나19 확진...“추가 확진자 가능성도” (종합)",
+        "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
     },
     {
@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004021551504?did=1195m"
     },
     {
-        "title": "코로나19 신규확진 64명, 연휴 나흘연속 두자리…지역발생 47명(종합)",
-        "link": "http://yna.kr/AKR20201004012951530?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
+    },
+    {
+        "title": "코로나19 신규확진 64명, 연휴 나흘연속 두자리…지역발생 47명(종합)",
+        "link": "http://yna.kr/AKR20201004012951530?did=1195m"
     },
     {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",

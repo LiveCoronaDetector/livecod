@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Live Updates: Trump Continues to Battle Covid-19 in Hospital as Questions Over Condition Mount",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+        "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
+        "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
-        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
+        "title": "Live Covid-19 Updates: Trump Diagnosis and Global News",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     }
 ];
