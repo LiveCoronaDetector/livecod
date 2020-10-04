@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "We're paying a lot of attention to Trump's case, but the US just recorded the most daily COVID-19 infections in nearly 2 months",
+        "link": "https://www.usatoday.com/story/news/nation/2020/10/03/united-states-reports-highest-covid-cases-august/3610298001/"
     },
     {
         "title": "Iran to implement stricter restrictions as COVID-19 cases mount",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54383548"
     },
     {
-        "title": "India's coronavirus death toll passes 100,000 as cases continue to rise",
-        "link": "https://www.nbcnews.com/news/world/india-s-coronavirus-death-toll-passes-100-000-cases-continue-n1241953"
+        "title": "Coronavirus: When India's capital became a ghost city",
+        "link": "https://www.bbc.com/news/world-asia-india-54164507"
     },
     {
-        "title": "Trump has repeatedly blamed China for a virus that now threatens his health. This will make Beijing nervous",
-        "link": "https://www.cnn.com/2020/10/02/asia/trump-china-coronavirus-intl-hnk/index.html"
+        "title": "Op-Ed: Trump's coronavirus diagnosis provides China with fresh gains",
+        "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "White House sows confusion about Trump's condition as source tells reporters next 48 hours will be critical",
-        "link": "https://www.cnn.com/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    },
-    {
-        "title": "Madrid launches legal challenge against Spanish government over second lockdown as cases rise",
-        "link": "https://www.youtube.com/watch?v=dD9lcrDzN9c"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
+    },
+    {
+        "title": "See how world leaders reacted to Trump's coronavirus diagnosis",
+        "link": "https://www.cnn.com/videos/world/2020/10/02/world-reacts-trump-coronavirus-diagnosis-intl-ldn-vpx.cnn"
     }
 ];
