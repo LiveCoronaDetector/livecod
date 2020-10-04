@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Only 3 states are reporting declines in new coronavirus cases as the US hits its highest daily rate in 2 months",
-        "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
+        "title": "With Trump Hospitalized, Covid-19 Continues Its Onslaught on the U.S.",
+        "link": "https://www.nytimes.com/2020/10/03/us/coronavirus-united-states.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Why are Israel's hassidim violently opposing coronavirus restrictions?",
+        "link": "https://www.jpost.com/israel-news/why-are-israels-hassidim-violently-opposed-to-coronavirus-restrictions-644509"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
-        "title": "Coronavirus live news: UK reports 22,961 new cases as global total passes 35m",
+        "title": "UK reports 22,961 new cases – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Covid-19: Live Trump Health Updates and Global News",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Leak reveals possible harsher three-tier Covid plan for England",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
+        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
     }
 ];
