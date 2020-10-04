@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
-        "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
+        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
+        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
-        "title": "Coronavirus live news: global cases pass 35 million; 10,499 new infections in Russia",
+        "title": "Coronavirus live news: UK reports 22,961 new cases as global total passes 35m",
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
     },
     {
-        "title": "Leak reveals possible harsher three-tier Covid plan for England",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",

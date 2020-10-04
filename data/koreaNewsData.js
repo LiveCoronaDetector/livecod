@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
-        "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
+        "title": "일본 패션의 거장 겐조, 코로나로 떠나다",
+        "link": "https://www.chosun.com/international/europe/2020/10/05/B3HWNC5JGRDGHGOZDY5UGI7VHI/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
+        "title": "포천 군부대 코로나19 집단 감염…감염경로 오리무중",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015073534&code=61121111&cp=nv"
     },
     {
-        "title": "코로나19 신규 확진 64명 늘어…나흘 연속 두 자릿수",
-        "link": "https://www.donga.com/news/article/all/20201004/103228741/1"
+        "title": "포천 군부대에서 병사 12명 코로나19 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010050113032319"
     }
 ];
