@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
     },
     {
-        "title": "Coronavirus: Spain imposes partial lockdown on defiant Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54383548"
+        "title": "After avoiding the worst in spring, Italy’s south sounds alarm over Covid",
+        "link": "https://www.theguardian.com/world/2020/oct/04/after-avoiding-the-worst-in-spring-italys-south-sounds-alarm-over-covid"
     },
     {
         "title": "Coronavirus: When India's capital became a ghost city",

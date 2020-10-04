@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
     {
+        "title": "추캉스족 28만명 다녀 간 제주, 4일까지 확진자 제로…5일부터 위험 관리기간",
+        "link": "http://www.segye.com/content/html/2020/10/04/20201004512816.html?OutUrl=naver"
+    },
+    {
         "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
         "link": "https://view.asiae.co.kr/article/2020100418144021283"
     },
@@ -23,10 +27,6 @@ var jejuNewsData = [
     {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
-    },
-    {
-        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
-        "link": "http://www.lkp.news/news/article.html?no=10704"
     },
     {
         "title": "28만명 관광객 찾은 제주도, 코로나19 확진자 '0' 유지",
