@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
+        "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Releases Video From Hospital",
+        "title": "Covid-19 Live Updates: Trump in Hospital for 3rd Day as Questions Over Condition Mount",
         "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     },
     {
