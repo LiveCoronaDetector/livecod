@@ -21,8 +21,8 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100418144021283"
     },
     {
-        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+        "title": "추캉스족 25만명 제주, 코로나 '조마조마'…현재까지 확진자없어",
+        "link": "http://yna.kr/AKR20201003043500056?did=1195m"
     },
     {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",

@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015073534&code=61121111&cp=nv"
     },
     {
+        "title": "일본 출신 유명 디자이너 겐조, 코로나로 사망",
+        "link": "http://news.mk.co.kr/newsRead.php?no=1014086&year=2020"
+    },
+    {
         "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 64명, 나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     }
 ];
