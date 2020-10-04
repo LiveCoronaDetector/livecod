@@ -9,6 +9,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
+        "title": "코로나19 어제 신규확진자 64명…나흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222052"
+    },
+    {
+        "title": "추석연휴 내내 코로나19 확진자 두자릿수…수도권 집중 지속(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01298886625929640"
+    },
+    {
         "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
@@ -17,8 +25,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
-        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+        "title": "[속보] 코로나19 신규 확진자 64명, 나흘째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
+    },
+    {
+        "title": "[코로나19] 정부 \"코로나19 아직 완전히 진정세 돌아선 것 아냐\"(종합)",
+        "link": "http://www.ajunews.com/view/20201004173805292"
     },
     {
         "title": "추석 대규모 이동으로 '조용한 전파'…연휴 후 확진자 급증 우려",
@@ -27,17 +39,5 @@ var koreaNewsData = [
     {
         "title": "거동불편 70대 확진자 목욕 도운 아들·손자도 코로나19 양성(종합)",
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
-    },
-    {
-        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
-    },
-    {
-        "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
-    },
-    {
-        "title": "확진자 속출 부산 만덕동 모든 학교 등교금지 조치",
-        "link": "https://view.asiae.co.kr/article/2020100410205534022"
     }
 ];
