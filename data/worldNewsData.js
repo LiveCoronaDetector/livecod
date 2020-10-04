@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Covid-19 Continues Its Ever-Changing Onslaught on the U.S.",
-        "link": "https://www.nytimes.com/2020/10/03/us/coronavirus-united-states.html"
+        "title": "Only 3 states are reporting declines in new coronavirus cases as the US hits its highest daily rate in 2 months",
+        "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
-    },
-    {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
-    },
-    {
         "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
         "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
+    },
+    {
+        "title": "Leak reveals possible harsher three-tier Covid plan for England",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+    },
+    {
+        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     }
 ];
