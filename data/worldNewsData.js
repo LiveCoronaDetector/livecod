@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
-        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
+        "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
+        "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/oct/04/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
+        "title": "Leak reveals possible harsher three-tier Covid plan for England",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
