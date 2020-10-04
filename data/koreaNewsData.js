@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
-        "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
-    },
-    {
         "title": "코로나19 신규 확진자 64명…추석 연휴 나흘째 두자릿수",
         "link": "http://www.joseilbo.com/news/news_read.php?uid=407479&class=33&grp="
     },
@@ -25,12 +21,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
     },
     {
-        "title": "포천 군부대에서 병사 12명 코로나19 확진",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010042306224792"
+        "title": "경기 포천 육군 부대서 12명 코로나19 확진...“추가 확진 가능성도” (종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500001&wlog_tag3=naver"
     },
     {
-        "title": "국내 코로나 첫 발생 이후 의료진 159명 감염...간호사 64% 차지",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/04/2020100400676.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "포천 군부대에서 병사 12명 코로나19 확진",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010042306224792"
     },
     {
         "title": "\"코로나 확진자 감소세? 주중 돼야 평가 가능\"",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
         "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
+    },
+    {
+        "title": "코로나19 신규 확진 64명 늘어…나흘 연속 두 자릿수",
+        "link": "https://www.donga.com/news/article/all/20201004/103228741/1"
     }
 ];

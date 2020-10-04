@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
-        "link": "https://www.washingtonpost.com/world/2020/10/03/months-before-coronavirus-hit-trumps-circle-iran-battled-similar-outbreak/"
+        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
+        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
