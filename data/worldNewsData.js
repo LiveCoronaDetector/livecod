@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
-        "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
+        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
         "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     },
     {
-        "title": "Trump Health Briefing and Global News: Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+        "title": "Pope Criticizes Lack of Unity in World’s Response to Coronavirus",
+        "link": "https://www.nytimes.com/2020/10/04/world/europe/pope-francis-coronavirus-response.html"
     }
 ];
