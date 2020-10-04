@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Only three US states are reporting declines in new coronavirus cases",
-        "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
+        "title": "Covid-19 Continues Its Ever-Changing Onslaught on the U.S.",
+        "link": "https://www.nytimes.com/2020/10/03/us/coronavirus-united-states.html"
     },
     {
-        "title": "Coronavirus cabinet to convene, discuss next stage of lockdown",
-        "link": "https://www.jpost.com/health-science/coronavirus-for-nearly-five-days-percentage-of-positive-cases-declines-644443"
+        "title": "Israeli-made mask eliminates over 99% of coronavirus, lab tests suggest",
+        "link": "https://www.jpost.com/health-science/israeli-made-mask-eliminates-over-99-percent-of-coronavirus-lab-tests-suggest-644434"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
