@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
+        "title": "정세균 \"연휴 끝나고 확진자 늘 가능성…한글날 집회도 불허\"",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100415260240690"
+    },
+    {
         "title": "할머니 집 방문한 30대 코로나 감염…인천서 4명 추가 확진",
         "link": "https://www.hankyung.com/life/article/2020100415807"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
+        "title": "확진자 머문 장례식장 추가 감염 ‘0’ 만들어 낸 사람들",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015072352&code=61121111&cp=nv"
+    },
+    {
         "title": "거동불편 70대 확진자 목욕 도운 아들·손자도 코로나19 양성(종합)",
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
     },
     {
         "title": "국내 코로나 첫 발생 이후 의료진 159명 감염...간호사 64% 차지",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/04/2020100400676.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "[속보] 4일 신규 코로나 확진 64명…대구 0명·경북 3명",
-        "link": "https://news.imaeil.com/Society/2020100409434075682"
-    },
-    {
-        "title": "코로나19 어제 64명 신규확진…지역발생 47명",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300000"
     }
 ];

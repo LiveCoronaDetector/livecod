@@ -21,8 +21,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54164507"
     },
     {
-        "title": "China rolls out experimental Covid vaccine as it eyes global market",
-        "link": "https://www.ft.com/content/6a7289e6-45a5-410d-98c0-9977e4026af1"
+        "title": "Aussies defy COVID limits and crowd Victoria’s beaches, parks",
+        "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
+    },
+    {
+        "title": "Coronavirus live news: close to 35m cases worldwide; 10,499 new infections in Russia",
+        "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
+    },
+    {
+        "title": "Covid-19 Live Updates: Trump Releases Video From Hospital",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
@@ -31,13 +39,5 @@ var worldNewsData = [
     {
         "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
         "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
-    },
-    {
-        "title": "Trump to Undergo Tests at Walter Reed National Military Medical Center",
-        "link": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus"
-    },
-    {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
-        "link": "https://www.cnbc.com/2020/10/02/watch-live-the-world-health-organization-holds-a-press-briefing-on-the-coronavirus-pandemic.html"
     }
 ];
