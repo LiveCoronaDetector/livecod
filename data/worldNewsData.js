@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
         "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
         "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
+    },
+    {
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
         "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
