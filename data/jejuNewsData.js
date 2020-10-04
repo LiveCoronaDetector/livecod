@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
     {
+        "title": "\"연휴는 끝났지만…\" 제주도, 사후 방역관리 계획 발표",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326210"
+    },
+    {
         "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
         "link": "http://www.lkp.news/news/article.html?no=10704"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주시, \"추캉스족 25만명 조마조마…현재까지 확진자없어\"",
         "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=234247"
-    },
-    {
-        "title": "추캉스족 27만명 다녀 간 제주… 현재까지 확진자 없어",
-        "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
     }
 ];
