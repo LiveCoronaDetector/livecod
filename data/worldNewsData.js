@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "Advisers made last-minute push to get reluctant Trump to Walter Reed",
-        "link": "https://www.cnn.com/2020/10/03/politics/trump-covid-response/index.html"
+        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
