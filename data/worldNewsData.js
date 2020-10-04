@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "We're paying a lot of attention to Trump's case, but the US just recorded the most daily COVID-19 infections in nearly 2 months",
+        "link": "https://www.usatoday.com/story/news/nation/2020/10/03/united-states-reports-highest-covid-cases-august/3610298001/"
     },
     {
         "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
