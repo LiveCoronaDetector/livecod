@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "We're paying a lot of attention to Trump's case, but the US just recorded the most daily COVID-19 infections in nearly 2 months",
-        "link": "https://www.usatoday.com/story/news/nation/2020/10/03/united-states-reports-highest-covid-cases-august/3610298001/"
+        "title": "Trump flown to hospital after Covid-19 diagnosis",
+        "link": "https://www.bbc.com/news/world-us-canada-54396670"
     },
     {
         "title": "Months before coronavirus hit Trump’s circle, Iran battled a similar outbreak",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Is Not Out of Danger, Official Says",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
+        "title": "Advisers made last-minute push to get reluctant Trump to Walter Reed",
+        "link": "https://www.cnn.com/2020/10/03/politics/trump-covid-response/index.html"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
