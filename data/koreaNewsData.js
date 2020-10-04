@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004012951530?did=1195m"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 64명, 나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010040933001&code=940100"
-    },
-    {
         "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
@@ -29,6 +25,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100415807"
     },
     {
+        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
         "title": "확진자 머문 장례식장 추가 감염 ‘0’ 만들어 낸 사람들",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015072352&code=61121111&cp=nv"
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
     },
     {
-        "title": "국내 코로나 첫 발생 이후 의료진 159명 감염...간호사 64% 차지",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/04/2020100400676.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진 64명 늘어…나흘 연속 두 자릿수",
+        "link": "https://www.donga.com/news/article/all/20201004/103228741/1"
     }
 ];
