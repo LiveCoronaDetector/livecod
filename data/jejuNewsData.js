@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1601791783693285073"
     },
     {
+        "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
+        "link": "https://view.asiae.co.kr/article/2020100418144021283"
+    },
+    {
         "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추캉스 28만명 몰린 제주…신규 확진자 10일째 '제로'",
         "link": "http://www.fnnews.com/news/202010041545348600"
-    },
-    {
-        "title": "추캉스족, 제주도 떠났다…앞으로 2주간 '조마조마'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201004_0001185642&cID=10813&pID=10800"
     }
 ];

@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump flown to hospital after Covid-19 diagnosis",
-        "link": "https://www.bbc.com/news/world-us-canada-54396670"
+        "title": "New coronavirus cases are on the decline in only three US states",
+        "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
         "title": "Sex on the beach leads to four fines for violating coronavirus rules",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54164507"
     },
     {
-        "title": "Op-Ed: Trump's coronavirus diagnosis provides China with fresh gains",
-        "link": "https://www.cnbc.com/2020/10/03/op-ed-trumps-coronavirus-diagnosis-provides-china-with-fresh-gains.html"
+        "title": "China rolls out experimental Covid vaccine as it eyes global market",
+        "link": "https://www.ft.com/content/6a7289e6-45a5-410d-98c0-9977e4026af1"
     },
     {
-        "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
-        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
-    },
-    {
-        "title": "Coronavirus live news: Donald Trump says he is 'doing well' but 'next few days will be real test'",
+        "title": "Coronavirus live news: Russia's daily caseload passes 10,000 for first time since May",
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+    },
+    {
+        "title": "Trump Says He Is Better After His Chief of Staff Expresses Concern",
+        "link": "https://www.nytimes.com/live/2020/10/03/world/covid-trump"
     },
     {
         "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
