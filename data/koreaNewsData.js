@@ -17,24 +17,24 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010041635565190"
     },
     {
-        "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
+        "title": "할머니 집 방문한 30대 코로나 감염…인천서 4명 추가 확진",
+        "link": "https://www.hankyung.com/life/article/2020100415807"
     },
     {
-        "title": "추석 대규모 이동으로 '조용한 전파'…연휴 후 확진자 급증 우려",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100300003"
+        "title": "경남에서 7일만에 코로나19 확진자 1명 발생",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100410233937861"
     },
     {
         "title": "거동불편 70대 확진자 목욕 도운 아들·손자도 코로나19 양성(종합)",
         "link": "http://yna.kr/AKR20201004015651055?did=1195m"
     },
     {
-        "title": "간호사들 일주일에 3명꼴 코로나19 감염, 보호대책 마련 시급",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041522001&code=940100"
+        "title": "코로나19 ‘항만 확진’ 최다는 부산",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100417250547083"
     },
     {
-        "title": "포천 육군 병사 3명 코로나19 확진…부대 전수조사",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006007812&plink=ORI&cooper=NAVER"
+        "title": "간호사들 일주일에 3명꼴 코로나19 감염, 보호대책 마련 시급",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041522001&code=940100"
     },
     {
         "title": "[속보] 4일 신규 코로나 확진 64명…대구 0명·경북 3명",
