@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7672838,
-        "사망자수": 214941,
-        "완치자수": 4886293
+        "확진자수": 7674433,
+        "사망자수": 214959,
+        "완치자수": 4887783
     },
     {
         "Name": "인도",
@@ -716,7 +716,7 @@ var marker = [
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "확진자수": 14527,
+        "확진자수": 14605,
         "사망자수": 275,
         "완치자수": 11190
     },
@@ -796,9 +796,9 @@ var marker = [
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "확진자수": 10530,
+        "확진자수": 10567,
         "사망자수": 34,
-        "완치자수": 9364
+        "완치자수": 9427
     },
     {
         "Name": "French Guiana",
@@ -1185,6 +1185,14 @@ var marker = [
         "완치자수": 1706
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "확진자수": 2228,
+        "사망자수": 9,
+        "완치자수": 1769
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1223,14 +1231,6 @@ var marker = [
         "확진자수": 2041,
         "사망자수": 592,
         "완치자수": 1323
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "확진자수": 1964,
-        "사망자수": 8,
-        "완치자수": 1555
     },
     {
         "Name": "토고",

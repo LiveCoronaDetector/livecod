@@ -29,11 +29,11 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
-        "title": "Live: Trump To Be Discharged From Walter Reed | NBC News",
-        "link": "https://www.youtube.com/watch?v=zdXs_u6HXHY"
+        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
     },
     {
-        "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
+        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
