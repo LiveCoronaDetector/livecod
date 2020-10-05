@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
+        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
+        "link": "https://www.bbc.com/news/business-54414201"
+    },
+    {
         "title": "Coronavirus live news: bars in Paris ordered to close from Tuesday; Moscow considering tougher lockdown",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Japanese fashion designer Kenzo Takada dies from COVID-19",
-        "link": "https://www.msn.com/en-us/news/world/japanese-fashion-designer-kenzo-takada-dies-from-covid-19/ar-BB19H43C"
-    },
-    {
-        "title": "Live Covid-19 Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
