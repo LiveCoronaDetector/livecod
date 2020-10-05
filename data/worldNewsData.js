@@ -21,15 +21,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54338864"
     },
     {
-        "title": "China's tech giants face 'new business realities' across the world",
-        "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
+        "title": "Chinese firm finds hostility and smears add hurdles to Covid-19 vaccine race",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
         "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Trump to Leave Walter Reed Medical Center: Live Covid-19 Updates",
+        "title": "Trump Covid Live Updates and Video: President to Leave Walter Reed",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     },
     {
-        "title": "Leak reveals possible harsher three-tier England Covid plan",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+        "title": "India's drug authority approved paper-strip Covid-19 test that could return results within hour",
+        "link": "https://www.cnn.com/2020/10/05/india/india-covid-19-hour-tests-approved-intl/index.html"
     }
 ];
