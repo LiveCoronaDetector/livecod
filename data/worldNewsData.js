@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
-        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
+        "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
+        "link": "https://www.bbc.com/news/world-europe-54413563"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "President Trump drives by supporters outside Walter Reed Medical Center.",
-        "link": "https://www.youtube.com/watch?v=3AlXOYGZWes"
+        "title": "Coronavirus live news: Trump drive criticised as 'irresponsible' by Walter Reed physician; global cases pass 35m",
+        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
         "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
