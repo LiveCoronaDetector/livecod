@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/dr-scott-gottlieb-a-raging-epidemic-is-not-inevitable-dr-scott-gottlieb-says-.html"
     },
     {
-        "title": "Israel’s Coronavirus Lockdown Fuels Protests, Violence and Confusion",
-        "link": "https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html"
+        "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
+        "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
     },
     {
-        "title": "Only four countries in Europe are below a critical coronavirus threshold",
-        "link": "https://www.cnn.com/2020/10/05/europe/ursula-von-der-leyen-self-isolates-intl/index.html"
+        "title": "Europe struggles to contain surge of coronavirus cases",
+        "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
