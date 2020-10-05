@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
-        "link": "https://www.bbc.com/news/world-asia-india-54338864"
+        "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
     },
     {
         "title": "Chinese firm finds hostility and smears add hurdles to Covid-19 vaccine race",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
+        "title": "Covid-19 may have infected 10 percent of world's population, WHO says",
+        "link": "https://www.nbcnews.com/news/world/covid-19-may-have-infected-10-percent-world-s-population-n1242118"
+    },
+    {
+        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
+        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+    },
+    {
         "title": "Live: Trump To Be Discharged From Walter Reed | NBC News",
         "link": "https://www.youtube.com/watch?v=zdXs_u6HXHY"
-    },
-    {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
-    },
-    {
-        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
-        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     }
 ];
