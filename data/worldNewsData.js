@@ -9,28 +9,28 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Coronavirus cabinet to convene, discuss next stage of lockdown",
-        "link": "https://www.jpost.com/health-science/coronavirus-for-nearly-five-days-percentage-of-positive-cases-declines-644443"
+        "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
+        "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
-        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
+        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
+        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
     },
     {
-        "title": "Coronavirus: When India's capital became a ghost city",
-        "link": "https://www.bbc.com/news/world-asia-india-54164507"
+        "title": "India's new paper Covid-19 test could be a ‘game changer’",
+        "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
     },
     {
         "title": "Aussies defy COVID limits and crowd Victoria’s beaches, parks",
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
-        "title": "Covid-19: Live Trump Health Updates and Global News",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+        "title": "Coronavirus live news: global cases pass 35m as Walter Reed physician criticises 'irresponsible' Trump drive",
+        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "UK reports 22,961 new cases – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
+        "title": "Leak reveals possible harsher three-tier Covid plan for England",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
