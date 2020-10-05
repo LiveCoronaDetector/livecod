@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Live updates: Coronavirus cases rising sharply in Midwest, Rocky Mountain states",
-        "link": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/"
+        "title": "'Raging epidemic is not inevitable' — Dr. Scott Gottlieb believes China case count and rips U.S. response",
+        "link": "https://www.cnbc.com/2020/10/05/dr-scott-gottlieb-a-raging-epidemic-is-not-inevitable-dr-scott-gottlieb-says-.html"
     },
     {
         "title": "Israel's Lockdown Feels Pretty Different the Second Time Around",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
+        "title": "A paper coronavirus test could effectively replace more expensive, less accurate antigen tests in India",
+        "link": "https://theweek.com/speedreads/941757/paper-coronavirus-test-could-effectively-replace-more-expensive-less-accurate-antigen-tests-india"
+    },
+    {
         "title": "Live Covid-19 Global Updates",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
-    },
-    {
-        "title": "Trump’s Physician Says the President’s Oxygen Levels Dropped and He Took Steroid Treatment",
-        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     }
 ];
