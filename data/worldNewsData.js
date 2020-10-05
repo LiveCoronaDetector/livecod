@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
-        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
+        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
+        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
         "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
     },
     {
-        "title": "Aussies defy COVID limits and crowd Victoria’s beaches, parks",
-        "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
+        "title": "China's tech giants face 'new business realities' across the world",
+        "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
         "title": "Coronavirus live news: Trump drive criticised as 'irresponsible' by Walter Reed physician; global cases pass 35m",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+        "title": "Renowned Japanese fashion designer Kenzo Takada dies from COVID-19",
+        "link": "https://www.youtube.com/watch?v=f9Qoi0OUG8M"
     },
     {
-        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
-        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     }
 ];

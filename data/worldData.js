@@ -1020,7 +1020,7 @@ var marker = [
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "확진자수": 4741,
+        "확진자수": 4763,
         "사망자수": 81,
         "완치자수": 2843
     },
