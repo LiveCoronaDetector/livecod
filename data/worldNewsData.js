@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
-        "title": "Coronavirus live news: global cases pass 35m as Walter Reed physician criticises 'irresponsible' Trump drive",
+        "title": "Coronavirus live news: Trump drive criticised as 'irresponsible' by Walter Reed physician; global cases pass 35m",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
-        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
+        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
+        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
     }
 ];
