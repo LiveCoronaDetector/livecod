@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201005_0001186897&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
-        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
-    },
-    {
-        "title": "국내서 코로나19 연관 소아 다기관염증증후군 환자 2명 첫 확인(종합)",
-        "link": "http://yna.kr/AKR20201005098051530?did=1195m"
-    },
-    {
-        "title": "[속보] WHO \"세계 인구 10% 코로나19 감염\" 추정",
-        "link": "https://www.hankyung.com/life/article/2020100570247"
-    },
-    {
-        "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964397.html"
+        "title": "국내 코로나19 연관 소아 다기관염증증후군 환자 2명 첫 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009389&plink=ORI&cooper=NAVER"
     },
     {
         "title": "\"2주간 차에서 잤다\"…코로나 확진자 황당한 진술",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "정읍 30대 여성 확진자 ‘우려가 현실로’…가족 7명 무더기 확진(종합)",
-        "link": "http://www.fnnews.com/news/202010052023157499"
+        "title": "[속보] WHO \"세계 인구 10% 코로나19 감염\" 추정",
+        "link": "https://www.hankyung.com/life/article/2020100570247"
     },
     {
-        "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
-        "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
+        "title": "[종합] 경기도 포천시 육군 부대 확진자 36명 발생...감염경로 불분명",
+        "link": "http://www.fnnews.com/news/202010051511171831"
     },
     {
         "title": "포천 군부대 코로나19 확진자 36명으로(종합)",
         "link": "https://view.asiae.co.kr/article/2020100511163120588"
+    },
+    {
+        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
+        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
+    },
+    {
+        "title": "인천서 코로나19 확진자와 식사한 60대 등 5명 감염(종합)",
+        "link": "http://yna.kr/AKR20201005067351065?did=1195m"
+    },
+    {
+        "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964397.html"
     }
 ];

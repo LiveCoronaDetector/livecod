@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
-        "link": "https://www.bbc.com/news/business-54414201"
-    },
-    {
         "title": "Coronavirus live news: bars in Paris ordered to close from Tuesday; Moscow considering tougher lockdown",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+    },
+    {
+        "title": "Trump’s Physician Says the President’s Oxygen Levels Dropped and He Took Steroid Treatment",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
     }
 ];
