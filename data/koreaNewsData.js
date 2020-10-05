@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
     {
-        "title": "포천 육군부대 확진자 36명으로 늘어…감염경로 불분명",
-        "link": "https://www.news1.kr/articles/?4076751"
+        "title": "“확진자 다녀갔다”…코로나 허위사실 유포 187명 검거",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500017&wlog_tag3=naver"
     },
     {
         "title": "코로나19 어제 73명 신규확진…사망자 누적 422명",
