@@ -13,16 +13,16 @@ var jejuNewsData = [
         "link": "http://www.ihalla.com/read.php3?aid=1601791783693285073"
     },
     {
-        "title": "추캉스족 28만명 다녀 간 제주, 4일까지 확진자 제로…5일부터 위험 관리기간",
-        "link": "http://www.segye.com/content/html/2020/10/04/20201004512816.html?OutUrl=naver"
-    },
-    {
         "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
         "link": "https://view.asiae.co.kr/article/2020100418144021283"
     },
     {
-        "title": "추캉스족 25만명 제주, 코로나 '조마조마'…현재까지 확진자없어",
-        "link": "http://yna.kr/AKR20201003043500056?did=1195m"
+        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
+        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+    },
+    {
+        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
+        "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429025"
     },
     {
-        "title": "추캉스 28만명 몰린 제주…신규 확진자 10일째 '제로'",
-        "link": "http://www.fnnews.com/news/202010041545348600"
-    },
-    {
         "title": "추캉스족 27만명 다녀 간 제주… 현재까지 확진자 없어",
         "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
+    },
+    {
+        "title": "[현장연결] 중대본 \"확진자 지속 감소…이번주 중반 돼야 정확한 평가 가능\"",
+        "link": "http://www.yonhapnewstv.co.kr/MYH20201004009700038/?did=1825m"
     }
 ];

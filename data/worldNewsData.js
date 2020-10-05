@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
-        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
+        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
+        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Leak reveals possible harsher three-tier Covid plan for England",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
-    },
-    {
         "title": "Renowned Japanese fashion designer Kenzo Takada dies from COVID-19",
         "link": "https://www.youtube.com/watch?v=f9Qoi0OUG8M"
+    },
+    {
+        "title": "Leak reveals possible harsher three-tier Covid plan for England",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
