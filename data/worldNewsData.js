@@ -18,7 +18,7 @@ var worldNewsData = [
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
-        "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
+        "link": "https://www.bbc.com/news/world-asia-india-54338864"
     },
     {
         "title": "China's tech giants face 'new business realities' across the world",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=3AlXOYGZWes"
     },
     {
+        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
+        "link": "https://www.bbc.com/news/business-54414201"
+    },
+    {
         "title": "Leak reveals possible harsher three-tier Covid plan for England",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
-        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
-        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
-        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
-        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
+        "title": "Japanese fashion designer Kenzo Takada dies from COVID-19",
+        "link": "https://www.msn.com/en-us/news/world/japanese-fashion-designer-kenzo-takada-dies-from-covid-19/ar-BB19H43C"
     }
 ];

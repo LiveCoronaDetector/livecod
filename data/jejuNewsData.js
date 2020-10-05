@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
+        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
+        "link": "http://www.fnnews.com/news/202010051128071821"
+    },
+    {
         "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
@@ -25,10 +29,6 @@ var jejuNewsData = [
         "link": "http://www.ekn.kr/news/article.html?no=526430"
     },
     {
-        "title": "추캉스 28만명 몰린 제주…신규 확진자 10일째 '제로'",
-        "link": "http://www.fnnews.com/news/202010041545348600"
-    },
-    {
         "title": "28만명 관광객 찾은 제주도, 코로나19 확진자 '0' 유지",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429025"
     },
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/04/20201004508438.html?OutUrl=naver"
     },
     {
-        "title": "[현장연결] 중대본 \"확진자 지속 감소…이번주 중반 돼야 정확한 평가 가능\"",
-        "link": "http://www.yonhapnewstv.co.kr/MYH20201004009700038/?did=1825m"
+        "title": "25만 추캉스족 입도에도 제주지역 코로나19 확진자 없어-제주도청 밝혀",
+        "link": "http://www.lkp.news/news/article.html?no=10704"
     }
 ];

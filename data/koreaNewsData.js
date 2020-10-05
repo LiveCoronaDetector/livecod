@@ -25,16 +25,16 @@ var koreaNewsData = [
         "link": "https://www.news1.kr/articles/?4076751"
     },
     {
+        "title": "\"2주간 차에서 잤다\"…코로나 확진자 황당한 진술",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
         "link": "http://www.fnnews.com/news/202010050934580013"
     },
     {
         "title": "코로나19 어제 73명 신규확진, 닷새째 두 자릿수…지역발생 64명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5930451_32633.html"
-    },
-    {
-        "title": "코로나19 신규 확진 73명…경기 25명·서울 19명·인천 5명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017795&ref=A"
     },
     {
         "title": "[종합] 코로나19 닷새째 두 자릿수지만 방역당국 \"낙관론 이르다\"",
