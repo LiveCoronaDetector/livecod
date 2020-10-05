@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "With Trump Hospitalized, Covid-19 Continues Its Onslaught on the U.S.",
-        "link": "https://www.nytimes.com/2020/10/03/us/coronavirus-united-states.html"
+        "title": "Only 3 states are reporting declines in new coronavirus cases as the US hits its highest daily rate in 2 months",
+        "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Why are Israel's hassidim violently opposing coronavirus restrictions?",
-        "link": "https://www.jpost.com/israel-news/why-are-israels-hassidim-violently-opposed-to-coronavirus-restrictions-644509"
+        "title": "Coronavirus cabinet to convene, discuss next stage of lockdown",
+        "link": "https://www.jpost.com/health-science/coronavirus-for-nearly-five-days-percentage-of-positive-cases-declines-644443"
     },
     {
         "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/4/australia-lockdown"
     },
     {
+        "title": "Covid-19: Live Trump Health Updates and Global News",
+        "link": "https://www.nytimes.com/live/2020/10/04/world/trump-covid-live-updates"
+    },
+    {
         "title": "UK reports 22,961 new cases – as it happened",
         "link": "https://www.theguardian.com/world/live/2020/oct/04/coronavirus-live-news-donald-trump-us-election-covid-19-europe"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
-    },
-    {
-        "title": "Leak reveals possible harsher three-tier Covid plan for England",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
         "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
