@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Coronavirus live news: bars in Paris ordered to close from Tuesday; Moscow considering tougher lockdown",
+        "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Trump's doctors say he could be discharged as early as Monday",
-        "link": "https://www.youtube.com/watch?v=mYzlmNatF9M"
+        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
+    },
+    {
+        "title": "A paper coronavirus test could effectively replace more expensive, less accurate antigen tests in India",
+        "link": "https://theweek.com/speedreads/941757/paper-coronavirus-test-could-effectively-replace-more-expensive-less-accurate-antigen-tests-india"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
-    },
-    {
-        "title": "WHO: 10% of world's people may have been infected with virus",
-        "link": "https://abcnews.go.com/Health/wireStory/10-worlds-people-infected-virus-73427817"
     }
 ];

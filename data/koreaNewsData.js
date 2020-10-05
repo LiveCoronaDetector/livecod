@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
+    },
+    {
         "title": "정읍 30대 여성 확진자 ‘우려가 현실로’…가족 7명 무더기 확진(종합)",
         "link": "http://www.fnnews.com/news/202010052023157499"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100502866.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
+        "link": "http://yna.kr/AKR20201005015300504?did=1195m"
+    },
+    {
         "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
         "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "인천서 코로나19 확진자와 식사한 60대 등 5명 감염(종합)",
-        "link": "http://yna.kr/AKR20201005067351065?did=1195m"
-    },
-    {
-        "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
     }
 ];
