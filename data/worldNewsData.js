@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Biden is winning with undecided voters",
-        "link": "https://www.aljazeera.com/opinions/2020/10/5/why-the-debate-was-a-win-for-the-biden-campaign/"
+        "title": "No, you can’t puncture your brain with a COVID-19 swab test",
+        "link": "https://thenextweb.com/syndication/2020/10/05/no-you-cant-puncture-your-brain-with-a-covid-19-swab-test/"
+    },
+    {
+        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
-    },
-    {
-        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
-        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     }
 ];
