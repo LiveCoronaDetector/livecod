@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
-        "link": "http://www.fnnews.com/news/202010050934580013"
-    },
-    {
         "title": "포천 군부대 확진자 30명 넘어…감염경로 불분명",
         "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010050034&t=NN"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 신규확진자 64명…나흘째 두자릿수",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222052"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
+        "link": "http://www.fnnews.com/news/202010050934580013"
     }
 ];
