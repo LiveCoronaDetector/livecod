@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/04/health/us-coronavirus-sunday/index.html"
     },
     {
-        "title": "Israel's Hospitals Are at Brink of Collapse in Devastating Second COVID Wave",
-        "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
+        "title": "Israel's Lockdown Feels Pretty Different the Second Time Around",
+        "link": "https://www.nytimes.com/2020/10/04/opinion/israel-coronavirus-lockdown.html"
     },
     {
         "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
