@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Live updates: Coronavirus cases rising sharply in Midwest, Rocky Mountain states",
-        "link": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/"
+        "title": "Live Covid-19 Global Updates",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
         "title": "Israel's Lockdown Feels Pretty Different the Second Time Around",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414201"
     },
     {
-        "title": "Coronavirus live news: Moscow considering tougher lockdown; Trump drive criticised as 'irresponsible'",
+        "title": "Coronavirus live news: bars in Paris ordered to close from Tuesday; Moscow considering tougher lockdown",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     },
     {
-        "title": "Live Covid-19 Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Trump Didn’t Disclose First Positive Covid-19 Test While Awaiting a Second Test on Thursday",
+        "link": "https://www.wsj.com/articles/trump-didnt-disclose-first-positive-covid-19-test-while-awaiting-a-second-test-on-thursday-11601844813"
     }
 ];
