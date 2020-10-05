@@ -13,31 +13,31 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
     },
     {
-        "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
-        "link": "http://yna.kr/AKR20201005015300504?did=1195m"
-    },
-    {
         "title": "“확진자 다녀갔다”…코로나 허위사실 유포 187명 검거",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500017&wlog_tag3=naver"
-    },
-    {
-        "title": "포천 육군부대 확진자 36명으로 늘어…감염경로 불분명",
-        "link": "https://www.news1.kr/articles/?4076751"
     },
     {
         "title": "\"2주간 차에서 잤다\"…코로나 확진자 황당한 진술",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
-        "link": "http://www.fnnews.com/news/202010050934580013"
-    },
-    {
         "title": "코로나19 어제 73명 신규확진, 닷새째 두 자릿수…지역발생 64명",
         "link": "https://imnews.imbc.com/news/2020/society/article/5930451_32633.html"
     },
     {
-        "title": "[종합] 코로나19 닷새째 두 자릿수지만 방역당국 \"낙관론 이르다\"",
-        "link": "https://www.hankyung.com/life/article/2020100539017"
+        "title": "포천 육군부대 확진자 36명으로 늘어…감염경로 불분명",
+        "link": "https://www.news1.kr/articles/?4076751"
+    },
+    {
+        "title": "코로나19 어제 73명 신규확진…사망자 누적 422명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100400148"
+    },
+    {
+        "title": "코로나19 신규 확진 73명…경기 25명·서울 19명·인천 5명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5017795&ref=A"
+    },
+    {
+        "title": "국내 코로나 관련 소아 다기관염증증후군 2건 확인(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100501827.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

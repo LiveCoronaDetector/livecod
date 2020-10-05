@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
-        "title": "Japanese fashion designer Kenzo Takada dies from COVID-19",
-        "link": "https://www.msn.com/en-us/news/world/japanese-fashion-designer-kenzo-takada-dies-from-covid-19/ar-BB19H43C"
+        "title": "Kenzo Takada, founder of Kenzo fashion brand, dies in Paris from Covid-19",
+        "link": "https://www.youtube.com/watch?v=kNAVB_IwgTY"
     }
 ];
