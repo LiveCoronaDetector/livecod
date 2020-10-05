@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
-        "link": "https://www.bbc.com/news/business-54414201"
-    },
-    {
         "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/opinions/2020/10/5/why-the-debate-was-a-win-for-the-biden-campaign/"
     },
     {
-        "title": "No, you can’t puncture your brain with a COVID-19 swab test",
-        "link": "https://thenextweb.com/syndication/2020/10/05/no-you-cant-puncture-your-brain-with-a-covid-19-swab-test/"
+        "title": "Leak reveals possible harsher three-tier England Covid plan",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+    },
+    {
+        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
+        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     }
 ];

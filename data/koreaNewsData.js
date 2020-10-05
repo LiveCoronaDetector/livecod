@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015351504?did=1195m"
     },
     {
-        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
-        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
-    },
-    {
         "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
+    },
+    {
+        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
+        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
     },
     {
         "title": "\"2주간 차에서 잤다\"…코로나 확진자 황당한 진술",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
     {
-        "title": "WHO \"세계 인구 10% 코로나 감염 추정\"…통계 20배 이상",
-        "link": "https://www.news1.kr/articles/?4077870"
+        "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     }
 ];
