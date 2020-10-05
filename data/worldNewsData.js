@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "A paper coronavirus test could effectively replace more expensive, less accurate antigen tests in India",
-        "link": "https://theweek.com/speedreads/941757/paper-coronavirus-test-could-effectively-replace-more-expensive-less-accurate-antigen-tests-india"
-    },
-    {
-        "title": "Live Covid-19 Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Trump's doctors say he could be discharged as early as Monday",
+        "link": "https://www.youtube.com/watch?v=mYzlmNatF9M"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+    },
+    {
+        "title": "WHO: 10% of world's people may have been infected with virus",
+        "link": "https://abcnews.go.com/Health/wireStory/10-worlds-people-infected-virus-73427817"
     }
 ];

@@ -13,20 +13,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005109451530?did=1195m"
     },
     {
-        "title": "국내 코로나19 연관 소아 다기관염증증후군 환자 2명 첫 확인",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009389&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
     },
     {
-        "title": "\"집에 있었다\"고 주장하다가 \"차에서 2주간 잤다\"…코로나 확진자 진술 번복",
-        "link": "https://view.asiae.co.kr/article/2020100514204619270"
+        "title": "\"2주간 차에서 잤다\"…코로나 확진자 황당한 진술",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
         "title": "정읍 30대 여성 확진자 ‘우려가 현실로’…가족 7명 무더기 확진(종합)",
         "link": "http://www.fnnews.com/news/202010052023157499"
+    },
+    {
+        "title": "WHO \"세계 인구 10% 코로나 감염됐을 수도\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100502866.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005067351065?did=1195m"
     },
     {
-        "title": "코로나19 어제 73명 신규확진, 닷새째 두 자릿수…지역발생 64명",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5930451_32633.html"
+        "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
     }
 ];
