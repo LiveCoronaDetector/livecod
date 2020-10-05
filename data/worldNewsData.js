@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
-        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
+        "title": "Live Covid-19 Global Updates",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
