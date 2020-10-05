@@ -13,31 +13,31 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html"
     },
     {
-        "title": "Europe struggles to contain surge of coronavirus cases",
-        "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
+        "title": "Only four countries in Europe are below a critical coronavirus threshold",
+        "link": "https://www.cnn.com/2020/10/05/europe/ursula-von-der-leyen-self-isolates-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
-        "link": "https://www.bbc.com/news/world-asia-india-54338864"
+        "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
     },
     {
         "title": "Chinese firm finds hostility and smears add hurdles to Covid-19 vaccine race",
         "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
-        "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
-        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
+        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
+        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
         "title": "Live: Trump To Be Discharged From Walter Reed | NBC News",
         "link": "https://www.youtube.com/watch?v=zdXs_u6HXHY"
     },
     {
-        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
-        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+        "title": "Coronavirus live news: Irish government 'to reject new lockdown recommendation'; Paris bars to close",
+        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Covid-19 may have infected 10 percent of world's population, WHO says",
-        "link": "https://www.nbcnews.com/news/world/covid-19-may-have-infected-10-percent-world-s-population-n1242118"
+        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
+        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     }
 ];

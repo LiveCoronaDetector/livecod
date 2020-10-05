@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
     {
-        "title": "포천 군부대 확진자 36명…서울 다녀온 확진간부 1명 역학조사(종합)",
-        "link": "http://yna.kr/AKR20201005015351504?did=1195m"
-    },
-    {
         "title": "'또 뒷북치는' 영국, 코로나 확진자 1만6천명 통계 누락 조사",
         "link": "http://yna.kr/AKR20201006001400085?did=1195m"
     },
     {
-        "title": "백악관 대변인도 코로나19 확진...트럼프 측근 감염 계속",
-        "link": "http://www.newsis.com/view/?id=NISX20201006_0001187300&cID=10101&pID=10100"
-    },
-    {
         "title": "트럼프, 사흘만에 퇴원...\"상태 좋다! 코로나19 두려워말라\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
+    },
+    {
+        "title": "포천 군부대 확진자 36명…서울 다녀온 확진간부 1명 역학조사(종합)",
+        "link": "http://yna.kr/AKR20201005015351504?did=1195m"
+    },
+    {
+        "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
+        "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
     }
 ];

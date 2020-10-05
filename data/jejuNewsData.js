@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.ekn.kr/news/article.html?no=526430"
     },
     {
-        "title": "강원 동해안 추석 연휴 관광객 감소에 안도…확진자도 '0'",
-        "link": "http://yna.kr/AKR20201005106700062?did=1195m"
+        "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     }
 ];
