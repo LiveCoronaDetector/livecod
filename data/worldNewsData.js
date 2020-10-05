@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/04/opinion/israel-coronavirus-lockdown.html"
     },
     {
-        "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
-        "link": "https://www.bbc.com/news/world-europe-54413563"
+        "title": "EU Commission President Ursula von der Leyen self-isolates after meeting with Covid-19 positive person",
+        "link": "https://www.cnn.com/2020/10/05/europe/ursula-von-der-leyen-self-isolates-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     },
     {
-        "title": "Leak reveals possible harsher three-tier England Covid plan",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+        "title": "Live Covid-19 Global Updates",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     }
 ];
