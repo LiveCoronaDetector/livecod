@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
-        "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
-    },
-    {
         "title": "추석연휴 '28만명 방문' 제주 코로나19 확진자 '0'",
         "link": "http://www.ihalla.com/read.php3?aid=1601791783693285073"
+    },
+    {
+        "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     },
     {
         "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",

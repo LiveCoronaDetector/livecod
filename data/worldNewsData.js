@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "Leak reveals possible harsher three-tier England Covid plan",
-        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
-    },
-    {
         "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
         "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
+    },
+    {
+        "title": "Leak reveals possible harsher three-tier England Covid plan",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     }
 ];
