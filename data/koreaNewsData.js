@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
     },
     {
+        "title": "[종합]코로나 확진자 트럼프 입원 사흘만에 퇴원",
+        "link": "http://www.fnnews.com/news/202010060819094784"
+    },
+    {
         "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
     },
@@ -21,14 +25,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5931347_32524.html"
     },
     {
-        "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
-    },
-    {
-        "title": "WHO \"세계 인구 10% 코로나 감염됐을 수도\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100502866.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015351504?did=1195m"
     },
     {
-        "title": "[속보]코로나 확진자 트럼프 사흘만에 퇴원 완료",
-        "link": "http://www.fnnews.com/news/202010060757073104"
+        "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
+    },
+    {
+        "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
     }
 ];
