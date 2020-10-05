@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100511163120588"
     },
     {
-        "title": "“휴가도 안 나갔는데…” 포천 군부대 확진자 30여명 ‘비상’(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201005500013&wlog_tag3=naver"
-    },
-    {
-        "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
-        "link": "https://imnews.imbc.com/news/2020/politics/article/5930502_32626.html"
-    },
-    {
         "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964397.html"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
+        "link": "http://www.fnnews.com/news/202010050934580013"
+    },
+    {
+        "title": "포천 군부대 확진자 30명 넘어…감염경로 불분명",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010050034&t=NN"
     },
     {
         "title": "[종합] 코로나19 닷새째 두 자릿수지만 방역당국 \"낙관론 이르다\"",
         "link": "https://www.hankyung.com/life/article/2020100539017"
     },
     {
-        "title": "포천 육군부대 확진자 36명으로 늘어…감염경로 불분명",
-        "link": "https://www.news1.kr/articles/?4076751"
-    },
-    {
-        "title": "[속보] 코로나19 신규확진 5일째 두자릿수…73명 증가",
-        "link": "http://news.tf.co.kr/read/life/1816384.htm"
+        "title": "코로나19 어제 73명 신규확진, 닷새째 두 자릿수…지역발생 64명",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5930451_32633.html"
     },
     {
         "title": "5일째 확진자 100명 아래…수도권만 49명, 확산 우려 여전(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01895846625929968"
     },
     {
-        "title": "[종합] 코로나19 확진자 73명 증가..서울 19명, 경기 25명",
-        "link": "http://www.fnnews.com/news/202010050934580013"
+        "title": "포천 군부대서 코로나 확진자 36명… 감염경로 불분명",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100500746.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 어제 신규확진자 64명…나흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222052"
     }
 ];

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
-        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
+        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
+        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Coronavirus live news: Trump drive criticised as 'irresponsible' by Walter Reed physician; global cases pass 35m",
-        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
-    },
-    {
-        "title": "Renowned Japanese fashion designer Kenzo Takada dies from COVID-19",
-        "link": "https://www.youtube.com/watch?v=f9Qoi0OUG8M"
+        "title": "Trump's photo op raises new questions about how seriously he takes the virus",
+        "link": "https://www.cnn.com/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
     },
     {
         "title": "Leak reveals possible harsher three-tier Covid plan for England",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
+    },
+    {
+        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
+        "link": "https://www.bbc.com/news/business-54414201"
     },
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
