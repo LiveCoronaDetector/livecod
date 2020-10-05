@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Coronavirus live news: Trump drive criticised as 'irresponsible' by Walter Reed physician; global cases pass 35m",
+        "title": "Coronavirus live news: Moscow considering tougher lockdown; Trump drive criticised as 'irresponsible'",
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
