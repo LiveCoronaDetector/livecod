@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015351504?did=1195m"
     },
     {
-        "title": "국내 코로나19 연관 소아 다기관염증증후군 환자 2명 첫 확인",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009389&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "코로나19 확진 11세·12세, 소아·청소년 다기관염증증후군 감염(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201005_0001186897&cID=10201&pID=10200"
+    },
+    {
+        "title": "국내 코로나19 연관 소아 다기관염증증후군 환자 2명 첫 확인",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009389&plink=ORI&cooper=NAVER"
     },
     {
         "title": "트럼프, 코로나 입원중 깜짝외출 '돌출행동'…\"미친 짓\" 비판론(종합)",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5930451_32633.html"
     },
     {
-        "title": "경북 상주 코로나19 확진자 \"2주간 차에서 잤다\" 황당한 진술",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100516044820042"
-    },
-    {
         "title": "[종합] 경기도 포천시 육군 부대 확진자 36명 발생...감염경로 불분명",
         "link": "http://www.fnnews.com/news/202010051511171831"
     },
     {
         "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
+    },
+    {
+        "title": "[속보]대전서 코로나19 2명 추가…누적 확진자 367명",
+        "link": "http://www.cctoday.co.kr/news/articleView.html?idxno=2097628"
     }
 ];
