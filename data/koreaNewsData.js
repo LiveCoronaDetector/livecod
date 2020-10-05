@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "코로나19 어제 신규확진자 64명…나흘째 두자릿수",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222052"
+    },
+    {
         "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
         "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "정읍 30대 여성 확진자 ‘우려가 현실로’…가족 7명 무더기 확진(종합)",
-        "link": "http://www.fnnews.com/news/202010052023157499"
-    },
-    {
-        "title": "인천서 코로나19 확진자와 식사한 60대 등 5명 감염(종합)",
-        "link": "http://yna.kr/AKR20201005067351065?did=1195m"
+        "title": "英 코로나 확진자 1만6천명, 8일 동안이나 통계에서 누락",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100502061.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

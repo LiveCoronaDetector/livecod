@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Live Covid-19 Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Live updates: Coronavirus cases rising sharply in Midwest, Rocky Mountain states",
+        "link": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Israel's Lockdown Feels Pretty Different the Second Time Around",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
-        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
+        "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
+        "link": "https://www.bbc.com/news/world-europe-54413563"
     },
     {
-        "title": "Trump Didn’t Disclose First Positive Covid-19 Test While Awaiting a Second Test on Thursday",
-        "link": "https://www.wsj.com/articles/trump-didnt-disclose-first-positive-covid-19-test-while-awaiting-a-second-test-on-thursday-11601844813"
+        "title": "Leak reveals possible harsher three-tier England Covid plan",
+        "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     }
 ];
