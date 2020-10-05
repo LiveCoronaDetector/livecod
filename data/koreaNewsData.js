@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964283.html"
-    },
-    {
         "title": "백악관 대변인도 코로나19 확진...트럼프 측근 감염 계속",
         "link": "http://www.newsis.com/view/?id=NISX20201006_0001187300&cID=10101&pID=10100"
+    },
+    {
+        "title": "코로나19 신규 확진자 64명…나흘째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     }
 ];
