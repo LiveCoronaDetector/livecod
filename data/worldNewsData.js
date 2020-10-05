@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
-        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
+        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
+        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     },
     {
-        "title": "World leaders react after President Trump, first lady test positive for coronavirus",
-        "link": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
+        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
     }
 ];
