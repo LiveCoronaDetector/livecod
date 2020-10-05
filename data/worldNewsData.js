@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Trump's doctors say he could be released from the hospital as soon as Monday",
-        "link": "https://www.youtube.com/watch?v=xQn8Y3-wDw8"
+        "title": "Trump's photo op raises new questions about how seriously he takes the virus",
+        "link": "https://www.cnn.com/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
     },
     {
         "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
-        "title": "Renowned Japanese fashion designer Kenzo Takada dies from COVID-19",
-        "link": "https://www.youtube.com/watch?v=f9Qoi0OUG8M"
+        "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
+        "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
     }
 ];

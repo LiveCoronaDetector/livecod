@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
     },
     {
-        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
-        "link": "http://www.fnnews.com/news/202010051128071821"
-    },
-    {
         "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
         "link": "http://www.ekn.kr/news/article.html?no=526430"
+    },
+    {
+        "title": "추캉스 28만명 몰린 제주…신규 확진자 10일째 '제로'",
+        "link": "http://www.fnnews.com/news/202010041545348600"
     },
     {
         "title": "28만명 관광객 찾은 제주도, 코로나19 확진자 '0' 유지",
