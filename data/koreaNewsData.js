@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201005015300504?did=1195m"
     },
     {
-        "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
-        "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
+        "title": "WHO \"세계 인구 10% 코로나 감염 추정\"…통계 20배 이상",
+        "link": "https://www.news1.kr/articles/?4077870"
     }
 ];
