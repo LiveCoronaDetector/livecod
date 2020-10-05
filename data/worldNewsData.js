@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.thedailybeast.com/israels-hospitals-are-at-brink-of-collapse-in-devastating-second-covid-wave"
     },
     {
-        "title": "German demonstrators protest coronavirus restrictions, fail to form human chain around lake",
-        "link": "https://www.foxnews.com/world/german-demonstrators-protest-coronavirus-restrictions-human-chain"
+        "title": "Countries across Europe set grim Covid-19 records as restrictions are reimposed",
+        "link": "https://www.cnn.com/2020/10/04/europe/europe-case-rise-covid-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/05/china-technology-companies-face-geopolitical-coronavirus-changes.html"
     },
     {
-        "title": "Trump's photo op raises new questions about how seriously he takes the virus",
-        "link": "https://www.cnn.com/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
-    },
-    {
-        "title": "Coronavirus: 'World's best airport' warns of prolonged crisis",
-        "link": "https://www.bbc.com/news/business-54414201"
+        "title": "President Trump drives by supporters outside Walter Reed Medical Center.",
+        "link": "https://www.youtube.com/watch?v=3AlXOYGZWes"
     },
     {
         "title": "Leak reveals possible harsher three-tier Covid plan for England",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "‘The virus spares no one’: World reacts to Trump’s positive coronavirus test",
         "link": "https://www.washingtonpost.com/world/2020/10/02/trump-tests-positive-coronavirus-world-reacts/"
+    },
+    {
+        "title": "Analyst: The US is 'a pitiful pariah on the world stage'",
+        "link": "https://www.cnn.com/videos/politics/2020/10/04/national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx.cnn"
     }
 ];
