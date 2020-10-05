@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "Trump Covid Live Updates and Video: President to Leave Walter Reed",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Live: Trump To Be Discharged From Walter Reed | NBC News",
+        "link": "https://www.youtube.com/watch?v=zdXs_u6HXHY"
+    },
+    {
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
         "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
         "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
-    },
-    {
-        "title": "India's drug authority approved paper-strip Covid-19 test that could return results within hour",
-        "link": "https://www.cnn.com/2020/10/05/india/india-covid-19-hour-tests-approved-intl/index.html"
     }
 ];
