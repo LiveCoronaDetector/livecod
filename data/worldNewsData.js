@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html"
     },
     {
-        "title": "Covid pandemic lays bare Spain's chronic shortage of medics",
-        "link": "https://www.theguardian.com/world/2020/oct/05/covid-pandemic-lays-bare-spains-chronic-shortage-of-medics"
+        "title": "Only four countries in Europe are below a critical coronavirus threshold",
+        "link": "https://www.cnn.com/2020/10/05/europe/ursula-von-der-leyen-self-isolates-intl/index.html"
     },
     {
         "title": "India's new paper Covid-19 test could be a ‘game changer’",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
-        "title": "No, you can’t puncture your brain with a COVID-19 swab test",
-        "link": "https://thenextweb.com/syndication/2020/10/05/no-you-cant-puncture-your-brain-with-a-covid-19-swab-test/"
+        "title": "Covid-19 Trump Live Updates: White House Outbreak Continues",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
-        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
+        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
+        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     },
     {
         "title": "Leak reveals possible harsher three-tier England Covid plan",
