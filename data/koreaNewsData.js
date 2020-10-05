@@ -9,24 +9,24 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006009325&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "코로나19 확진 11세·12세, 소아·청소년 다기관염증증후군 감염(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201005_0001186897&cID=10201&pID=10200"
-    },
-    {
-        "title": "포천 군부대 확진자 36명…서울 다녀온 확진간부 1명 역학조사(종합)",
-        "link": "http://yna.kr/AKR20201005015351504?did=1195m"
-    },
-    {
-        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
-        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
+        "title": "'다기관염증증후군' 첫 확인…\"코로나 회복 후 나타나\"",
+        "link": "https://imnews.imbc.com/replay/2020/nwdesk/article/5931347_32524.html"
     },
     {
         "title": "코로나 감염 아동 '희귀 후유증'…국내서 2명 첫 확인",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972455"
     },
     {
+        "title": "코로나19에 어린이 다기관염증증후군까지…학부모들 '불안'(종합)",
+        "link": "http://yna.kr/AKR20201005109451530?did=1195m"
+    },
+    {
         "title": "WHO \"세계 인구 10% 코로나 감염됐을 수도\"",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/05/2020100502866.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "포천 군부대 확진자 36명…서울 다녀온 확진간부 1명 역학조사(종합)",
+        "link": "http://yna.kr/AKR20201005015351504?did=1195m"
     },
     {
         "title": "포천 군부대 코로나19 확진자 30여명 '비상'…감염경로 불분명",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964283.html"
     },
     {
-        "title": "포항 ‘코로나19’ 확진자 나흘째 ‘제로’",
-        "link": "https://www.pressian.com/pages/articles/2020100516253728211?utm_source=naver&utm_medium=search"
+        "title": "백악관 대변인도 코로나19 확진...트럼프 측근 감염 계속",
+        "link": "http://www.newsis.com/view/?id=NISX20201006_0001187300&cID=10101&pID=10100"
     }
 ];
