@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414201"
     },
     {
-        "title": "Leak reveals possible harsher three-tier Covid plan for England",
+        "title": "Leak reveals possible harsher three-tier England Covid plan",
         "link": "https://www.theguardian.com/world/2020/oct/04/leak-reveals-possible-harsher-three-tier-covid-plan-for-england"
     },
     {
