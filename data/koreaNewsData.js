@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "트럼프 “코로나, 독감보다 덜 치명적!” 발언 논란",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201007500001&wlog_tag3=naver"
+    },
+    {
+        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "일본 코로나19 확진자 누적 8만7000명 넘어…신규 500명",

@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
-        "title": "Coronavirus: Europe experiencing 'pandemic fatigue'",
-        "link": "https://www.bbc.com/news/health-54417547"
+        "title": "Europe must go beyond science to survive Covid crisis, says WHO",
+        "link": "https://www.theguardian.com/world/2020/oct/06/europe-must-go-beyond-science-to-survive-covid-crisis-says-who"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
