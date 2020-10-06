@@ -5,20 +5,20 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151926"
     },
     {
-        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429176"
+        "title": "제주도, 수도권 방문 유증상자 코로나19 검사 무료",
+        "link": "http://www.newsrep.co.kr/news/articleView.html?idxno=147456"
     },
     {
         "title": "[종합] 포천 군부대 코로나19 확진 장병, 최근 대전 다녀가",
         "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=239461"
     },
     {
-        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
-        "link": "http://www.fnnews.com/news/202010051128071821"
-    },
-    {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
+    },
+    {
+        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
+        "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
-        "title": "강원 동해안 추석 연휴 관광객 감소에 안도…확진자도 '0'",
-        "link": "http://yna.kr/AKR20201005106700062?did=1195m"
+        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
     }
 ];

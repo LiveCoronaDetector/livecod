@@ -5,6 +5,14 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
+        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "트럼프, 사흘만에 퇴원...\"상태 좋다! 코로나19 두려워말라\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
+    },
+    {
         "title": "정부 \"확진자·감염경로 불분명 비율 고려해 거리두기 조정\"",
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
@@ -13,31 +21,23 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201006072551004?did=1195m"
     },
     {
-        "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "스타벅스 서울교대점...코로나19 확진자 3명 발생",
+        "link": "https://www.news1.kr/photos/view/?4413531"
+    },
+    {
+        "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015080563&code=61121111&cp=nv"
     },
     {
         "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
         "link": "http://www.fnnews.com/news/202010061505538365"
     },
     {
-        "title": "日 지바 롯데, 코로나 집단 감염...총 13명",
-        "link": "http://www.fnnews.com/news/202010061501139522"
-    },
-    {
-        "title": "민주당 당사 직원, 코로나19 확진…긴급 방역 실시(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201006_0001188441&cID=10301&pID=10300"
+        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
     },
     {
         "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
-    },
-    {
-        "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     }
 ];
