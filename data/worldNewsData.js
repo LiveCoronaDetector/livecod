@@ -29,11 +29,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
-        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "Covid-19 Live Updates",
+        "title": "Coronavirus Live Global Updates",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
