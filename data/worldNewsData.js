@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
     },
     {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
-    },
-    {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
+        "title": "Coronavirus and politics: School nurse discusses how politics has had an impact on COVID-19",
+        "link": "https://www.youtube.com/watch?v=8_LRuDNhVkI"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-06-20-intl/index.html"
     },
     {
         "title": "Live Covid-19 Updates on President Trump",
