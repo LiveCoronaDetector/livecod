@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
-        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
-        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Downplays Coronavirus, Doctor Says He Isn’t ‘Out of the Woods’: Live Covid-19 Updates",
+        "title": "Trump Covid-19 Live Updates: President Leaves Walter Reed But Isn't 'Out of the Woods'",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
-        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
+        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
     }
 ];
