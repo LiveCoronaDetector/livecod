@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54419959"
     },
     {
-        "title": "Coronavirus: Can China's Golden Week boost Asia's economies?",
-        "link": "https://www.bbc.com/news/business-54414205"
+        "title": "China's global reputation plunges in the wake of coronavirus pandemic",
+        "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
+        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
         "title": "Covid-19 Global News: Live Tracker",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
-    },
-    {
-        "title": "Medics condemn Trump's 'dangerous' Covid comments",
-        "link": "https://www.theguardian.com/world/2020/oct/06/medics-condemn-trumps-dangerous-covid-comments-coronavirus"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",

@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "[속보] 일본 코로나19 신규 확진 500명…누적 8만7천명 넘어",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100623053271807"
-    },
-    {
         "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015080563&code=61121111&cp=nv"
     },
@@ -25,19 +21,23 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "전북 코로나19 확진자 5명 추가…전북 141~145번(종합)",
-        "link": "http://www.fnnews.com/news/202010061331138054"
-    },
-    {
         "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규 확진자 73명…닷새째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964397.html"
+        "title": "전북 코로나19 확진자 5명 추가…전북 141~145번(종합)",
+        "link": "http://www.fnnews.com/news/202010061331138054"
     },
     {
-        "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
+        "title": "일본 코로나19 확진자 누적 8만7000명 넘어…신규 500명",
+        "link": "https://www.hankyung.com/international/article/2020100616497"
+    },
+    {
+        "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
+    },
+    {
+        "title": "서울 서초구 카페서 집단감염···“직원 1명 사는 주거공간서도 확진자”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010061133001&code=620101"
     }
 ];
