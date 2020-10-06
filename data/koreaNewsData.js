@@ -25,19 +25,19 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
-    },
-    {
         "title": "日 지바롯데, 코로나19 집단 감염…선수 8명 등 13명 확진(종합)",
         "link": "http://yna.kr/AKR20201006078751007?did=1195m"
+    },
+    {
+        "title": "코로나19 확진자 발생 정읍 양지마을 이동제한 조치",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5018859&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     },
     {
-        "title": "코로나19 확진자 발생 정읍 양지마을 이동제한 조치",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5018859&ref=A"
+        "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
     }
 ];

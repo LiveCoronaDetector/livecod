@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "Covid-19 News: Live World Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
-        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
-        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+        "title": "Covid-19 World News: Live Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
