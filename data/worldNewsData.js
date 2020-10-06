@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
-        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
-    },
-    {
         "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Medics condemn Trump's 'dangerous' Covid comments",
         "link": "https://www.theguardian.com/world/2020/oct/06/medics-condemn-trumps-dangerous-covid-comments-coronavirus"
+    },
+    {
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     }
 ];
