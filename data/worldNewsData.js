@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
-        "title": "10% of the world may have been infected by Covid-19, WHO official says",
-        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
+        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
+        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     }
 ];
