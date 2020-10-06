@@ -17,24 +17,24 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
     },
     {
-        "title": "India's new paper Covid-19 test could be a ‘game changer’",
-        "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
+        "title": "India's drug authority approved paper-strip Covid-19 test that could return results within hour",
+        "link": "https://www.cnn.com/2020/10/05/india/india-covid-19-hour-tests-approved-intl/index.html"
     },
     {
         "title": "Coronavirus live news: Mexico sees record daily cases; Japan-South Korea travel plan",
         "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
     },
     {
-        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
-    },
-    {
-        "title": "Coronavirus and politics: School nurse discusses how politics has had an impact on COVID-19",
-        "link": "https://www.youtube.com/watch?v=8_LRuDNhVkI"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-06-20-intl/index.html"
+    },
+    {
+        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
+        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+    },
+    {
+        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
         "title": "Live Covid-19 Updates on President Trump",
