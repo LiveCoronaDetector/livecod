@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010060936448125"
     },
     {
-        "title": "\"대구 신규확진자 0명…사망자 1명\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020100610140277831"
+        "title": "서울 신규확진자 사흘째 20명 아래…까페·병원 등서 집단감염(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02699446625930296"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 75명…엿새째 두자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010060943001&code=940100"
     },
     {
-        "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
+        "title": "\"대구 신규확진자 0명…사망자 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020100610140277831"
     },
     {
         "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "트럼프, 사흘만에 퇴원...\"상태 좋다! 코로나19 두려워말라\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
     },
     {
-        "title": "[속보] 코로나19 75명 신규 확진...국내발생 66명",
-        "link": "https://www.sedaily.com/NewsView/1Z90XLJGJF"
+        "title": "서울 확진자 사흘째 10명대…서초구 카페 등 집단감염 이어져",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100601302.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
+    },
+    {
+        "title": "포천 군부대 코로나19 확진 간부 1명 외출 추가 확인(종합)",
+        "link": "http://yna.kr/AKR20201006048851504?did=1195m"
     },
     {
         "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
-    },
-    {
-        "title": "코로나 국내 신규 확진 75명… 국내발생 66명·해외유입 9명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/10/06/2020100600825.html"
     }
 ];
