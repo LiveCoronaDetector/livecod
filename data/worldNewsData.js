@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "Trump Actually Believes He Can Sell Himself to America as a COVID-Conquering Hero",
-        "link": "https://www.thedailybeast.com/trump-actually-believes-he-can-sell-himself-to-america-as-a-covid-conquering-hero"
+        "title": "Live updates: White House blocks FDA’s ramped up coronavirus vaccine guidelines",
+        "link": "https://www.washingtonpost.com/nation/2020/10/06/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-06-20-intl/index.html"
+        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
         "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
         "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
-        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
+        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "Live Covid-19 Updates on President Trump",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "WHO: 10% of world's people may have been infected with virus",
+        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
     }
 ];
