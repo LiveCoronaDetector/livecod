@@ -5,36 +5,36 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
-        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "트럼프, 사흘만에 퇴원...\"상태 좋다! 코로나19 두려워말라\"(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
-    },
-    {
         "title": "정부 \"확진자·감염경로 불분명 비율 고려해 거리두기 조정\"",
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "서초구 카페 집단감염 최소 3명…확진자 거주공간에도 전파(종합)",
-        "link": "http://yna.kr/AKR20201006072551004?did=1195m"
+        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
     },
     {
-        "title": "스타벅스 서울교대점...코로나19 확진자 3명 발생",
-        "link": "https://www.news1.kr/photos/view/?4413531"
+        "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 75명 증가..서울 13명, 경기 34명",
+        "link": "http://www.fnnews.com/news/202010060936448125"
+    },
+    {
+        "title": "서울 서초구 카페서 집단감염···“직원 1명 사는 주거공간서도 확진자”",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010061133001&code=620101"
     },
     {
         "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015080563&code=61121111&cp=nv"
     },
     {
-        "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
-        "link": "http://www.fnnews.com/news/202010061505538365"
+        "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     },
     {
-        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
+        "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
+        "link": "http://www.fnnews.com/news/202010061505538365"
     },
     {
         "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",

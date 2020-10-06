@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54419959"
     },
     {
-        "title": "Trump's COVID-19 diagnosis is seen as a 'self inflicted wound' and will bolster China's global standing, Atlantic Council's CEO says | Markets",
-        "link": "https://markets.businessinsider.com/news/stocks/trumps-covid-19-diagnosis-benefits-chinas-position-atlantic-council-2020-10-1029648238"
+        "title": "Coronavirus: Can China's Golden Week boost Asia's economies?",
+        "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
-        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn't 'Out of the Woods'",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Trump Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
-        "title": "WHO: 10% of world's people may have been infected with virus",
-        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
+        "title": "Sweden and the World-Historical Power of Conformity",
+        "link": "https://foreignpolicy.com/2020/10/05/sweden-and-the-world-historical-power-of-conformity/"
     }
 ];
