@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
     },
     {
-        "title": "서울 신규확진자 사흘째 20명 아래…까페·병원 등서 집단감염(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02699446625930296"
+        "title": "카페·회사서 집단감염…서울 확진자 15명 나와(종합)",
+        "link": "http://www.fnnews.com/news/202010061113298857"
     },
     {
-        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
+        "title": "서울 확진자 사흘째 10명대…서초구 카페 등 집단감염 이어져",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100601302.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나19 어제 신규확진자 73명…닷새째 두자릿수 유지",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222144"
+        "title": "\"대구 신규확진자 0명…사망자 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020100610140277831"
     },
     {
-        "title": "서초구 카페 집단감염 최소 3명…확진자 거주공간에도 전파(종합)",
-        "link": "http://yna.kr/AKR20201006072551004?did=1195m"
+        "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     },
     {
-        "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
+        "title": "13일부터 확진자 자가치료 가능…당국 \"정교·정밀한 지침 논의중\"(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201006_0001188339&cID=10201&pID=10200"
     },
     {
-        "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
+        "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
+        "link": "http://www.fnnews.com/news/202010061505538365"
+    },
+    {
+        "title": "의정부 한 재활병원에서 코로나19 집단감염 발생",
+        "link": "http://news.tf.co.kr/read/national/1816683.htm"
     }
 ];
