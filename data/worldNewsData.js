@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/indias-paper-covid-19-test-230147502.html"
     },
     {
-        "title": "Chinese firm finds hostility and smears add hurdles to Covid-19 vaccine race",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
+        "title": "Coronavirus live news: Mexico sees record daily cases; Japan-South Korea travel plan",
+        "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
+    },
+    {
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Live Covid-19 Updates on President Trump",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
-    },
-    {
-        "title": "WHO: 10% of world's people may have been infected with virus",
-        "link": "https://abcnews.go.com/Health/wireStory/10-worlds-people-infected-virus-73427817"
     }
 ];
