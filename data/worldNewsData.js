@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
     },
     {
-        "title": "Europe struggles to contain surge of coronavirus cases",
+        "title": "Coronavirus: Europe struggles to contain surge of cases",
         "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
     },
     {
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "'Don't be afraid of it,' Trump says of COVID-19 after leaving hospital",
-        "link": "https://www.yahoo.com/news/president-trump-announces-leaving-walter-reed-hospital-covid-185628667.html"
+        "title": "LIVE: Trump Returns to the White House With Covid-19 and Without a Face Mask | Happening Today",
+        "link": "https://www.youtube.com/watch?v=sKCkM-f2Qk4"
     },
     {
         "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
