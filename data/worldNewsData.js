@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Boeing slashes forecast for new aircraft demand, expects coronavirus pandemic to hurt sales for more than a decade",
+        "link": "https://www.cnbc.com/2020/10/06/boeing-covid-pandemic-to-hurt-aircraft-sales-for-more-than-a-decade.html"
     }
 ];
