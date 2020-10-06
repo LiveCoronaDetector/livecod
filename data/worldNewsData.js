@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
-    },
-    {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
+    },
+    {
+        "title": "Boeing slashes forecast for new aircraft demand, expects coronavirus pandemic to hurt sales for more than a decade",
+        "link": "https://www.cnbc.com/2020/10/06/boeing-covid-pandemic-to-hurt-aircraft-sales-for-more-than-a-decade.html"
     }
 ];
