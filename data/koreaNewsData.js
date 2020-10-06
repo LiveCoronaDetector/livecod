@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "전북 코로나19 확진자 5명 추가…전북 141~145번(종합)",
-        "link": "http://www.fnnews.com/news/202010061331138054"
-    },
-    {
         "title": "일본 코로나19 확진자 누적 8만7000명 넘어…신규 500명",
         "link": "https://www.hankyung.com/international/article/2020100616497"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "서울 서초구 카페서 집단감염···“직원 1명 사는 주거공간서도 확진자”",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010061133001&code=620101"
+    },
+    {
+        "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
     }
 ];
