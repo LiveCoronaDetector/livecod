@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.fool.com/investing/2020/10/06/astrazenecas-coronavirus-vaccine-is-already-being/"
     },
     {
-        "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
-        "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
+        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
+        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
-        "title": "Coronavirus live news: Italy considers mandatory outdoor masks; Chinese vaccines to be assessed",
+        "title": "Coronavirus live news: Belgium limits gatherings to four people; Italy set to make masks mandatory outdoors",
         "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
     },
     {
