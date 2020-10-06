@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
-    },
-    {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
         "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "Medics condemn Trump's 'dangerous' Covid comments",
-        "link": "https://www.theguardian.com/world/2020/oct/06/medics-condemn-trumps-dangerous-covid-comments-coronavirus"
+        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "WHO: 10% of world's people may have been infected with virus",
-        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
+        "title": "White House likened to 'ghost town' as anxiety over coronavirus cluster grows",
+        "link": "https://www.theguardian.com/world/2020/oct/06/white-house-likened-to-ghost-town-as-anxiety-over-coronavirus-cluster-grows"
+    },
+    {
+        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     }
 ];
