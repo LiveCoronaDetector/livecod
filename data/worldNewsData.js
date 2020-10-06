@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://apnews.com/article/virus-outbreak-pandemics-south-africa-africa-johannesburg-26fca9f5c51465e29e878aaaae5ae19b"
     },
     {
-        "title": "Live updates: Coronavirus can be transmitted through the air, CDC confirms",
-        "link": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/"
+        "title": "'Raging epidemic is not inevitable' — Dr. Scott Gottlieb believes China case count and rips U.S. response",
+        "link": "https://www.cnbc.com/2020/10/05/dr-scott-gottlieb-a-raging-epidemic-is-not-inevitable-dr-scott-gottlieb-says-.html"
     },
     {
         "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
-    },
-    {
-        "title": "Live Covid-19 Updates on President Trump",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
+        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Coronavirus update: Global case tally tops 35 million and deaths exceed 1 million, while Trump says ‘don’t be afraid of COVID’",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-tops-35-million-and-doctors-are-alarmed-that-trumps-sunday-jaunt-put-his-security-detail-at-risk-2020-10-05"
+        "title": "Live Covid-19 Updates on President Trump",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+    },
+    {
+        "title": "WHO: 10% of world's people may have been infected with virus",
+        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
     }
 ];
