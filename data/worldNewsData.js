@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
-    },
-    {
         "title": "Covid-19 World News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
+    },
+    {
+        "title": "India Records Lowest Daily Spike in COVID-19 Cases Since August; Overall Tally Crosses 66.8 Lakh",
+        "link": "https://weather.com/en-IN/india/coronavirus/news/2020-10-06-india-records-lowest-daily-spike-in-covid-19-cases-since-august"
     },
     {
         "title": "Coronavirus update: Global case tally tops 35 million and deaths exceed 1 million, while Trump says ‘don’t be afraid of COVID’",

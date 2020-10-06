@@ -5,10 +5,6 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "제주도, 수도권 방문 유증상자 코로나19 검사 무료 지원",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151926"
-    },
-    {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
+    },
+    {
+        "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
+        "link": "https://view.asiae.co.kr/article/2020100510204357096"
     }
 ];

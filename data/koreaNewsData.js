@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201006078751007?did=1195m"
     },
     {
-        "title": "코로나19 확진자 발생 정읍 양지마을 이동제한 조치",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5018859&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     },
     {
         "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
+    },
+    {
+        "title": "인천서 확진자 접촉자·해외입국자 등 7명 추가 감염(종합)",
+        "link": "http://yna.kr/AKR20201006073251065?did=1195m"
     }
 ];
