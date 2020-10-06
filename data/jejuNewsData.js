@@ -21,23 +21,23 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
+        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429176"
+    },
+    {
+        "title": "강원 동해안 추석 연휴 관광객 감소에 안도…확진자도 '0'",
+        "link": "http://yna.kr/AKR20201005106700062?did=1195m"
+    },
+    {
+        "title": "울산 추석기간 확진자 5명…목욕탕, 대학교, 유적지 다니며 다수 접촉",
+        "link": "https://www.news1.kr/articles/?4077749"
+    },
+    {
         "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
     },
     {
         "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
         "link": "https://view.asiae.co.kr/article/2020100510204357096"
-    },
-    {
-        "title": "추석 제주도 찾은 인파 28만명…한글날 연휴 남아 긴장",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010050077&t=NN"
-    },
-    {
-        "title": "코로나19 나흘째 두자릿수...‘연휴 끝’ 확진자 추이 주목",
-        "link": "http://www.ekn.kr/news/article.html?no=526430"
-    },
-    {
-        "title": "8일 동안 27만명 제주 찾아...확진자 없지만 '불안불안'",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2172535"
     }
 ];

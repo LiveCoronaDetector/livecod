@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
-        "title": "[속보] 코로나 신규 75명, 엿새 째 두자리...국내 발생 66명",
-        "link": "https://news.joins.com/article/olink/23481578"
+        "title": "[속보] 코로나 국내 신규 확진 75명… 국내발생 66명·해외유입 9명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/10/06/2020100600825.html"
     },
     {
-        "title": "[속보]코로나19 어제 75명 신규확진…지역발생 66명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222305"
+        "title": "코로나19 신규확진 75명, 6일 연속 두 자릿수(종합)",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=999375"
     },
     {
-        "title": "[속보]신규 코로나19 확진자 75명…국내 발생 66명",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01931926625930296"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진 75명…지역발생 66명",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010060079&t=NN"
-    },
-    {
-        "title": "코로나19 어제 75명 신규확진…지역발생 66명",
-        "link": "http://www.busan.com/view/busan/view.php?code=2020100609304070367"
+        "title": "코로나19 신규확진 75명…지역발생 66명ㆍ해외유입 9명",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100500153"
     },
     {
         "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합]코로나 확진자 트럼프 입원 사흘만에 퇴원",
-        "link": "http://www.fnnews.com/news/202010060819094784"
-    },
-    {
         "title": "[종합] 코로나19 확진자 75명 증가..서울 13명, 경기 34명",
         "link": "http://www.fnnews.com/news/202010060936448125"
     },
     {
+        "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
+    },
+    {
         "title": "트럼프, 사흘만에 퇴원...\"상태 좋다! 코로나19 두려워말라\"(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201006_0001187318&cID=10101&pID=10100"
+    },
+    {
+        "title": "\"대구 신규확진자 0명…사망자 1명\"(전문)",
+        "link": "https://news.imaeil.com/Society/2020100610140277831"
+    },
+    {
+        "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
     }
 ];

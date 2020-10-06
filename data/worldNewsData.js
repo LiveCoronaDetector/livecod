@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
-        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
-        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
-    },
-    {
-        "title": "Trump Covid-19 Live Updates: President Leaves Walter Reed But Isn't 'Out of the Woods'",
+        "title": "Live Covid-19 Updates on President Trump",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "'That should never have happened': Inside Trump's Walter Reed parade",
-        "link": "https://www.cnn.com/2020/10/05/politics/trump-secret-service-trip/index.html"
+        "title": "White House Blocks New Coronavirus Vaccine Guidelines",
+        "link": "https://www.nytimes.com/2020/10/05/us/politics/coronavirus-vaccine-guidelines.html"
+    },
+    {
+        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
+        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
     }
 ];
