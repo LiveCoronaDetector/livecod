@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
-        "title": "Coronavirus live news: Belgium limits gatherings to four people; Italy set to make masks mandatory outdoors",
-        "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
+        "title": "Europe must go beyond science to survive Covid crisis, says WHO",
+        "link": "https://www.theguardian.com/world/2020/oct/06/europe-must-go-beyond-science-to-survive-covid-crisis-says-who"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -33,7 +33,7 @@ var worldNewsData = [
         "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "Covid-19 Live Updates",
+        "title": "Covid-19 Live Updates: Trump to End Stimulus Talks With Democrats",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {

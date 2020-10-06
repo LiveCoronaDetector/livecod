@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "트럼프 “코로나, 독감보다 덜 치명적!” 발언 논란",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201007500001&wlog_tag3=naver"
+    },
+    {
         "title": "일본 코로나19 확진자 누적 8만7000명 넘어…신규 500명",
         "link": "https://www.hankyung.com/international/article/2020100616497"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
-    },
-    {
-        "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972502"
     }
 ];
