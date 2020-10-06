@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/03/africa/nigeria-cheaper-covid-19-test-kits-intl/index.html"
     },
     {
-        "title": "'Raging epidemic is not inevitable' — Dr. Scott Gottlieb believes China case count and rips U.S. response",
-        "link": "https://www.cnbc.com/2020/10/05/dr-scott-gottlieb-a-raging-epidemic-is-not-inevitable-dr-scott-gottlieb-says-.html"
+        "title": "Trump Actually Believes He Can Sell Himself to America as a COVID-Conquering Hero",
+        "link": "https://www.thedailybeast.com/trump-actually-believes-he-can-sell-himself-to-america-as-a-covid-conquering-hero"
     },
     {
         "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/diplomacy/article/3104189/chinese-firm-finds-hostility-and-smears-add-hurdles-covid-19"
     },
     {
-        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
-        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
+        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Coronavirus live news: Mexico sees record daily increase in deaths and new cases",
-        "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
+        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
     },
     {
         "title": "Live Covid-19 Updates on President Trump",
