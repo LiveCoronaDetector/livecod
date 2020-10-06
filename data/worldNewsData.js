@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "White House Blocks New Coronavirus Vaccine Guidelines",
-        "link": "https://www.nytimes.com/2020/10/05/us/politics/coronavirus-vaccine-guidelines.html"
+        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "WHO Estimates Coronavirus Infected 10% Of World’s Population",
-        "link": "https://www.forbes.com/sites/jemimamcevoy/2020/10/05/who-estimates-coronavirus-infected-10-of-worlds-population/"
+        "title": "Coronavirus update: Global case tally tops 35 million and deaths exceed 1 million, while Trump says ‘don’t be afraid of COVID’",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-tops-35-million-and-doctors-are-alarmed-that-trumps-sunday-jaunt-put-his-security-detail-at-risk-2020-10-05"
     }
 ];
