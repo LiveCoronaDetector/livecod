@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/05/india/india-covid-19-hour-tests-approved-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: Mexico sees record daily cases; Japan-South Korea travel plan",
-        "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
+        "title": "Coronavirus: Can China's Golden Week boost Asia's economies?",
+        "link": "https://www.bbc.com/news/business-54414205"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
-    },
-    {
         "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
-        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
+        "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
+        "link": "https://www.bbc.com/news/world-europe-54413563"
+    },
+    {
+        "title": "WHO: 10% of world's people may have been infected with virus",
+        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
     }
 ];
