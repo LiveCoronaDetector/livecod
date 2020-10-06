@@ -5,12 +5,20 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "수도권 방문 후 코로나19 의심증상 있는 제주도민 무료 검사",
+        "link": "http://www.fnnews.com/news/202010061153416051"
+    },
+    {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
     {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
+    },
+    {
+        "title": "\"국내 코로나 확진자 치명율, 80세 이상 21.4%로 최고\"",
+        "link": "http://www.dailypharm.com/Users/News/NewsView.html?ID=269138&REFERER=NP"
     },
     {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
-    },
-    {
-        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
-    },
-    {
-        "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
-        "link": "https://view.asiae.co.kr/article/2020100510204357096"
     }
 ];
