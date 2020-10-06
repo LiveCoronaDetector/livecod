@@ -5,20 +5,24 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
-        "title": "서초구 카페 집단감염 최소 3명…확진자 거주공간에도 전파(종합)",
-        "link": "http://yna.kr/AKR20201006072551004?did=1195m"
+        "title": "정부 \"확진자·감염경로 불분명 비율 고려해 거리두기 조정\"",
+        "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "정부 \"거리두기 단계 이번주 중으로 조정\"…확진자수·깜깜이 비율 변수",
-        "link": "https://news.imaeil.com/Society/2020100612175985508"
+        "title": "서초구 카페 집단감염 최소 3명…확진자 거주공간에도 전파(종합)",
+        "link": "http://yna.kr/AKR20201006072551004?did=1195m"
     },
     {
         "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "카페·회사서 집단감염…서울 확진자 15명 나와(종합)",
-        "link": "http://www.fnnews.com/news/202010061113298857"
+        "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
+        "link": "http://www.fnnews.com/news/202010061505538365"
+    },
+    {
+        "title": "日 지바 롯데, 코로나 집단 감염...총 13명",
+        "link": "http://www.fnnews.com/news/202010061501139522"
     },
     {
         "title": "민주당 당사 직원, 코로나19 확진…긴급 방역 실시(종합)",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
-    },
-    {
-        "title": "의정부 한 재활병원에서 코로나19 집단감염 발생",
-        "link": "http://news.tf.co.kr/read/national/1816683.htm"
     },
     {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
