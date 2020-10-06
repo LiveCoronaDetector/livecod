@@ -5,16 +5,20 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
+        "title": "[속보] 일본 코로나19 신규 확진 500명…누적 8만7천명 넘어",
+        "link": "http://www.busan.com/view/busan/view.php?code=2020100623053271807"
+    },
+    {
         "title": "정부 \"확진자·감염경로 불분명 비율 고려해 거리두기 조정\"",
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015080563&code=61121111&cp=nv"
+    },
+    {
+        "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "전북 코로나19 확진자 5명 추가…전북 141~145번(종합)",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
-    },
-    {
-        "title": "인천서 확진자 접촉자·해외입국자 등 7명 추가 감염(종합)",
-        "link": "http://yna.kr/AKR20201006073251065?did=1195m"
     }
 ];

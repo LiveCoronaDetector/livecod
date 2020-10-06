@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Trump Actually Believes He Can Sell Himself to America as a COVID-Conquering Hero",
-        "link": "https://www.thedailybeast.com/trump-actually-believes-he-can-sell-himself-to-america-as-a-covid-conquering-hero"
+        "title": "AstraZeneca's Coronavirus Vaccine Is Already Being Reviewed for Approval in Canada and Europe. Why Not in the U.S.?",
+        "link": "https://www.fool.com/investing/2020/10/06/astrazenecas-coronavirus-vaccine-is-already-being/"
     },
     {
         "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
         "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
     },
     {
-        "title": "Coronavirus: Europe struggles to contain surge of cases",
-        "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
+        "title": "Coronavirus live news: Italy considers mandatory outdoor masks; Chinese vaccines to be assessed",
+        "link": "https://www.theguardian.com/world/live/2020/oct/06/coronavirus-live-news-french-icu-patients-highest-since-may-trump-to-participate-in-next-debate"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "Covid-19 Global News: Live Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
-    },
-    {
         "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+    },
+    {
+        "title": "Covid-19 Global News: Live Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
