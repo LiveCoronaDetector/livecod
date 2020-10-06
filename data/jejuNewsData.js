@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
-        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
-    },
-    {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
+    },
+    {
+        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
     },
     {
         "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",

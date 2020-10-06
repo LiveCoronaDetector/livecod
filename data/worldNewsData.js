@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
     },
     {
-        "title": "Coronavirus: Europe struggles to contain surge of cases",
-        "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
+        "title": "Coronavirus: Europe experiencing 'pandemic fatigue'",
+        "link": "https://www.bbc.com/news/health-54417547"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
+        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
+        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+    },
+    {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "India Records Lowest Daily Spike in COVID-19 Cases Since August; Overall Tally Crosses 66.8 Lakh",
-        "link": "https://weather.com/en-IN/india/coronavirus/news/2020-10-06-india-records-lowest-daily-spike-in-covid-19-cases-since-august"
-    },
-    {
-        "title": "Coronavirus update: Global case tally tops 35 million and deaths exceed 1 million, while Trump says ‘don’t be afraid of COVID’",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-tops-35-million-and-doctors-are-alarmed-that-trumps-sunday-jaunt-put-his-security-detail-at-risk-2020-10-05"
+        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
+        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     }
 ];
