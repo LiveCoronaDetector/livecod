@@ -25,10 +25,6 @@ var jejuNewsData = [
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
     },
     {
-        "title": "[종합] 포천 군부대 코로나19 확진 장병, 최근 대전 다녀가",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=239461"
-    },
-    {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
         "link": "https://view.asiae.co.kr/article/2020100510204357096"
+    },
+    {
+        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     }
 ];
