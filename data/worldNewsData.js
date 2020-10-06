@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://apnews.com/article/virus-outbreak-pandemics-south-africa-africa-johannesburg-26fca9f5c51465e29e878aaaae5ae19b"
     },
     {
-        "title": "'Raging epidemic is not inevitable' — Dr. Scott Gottlieb believes China case count and rips U.S. response",
-        "link": "https://www.cnbc.com/2020/10/05/dr-scott-gottlieb-a-raging-epidemic-is-not-inevitable-dr-scott-gottlieb-says-.html"
+        "title": "Live updates: Coronavirus can be transmitted through the air, CDC confirms",
+        "link": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Iran Sets Coronavirus Record as Capital Returns to Lockdown",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Returns Home After Downplaying Disease, but Doctor Says He Isn't 'Out of the Woods'",
+        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
+    },
+    {
+        "title": "Trump Downplays Coronavirus, Doctor Says He Isn’t ‘Out of the Woods’: Live Covid-19 Updates",
         "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
     },
     {
-        "title": "Irish government 'to reject new lockdown recommendation' – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/05/coronavirus-live-news-global-covid-cases-pass-35m-walter-reed-doctor-calls-donald-trump-drive-insanity"
-    },
-    {
-        "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
+        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
+        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     }
 ];
