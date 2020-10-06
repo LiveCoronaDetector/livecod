@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
+        "title": "Coronavirus and politics: School nurse discusses how politics has had an impact on COVID-19",
+        "link": "https://www.youtube.com/watch?v=8_LRuDNhVkI"
+    },
+    {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "'Don't be afraid of it,' Trump says of COVID-19 after leaving hospital",
+        "link": "https://www.yahoo.com/news/president-trump-announces-leaving-walter-reed-hospital-covid-185628667.html"
     },
     {
-        "title": "Coronavirus: Paris to shut bars and raise alert to maximum",
-        "link": "https://www.bbc.com/news/world-europe-54413563"
-    },
-    {
-        "title": "WHO: 10% of world's people may have been infected with virus",
-        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-54a3a5869c9ae4ee623497691e796083"
+        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
+        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     }
 ];

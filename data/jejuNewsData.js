@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151926"
     },
     {
+        "title": "[종합] 포천 군부대 코로나19 확진 장병, 최근 대전 다녀가",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=239461"
+    },
+    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
         "link": "https://view.asiae.co.kr/article/2020100510204357096"
-    },
-    {
-        "title": "추석 제주도 찾은 인파 28만명…한글날 연휴 남아 긴장",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010050077&t=NN"
     }
 ];
