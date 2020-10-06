@@ -9,20 +9,20 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201006083900530?did=1195m"
     },
     {
-        "title": "말년 휴가 중 코로나 확진 판정…포천 군부대, 37명째",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100610487676693"
-    },
-    {
         "title": "스타벅스 서울교대점, 코로나 확진자 2명 발생",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 확진자 75명 증가..서울 13명, 경기 34명",
-        "link": "http://www.fnnews.com/news/202010060936448125"
+        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "서울 서초구 카페서 집단감염···“직원 1명 사는 주거공간서도 확진자”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010061133001&code=620101"
+        "title": "日 지바 롯데, 코로나 집단 감염...총 13명",
+        "link": "http://www.fnnews.com/news/202010061501139522"
+    },
+    {
+        "title": "민주당 당사 직원, 코로나19 확진…긴급 방역 실시(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201006_0001188441&cID=10301&pID=10300"
     },
     {
         "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
@@ -33,8 +33,8 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
     },
     {
-        "title": "[종합] 가족 모임, 의료기관 등 코로나19 확진자 집단 발생",
-        "link": "http://www.fnnews.com/news/202010061505538365"
+        "title": "인천서 확진자 접촉자·해외입국자 등 7명 추가 감염(종합)",
+        "link": "http://yna.kr/AKR20201006073251065?did=1195m"
     },
     {
         "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",

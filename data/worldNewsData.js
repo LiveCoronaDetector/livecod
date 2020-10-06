@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "As Second Covid-19 Wave Rolls Through Europe, Deaths and Hospitalizations Rise",
-        "link": "https://www.wsj.com/articles/as-second-covid-19-wave-rolls-through-europe-deaths-and-hospitalizations-rise-11601919564"
+        "title": "'A way to kill our economy': Madrid starts partial virus lockdown amid political dispute",
+        "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
+    },
+    {
+        "title": "Trump's reckless return met with a dramatically changed White House",
+        "link": "https://www.cnn.com/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Covid-19 Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
-    },
-    {
-        "title": "Sweden and the World-Historical Power of Conformity",
-        "link": "https://foreignpolicy.com/2020/10/05/sweden-and-the-world-historical-power-of-conformity/"
+        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
+        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
     }
 ];

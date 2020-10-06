@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "제주도, 수도권 방문 유증상자 코로나19 검사 무료 지원",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=151926"
+    },
+    {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
@@ -13,12 +17,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
-        "title": "[종합] 포천 군부대 코로나19 확진 장병, 최근 대전 다녀가",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=239461"
-    },
-    {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5018098&ref=A"
+    },
+    {
+        "title": "[종합] 포천 군부대 코로나19 확진 장병, 최근 대전 다녀가",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=239461"
     },
     {
         "title": "추석연휴 28만명 찾은 제주…코로나19 확진자 없지만 ‘조마조마’",
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
-    },
-    {
-        "title": "추석 연휴 이후 코로나 확산 가능성...조용한 전파 우려",
-        "link": "https://view.asiae.co.kr/article/2020100510204357096"
     }
 ];
