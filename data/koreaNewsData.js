@@ -13,24 +13,24 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100602185.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "日 지바 롯데, 코로나 집단 감염...총 13명",
-        "link": "http://www.fnnews.com/news/202010061501139522"
-    },
-    {
-        "title": "민주당 당사 직원, 코로나19 확진…긴급 방역 실시(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201006_0001188441&cID=10301&pID=10300"
-    },
-    {
         "title": "부산 확진자 2명 추가…동네 병원·노래방서 감염 확산",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015080563&code=61121111&cp=nv"
     },
     {
+        "title": "전북 코로나19 확진자 5명 추가…전북 141~145번(종합)",
+        "link": "http://www.fnnews.com/news/202010061331138054"
+    },
+    {
+        "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
+    },
+    {
+        "title": "코로나19 확진자 발생 정읍 양지마을 이동제한 조치",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5018859&ref=A"
     },
     {
         "title": "인천서 확진자 접촉자·해외입국자 등 7명 추가 감염(종합)",

@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=_5sPMbNvOEE"
     },
     {
-        "title": "Trump's reckless return met with a dramatically changed White House",
-        "link": "https://www.cnn.com/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
-    },
-    {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Obituary: renowned Japanese designer Kenzo Takada dies from Covid-19 at age of 81",
-        "link": "https://www.youtube.com/watch?v=0HI87z74XqE"
+        "title": "Trump Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+    },
+    {
+        "title": "Coronavirus update: Global case tally tops 35 million and deaths exceed 1 million, while Trump says ‘don’t be afraid of COVID’",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-global-case-tally-tops-35-million-and-doctors-are-alarmed-that-trumps-sunday-jaunt-put-his-security-detail-at-risk-2020-10-05"
     }
 ];
