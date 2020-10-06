@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
-        "title": "Europe must go beyond science to survive Covid crisis, says WHO",
-        "link": "https://www.theguardian.com/world/2020/oct/06/europe-must-go-beyond-science-to-survive-covid-crisis-says-who"
+        "title": "Coronavirus: Europe experiencing 'pandemic fatigue'",
+        "link": "https://www.bbc.com/news/health-54417547"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -29,11 +29,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
+        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
     },
     {
-        "title": "Covid-19 Live Updates: Trump to End Stimulus Talks With Democrats",
+        "title": "Covid-19 Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
