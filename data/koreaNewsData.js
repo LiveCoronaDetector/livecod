@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/international/article/2020100616497"
     },
     {
-        "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
+        "title": "영국 코로나 일 신규 확진자 1만4천명…입원환자도 증가세",
+        "link": "http://yna.kr/AKR20201007004100085?did=1195m"
     },
     {
-        "title": "서울 서초구 카페서 집단감염···“직원 1명 사는 주거공간서도 확진자”",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010061133001&code=620101"
+        "title": "코로나19 신규확진 75명…국내 발생 66명·해외 유입 9명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/06/2020100690030.html"
     },
     {
         "title": "WHO \"세계 인구 10% 코로나 감염 추정…대다수 위험\"",

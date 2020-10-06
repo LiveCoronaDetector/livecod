@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Negative views of China surge around the world",
-        "link": "https://www.axios.com/negative-views-of-china-surge-around-the-world-dadfeefb-6f95-4c26-9cd2-8ffe2212812f.html"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+    },
+    {
+        "title": "Covid-19 Live Updates",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
         "title": "10% Of Global Population May Have Contracted The Coronavirus, WHO Says",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
-    },
-    {
-        "title": "Live updates: Senior military officials quarantining after Coast Guard admiral tests positive for covid-19",
-        "link": "https://www.washingtonpost.com/nation/2020/10/06/coronavirus-covid-live-updates-us/"
     }
 ];
