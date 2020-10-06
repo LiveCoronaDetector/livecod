@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/iran-sets-coronavirus-record-as-capital-returns-to-lockdown-11601914695"
     },
     {
-        "title": "Coronavirus: Europe experiencing 'pandemic fatigue'",
-        "link": "https://www.bbc.com/news/health-54417547"
+        "title": "Coronavirus: Europe struggles to contain surge of cases",
+        "link": "https://www.theguardian.com/world/2020/oct/05/europe-struggles-to-contain-surge-of-coronavirus-cases"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -25,7 +25,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/business-54414205"
     },
     {
-        "title": "Covid-19 World News: Live Tracker",
+        "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/05/920453483/10-of-global-population-may-have-contracted-the-coronavirus-who-says"
     },
     {
-        "title": "Trump Returns Home After Downplaying Disease, but Doctor Says He Isn’t ‘Out of the Woods’",
-        "link": "https://www.nytimes.com/live/2020/10/05/world/covid-trump"
+        "title": "Medics condemn Trump's 'dangerous' Covid comments",
+        "link": "https://www.theguardian.com/world/2020/oct/06/medics-condemn-trumps-dangerous-covid-comments-coronavirus"
     }
 ];

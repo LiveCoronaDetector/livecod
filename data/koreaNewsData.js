@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010061331138054"
     },
     {
+        "title": "코로나19, 신규 확진 75명…6일 연속 두 자리",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006010462&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "의정부 마스터플러스병원서 14명 코로나 집단감염(종합)",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/06/2020100600672.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 75명...엿새 연속 두 자릿수",
         "link": "https://www.ytn.co.kr/_ln/0103_202010060942476495"
-    },
-    {
-        "title": "코로나19 확진자 엿새째 100명 아래…추석 일가족 확진 등 위험 남아(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606625930296"
     },
     {
         "title": "인천서 확진자 접촉자·해외입국자 등 7명 추가 감염(종합)",
