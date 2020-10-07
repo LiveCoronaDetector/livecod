@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Stephen Miller Tests Positive as White House Outbreak Grows",
-        "link": "https://www.nytimes.com/live/2020/10/06/us/trump-covid-live-updates"
+        "title": "Top White House aide Stephen Miller tests positive for Covid-19",
+        "link": "https://www.cnn.com/2020/10/06/politics/stephen-miller-tests-positive-coronavirus/index.html"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Global Coronavirus Live News Updates",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
         "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Global Coronavirus Live Updates: Cases and Deaths",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     }
 ];
