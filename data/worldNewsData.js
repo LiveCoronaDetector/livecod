@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
-        "title": "'We were a laughing stock': Berlin airport finally finished as Covid bites",
-        "link": "https://www.theguardian.com/world/2020/oct/07/berlin-new-airport-covid-germany-budget-late"
+        "title": "Even Europe's gold standard nations are struggling with Covid surges, and it's not winter yet",
+        "link": "https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
+        "title": "Covid-19 World News: Live Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
+    },
+    {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
         "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     },
     {
-        "title": "Scientists call for Covid herd immunity strategy for young",
-        "link": "https://www.theguardian.com/world/2020/oct/06/scientists-call-for-herd-immunity-covid-strategy-for-young"
-    },
-    {
-        "title": "Covid-19 Global Live Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];
