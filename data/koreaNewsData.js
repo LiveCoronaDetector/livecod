@@ -21,12 +21,12 @@ var koreaNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100713585451439?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "신규 확진자 114명…일주일 만에 세 자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
     },
     {
-        "title": "코로나19 신규 확진 다시 세 자릿수…연휴 영향",
-        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5933347_32496.html"
+        "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
