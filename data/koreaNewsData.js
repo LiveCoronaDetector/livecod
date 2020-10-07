@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     },
     {
+        "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
+        "link": "http://yna.kr/AKR20201007171100530?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
         "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
         "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
-    },
-    {
-        "title": "\"유럽 코로나19 누적 확진 600만 명 넘어\" AFP",
-        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190466&cID=10101&pID=10100"
     },
     {
         "title": "신규 확진자 114명…일주일 만에 세 자릿수",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015083026&code=61121111&cp=nv"
     },
     {
-        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
-        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
+        "title": "이탈리아 코로나19 재확산…신규 확진자 하루 3천명 넘어서",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5020518&ref=A"
     }
 ];

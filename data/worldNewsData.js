@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
-        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9a41beebfed880d2f24ea1ccc9088d12"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
-        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
     },
     {
-        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     }
 ];
