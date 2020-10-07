@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     },
     {
-        "title": "Scientists call for Covid herd immunity strategy for young",
-        "link": "https://www.theguardian.com/world/2020/oct/06/scientists-call-for-herd-immunity-covid-strategy-for-young"
-    },
-    {
         "title": "Distrust of China Jumps to New Highs in Democratic Nations",
         "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
+    },
+    {
+        "title": "Covid-19 Global Live Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
     }
 ];

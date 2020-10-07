@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964723.html"
     },
     {
-        "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
-    },
-    {
-        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
-        "link": "https://www.hankyung.com/life/article/2020100728537"
-    },
-    {
-        "title": "[종합] '코로나19' 집단감염 정읍 양지마을서 '결혼 피로연' 열렸다",
-        "link": "https://www.pressian.com/pages/articles/2020100713585451439?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "신규 확진자 114명…일주일 만에 세 자릿수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
+        "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
+        "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
     },
     {
         "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
+        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
+    },
+    {
+        "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
+    },
+    {
+        "title": "신규 확진자 114명…일주일 만에 세 자릿수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
+    },
+    {
+        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
+        "link": "https://www.hankyung.com/life/article/2020100728537"
+    },
+    {
         "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "7일만에 신규 확진자 100명대…추석 확산 현실화 우려(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02040166625930624"
-    },
-    {
-        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
+        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     }
 ];
