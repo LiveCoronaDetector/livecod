@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
     },
     {
-        "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
-        "link": "https://www.nocutnews.co.kr/news/5423279"
-    },
-    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
+    },
+    {
+        "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
+        "link": "https://www.nocutnews.co.kr/news/5423279"
     },
     {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",

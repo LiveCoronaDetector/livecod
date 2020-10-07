@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Top White House aide Stephen Miller tests positive for Covid-19",
-        "link": "https://www.cnn.com/2020/10/06/politics/stephen-miller-tests-positive-coronavirus/index.html"
+        "title": "Trump: Don't Let Coronavirus Dominate You",
+        "link": "https://www.youtube.com/watch?v=_e55hSFNJOI"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Coronavirus Live Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+        "title": "10% of the world may have been infected by Covid-19, WHO official says",
+        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
     }
 ];
