@@ -21,8 +21,8 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
     },
     {
-        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
+        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
+        "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
         "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     },
     {
-        "title": "[종합] '코로나19' 집단감염 정읍 양지마을서 '결혼 피로연' 열렸다",
-        "link": "https://www.pressian.com/pages/articles/2020100713585451439?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
     }
 ];
