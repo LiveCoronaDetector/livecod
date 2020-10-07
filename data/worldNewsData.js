@@ -5,7 +5,7 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Coronavirus live news: six US states see record hospital patients; Facebook deletes Trump post",
+        "title": "Coronavirus live news: Trump aide Stephen Miller tests positive as White House outbreak spreads",
         "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
     },
     {
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
+        "title": "Stephen Miller Tests Positive as White House Outbreak Grows",
+        "link": "https://www.nytimes.com/live/2020/10/06/us/trump-covid-live-updates"
+    },
+    {
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+    },
+    {
         "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
-        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
-    },
-    {
-        "title": "Trump mounts bizarre and misleading White House return despite warnings",
-        "link": "https://www.cnn.com/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
-    },
-    {
-        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
-        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
+        "title": "Global Coronavirus Live Updates: Cases and Deaths",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     }
 ];
