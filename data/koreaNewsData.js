@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
     },
     {
-        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
-    },
-    {
         "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
         "link": "https://www.hankyung.com/life/article/2020100728537"
+    },
+    {
+        "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
     },
     {
         "title": "신규 확진자 114명…일주일 만에 세 자릿수",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "경남, 오늘 코로나19 확진자 3명 발생…누적 292명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001190207&cID=10812&pID=10800"
-    },
-    {
-        "title": "[속보] 코로나 신규 확진자 114명...7일 만에 다시 세자릿수",
-        "link": "https://www.chosun.com/national/welfare-medical/2020/10/07/FPCTDNQJ4VDS3OR2FXKV3J3NUM/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
         "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
         "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "'코로나19' 국내 신규 확진자 114명…다시 세 자릿수",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407711&class=33&grp="
+    },
+    {
+        "title": "우려가 현실로…신규 확진자 114명·1주일 만에 세자리",
+        "link": "https://www.dailian.co.kr/news/view/925097/?sc=Naver"
     }
 ];
