@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Coronavirus live news: Trump aide Stephen Miller tests positive as White House outbreak spreads",
-        "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
+        "title": "Trump ends Covid budget stimulus relief talks",
+        "link": "https://www.bbc.com/news/world-us-canada-54443057"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
+        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
         "title": "Europe must go beyond science to survive Covid crisis, says WHO",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=PEEXvsk_mIA"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
+        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
     },
     {
         "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
-        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
+        "title": "10% of the world may have been infected by Covid-19, WHO official says",
+        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
     }
 ];
