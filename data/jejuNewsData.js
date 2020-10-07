@@ -17,16 +17,16 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998599?division=NAVER"
     },
     {
+        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
+        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+    },
+    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
-    },
-    {
-        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
-        "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
     {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5018098&ref=A"
     },
     {
-        "title": "추석연휴 28만명 찾은 제주…코로나19 확진자 없지만 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010042011015&code=620117"
+        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
     }
 ];

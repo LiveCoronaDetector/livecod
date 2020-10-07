@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
-        "title": "Europe’s Second Covid-19 Wave Starts to Spill Over From Young to Old",
-        "link": "https://www.wsj.com/articles/europes-second-covid-wave-starts-to-spill-over-from-young-to-old-11601982003"
+        "title": "'We were a laughing stock': Berlin airport finally finished as Covid bites",
+        "link": "https://www.theguardian.com/world/2020/oct/07/berlin-new-airport-covid-germany-budget-late"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     },
     {
-        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
-        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "Covid-19 Global Live Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
+        "title": "Scientists call for Covid herd immunity strategy for young",
+        "link": "https://www.theguardian.com/world/2020/oct/06/scientists-call-for-herd-immunity-covid-strategy-for-young"
     }
 ];

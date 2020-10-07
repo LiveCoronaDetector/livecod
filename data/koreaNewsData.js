@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964723.html"
     },
     {
-        "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
-        "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
+    },
+    {
+        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
     {
         "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
+        "title": "코로나19로 전국 26개교 등교 불발…전날보다 3곳 늘어",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201007500102&wlog_tag3=naver"
     }
 ];
