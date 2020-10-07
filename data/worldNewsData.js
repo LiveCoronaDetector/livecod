@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
-        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
-    },
-    {
         "title": "Covid-19 World News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
+        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     }
 ];
