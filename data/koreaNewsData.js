@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     },
     {
-        "title": "\"사교의 시간 끝나\"…베를린, 코로나19 확산에 영업시간 제한(종합)",
-        "link": "http://yna.kr/AKR20201007194151082?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 오늘 코로나19 확진자 3명 발생…누적 292명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001190207&cID=10812&pID=10800"
+        "title": "이탈리아 코로나19 신규 확진 3천명 넘어서…전국 마스크 의무화",
+        "link": "http://yna.kr/AKR20201008002200109?did=1195m"
     },
     {
-        "title": "대전서 중학생 포함 일가족 7명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20201007195800063?did=1195m"
+        "title": "청주서 해외 입국자 코로나19 확진…지역 84명째",
+        "link": "http://www.newsis.com/view/?id=NISX20201007_0001190419&cID=10806&pID=10800"
+    },
+    {
+        "title": "\"사교의 시간 끝나\"…베를린, 코로나19 확산에 영업시간 제한(종합)",
+        "link": "http://yna.kr/AKR20201007194151082?did=1195m"
     }
 ];
