@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "‘There are no words’: As coronavirus kills Indigenous elders, endangered languages face extinction",
-        "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-indigenous-endangered-language/2020/10/06/59fa1aa8-f42b-11ea-999c-67ff7bf6a9d2_story.html"
+        "title": "Trump ends Covid budget stimulus relief talks",
+        "link": "https://www.bbc.com/news/world-us-canada-54443057"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Covid-19 Global News: Live Updates",
-        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Covid-19 Cases and Deaths Globally: Live News Updates",
+        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
