@@ -5,16 +5,12 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
     },
     {
-        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
-        "link": "https://www.hankyung.com/life/article/2020100728537"
-    },
-    {
         "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964723.html"
     },
     {
-        "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
-        "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
+        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
+        "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
         "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
@@ -25,16 +21,20 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 코로나19 확진자 1명 발생…누적 290명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001189404&cID=10812&pID=10800"
-    },
-    {
-        "title": "우려가 현실로…신규 확진자 114명·1주일 만에 세자리",
-        "link": "https://www.dailian.co.kr/news/view/925097/?sc=Naver"
+        "title": "코로나19 신규 확진 다시 세 자릿수…연휴 영향",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5933347_32496.html"
     },
     {
         "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
+    },
+    {
+        "title": "[종합] 포항 확진자는 포항교도소 직원...재소자·직원 전수 검사",
+        "link": "http://www.newspim.com/news/view/20201007001213"
+    },
+    {
+        "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
+        "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
     },
     {
         "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
