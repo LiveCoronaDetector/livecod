@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
+        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
+    },
+    {
         "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
         "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
     },
@@ -21,10 +25,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
-        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
-    },
-    {
         "title": "경남, 코로나19 확진자 1명 발생…누적 290명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201007_0001189404&cID=10812&pID=10800"
     },
@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.dailian.co.kr/news/view/925097/?sc=Naver"
     },
     {
-        "title": "신규 확진자 114명…일주일 만에 세 자릿수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
+        "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "대구시 \"신규확진 1명…확진자 접촉자\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020100710170087531"
+        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     }
 ];

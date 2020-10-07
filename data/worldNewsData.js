@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Biden: If Trump still has COVID-19 'we shouldn’t have a debate'",
-        "link": "https://news.yahoo.com/biden-if-trump-still-has-covid-19-we-shouldnt-have-a-debate-235938033.html"
+        "title": "Trump's Maskless Coronavirus Masquerade",
+        "link": "https://www.youtube.com/watch?v=PEEXvsk_mIA"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",

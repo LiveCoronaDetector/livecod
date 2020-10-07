@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
+        "title": "국내 80세 이상 코로나19 확진자 치명율 21.4% 달해",
+        "link": "http://www.mdtoday.co.kr/mdtoday/index.html?no=401404"
+    },
+    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
-    },
-    {
-        "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
-        "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     }
 ];
