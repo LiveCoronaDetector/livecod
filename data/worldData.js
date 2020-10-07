@@ -492,9 +492,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 47799,
-        "사망자수": 1066,
-        "완치자수": 43644
+        "확진자수": 48097,
+        "사망자수": 1069,
+        "완치자수": 43798
     },
     {
         "Name": "레바논",
@@ -1540,9 +1540,9 @@ var marker = [
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "확진자수": 107,
+        "확진자수": 108,
         "사망자수": 3,
-        "완치자수": 96
+        "완치자수": 97
     },
     {
         "Name": "British Virgin Islands",

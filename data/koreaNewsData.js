@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02040166625930624"
     },
     {
-        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
-        "link": "https://www.hankyung.com/life/article/2020100728537"
+        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
+        "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
+        "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
         "title": "경남, 코로나19 확진자 1명 발생…누적 290명(종합)",
