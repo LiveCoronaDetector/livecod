@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54419959"
     },
     {
-        "title": "China's global reputation plunges in the wake of coronavirus pandemic",
-        "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
+        "title": "New Zealand Stamps Out the Coronavirus. For a Second Time.",
+        "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+    },
+    {
+        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
+        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
         "title": "Covid-19 World News: Live Tracker",
@@ -31,10 +35,6 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
-    },
-    {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
