@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "AstraZeneca's Coronavirus Vaccine Is Already Being Reviewed for Approval in Canada and Europe. Why Not in the U.S.?",
-        "link": "https://www.fool.com/investing/2020/10/06/astrazenecas-coronavirus-vaccine-is-already-being/"
+        "title": "Coronavirus live news: six US states see record hospital patients; Facebook deletes Trump post",
+        "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
     },
     {
         "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Coronavirus Live: Global Updates",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
+        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Trump mounts bizarre and misleading White House return despite warnings",
+        "link": "https://www.cnn.com/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
     },
     {
         "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",

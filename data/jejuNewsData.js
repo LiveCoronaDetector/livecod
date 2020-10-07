@@ -17,10 +17,6 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
-        "title": "\"국내 코로나 확진자 치명율, 80세 이상 21.4%로 최고\"",
-        "link": "http://www.dailypharm.com/Users/News/NewsView.html?ID=269138&REFERER=NP"
-    },
-    {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5018098&ref=A"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
+    },
+    {
+        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
     }
 ];
