@@ -21,6 +21,10 @@ var koreaNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
     },
     {
+        "title": "\"유럽 코로나19 누적 확진 600만 명 넘어\" AFP",
+        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190466&cID=10101&pID=10100"
+    },
+    {
         "title": "신규 확진자 114명…일주일 만에 세 자릿수",
         "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "이탈리아 코로나19 신규 확진 3천명 넘어서…전국 마스크 의무화",
-        "link": "http://yna.kr/AKR20201008002200109?did=1195m"
+        "title": "[속보] 코로나 어제 114명 신규 확진…다시 세 자릿수",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015083026&code=61121111&cp=nv"
     },
     {
-        "title": "청주서 해외 입국자 코로나19 확진…지역 84명째",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001190419&cID=10806&pID=10800"
-    },
-    {
-        "title": "\"사교의 시간 끝나\"…베를린, 코로나19 확산에 영업시간 제한(종합)",
-        "link": "http://yna.kr/AKR20201007194151082?did=1195m"
+        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
+        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
     }
 ];

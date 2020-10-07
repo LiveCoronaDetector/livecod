@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Trump ends Covid budget stimulus relief talks",
-        "link": "https://www.bbc.com/news/world-us-canada-54443057"
+        "title": "Covid: Trump free of symptoms for 24 hours, says doctor",
+        "link": "https://www.bbc.com/news/world-us-canada-54455040"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
         "title": "Even Europe's gold standard nations are struggling with Covid surges, and it's not winter yet",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Covid-19 Cases and Deaths Globally: Live News Updates",
-        "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
+        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     }
 ];
