@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Trump ends Covid budget stimulus relief talks",
-        "link": "https://www.bbc.com/news/world-us-canada-54443057"
+        "title": "Coronavirus live news: Trump aide Stephen Miller tests positive as White House outbreak spreads",
+        "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Trump: Don't Let Coronavirus Dominate You",
-        "link": "https://www.youtube.com/watch?v=_e55hSFNJOI"
+        "title": "Trump's Maskless Coronavirus Masquerade",
+        "link": "https://www.youtube.com/watch?v=PEEXvsk_mIA"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "10% of the world may have been infected by Covid-19, WHO official says",
-        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
+        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
+        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     }
 ];
