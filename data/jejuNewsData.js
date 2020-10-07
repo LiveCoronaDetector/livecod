@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
     {
-        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
-        "link": "https://view.asiae.co.kr/article/2020100317540796929"
-    },
-    {
         "title": "\"제주, 코로나 입원 현재 0명… 정부보다 앞선 방역대책 적중\" [로컬 포커스 ...",
         "link": "http://www.fnnews.com/news/202010071742587648"
+    },
+    {
+        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
+        "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
     {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
