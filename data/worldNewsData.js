@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 7",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
-        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
+        "title": "Coronavirus update: Latest world news for October 7",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
+        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
     }
 ];
