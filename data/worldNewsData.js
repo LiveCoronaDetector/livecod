@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-indigenous-endangered-language/2020/10/06/59fa1aa8-f42b-11ea-999c-67ff7bf6a9d2_story.html"
     },
     {
-        "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Even Europe's gold standard nations are struggling with Covid surges, and it's not winter yet",
@@ -25,11 +25,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
-        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
     },
     {
-        "title": "Covid-19 World News: Live Tracker",
+        "title": "Covid-19 Global News: Live Updates",
         "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     }
 ];

@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201007194151082?did=1195m"
     },
     {
-        "title": "경남, 오늘 코로나19 확진자 3명 발생…누적 292명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001190207&cID=10812&pID=10800"
+        "title": "경남 김해 해외입국자 신규 확진자 2명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020100717325020785?utm_source=naver&utm_medium=search"
     },
     {
         "title": "대전서 중학생 포함 일가족 7명 코로나19 확진(종합)",
