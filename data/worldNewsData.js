@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54455040"
     },
     {
-        "title": "Israel’s Coronavirus Lockdown Fuels Protests, Violence and Confusion",
-        "link": "https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html"
+        "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
+        "link": "https://www.jpost.com/israel-news/netanyahu-tells-mayors-there-are-no-green-cities-in-israel-644922"
     },
     {
-        "title": "Even Europe's gold standard nations are struggling with Covid surges, and it's not winter yet",
-        "link": "https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
+        "title": "Italy records largest daily increase in coronavirus cases in more than five months",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9a41beebfed880d2f24ea1ccc9088d12"
-    },
-    {
         "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
         "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",

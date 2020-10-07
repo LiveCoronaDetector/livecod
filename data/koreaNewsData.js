@@ -9,8 +9,8 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5020518&ref=A"
     },
     {
-        "title": "\"유럽 코로나19 누적 확진 600만 명 넘어\" AFP",
-        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190466&cID=10101&pID=10100"
+        "title": "프랑스, 신규 확진자 1만9000명...대통령, 추가제한 예고",
+        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190481&cID=10101&pID=10100"
     },
     {
         "title": "\"사교의 시간 끝나\"…베를린, 코로나19 확산에 영업시간 제한(종합)",

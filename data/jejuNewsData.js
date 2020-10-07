@@ -21,8 +21,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010071742587648"
     },
     {
-        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
+        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
+        "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
     {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
     {
-        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
-        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
-    },
-    {
-        "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
+        "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
+        "link": "https://view.asiae.co.kr/article/2020100418144021283"
     }
 ];
