@@ -5,8 +5,8 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "수도권 방문 후 코로나19 의심증상 있는 제주도민 무료 검사",
-        "link": "http://www.fnnews.com/news/202010061153416051"
+        "title": "국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
+        "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
     },
     {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",

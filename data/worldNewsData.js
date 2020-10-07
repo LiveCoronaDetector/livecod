@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     },
     {
-        "title": "Negative views of China rise sharply in advanced countries",
-        "link": "https://timesofindia.indiatimes.com/world/china/negative-views-of-china-rise-sharply-in-advanced-countries/articleshow/78517710.cms"
+        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
+        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
         "title": "Coronavirus Live: Global Updates",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     },
     {
-        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
-        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
-        "title": "10% of the world may have been infected by Covid-19, WHO official says",
-        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
+        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
+        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     }
 ];
