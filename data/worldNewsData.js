@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Trump ends Covid budget stimulus relief talks",
-        "link": "https://www.bbc.com/news/world-us-canada-54443057"
+        "title": "‘There are no words’: As coronavirus kills Indigenous elders, endangered languages face extinction",
+        "link": "https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-indigenous-endangered-language/2020/10/06/59fa1aa8-f42b-11ea-999c-67ff7bf6a9d2_story.html"
     },
     {
         "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
     },
     {
-        "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
-        "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     }
 ];
