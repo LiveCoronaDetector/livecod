@@ -9,32 +9,32 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/964723.html"
     },
     {
-        "title": "신규 확진자 114명…일주일 만에 세 자릿수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5933152_32633.html"
-    },
-    {
-        "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010070944326410"
     },
     {
         "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
-        "title": "코로나19 신규확진 114명…7일만에 세자릿수 복귀",
-        "link": "https://www.nocutnews.co.kr/news/5423792"
+        "title": "[종합] '코로나19' 집단감염 정읍 양지마을서 '결혼 피로연' 열렸다",
+        "link": "https://www.pressian.com/pages/articles/2020100713585451439?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "서울 확진자 30명대로…영등포 방판업체 집단감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "코로나19 신규 확진 다시 세 자릿수…연휴 영향",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5933347_32496.html"
     },
     {
         "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 다시 세 자릿수...중국인 1명 포함",
-        "link": "https://www.pressian.com/pages/articles/2020100709475511243?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "우려가 현실로…신규 확진자 114명·1주일 만에 세자리",
-        "link": "https://www.dailian.co.kr/news/view/925097/?sc=Naver"
+        "title": "7일만에 신규 확진자 100명대…추석 확산 현실화 우려(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02040166625930624"
     },
     {
         "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",

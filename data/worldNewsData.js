@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
-    },
-    {
         "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
         "link": "https://www.washingtonpost.com/world/2020/10/06/trump-white-house-more-coronavirus-cases-than-taiwan/"
     },
     {
-        "title": "NHS coronavirus tests threatened by Roche supply chain glitch",
-        "link": "https://www.theguardian.com/world/2020/oct/07/nhs-coronavirus-tests-threatened-by-roche-supply-chain-glitch"
+        "title": "Distrust of China Jumps to New Highs in Democratic Nations",
+        "link": "https://www.nytimes.com/2020/10/06/world/asia/china-negative-pew-survey.html"
+    },
+    {
+        "title": "Scientists call for Covid herd immunity strategy for young",
+        "link": "https://www.theguardian.com/world/2020/oct/06/scientists-call-for-herd-immunity-covid-strategy-for-young"
     }
 ];
