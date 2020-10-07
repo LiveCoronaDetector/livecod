@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
-        "title": "Europe’s Covid-19 Testing Programs Creak as Demand Surges",
-        "link": "https://www.wsj.com/articles/europes-coronavirus-testing-programs-creak-as-demand-surges-11602071893"
+        "title": "Even Europe's gold standard nations are struggling with Covid surges, and it's not winter yet",
+        "link": "https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/07/world/covid-coronavirus"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
         "title": "In a few days, more people in Trump’s orbit tested positive for coronavirus than in all of Taiwan",
