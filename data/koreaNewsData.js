@@ -9,18 +9,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02040166625930624"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
-    },
-    {
-        "title": "[속보] 신규 확진자 114명, 일주일 만에 세 자릿 수…경기 49명·서울 29명·...",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5019720&ref=A"
-    },
-    {
-        "title": "[2보] 코로나19 어제 114명 신규확진…1주일만에 다시 세 자릿수",
-        "link": "http://yna.kr/AKR20201007032800530?did=1195m"
-    },
-    {
         "title": "대구시 \"신규확진 1명…확진자 접촉자\"(전문)",
         "link": "https://news.imaeil.com/Society/2020100710170087531"
     },
@@ -29,15 +17,27 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201007_0001189404&cID=10812&pID=10800"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
+    },
+    {
+        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
+    },
+    {
+        "title": "확진자 다시 세자리수 \"가족·이웃 감염 주의\"",
+        "link": "http://www.fnnews.com/news/202010070931247447"
+    },
+    {
+        "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20201007027451009?did=1195m"
+    },
+    {
         "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 114명… 국내발생 94명·해외유입 20명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/10/07/2020100700803.html"
-    },
-    {
-        "title": "코로나 확진 114명…지역감염 속출로 다시 세자릿 수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100700413.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
     },
     {
-        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
-        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Europe must go beyond science to survive Covid crisis, says WHO",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/06/politics/stephen-miller-tests-positive-coronavirus/index.html"
     },
     {
-        "title": "Global Coronavirus Live News Updates",
-        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
+        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
+        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
     },
     {
         "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
-        "link": "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+        "title": "Global Coronavirus Live News Updates: White House Outbreak Continues",
+        "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     }
 ];
