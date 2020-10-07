@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
-        "title": "Europe’s Second Covid-19 Wave Starts to Spill Over From Young to Old",
-        "link": "https://www.wsj.com/articles/europes-second-covid-wave-starts-to-spill-over-from-young-to-old-11601982003"
+        "title": "Europe must go beyond science to survive Covid crisis, says WHO",
+        "link": "https://www.theguardian.com/world/2020/oct/06/europe-must-go-beyond-science-to-survive-covid-crisis-says-who"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",

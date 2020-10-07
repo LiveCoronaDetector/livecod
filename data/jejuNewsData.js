@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
     },
     {
+        "title": "코로나 재확산 기로…한글날 연휴 10만명 제주도 간다는데",
+        "link": "https://www.hankyung.com/life/article/2020100739667"
+    },
+    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
-    },
-    {
-        "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
-        "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     }
 ];
