@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201007194151082?did=1195m"
     },
     {
-        "title": "경남 김해 해외입국자 신규 확진자 2명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020100717325020785?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "대전서 중학생 포함 일가족 7명 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20201007195800063?did=1195m"
-    },
-    {
         "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
@@ -35,6 +27,14 @@ var koreaNewsData = [
     {
         "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/964551.html"
+    },
+    {
+        "title": "경남 김해 해외입국자 신규 확진자 2명 발생",
+        "link": "https://www.pressian.com/pages/articles/2020100717325020785?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "대전서 중학생 포함 일가족 7명 코로나19 확진(종합)",
+        "link": "http://yna.kr/AKR20201007195800063?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 114명...일주일 만에 백 명대",
