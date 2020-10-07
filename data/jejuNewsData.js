@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5423279"
     },
     {
+        "title": "\"제주, 코로나 입원 현재 0명… 정부보다 앞선 방역대책 적중\" [로컬 포커스 ...",
+        "link": "http://www.fnnews.com/news/202010071742587648"
+    },
+    {
         "title": "추석 연휴 집합금지 위반 제주 유흥시설 4곳 적발…제주도, 형사고발 검토",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5018098&ref=A"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "간신히 잡혀가는 광화문집회 여파… 어제 확진자 63명",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015068265&code=61121111&cp=nv"
-    },
-    {
-        "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
-        "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     }
 ];

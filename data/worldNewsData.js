@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
-        "title": "Europe’s Second Covid-19 Wave Starts to Spill Over From Young to Old",
-        "link": "https://www.wsj.com/articles/europes-second-covid-wave-starts-to-spill-over-from-young-to-old-11601982003"
+        "title": "Europe must go beyond science to survive Covid crisis, says WHO",
+        "link": "https://www.theguardian.com/world/2020/oct/06/europe-must-go-beyond-science-to-survive-covid-crisis-says-who"
     },
     {
         "title": "Coronavirus: Is the pandemic slowing down in India?",
@@ -23,6 +23,10 @@ var worldNewsData = [
     {
         "title": "China's global reputation plunges in the wake of coronavirus pandemic",
         "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
+    },
+    {
+        "title": "Flurry of coronavirus reinfections leaves scientists puzzled",
+        "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
         "title": "Unfavorable Views of China Reach Historic Highs in Many Countries",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Scientists call for Covid herd immunity strategy for young",
         "link": "https://www.theguardian.com/world/2020/oct/06/scientists-call-for-herd-immunity-covid-strategy-for-young"
-    },
-    {
-        "title": "10% of the world may have been infected by Covid-19, WHO official says",
-        "link": "https://www.cnn.com/2020/10/06/health/who-coronavirus-world-population-intl/index.html"
     }
 ];
