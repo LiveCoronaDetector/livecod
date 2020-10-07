@@ -21,10 +21,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/07/2020100701298.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "경남, 코로나19 확진자 1명 발생…누적 290명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201007_0001189404&cID=10812&pID=10800"
-    },
-    {
         "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "우려가 현실로…신규 확진자 114명·1주일 만에 세자리",
         "link": "https://www.dailian.co.kr/news/view/925097/?sc=Naver"
+    },
+    {
+        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     }
 ];
