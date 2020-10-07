@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
-        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
-        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
+        "title": "전남대병원, 코로나 확진 산모 분만 수술 성공적 마쳐",
+        "link": "https://view.asiae.co.kr/article/2020100718372576927"
     },
     {
-        "title": "정부 \"거리두기 단계 이번주 중으로 조정\"…확진자수·깜깜이 비율 변수",
-        "link": "https://news.imaeil.com/Society/2020100612175985508"
+        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
+        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
     }
 ];
