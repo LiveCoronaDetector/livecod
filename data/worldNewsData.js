@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Coronavirus live news: Trump aide Stephen Miller tests positive as White House outbreak spreads",
-        "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
+        "title": "Trump ends Covid budget stimulus relief talks",
+        "link": "https://www.bbc.com/news/world-us-canada-54443057"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
     },
     {
-        "title": "Global Coronavirus Live News Updates: White House Outbreak Continues",
+        "title": "Coronavirus Live Global Updates",
         "link": "https://www.nytimes.com/live/2020/10/06/world/covid-coronavirus"
     }
 ];

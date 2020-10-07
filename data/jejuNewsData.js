@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     },
     {
-        "title": "원희룡 지사 \"코로나19 청정.안전제주, 고강도 방역체제 유지\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429096"
+        "title": "추석 제주 찾은 관광객 20만명 훌쩍…코로나19 확진 없어",
+        "link": "http://yna.kr/AKR20201002028700056?did=1195m"
     }
 ];
