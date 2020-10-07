@@ -9,12 +9,20 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5020518&ref=A"
     },
     {
+        "title": "\"유럽 코로나19 누적 확진 600만 명 넘어\" AFP",
+        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190466&cID=10101&pID=10100"
+    },
+    {
         "title": "\"사교의 시간 끝나\"…베를린, 코로나19 확산에 영업시간 제한(종합)",
         "link": "http://yna.kr/AKR20201007194151082?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
+    },
+    {
+        "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
+        "link": "http://yna.kr/AKR20201007171100530?did=1195m"
     },
     {
         "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
@@ -31,13 +39,5 @@ var koreaNewsData = [
     {
         "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
         "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
-    },
-    {
-        "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
-        "link": "http://yna.kr/AKR20201007171100530?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
     }
 ];
