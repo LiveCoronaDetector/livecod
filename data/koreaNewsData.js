@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
     {
-        "title": "속수무책 백악관…트럼프 매파 핵심참모 밀러도 코로나19 확진(종합)",
-        "link": "http://yna.kr/AKR20201007027451009?did=1195m"
+        "title": "병원·방문판매·가족모임 집단감염 고리로 코로나19 지속 확산",
+        "link": "http://yna.kr/AKR20201007119500530?did=1195m"
     },
     {
-        "title": "코로나19로 전국 26개교 등교 불발…전날보다 3곳 늘어",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201007500102&wlog_tag3=naver"
+        "title": "정부 \"거리두기 단계 이번주 중으로 조정\"…확진자수·깜깜이 비율 변수",
+        "link": "https://news.imaeil.com/Society/2020100612175985508"
     }
 ];
