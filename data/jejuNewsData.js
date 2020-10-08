@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010082051550395"
     },
     {
+        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
+    },
+    {
         "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "국회 행안위, 제주도 현장 국정감사 취소...20일 국회서 실시",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
     }
 ];

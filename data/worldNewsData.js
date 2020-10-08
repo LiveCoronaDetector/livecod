@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
+        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "Covid-19 Live Updates: Treatment That Trump Called a ‘Cure’ Was Tested With Cells Derived From Fetal Tissue",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
-        "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
+        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
+        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
     }
 ];
