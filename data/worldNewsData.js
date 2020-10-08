@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
     },
     {
-        "title": "US elections 2020: Kamala Harris, Mike Pence clash over Trump's coronavirus record at US VP debate",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-elections-2020-kamala-harris-mike-pence-clash-over-trumps-coronavirus-record-at-us-vp-debate/articleshow/78545573.cms"
+        "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
+        "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
         "title": "Trump says he will ‘make China pay’ for coronavirus pandemic",
@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "Trump says catching COVID-19 was a 'blessing from God'",
-        "link": "https://news.yahoo.com/trump-says-catching-covid-19-was-a-blessing-from-god-230251826.html"
+        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
+        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
     }
 ];

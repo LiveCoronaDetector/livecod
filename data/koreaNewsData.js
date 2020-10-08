@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
     },
     {
-        "title": "확진자 69명 '증가 추세' 없지만…또 추석 일가족 확진(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686625930952"
-    },
-    {
         "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
         "link": "http://yna.kr/AKR20201007171100530?did=1195m"
+    },
+    {
+        "title": "확진자 69명 '증가 추세' 없지만…또 추석 일가족 확진(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686625930952"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 69명...다시 두자릿수로",
