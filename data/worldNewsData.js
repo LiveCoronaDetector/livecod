@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "COVID-19 cases rising in 39 states – 9 months into the pandemic: 'We are overwhelmed'",
-        "link": "https://www.usatoday.com/story/news/health/2020/10/07/united-states-coronavirus-cases-nine-states-records/5906943002/"
+        "title": "Covid: Brazil's coronavirus cases pass five million",
+        "link": "https://www.bbc.com/news/world-latin-america-54447346"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
+        "link": "https://www.jpost.com/israel-news/netanyahu-tells-mayors-there-are-no-green-cities-in-israel-644922"
     },
     {
         "title": "Italy records largest daily increase in coronavirus cases in more than five months",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
+        "title": "October 7 coronavirus news",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
+    },
+    {
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
+    },
+    {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
-        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
-    },
-    {
-        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
-        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     }
 ];
