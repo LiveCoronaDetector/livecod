@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
-        "title": "Italy records largest daily increase in coronavirus cases in more than five months",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
+        "title": "Coronavirus: Masks made mandatory outdoors across Italy",
+        "link": "https://www.bbc.com/news/world-europe-54454450"
     },
     {
         "title": "US elections 2020: Kamala Harris, Mike Pence clash over Trump's coronavirus record at US VP debate",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
-        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
-    },
-    {
-        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+        "title": "Brazil nears 5 million COVID-19 cases, epidemiologist fears second wave",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil-idUSKBN26S35M"
     }
 ];
