@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686625930952"
     },
     {
-        "title": "“추석 감염 확산 현실로”...코로나19 신규 확진 69명(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201008500039&wlog_tag3=naver"
-    },
-    {
         "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
     },
     {
-        "title": "[종합] 코로나19 확진자 다시 100명 미만...69명 증가, 서울 19명, 경기 22명",
-        "link": "http://www.fnnews.com/news/202010080935178681"
-    },
-    {
         "title": "코로나19 신규 확진자 69명…하루만에 두 자릿수",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
+    },
+    {
+        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
+        "link": "http://www.fnnews.com/news/202010081445450508"
+    },
+    {
+        "title": "“추석 감염 확산 현실로”...코로나19 신규 확진 69명(종합)",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201008500039&wlog_tag3=naver"
     },
     {
         "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
     },
     {
-        "title": "서울, 코로나 확진자 20명대로 감소…교회 등 집단감염 이어져",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801314.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "경기도, 코로나 확진자 24명…의정부 재활병원서 9명 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801172.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];

@@ -5,39 +5,39 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Brazil Cases Top 5 Million as Debate Shifts From Virus to Fiscal",
-        "link": "https://finance.yahoo.com/news/brazil-cases-top-5-million-210930920.html"
+        "title": "Covid: Brazil's coronavirus cases pass five million",
+        "link": "https://www.bbc.com/news/world-latin-america-54447346"
     },
     {
         "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
         "link": "https://www.jpost.com/israel-news/netanyahu-tells-mayors-there-are-no-green-cities-in-israel-644922"
     },
     {
-        "title": "Italy makes masks ruling after concerns over case rises – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
+        "title": "Italy records largest daily increase in coronavirus cases in more than five months",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
     },
     {
         "title": "US elections 2020: Kamala Harris, Mike Pence clash over Trump's coronavirus record at US VP debate",
         "link": "https://timesofindia.indiatimes.com/world/us/us-elections-2020-kamala-harris-mike-pence-clash-over-trumps-coronavirus-record-at-us-vp-debate/articleshow/78545573.cms"
     },
     {
-        "title": "Trump, in new video, says he will ‘make China pay’ for coronavirus pandemic",
+        "title": "Trump says he will ‘make China pay’ for coronavirus pandemic",
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+    },
+    {
+        "title": "New Zealand Declares Victory Over Coronavirus Again, Lifts Auckland Restrictions",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/07/921171807/new-zealand-declares-victory-over-coronavirus-again-lifts-auckland-restrictions"
+    },
+    {
+        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
-    },
-    {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
-    },
-    {
-        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     }
 ];
