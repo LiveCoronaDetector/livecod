@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Covid: Brazil's coronavirus cases pass five million",
-        "link": "https://www.bbc.com/news/world-latin-america-54447346"
+        "title": "Covid: Trump describes his illness 'a blessing from God'",
+        "link": "https://www.bbc.com/news/world-us-canada-54455040"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
         "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "New Zealand Declares Victory Over Coronavirus Again, Lifts Auckland Restrictions",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/07/921171807/new-zealand-declares-victory-over-coronavirus-again-lifts-auckland-restrictions"
     }
 ];
