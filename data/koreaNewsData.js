@@ -9,16 +9,16 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
     },
     {
+        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
+        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
+    },
+    {
         "title": "8일 지역확진자 11명…수액 맞은 3명 확진에 부산 발칵",
         "link": "https://www.news1.kr/articles/?4081744"
     },
     {
         "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
         "link": "https://news.imaeil.com/Society/2020100819533418080"
-    },
-    {
-        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
-        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
     },
     {
         "title": "확진자 69명 '증가 추세' 없지만…또 추석 일가족 확진(종합)",
