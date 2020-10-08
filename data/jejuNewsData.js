@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201008_0001191146&cID=10813&pID=10800"
     },
     {
-        "title": "\"확진자수 신경 안써요\" 한글날 연휴 제주도 놀러가겠단 사람들",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100813291250986"
-    },
-    {
         "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
+        "title": "\"확진자수 신경 안써요\" 한글날 연휴 제주도 놀러가겠단 사람들",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100813291250986"
     }
 ];
