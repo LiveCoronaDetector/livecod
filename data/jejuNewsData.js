@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
+        "title": "국회 행안위, 제주도 국정감사 20일 국회서 실시",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
+    },
+    {
         "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
-    },
-    {
-        "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
-        "link": "https://www.nocutnews.co.kr/news/5423279"
     }
 ];

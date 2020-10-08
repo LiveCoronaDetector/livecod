@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus live news: Trump calls catching Covid 'a blessing in disguise'; Brazil cases pass 5m",
-        "link": "https://www.theguardian.com/world/live/2020/oct/08/coronavirus-live-news-brazil-cases-pass-5m-trump-calls-catching-covid-a-blessing-in-disguise"
+        "title": "COVID-19 cases rising in 39 states – 9 months into the pandemic: 'We are overwhelmed'",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/07/united-states-coronavirus-cases-nine-states-records/5906943002/"
     },
     {
         "title": "Coronavirus: Iran sets new record for deaths amid 'third wave'",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "WATCH LIVE: Mike Pence and Kamala Harris face off in the only vice presidential debate — 10/7/2020",
-        "link": "https://www.youtube.com/watch?v=iDKm7feXJDw"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Top US immunologist quits health role over Trump Covid response",
         "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
+    },
+    {
+        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     }
 ];
