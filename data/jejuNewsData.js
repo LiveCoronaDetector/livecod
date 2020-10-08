@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
-        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
-        "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
-    },
-    {
         "title": "국회 행안위, 제주도 국정감사 20일 국회서 실시",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
+    },
+    {
+        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
+        "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
         "title": "확진자 15일째·입원자 ‘0’ 제주…다시 10만명 방문 '조마조마'",
