@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
     },
     {
-        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
-        "link": "http://www.fnnews.com/news/202010081445450508"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 69명...다시 두자릿수로",
         "link": "https://www.sedaily.com/NewsView/1Z91UMXD27"
+    },
+    {
+        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
+        "link": "http://www.fnnews.com/news/202010081445450508"
     }
 ];

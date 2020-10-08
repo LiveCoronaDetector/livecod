@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
-        "title": "Coronavirus: Masks made mandatory outdoors across Italy",
-        "link": "https://www.bbc.com/news/world-europe-54454450"
+        "title": "Germany fears spiralling Covid spread as cases rise suddenly",
+        "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
     },
     {
         "title": "US elections 2020: Kamala Harris, Mike Pence clash over Trump's coronavirus record at US VP debate",
