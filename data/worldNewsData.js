@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "Brazil nears 5 million COVID-19 cases, epidemiologist fears second wave",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-brazil-idUSKBN26S35M"
+        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
+        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
+    },
+    {
+        "title": "Covid: more than 80% of positive UK cases in study had no core symptoms",
+        "link": "https://www.theguardian.com/world/2020/oct/08/more-than-80-positive-cases-in-covid-study-had-no-core-symptoms"
     }
 ];

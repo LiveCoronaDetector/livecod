@@ -5,20 +5,8 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
     },
     {
-        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
-        "link": "https://www.hankyung.com/life/article/2020100723567"
-    },
-    {
         "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
         "link": "https://www.insight.co.kr/news/307050"
-    },
-    {
-        "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
-        "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
-    },
-    {
-        "title": "코로나 재확산 기로…한글날 연휴 10만명 제주도 간다는데",
-        "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
@@ -37,7 +25,19 @@ var jejuNewsData = [
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=326305"
     },
     {
+        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
+        "link": "https://www.hankyung.com/life/article/2020100723567"
+    },
+    {
         "title": "국회 행안위, 제주도 현장 국정감사 취소...20일 국회서 실시",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
+    },
+    {
+        "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
+        "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
+    },
+    {
+        "title": "검사량 늘자 신규 확진자 늘어…이번 주 연휴도 조심",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998599?division=NAVER"
     }
 ];
