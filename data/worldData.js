@@ -1185,6 +1185,14 @@ var marker = [
         "완치자수": 1857
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 2310,
+        "사망자수": 34,
+        "완치자수": 1427
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1199,14 +1207,6 @@ var marker = [
         "확진자수": 2261,
         "사망자수": 40,
         "완치자수": 1322
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 2243,
-        "사망자수": 34,
-        "완치자수": 1392
     },
     {
         "Name": "Burkina Faso",
