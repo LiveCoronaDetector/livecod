@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801172.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
+        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
+        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
     },
     {
-        "title": "신규 확진자 69명...하루 만에 두자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010080944145197"
+        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
     }
 ];
