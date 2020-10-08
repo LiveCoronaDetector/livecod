@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
     },
     {
-        "title": "Livestream: The 2020 vice presidential debate on CNN",
-        "link": "https://www.youtube.com/watch?v=2GRqp2tN9co"
-    },
-    {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
+        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
     }
 ];
