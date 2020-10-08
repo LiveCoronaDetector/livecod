@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
     },
     {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
-    },
-    {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
