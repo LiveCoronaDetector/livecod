@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
-        "title": "Germany fears spiralling Covid spread as cases rise suddenly",
+        "title": "Europe struggles to stem rapid resurgence of coronavirus",
         "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "What to watch today: Wall Street set to add on to best day since July",
-        "link": "https://www.cnbc.com/2020/10/08/what-to-watch-today-wall-street-set-to-add-on-to-best-day-since-july.html"
+        "title": "Trump says catching COVID-19 was a 'blessing from God'",
+        "link": "https://news.yahoo.com/trump-says-catching-covid-19-was-a-blessing-from-god-230251826.html"
     }
 ];
