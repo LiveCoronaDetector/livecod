@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "Pentagon scrambles to retrace steps after White House COVID-19 outbreak | TheHill",
-        "link": "https://thehill.com/policy/defense/520108-pentagon-scrambles-to-retrace-steps-after-white-house-covid-19-outbreak"
+        "title": "What to watch today: Wall Street set to add on to best day since July",
+        "link": "https://www.cnbc.com/2020/10/08/what-to-watch-today-wall-street-set-to-add-on-to-best-day-since-july.html"
     }
 ];
