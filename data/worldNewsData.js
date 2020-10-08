@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "Coronavirus live: Israeli army chief latest senior official to violate lockdown",
-        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-netanyahu-lockdown-news-breaking-cases-1.9214985"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
         "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
     },
     {
-        "title": "Indonesia Has 270 Million People—and One of the World’s Lowest Covid-19 Testing Rates",
-        "link": "https://www.wsj.com/articles/indonesia-has-270-million-peopleand-one-of-the-worlds-lowest-covid-19-testing-rates-11602154803"
+        "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
+        "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
         "title": "Trump says he will ‘make China pay’ for coronavirus pandemic",
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 8",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Covid-19 Live Updates: Treatment That Trump Called a 'Cure' Was Tested With Cells Derived From Fetal Tissue",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "Coronavirus update: Latest world news for October 8",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
     },
     {
-        "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
-        "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
+        "title": "Covid-19 Live Updates: Treatment That Trump Called a 'Cure' Was Tested With Cells Derived From Fetal Tissue",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     }
 ];
