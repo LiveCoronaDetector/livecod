@@ -26,15 +26,15 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Covid-19 Live Updates: Treatment That Trump Called a 'Cure' Was Tested With Cells Derived From Fetal Tissue",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus/fauci-says-the-treatment-trump-called-a-cure-may-well-work-but-needs-more-testing"
+        "title": "Covid-19 Live Updates: Treatment That Trump Called a ‘Cure’ Was Tested With Cells Derived From Fetal Tissue",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
         "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",

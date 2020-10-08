@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
     },
     {
+        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
+        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
+    },
+    {
         "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
         "link": "http://yna.kr/AKR20201007171100530?did=1195m"
     },
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "경기도, 코로나 확진자 24명…의정부 재활병원서 9명 감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801172.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
-        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
     },
     {
         "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
