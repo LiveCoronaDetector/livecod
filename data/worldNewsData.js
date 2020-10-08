@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: Treatment That Trump Called a ‘Cure’ Was Tested With Cells Derived From Fetal Tissue",
+        "title": "Covid-19 Live Updates: Treatment That Trump Called a 'Cure' Was Tested With Cells Derived From Fetal Tissue",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
