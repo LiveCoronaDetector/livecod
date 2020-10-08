@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.nature.com/articles/d41586-020-02774-8"
     },
     {
-        "title": "Covid: Trump free of symptoms for 24 hours, says doctor",
-        "link": "https://www.bbc.com/news/world-us-canada-54455040"
+        "title": "Coronavirus live news: Brazil cases pass 5m; Trump calls catching Covid 'a blessing in disguise'",
+        "link": "https://www.theguardian.com/world/live/2020/oct/08/coronavirus-live-news-brazil-cases-pass-5m-trump-calls-catching-covid-a-blessing-in-disguise"
     },
     {
         "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
-    },
-    {
-        "title": "Coronavirus update: Latest world news for October 7",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
-    },
-    {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     },
     {
         "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
         "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
+    },
+    {
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     }
 ];
