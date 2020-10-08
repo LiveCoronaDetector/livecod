@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686625930952"
     },
     {
-        "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
-    },
-    {
         "title": "농협카드 용산 콜센터서 또 코로나19 확진자 나와",
         "link": "http://yna.kr/AKR20201008071800002?did=1195m"
     },
@@ -17,8 +13,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010081445450508"
     },
     {
-        "title": "거짓말로 인천에 코로나 퍼뜨린 학원강사, 징역 6월",
-        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190973&cID=10802&pID=14000"
+        "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
+        "link": "https://news.imaeil.com/Society/2020100819533418080"
+    },
+    {
+        "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
     },
     {
         "title": "코로나19 신규 확진자 69명…하루만에 두 자릿수",
