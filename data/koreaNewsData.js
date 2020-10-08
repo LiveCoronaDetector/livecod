@@ -17,14 +17,6 @@ var koreaNewsData = [
         "link": "https://news.imaeil.com/Society/2020100819533418080"
     },
     {
-        "title": "농협카드 용산 콜센터서 또 코로나19 확진자 나와",
-        "link": "http://yna.kr/AKR20201008071800002?did=1195m"
-    },
-    {
-        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
-        "link": "http://www.fnnews.com/news/202010081445450508"
-    },
-    {
         "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
         "link": "http://yna.kr/AKR20201007171100530?did=1195m"
     },
@@ -35,6 +27,14 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 69명...다시 두자릿수로",
         "link": "https://www.sedaily.com/NewsView/1Z91UMXD27"
+    },
+    {
+        "title": "농협카드 용산 콜센터서 코로나19 확진자 1명 또 발생",
+        "link": "http://isplus.live.joins.com/news/article/article.asp?total_id=23889436"
+    },
+    {
+        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
+        "link": "http://www.fnnews.com/news/202010081445450508"
     },
     {
         "title": "신규 확진자 69명...하루 만에 두자릿수",
