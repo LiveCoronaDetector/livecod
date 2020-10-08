@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 2598
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 5625,
+        "사망자수": 102,
+        "완치자수": 2660
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "확진자수": 5617,
         "사망자수": 113,
         "완치자수": 5196
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 5483,
-        "사망자수": 101,
-        "완치자수": 2600
     },
     {
         "Name": "Djibouti",
@@ -1073,20 +1073,20 @@ var marker = [
         "완치자수": 2964
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+        "확진자수": 3760,
+        "사망자수": 67,
+        "완치자수": 2824
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
         "확진자수": 3745,
         "사망자수": 99,
         "완치자수": 3010
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "爱沙尼亚",
-        "Name_en": "Estonia",
-        "확진자수": 3715,
-        "사망자수": 67,
-        "완치자수": 2813
     },
     {
         "Name": "태국",

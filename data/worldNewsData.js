@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-us-canada-54455040"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
+        "link": "https://www.jpost.com/israel-news/netanyahu-tells-mayors-there-are-no-green-cities-in-israel-644922"
     },
     {
         "title": "Italy records largest daily increase in coronavirus cases in more than five months",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Trump says catching COVID-19 was a 'blessing from God'",
+        "link": "https://news.yahoo.com/trump-says-catching-covid-19-was-a-blessing-from-god-230251826.html"
     },
     {
         "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "Trump returns to Oval Office and says coronavirus diagnosis was 'blessing from God'",
-        "link": "https://www.cnn.com/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
+        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
+        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
     },
     {
-        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
+        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
     }
 ];
