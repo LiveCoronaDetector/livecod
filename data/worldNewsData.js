@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-latin-america-54447346"
     },
     {
-        "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
-        "link": "https://www.jpost.com/israel-news/netanyahu-tells-mayors-there-are-no-green-cities-in-israel-644922"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Italy records largest daily increase in coronavirus cases in more than five months",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "New Zealand Declares Victory Over Coronavirus Again, Lifts Auckland Restrictions",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/07/921171807/new-zealand-declares-victory-over-coronavirus-again-lifts-auckland-restrictions"
+        "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
+        "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
-    },
-    {
-        "title": "Trump’s resistance to face masks, even while he is infected with coronavirus, sets him apart from other world leaders",
-        "link": "https://www.washingtonpost.com/health/2020/10/07/trump-coronavirus-face-masks-world-leaders/"
+        "title": "New Zealand Declares Victory Over Coronavirus Again, Lifts Auckland Restrictions",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/07/921171807/new-zealand-declares-victory-over-coronavirus-again-lifts-auckland-restrictions"
     }
 ];
