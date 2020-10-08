@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Trump returns to Oval Office and says coronavirus diagnosis was 'blessing from God'",
+        "link": "https://www.cnn.com/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
     },
     {
         "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
-        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Covid: more than 80% of positive UK cases in study had no core symptoms",
-        "link": "https://www.theguardian.com/world/2020/oct/08/more-than-80-positive-cases-in-covid-study-had-no-core-symptoms"
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
     }
 ];
