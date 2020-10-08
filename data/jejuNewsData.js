@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
+        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
+    },
+    {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
@@ -29,15 +33,11 @@ var jejuNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020100813291250986"
     },
     {
-        "title": "국회 행안위, 제주도 현장 국정감사 취소...20일 국회서 실시",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
-    },
-    {
-        "title": "검사량 늘자 신규 확진자 늘어…이번 주 연휴도 조심",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998599?division=NAVER"
-    },
-    {
         "title": "코로나19 여파 올해 제주도 현장 국정감사 일정 취소",
         "link": "http://www.mediajeju.com/news/articleView.html?idxno=326305"
+    },
+    {
+        "title": "국회 행안위, 제주도 현장 국정감사 취소...20일 국회서 실시",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
     }
 ];
