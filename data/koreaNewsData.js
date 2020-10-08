@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010081445450508"
     },
     {
-        "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
-        "link": "https://news.imaeil.com/Society/2020100819533418080"
+        "title": "거짓말로 인천에 코로나 퍼뜨린 학원강사, 징역 6월",
+        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190973&cID=10802&pID=14000"
     },
     {
         "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",

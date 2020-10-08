@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Covid: Trump describes his illness 'a blessing from God'",
-        "link": "https://www.bbc.com/news/world-us-canada-54455040"
+        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
+        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
-        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
+        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
+        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
         "title": "Germany fears spiralling Covid spread as cases rise suddenly",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
-        "title": "Trump says catching COVID-19 was a 'blessing from God'",
-        "link": "https://news.yahoo.com/trump-says-catching-covid-19-was-a-blessing-from-god-230251826.html"
-    },
-    {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "New Zealand's Covid-19 response the best in the world, say global business leaders",
+        "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
+    },
+    {
+        "title": "Italy makes face masks mandatory as coronavirus cases surge",
+        "link": "https://www.ksl.com/article/50026270/italy-makes-face-masks-mandatory-as-coronavirus-cases-surge"
     }
 ];
