@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "Coronavirus live: Israeli army chief latest senior official to violate lockdown",
+        "link": "https://www.haaretz.com/israel-news/israel-coronavirus-netanyahu-lockdown-news-breaking-cases-1.9214985"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus second wave hits Europe: What's different this time around? | COVID-19 Special",
-        "link": "https://www.youtube.com/watch?v=FE0twpuYfh4"
-    },
-    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Coronavirus second wave hits Europe: What's different this time around? | COVID-19 Special",
+        "link": "https://www.youtube.com/watch?v=FE0twpuYfh4"
     }
 ];
