@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+        "title": "Trump returns to Oval Office and says coronavirus diagnosis was 'blessing from God'",
+        "link": "https://www.cnn.com/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",

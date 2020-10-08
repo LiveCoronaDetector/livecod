@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100723567"
     },
     {
+        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
+        "link": "https://www.insight.co.kr/news/307050"
+    },
+    {
         "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
         "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
     },
@@ -33,11 +37,7 @@ var jejuNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998599?division=NAVER"
     },
     {
-        "title": "\"제주, 코로나 입원 현재 0명…정부보다 앞선 방역대책 적중\"",
-        "link": "http://www.fnnews.com/news/202010071742587648"
-    },
-    {
-        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+        "title": "코로나19 여파 올해 제주도 현장 국정감사 일정 취소",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326305"
     }
 ];
