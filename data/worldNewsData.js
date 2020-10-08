@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Covid: Brazil's coronavirus cases pass five million",
-        "link": "https://www.bbc.com/news/world-latin-america-54447346"
+        "title": "Brazil Cases Top 5 Million as Debate Shifts From Virus to Fiscal",
+        "link": "https://finance.yahoo.com/news/brazil-cases-top-5-million-210930920.html"
     },
     {
         "title": "Netanyahu warns city leaders he won’t rush country out of lockdown",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post"
     },
     {
-        "title": "Coronavirus: Is the pandemic slowing down in India?",
-        "link": "https://www.bbc.com/news/world-asia-india-54419959"
+        "title": "US elections 2020: Kamala Harris, Mike Pence clash over Trump's coronavirus record at US VP debate",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-elections-2020-kamala-harris-mike-pence-clash-over-trumps-coronavirus-record-at-us-vp-debate/articleshow/78545573.cms"
     },
     {
         "title": "Trump, in new video, says he will ‘make China pay’ for coronavirus pandemic",
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "October 7 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
-    },
-    {
-        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     },
     {
         "title": "The latest on the coronavirus pandemic",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Top US immunologist quits health role over Trump Covid response",
+        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
+    },
+    {
+        "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
     }
 ];
