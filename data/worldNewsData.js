@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
-        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
+        "title": "Sheba recruiting volunteers to take part in Israeli COVID vaccine trial",
+        "link": "https://www.jpost.com/health-science/sheba-recruiting-volunteers-to-take-part-in-israeli-covid-19-vaccine-trial-645021"
     },
     {
         "title": "Germany fears spiralling Covid spread as cases rise suddenly",
