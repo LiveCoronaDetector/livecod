@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
-        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
