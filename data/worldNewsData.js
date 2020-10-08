@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-asia-india-54419959"
     },
     {
-        "title": "New Zealand Stamps Out the Coronavirus. For a Second Time.",
-        "link": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+        "title": "Trump, in new video, says he will ‘make China pay’ for coronavirus pandemic",
+        "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 7",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
-    },
-    {
-        "title": "Top US immunologist quits health role over Trump Covid response",
-        "link": "https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright"
+        "title": "Livestream: The 2020 vice presidential debate on CNN",
+        "link": "https://www.youtube.com/watch?v=2GRqp2tN9co"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
+    },
+    {
+        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
+        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
     }
 ];

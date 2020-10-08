@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
+        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
+        "link": "https://www.insight.co.kr/news/307050"
+    },
+    {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "서울시민이 꼽은 코로나19 종식 후 가장 하고 싶은 활동은? 1위 '해외여행'",
         "link": "https://www.news1.kr/articles/?4080836"
-    },
-    {
-        "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
-        "link": "http://www.fnnews.com/news/202010051128071821"
     }
 ];
