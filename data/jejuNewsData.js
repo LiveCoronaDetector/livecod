@@ -9,19 +9,19 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
-        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
-        "link": "https://www.insight.co.kr/news/307050"
-    },
-    {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "국회 행안위, 제주도 국정감사 20일 국회서 실시",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
     },
     {
         "title": "검사량 늘자 신규 확진자 늘어…이번 주 연휴도 조심",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998599?division=NAVER"
     },
     {
-        "title": "\"제주, 코로나 입원 현재 0명… 정부보다 앞선 방역대책 적중\"",
+        "title": "\"제주, 코로나 입원 현재 0명…정부보다 앞선 방역대책 적중\"",
         "link": "http://www.fnnews.com/news/202010071742587648"
     },
     {
@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
-        "title": "국회 행안위, 제주도 국정감사 20일 국회서 실시",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
-    },
-    {
         "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
+    },
+    {
+        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
+        "link": "https://www.insight.co.kr/news/307050"
     },
     {
         "title": "서울시민이 꼽은 코로나19 종식 후 가장 하고 싶은 활동은? 1위 '해외여행'",

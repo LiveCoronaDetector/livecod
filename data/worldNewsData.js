@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.usatoday.com/story/news/health/2020/10/07/united-states-coronavirus-cases-nine-states-records/5906943002/"
     },
     {
-        "title": "Coronavirus: Iran sets new record for deaths amid 'third wave'",
-        "link": "https://www.bbc.com/news/54452509"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Italy records largest daily increase in coronavirus cases in more than five months",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
+        "title": "Coronavirus update: Latest world news for October 7",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/index.html"
+    },
+    {
         "title": "Livestream: The 2020 vice presidential debate on CNN",
         "link": "https://www.youtube.com/watch?v=2GRqp2tN9co"
     },
     {
         "title": "Watch live: World Health Organization holds Q&A on the coronavirus outbreak",
         "link": "https://www.cnbc.com/2020/10/07/watch-live-world-health-organization-holds-qa-on-the-coronavirus-outbreak.html"
-    },
-    {
-        "title": "'Jurassic World: Dominion' Shuts Down After Positive Coronavirus Tests",
-        "link": "https://www.hollywoodreporter.com/heat-vision/jurassic-world-dominion-shuts-down-after-positive-coronavirus-tests"
     }
 ];
