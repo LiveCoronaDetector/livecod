@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
     {
+        "title": "서울시민이 꼽은 코로나19 종식 후 가장 하고 싶은 활동은? 1위 '해외여행'",
+        "link": "https://www.news1.kr/articles/?4080836"
+    },
+    {
         "title": "추캉스 28만명…제주도, 코로나19 잠복기 2주간 ‘고비’",
         "link": "http://www.fnnews.com/news/202010051128071821"
     },
     {
         "title": "강릉 추석연휴 '당일치기' 여행객 증가…코로나 지역감염 '0'",
         "link": "https://www.nocutnews.co.kr/news/5423279"
-    },
-    {
-        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
-        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     }
 ];
