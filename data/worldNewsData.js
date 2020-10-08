@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+        "title": "Coronavirus update: Latest world news for October 8",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "Trump says catching COVID-19 was a 'blessing from God'",
-        "link": "https://news.yahoo.com/trump-says-catching-covid-19-was-a-blessing-from-god-230251826.html"
+        "title": "Here's Why Trump's COVID Diagnosis Was A Disaster",
+        "link": "https://www.youtube.com/watch?v=_AwZc_Mglvg"
     }
 ];
