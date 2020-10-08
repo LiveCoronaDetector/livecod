@@ -25,6 +25,10 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+    },
+    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
     },
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders"
     },
     {
-        "title": "In Italy, Masks Are Now Mandatory Outdoors",
-        "link": "https://www.newser.com/story/297188/italy-introduces-outdoor-mask-mandate.html"
-    },
-    {
-        "title": "Covid: more than 80% of positive UK cases in study had no core symptoms",
-        "link": "https://www.theguardian.com/world/2020/oct/08/more-than-80-positive-cases-in-covid-study-had-no-core-symptoms"
+        "title": "Pentagon scrambles to retrace steps after White House COVID-19 outbreak | TheHill",
+        "link": "https://thehill.com/policy/defense/520108-pentagon-scrambles-to-retrace-steps-after-white-house-covid-19-outbreak"
     }
 ];

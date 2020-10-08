@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/north_korea/2020/10/08/YCUBDG7XLZBYBEZA3LLWODJACU/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
-        "link": "http://www.fnnews.com/news/202010081445450508"
-    },
-    {
         "title": "경기도, 코로나 확진자 24명…의정부 재활병원서 9명 감염",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801172.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "추석 가족모임 코로나19 확진자 증가...\"환자 발생 생각보다 적어\"[종합]",
+        "link": "http://www.fnnews.com/news/202010081445450508"
     }
 ];
