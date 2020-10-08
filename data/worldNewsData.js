@@ -26,7 +26,7 @@ var worldNewsData = [
     },
     {
         "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
