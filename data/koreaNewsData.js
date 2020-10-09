@@ -17,8 +17,8 @@ var koreaNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100909585613044"
     },
     {
-        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
+        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
         "title": "정부 \"코로나19 감소 추세로 판단…전파력도 1 이하로 떨어져\"",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
+        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
+    },
+    {
         "title": "WHO “코로나 신규 확진 34만명… 하루 기준 최대치”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015091493&code=61131111&cp=nv"
     },
     {
         "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
-    },
-    {
-        "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
-        "link": "https://news.imaeil.com/Society/2020100819533418080"
     }
 ];

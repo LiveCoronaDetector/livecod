@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
+        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "China's global reputation plunges in the wake of coronavirus pandemic",
+        "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
     }
 ];
