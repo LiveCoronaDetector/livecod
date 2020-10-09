@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/h_5ee0256c6c6a49f79438983abc07a1b3"
+    },
+    {
         "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
         "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
     },
     {
-        "title": "China joins global vaccine alliance backed by World Health Organization",
-        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
-    },
-    {
-        "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
     }
 ];

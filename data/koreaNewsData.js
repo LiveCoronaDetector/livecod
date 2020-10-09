@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016644&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "WHO \"전 세계 코로나19 신규 확진 35만명\"…또 하루 최다",
+        "link": "http://yna.kr/AKR20201010003100072?did=1195m"
+    },
+    {
         "title": "스위스 코로나19 신규확진자 약 1천500명…역대 최다",
         "link": "http://yna.kr/AKR20201009080500088?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     }
 ];
