@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
-        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "Europe's COVID-19 crisis grows darker",
+        "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
     },
     {
-        "title": "WHO reports record one-day rise in global coronavirus cases amid European outbreak",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who-cases/who-reports-record-one-day-rise-in-global-coronavirus-cases-amid-european-outbreak-idUSKBN26T33J"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];

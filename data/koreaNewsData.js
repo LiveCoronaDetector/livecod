@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900471.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규확진 54명…감소세지만 사흘 연휴 ‘변수’[종합]",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
+        "title": "코로나 신규 확진 이틀째 두자릿수…한글날 연휴 변수[종합]",
+        "link": "https://www.hankyung.com/life/article/2020100912697"
     },
     {
         "title": "코로나19 어제 54명 신규확진…이틀째 두 자릿수(상보)",
@@ -17,16 +17,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
-    },
-    {
         "title": "\"한글날 불법집회 코로나19 전파 시 손해배상 청구\"",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016508&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
         "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
