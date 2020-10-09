@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5936052_32633.html"
     },
     {
-        "title": "해외입국·다나병원서 추가 확진자 발생…18시간 동안 최소 8명",
-        "link": "http://www.newsis.com/view/?id=NISX20201009_0001192371&cID=14001&pID=14000"
-    },
-    {
         "title": "러시아 코로나19 신규확진자 역대 최대…\"하루 1만2천명대\"(종합)",
         "link": "http://yna.kr/AKR20201009078851108?did=1195m"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 근본 개편\"",
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
+    },
+    {
+        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     }
 ];

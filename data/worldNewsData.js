@@ -29,11 +29,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
-        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
+        "title": "China joins global vaccine alliance backed by World Health Organization",
+        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
     },
     {
