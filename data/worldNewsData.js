@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
-        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
-    },
-    {
-        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
+        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
+        "link": "https://www.bbc.com/news/world-europe-54478320"
     },
     {
         "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
         "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
+    },
+    {
+        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
     }
 ];
