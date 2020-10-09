@@ -1300,9 +1300,9 @@ var marker = [
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "확진자수": 1100,
+        "확진자수": 1105,
         "사망자수": 35,
-        "완치자수": 1023
+        "완치자수": 1024
     },
     {
         "Name": "Sao Tome and Principe",

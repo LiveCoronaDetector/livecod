@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
-        "title": "확진자 동선 시간대별 나열 공개 안 돼…성별·나이 공개도 금지",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016644&plink=ORI&cooper=NAVER"
-    },
-    {
         "title": "돌연사한 부산 간호조무사 관련 확진자 13명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/965158.html"
+    },
+    {
+        "title": "확진자 동선 시간대별 나열 공개 안 돼…성별·나이 공개도 금지",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016644&plink=ORI&cooper=NAVER"
     },
     {
         "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",

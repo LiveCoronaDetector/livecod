@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-3692-patents-diagnosed-645122"
     },
     {
-        "title": "Europe's coronavirus case counts just keep climbing",
-        "link": "https://www.axios.com/europes-coronavirus-case-counts-france-spain-ffbb75ce-19e7-42bc-8558-69a5011808bb.html"
+        "title": "Europe struggles to stem rapid resurgence of coronavirus",
+        "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
     },
     {
         "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "As New York City's Covid-19 Lockdown Nears, Confusion and Anger Reign",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Johnson & Johnson to supply up to 400M doses of potential COVID-19 vaccine to EU",
-        "link": "https://www.foxbusiness.com/markets/coronavirus-johnson-johnson-european-union"
+        "title": "China Becomes Largest Economy To Join WHO-Backed Global COVID-19 Vaccine Initiative",
+        "link": "https://www.yahoo.com/news/china-becomes-largest-economy-join-034417894.html"
     },
     {
         "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
