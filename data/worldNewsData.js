@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/pew-survey-on-negative-sentiment-toward-china-xi-jinping-coronavirus.html"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 8",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus live news: doctor clears Trump to return to public events on Saturday; record global case rise",
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
+        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
     },
     {
-        "title": "European countries tighten restrictions as coronavirus cases soar",
-        "link": "https://www.axios.com/europe-coronavirus-cases-6-million-e6b61d1c-9ab3-4da9-9e9a-e85283f5c52c.html"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Coronavirus update: Latest world news for October 8",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
     }
 ];
