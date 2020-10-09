@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
     },
     {
-        "title": "정읍 양지마을 코로나19 추가 확진자 없어",
-        "link": "http://www.hani.co.kr/arti/area/honam/965042.html"
+        "title": "8일 지역확진자 11명…수액 맞은 3명 확진에 부산 발칵",
+        "link": "https://www.news1.kr/articles/?4081744"
     },
     {
         "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/08/2020100801172.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "(속보) 수원시, 284~285번 코로나19 확진자 발생",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=211406"
+        "title": "신규 확진자 69명...하루 만에 두자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010080944145197"
     }
 ];
