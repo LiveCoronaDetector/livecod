@@ -21,12 +21,16 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
-        "title": "정부 \"코로나19 감소 추세로 판단…전파력도 1 이하로 떨어져\"",
+        "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 전면 개편\"",
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
     },
     {
         "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+    },
+    {
+        "title": "정부 “확진자 동선 장소 기준으로 공개…성별·나이는 미공개”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015092752&code=61121911&cp=nv"
     },
     {
         "title": "가정방문 수액주사 관련 확진자 13명…서울·울산 등 타 지역 확산",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "이틀째 확진자 두자릿 수...\"현 거리두기 체계는 개편 예정\"",
         "link": "https://www.ytn.co.kr/_ln/0103_202010091457157410"
-    },
-    {
-        "title": "서울-대전-부산서 코로나19 확산 지속…부산 방문주사 12명 확진(종합)",
-        "link": "http://yna.kr/AKR20201009051151530?did=1195m"
     }
 ];

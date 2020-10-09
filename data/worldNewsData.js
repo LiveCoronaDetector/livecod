@@ -5,15 +5,15 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
+        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
-        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
+        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
+        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
     },
     {
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus/fauci-says-the-treatment-trump-called-a-cure-may-well-work-but-needs-more-testing"
+        "title": "As New York City's Covid-19 Lockdown Nears, Confusion and Anger Reign",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
-        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
+        "title": "Europe's coronavirus case counts just keep climbing",
+        "link": "https://www.axios.com/europes-coronavirus-case-counts-france-spain-ffbb75ce-19e7-42bc-8558-69a5011808bb.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
