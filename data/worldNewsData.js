@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Dr. Anthony Fauci says he's 'not comfortable' with level of U.S. coronavirus cases",
-        "link": "https://www.cnbc.com/2020/10/08/dr-anthony-fauci-says-hes-not-comfortable-with-level-of-us-coronavirus-cases.html"
+        "title": "COVID-19 in Canada: Trudeau prepares for possible 'disruptions' after U.S. election outcome; Edmonton faces new voluntary restrictions",
+        "link": "https://news.yahoo.com/canada-covid19-coronavirus-daily-updates-october-8-163911370.html"
     },
     {
-        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
-        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
+        "title": "COVID-19 could cause male infertility - new Israeli study",
+        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
-        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus update: Latest world news for October 8",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
+        "title": "WHO reports record one-day rise in global coronavirus cases amid European outbreak",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who-cases/who-reports-record-one-day-rise-in-global-coronavirus-cases-amid-european-outbreak-idUSKBN26T33J"
     }
 ];
