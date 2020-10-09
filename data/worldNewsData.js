@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "The US is reporting more than 45,000 positive Covid-19 tests on average every day",
-        "link": "https://www.cnn.com/2020/10/09/health/us-coronavirus-friday/index.html"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
     },
     {
         "title": "China joins global vaccine alliance backed by World Health Organization",

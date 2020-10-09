@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
-        "title": "러시아 코로나19 신규확진자 역대 최대…\"하루 1만2천명대\"(종합)",
-        "link": "http://yna.kr/AKR20201009078851108?did=1195m"
-    },
-    {
         "title": "돌연사한 부산 간호조무사 관련 확진자 13명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/965158.html"
     },
@@ -19,10 +15,6 @@ var koreaNewsData = [
     {
         "title": "스위스 코로나19 신규확진자 약 1천500명…역대 최다",
         "link": "http://yna.kr/AKR20201009080500088?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
         "title": "'코로나19' 신규 확진자 54명…지역발생 38명·해외유입 16명",
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 근본 개편\"",
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
+    },
+    {
+        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+    },
+    {
+        "title": "러시아 코로나19 신규확진자 역대 최대…\"하루 1만2천명대\"(종합)",
+        "link": "http://yna.kr/AKR20201009078851108?did=1195m"
     }
 ];
