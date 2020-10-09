@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
-        "title": "日 코로나 신규 확진 이틀째 600명대…누적 9만명선 근접",
-        "link": "http://yna.kr/AKR20201009081800073?did=1195m"
+        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     }
 ];

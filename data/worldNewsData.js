@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
+        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
+        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
+    },
+    {
         "title": "China joins global vaccine alliance backed by World Health Organization",
         "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
     },
     {
         "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
-    },
-    {
-        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
     }
 ];
