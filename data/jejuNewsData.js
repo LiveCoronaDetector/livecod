@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010082051550395"
     },
     {
+        "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
+        "link": "http://www.fnnews.com/news/202010091058299724"
+    },
+    {
         "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
     },
@@ -21,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.insight.co.kr/news/307050"
     },
     {
+        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
         "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
         "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
     },
@@ -29,15 +37,7 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
-        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
-    },
-    {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "국회 행안위, 제주도 현장 국정감사 취소...20일 국회서 실시",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429373"
     }
 ];

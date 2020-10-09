@@ -1638,7 +1638,7 @@ var marker = [
         "Name_en": "Saint Kitts and Nevis",
         "확진자수": 19,
         "사망자수": 0,
-        "완치자수": 17
+        "완치자수": 18
     },
     {
         "Name": "Saint Pierre Miquelon",

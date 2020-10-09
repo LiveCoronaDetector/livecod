@@ -5,7 +5,7 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900471.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "코로나 신규확진 54명…감소세지만 사흘 연휴 ‘복병’[종합]",
+        "title": "코로나 신규확진 54명…감소세지만 사흘 연휴 ‘변수’[종합]",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
     },
     {
@@ -13,16 +13,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
     },
     {
-        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
+        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
+        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
-        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+        "title": "WHO \"전 세계 코로나 신규 확진 34만명 육박…하루 기준 최대\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "신규 확진자 54명…감소 추세에 거리두기 '완화' 기대 커져(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01315286625931280"
+    },
+    {
+        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
         "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
@@ -31,10 +35,6 @@ var koreaNewsData = [
     {
         "title": "집에서 간호조무사한테 주사 맞은 50~90대 3명 코로나19 걸려",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/964964.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
         "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
