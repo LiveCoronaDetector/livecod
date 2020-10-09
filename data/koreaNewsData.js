@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
     },
     {
-        "title": "코로나 신규확진 54명…감소세지만 사흘 연휴 ‘변수’[종합]",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
-    },
-    {
         "title": "'코로나19' 신규 확진자 54명…지역발생 38명·해외유입 16명",
         "link": "http://www.inews24.com/view/1305858"
+    },
+    {
+        "title": "코로나 신규확진 54명…감소세지만 사흘 연휴 ‘변수’[종합]",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
     },
     {
         "title": "\"집회서 코로나19 확진자 발생 시 참가자에 손해배상 청구\"",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
     },
     {
-        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
-    },
-    {
         "title": "돌연사한 부산 간호조무사 관련 확진자 13명으로 늘어",
         "link": "http://www.hani.co.kr/arti/area/yeongnam/965158.html"
     },
     {
-        "title": "WHO \"전 세계 코로나 신규 확진 34만명 육박…하루 기준 최대\"",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+    },
+    {
+        "title": "트럼프, 기침하면서도 “주말 대선 유세 복귀”…9일 코로나 재검사",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010091709001&code=970201"
     }
 ];

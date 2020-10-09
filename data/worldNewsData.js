@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.axios.com/europes-coronavirus-case-counts-france-spain-ffbb75ce-19e7-42bc-8558-69a5011808bb.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
+        "link": "https://www.washingtonpost.com/nation/2020/10/09/coronavirus-covid-live-updates-us/"
     }
 ];
