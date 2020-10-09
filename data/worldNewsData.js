@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
-        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "Jobless claims were worse than expected amid slowdown in hiring",
-        "link": "https://www.cnbc.com/2020/10/08/weekly-jobless-claims.html"
+        "title": "Pregame for Thursday Night Lights at Madison County",
+        "link": "https://www.waaytv.com/content/news/Pregame-for-Thursday-Night-Lights-at-Madison-County-572684051.html"
     },
     {
-        "title": "Europe's COVID-19 crisis grows darker",
-        "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
+        "title": "Europe's coronavirus case counts just keep climbing",
+        "link": "https://www.axios.com/europes-coronavirus-case-counts-france-spain-ffbb75ce-19e7-42bc-8558-69a5011808bb.html"
     },
     {
         "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",

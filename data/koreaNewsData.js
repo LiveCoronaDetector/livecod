@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
     },
     {
-        "title": "[속보] 정부 “코로나19 감소 추세로 판단…전파력도 1이하로 떨어져”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015092295&code=61121211&cp=nv"
-    },
-    {
-        "title": "코로나19 어제 54명 신규확진…이틀째 두 자릿수(상보)",
-        "link": "https://view.asiae.co.kr/article/2020100909585613044"
-    },
-    {
-        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
-        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
+        "title": "\"집회서 코로나19 확진자 발생 시 참가자에 손해배상 청구\"",
+        "link": "https://hankookilbo.com/News/Read/A2020100911050003338?did=NA"
     },
     {
         "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
-        "title": "\"한글날 불법집회 코로나19 전파 시 손해배상 청구\"",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016508&plink=ORI&cooper=NAVER"
+        "title": "'코로나19' 신규 확진자 54명…지역발생 38명·해외유입 16명",
+        "link": "http://www.inews24.com/view/1305858"
+    },
+    {
+        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
+        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
+    },
+    {
+        "title": "정부 \"코로나19 감소 추세로 판단…전파력도 1 이하로 떨어져\"",
+        "link": "http://yna.kr/AKR20201009042800530?did=1195m"
+    },
+    {
+        "title": "가정방문 수액주사 관련 확진자 13명…서울·울산 등 타 지역 확산",
+        "link": "https://www.news1.kr/articles/?4082212"
     },
     {
         "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
-        "title": "코로나19 신규 확진자 54명…이틀째 두자릿 수",
-        "link": "https://imnews.imbc.com/news/2020/society/article/5935557_32633.html"
-    },
-    {
-        "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
+        "title": "코로나19 동선 속인 인천 학원 강사 징역 6개월 실형",
+        "link": "https://news.imaeil.com/Society/2020100819533418080"
     }
 ];
