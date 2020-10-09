@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
-    },
-    {
         "title": "Spain imposes state of emergency to bring Madrid to heel",
         "link": "https://www.youtube.com/watch?v=MV64waJWJMM"
+    },
+    {
+        "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
+        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
         "title": "China joins global vaccine alliance backed by World Health Organization",
