@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
-        "title": "러시아 코로나19 신규확진자 역대 최대…\"하루 1만2천명대\"(종합)",
-        "link": "http://yna.kr/AKR20201009078851108?did=1195m"
+        "title": "WHO “코로나 신규 확진 34만명… 하루 기준 최대치”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015091493&code=61131111&cp=nv"
     }
 ];

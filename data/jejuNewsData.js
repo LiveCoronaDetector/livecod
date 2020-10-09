@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100739667"
     },
     {
-        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
-        "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
+        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
+        "link": "https://view.asiae.co.kr/article/2020100317540796929"
     }
 ];
