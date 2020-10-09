@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
-        "title": "Bars and pubs are closing as Europe battles coronavirus surge. Experts question if it will work",
-        "link": "https://www.cnn.com/travel/article/bars-pubs-closing-coronavirus-europe-intl/index.html"
+        "title": "Coronavirus: Spain declares emergency in Madrid as Berlin emerges as hotspot",
+        "link": "https://www.theguardian.com/world/2020/oct/09/coronavirus-spain-declares-emergency-in-madrid-as-berlin-emerges-as-hotspot"
     },
     {
         "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54478320"
     },
     {
-        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
+        "title": "Covid-19 Global News: Live Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
         "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
