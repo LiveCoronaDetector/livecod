@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Spain imposes state of emergency to bring Madrid to heel",
+        "link": "https://www.youtube.com/watch?v=MV64waJWJMM"
     },
     {
         "title": "China joins global vaccine alliance backed by World Health Organization",
