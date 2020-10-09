@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010082051550395"
     },
     {
+        "title": "\"확진자 늘든지 말든지\" 한글날 연휴, 제주에 10만명 '우르르'",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020100816431315583"
+    },
+    {
         "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
         "link": "http://www.fnnews.com/news/202010091058299724"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "코로나 재확산 기로…한글날 연휴 10만명 제주도 간다는데",
         "link": "https://www.hankyung.com/life/article/2020100739667"
-    },
-    {
-        "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
-        "link": "https://view.asiae.co.kr/article/2020100317540796929"
     }
 ];
