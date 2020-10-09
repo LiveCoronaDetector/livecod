@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "COVID-19 in Canada: Trudeau prepares for possible 'disruptions' after U.S. election outcome; Edmonton faces new voluntary restrictions",
-        "link": "https://news.yahoo.com/canada-covid19-coronavirus-daily-updates-october-8-163911370.html"
+        "title": "Dr. Anthony Fauci says he's 'not comfortable' with level of U.S. coronavirus cases",
+        "link": "https://www.cnbc.com/2020/10/08/dr-anthony-fauci-says-hes-not-comfortable-with-level-of-us-coronavirus-cases.html"
     },
     {
         "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
-        "title": "Trump says he will ‘make China pay’ for coronavirus pandemic",
-        "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+        "title": "Negative views about China soared to record highs in many countries, Pew survey shows",
+        "link": "https://www.cnbc.com/2020/10/09/pew-survey-on-negative-sentiment-toward-china-xi-jinping-coronavirus.html"
     },
     {
         "title": "Coronavirus live news: doctor clears Trump to return to public events on Saturday; record global case rise",
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
-    },
-    {
-        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
-        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
+        "title": "China Joins WHO's Covax Vaccine Program: Virus Update",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=61e61470-09d3-11eb-9dc6-058489d0eac5&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0wNy90cnVtcC10b3V0cy10cmVhdG1lbnQtYnJhemlsLXRvcHMtNS1taWxsaW9uLWNhc2VzLXZpcnVzLXVwZGF0ZQ=="
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Coronavirus update: Latest world news for October 8",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/h_6a4c7732a92d62b83e12d7cebb11c39a"
     }
 ];
