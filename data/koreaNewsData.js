@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016644&plink=ORI&cooper=NAVER"
     },
     {
+        "title": "스위스 코로나19 신규확진자 약 1천500명…역대 최다",
+        "link": "http://yna.kr/AKR20201009080500088?did=1195m"
+    },
+    {
         "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 근본 개편\"",
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
-    },
-    {
-        "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     }
 ];
