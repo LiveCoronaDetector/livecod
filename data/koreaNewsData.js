@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
-        "title": "WHO “코로나 신규 확진 34만명… 하루 기준 최대치”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015091493&code=61131111&cp=nv"
+        "title": "日 코로나 신규 확진 이틀째 600명대…누적 9만명선 근접",
+        "link": "http://yna.kr/AKR20201009081800073?did=1195m"
     }
 ];
