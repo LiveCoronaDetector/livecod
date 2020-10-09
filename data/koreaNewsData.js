@@ -17,10 +17,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/area/yeongnam/965158.html"
     },
     {
-        "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
-    },
-    {
         "title": "'코로나19' 신규 확진자 54명…지역발생 38명·해외유입 16명",
         "link": "http://www.inews24.com/view/1305858"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나 신규확진 54명…국내 발생 38명·해외유입 16명",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
+    },
+    {
+        "title": "WHO “코로나 신규 확진 34만명… 하루 기준 최대치”",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015091493&code=61131111&cp=nv"
     }
 ];

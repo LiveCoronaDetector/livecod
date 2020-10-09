@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
-        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
     },
     {
+        "title": "China Joins WHO Covax Vaccine Program",
+        "link": "https://www.youtube.com/watch?v=iKrPZZvna98"
+    },
+    {
         "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "China joins global vaccine alliance backed by World Health Organization",
-        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
+        "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
+        "link": "https://www.washingtonpost.com/nation/2020/10/09/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
