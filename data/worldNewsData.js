@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
-        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
+        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
+        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
+        "title": "The latest on the coronavirus pandemic",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+    },
+    {
         "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
+        "title": "WHO reports record one-day rise in global coronavirus cases amid European outbreak",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-who-cases/who-reports-record-one-day-rise-in-global-coronavirus-cases-amid-european-outbreak-idUSKBN26T33J"
+    },
+    {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
-    },
-    {
-        "title": "Coronavirus live news: doctor clears Trump to return to public events on Saturday; record global case rise",
-        "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
-    },
-    {
-        "title": "The Public in Advanced Economies are Not Happy with China – or Xi",
-        "link": "https://thediplomat.com/2020/10/the-public-in-advanced-economies-are-not-happy-with-china-or-xi/"
     }
 ];
