@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "COVID-19 in Canada: Trudeau prepares for possible 'disruptions' after U.S. election outcome; Edmonton faces new voluntary restrictions",
-        "link": "https://news.yahoo.com/canada-covid19-coronavirus-daily-updates-october-8-163911370.html"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "COVID-19 could cause male infertility - new Israeli study",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
+        "title": "October 8 coronavirus news",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
     },
     {
