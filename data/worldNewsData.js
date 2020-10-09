@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
     },
     {
-        "title": "China Joins WHO Covax Vaccine Program",
-        "link": "https://www.youtube.com/watch?v=iKrPZZvna98"
+        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/oct/09/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
+    },
+    {
+        "title": "China joins global vaccine alliance backed by World Health Organization",
+        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
     },
     {
         "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
-    },
-    {
-        "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
-        "link": "https://www.washingtonpost.com/nation/2020/10/09/coronavirus-covid-live-updates-us/"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
