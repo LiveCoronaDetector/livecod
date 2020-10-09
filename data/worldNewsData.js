@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
-        "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
+        "title": "Trump warns Iran not to 'f--k around' with United States during 'Rush Limbaugh Show' appearance",
+        "link": "https://www.foxnews.com/media/trump-f-bomb-iran-rush-limbaugh"
     },
     {
         "title": "Coronavirus: Spain declares emergency in Madrid as Berlin emerges as hotspot",
@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54478320"
+        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
+        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
     },
     {
         "title": "Covid-19 Global News: Live Tracker",
