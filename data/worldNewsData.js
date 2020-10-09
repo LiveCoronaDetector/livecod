@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
+        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
         "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
         "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
+        "title": "Bars and pubs are closing as Europe battles coronavirus surge. Experts question if it will work",
+        "link": "https://www.cnn.com/travel/article/bars-pubs-closing-coronavirus-europe-intl/index.html"
     },
     {
         "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
     },
     {
-        "title": "Coronavirus live news: doctor clears Trump to return to public events on Saturday; record global case rise",
-        "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
-    },
-    {
         "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "China Becomes Largest Economy To Join WHO-Backed Global COVID-19 Vaccine Initiative",
-        "link": "https://www.yahoo.com/news/china-becomes-largest-economy-join-034417894.html"
+        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
+        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
+    },
+    {
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
