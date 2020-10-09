@@ -937,20 +937,20 @@ var marker = [
         "완치자수": 4626
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "확진자수": 5758,
+        "사망자수": 103,
+        "완치자수": 2722
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "확진자수": 5632,
         "사망자수": 113,
         "완치자수": 5231
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "확진자수": 5625,
-        "사망자수": 102,
-        "완치자수": 2660
     },
     {
         "Name": "Djibouti",

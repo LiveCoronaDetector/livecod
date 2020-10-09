@@ -5,16 +5,16 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
-        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
         "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
     },
     {
-        "title": "Europe struggles to stem rapid resurgence of coronavirus",
-        "link": "https://www.theguardian.com/world/2020/oct/08/germany-fears-spiralling-covid-spread-as-cases-rise-suddenly"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
     },
     {
         "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus/fauci-says-the-treatment-trump-called-a-cure-may-well-work-but-needs-more-testing"
     },
     {
-        "title": "Europe's coronavirus case counts just keep climbing",
-        "link": "https://www.axios.com/europes-coronavirus-case-counts-france-spain-ffbb75ce-19e7-42bc-8558-69a5011808bb.html"
+        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
+        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
     },
     {
-        "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
-        "link": "https://www.washingtonpost.com/nation/2020/10/09/coronavirus-covid-live-updates-us/"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];
