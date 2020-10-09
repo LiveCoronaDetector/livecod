@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "The US is reporting more than 45,000 positive Covid-19 tests on average every day",
+        "link": "https://www.cnn.com/2020/10/09/health/us-coronavirus-friday/index.html"
     },
     {
-        "title": "Program to reduce infection rate to be implemented in all red cities",
-        "link": "https://www.jpost.com/israel-news/program-to-reduce-infection-rate-to-be-implemented-in-all-red-cities-645131"
+        "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
         "title": "Bars and pubs are closing as Europe battles coronavirus surge. Experts question if it will work",
@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
     },
     {
-        "title": "China joins global vaccine alliance backed by World Health Organization",
-        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
         "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/health-54442386"
     },
     {
-        "title": "Nobel Peace Prize for WHO Would Be a Blow to Trump and a Big Win for China",
-        "link": "https://www.newsweek.com/nobel-peace-prize-who-blow-trump-win-china-1537649"
+        "title": "China joins global vaccine alliance backed by World Health Organization",
+        "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
     }
 ];
