@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canadians encouraged to stay home as second wave of Covid-19 worsens",
-        "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
+        "title": "COVID-19 in Canada: Trudeau prepares for possible 'disruptions' after U.S. election outcome; Edmonton faces new voluntary restrictions",
+        "link": "https://news.yahoo.com/canada-covid19-coronavirus-daily-updates-october-8-163911370.html"
     },
     {
-        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
-        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
+        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
+        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
     },
     {
-        "title": "The latest on the coronavirus pandemic",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
+        "title": "Coronavirus live news: doctor clears Trump to return to public events on Saturday; record global case rise",
+        "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
         "title": "Covid-19 Live Updates: As Partial N.Y.C. Lockdown Nears, Confusion and Anger Rattle City",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {
-        "title": "WHO reports record one-day rise in global coronavirus cases amid European outbreak",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-who-cases/who-reports-record-one-day-rise-in-global-coronavirus-cases-amid-european-outbreak-idUSKBN26T33J"
+        "title": "'A Definite and Sustained Increase': Europe Leads Record Single-Day Worldwide Covid-19 Infection Surge",
+        "link": "https://www.commondreams.org/news/2020/10/08/definite-and-sustained-increase-europe-leads-record-single-day-worldwide-covid-19"
     },
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
