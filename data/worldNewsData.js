@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID-19 could cause male infertility - new Israeli study",
-        "link": "https://www.jpost.com/health-science/covid-19-could-cause-infertility-new-israeli-study-644767"
+        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
+        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "October 8 coronavirus news",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-08-20-intl/index.html"
-    },
-    {
         "title": "Europe's COVID-19 crisis grows darker",
         "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
     },
     {
-        "title": "China's global reputation plunges in the wake of coronavirus pandemic",
-        "link": "https://www.cnn.com/2020/10/06/asia/china-global-reputation-coronavirus-intl-hnk/index.html"
+        "title": "Jobless claims were worse than expected amid slowdown in hiring",
+        "link": "https://www.cnbc.com/2020/10/08/weekly-jobless-claims.html"
+    },
+    {
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];
