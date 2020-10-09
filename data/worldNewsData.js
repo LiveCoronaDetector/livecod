@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
-        "title": "Coronavirus in Israel: 3,693 patents diagnosed",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-3692-patents-diagnosed-645122"
+        "title": "Program to reduce infection rate to be implemented in all red cities",
+        "link": "https://www.jpost.com/israel-news/program-to-reduce-infection-rate-to-be-implemented-in-all-red-cities-645131"
     },
     {
         "title": "Bars and pubs are closing as Europe battles coronavirus surge. Experts question if it will work",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/oct/09/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
-    },
-    {
         "title": "China joins global vaccine alliance backed by World Health Organization",
         "link": "https://www.nbcnews.com/news/world/china-joins-global-vaccine-alliance-backed-world-health-organization-n1242681"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Coronavirus: Health experts join global anti-lockdown movement",
         "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Nobel Peace Prize for WHO Would Be a Blow to Trump and a Big Win for China",
+        "link": "https://www.newsweek.com/nobel-peace-prize-who-blow-trump-win-china-1537649"
     }
 ];
