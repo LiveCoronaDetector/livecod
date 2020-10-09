@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "COVID is harming sperm, Israeli researchers say, raising infertility worries",
-        "link": "https://www.timesofisrael.com/covid-is-harming-sperm-israeli-researchers-say-raising-infertility-worries/"
+        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
+        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
     },
     {
         "title": "Europe struggles to stem rapid resurgence of coronavirus",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "Europe's COVID-19 crisis grows darker",
-        "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
-    },
-    {
         "title": "Jobless claims were worse than expected amid slowdown in hiring",
         "link": "https://www.cnbc.com/2020/10/08/weekly-jobless-claims.html"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Europe's COVID-19 crisis grows darker",
+        "link": "https://www.youtube.com/watch?v=hVjHAsdIGPg"
+    },
+    {
+        "title": "Live updates: Trump says he expects to be tested for coronavirus again on Friday",
+        "link": "https://www.washingtonpost.com/nation/2020/10/09/coronavirus-covid-live-updates-us/"
     }
 ];

@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
     },
     {
-        "title": "코로나19 어제 54명 신규확진…이틀째 두 자릿수(상보)",
-        "link": "https://view.asiae.co.kr/article/2020100909585613044"
-    },
-    {
         "title": "[속보] 정부 “코로나19 감소 추세로 판단…전파력도 1이하로 떨어져”",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015092295&code=61121211&cp=nv"
+    },
+    {
+        "title": "코로나19 어제 54명 신규확진…이틀째 두 자릿수(상보)",
+        "link": "https://view.asiae.co.kr/article/2020100909585613044"
     },
     {
         "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
