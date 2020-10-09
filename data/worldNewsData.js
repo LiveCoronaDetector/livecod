@@ -9,11 +9,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/08/health/canada-coronavirus-second-wave/index.html"
     },
     {
-        "title": "Packed funeral for ultra-Orthdox rabbi inflames Covid tensions in Israel",
-        "link": "https://www.theguardian.com/world/2020/oct/06/packed-funeral-for-ultra-orthdox-rabbi-inflames-covid-tensions-in-israel"
+        "title": "Coronavirus Israel live: Government approves one-week extension to state of emergency",
+        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-live-netanyahu-government-one-week-extension-lockdown-state-of-emergency-1.9206632"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/index.html"
     },
     {
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     },
     {
-        "title": "As New York City's Covid-19 Lockdown Nears, Confusion and Anger Reign",
+        "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
         "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
     },
     {

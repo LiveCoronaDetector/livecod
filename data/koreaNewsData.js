@@ -9,19 +9,23 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201009500035&wlog_tag3=naver"
     },
     {
-        "title": "코로나 신규 확진 54명… 이틀째 두자릿수 유지(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900471.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "'코로나19' 신규 확진자 54명…지역발생 38명·해외유입 16명",
+        "link": "http://www.inews24.com/view/1305858"
     },
     {
         "title": "\"집회서 코로나19 확진자 발생 시 참가자에 손해배상 청구\"",
         "link": "https://hankookilbo.com/News/Read/A2020100911050003338?did=NA"
     },
     {
+        "title": "확진자 동선 시간대별 나열 공개 안 돼…성별·나이 공개도 금지",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006016644&plink=ORI&cooper=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진자 54명…서울 17명·경기 9명 등",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5021758&ref=A"
     },
     {
-        "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 전면 개편\"",
+        "title": "정부 \"코로나 감소 추세 판단…거리두기 단계 이달말 근본 개편\"",
         "link": "http://yna.kr/AKR20201009042800530?did=1195m"
     },
     {
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/09/2020100990023.html"
     },
     {
-        "title": "정부 “확진자 동선 장소 기준으로 공개…성별·나이는 미공개”",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015092752&code=61121911&cp=nv"
+        "title": "돌연사한 부산 간호조무사 관련 확진자 13명으로 늘어",
+        "link": "http://www.hani.co.kr/arti/area/yeongnam/965158.html"
     },
     {
-        "title": "가정방문 수액주사 관련 확진자 13명…서울·울산 등 타 지역 확산",
-        "link": "https://www.news1.kr/articles/?4082212"
-    },
-    {
-        "title": "이틀째 확진자 두자릿 수...\"현 거리두기 체계는 개편 예정\"",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010091457157410"
+        "title": "WHO \"전 세계 코로나 신규 확진 34만명 육박…하루 기준 최대\"",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/09/2020100900480.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ];
