@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Clashes erupt between ultra-Orthodox and police, youth set fire to city",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
-        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
+        "title": "Coronavirus live news: France sets daily record 20,000 cases; Australian state of Victoria reports 14 new infections",
+        "link": "https://www.theguardian.com/world/live/2020/oct/10/coronavirus-live-news-france-sets-daily-record-20000-cases-australian-state-of-victoria-reports-14-new-infections"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/h_5ee0256c6c6a49f79438983abc07a1b3"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "China Becomes Largest Economy To Join WHO-Backed Global COVID-19 Vaccine Initiative",
-        "link": "https://www.yahoo.com/news/china-becomes-largest-economy-join-034417894.html"
+        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
+        "link": "https://www.bbc.com/news/world-europe-54478320"
     }
 ];

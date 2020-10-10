@@ -21,14 +21,6 @@ var koreaNewsData = [
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
     },
     {
-        "title": "WHO “전세계 코로나19 신규 확진자 35만명”…또 하루 최다치 경신",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998798?division=NAVER"
-    },
-    {
-        "title": "[속보]코로나19 신규확진 72명...사흘째 두 자릿수",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000222899"
-    },
-    {
         "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
     },
@@ -39,5 +31,13 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 54명, 이틀째 두자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
+    },
+    {
+        "title": "코로나19 전일 신규확진 72명…사흘째 두자릿수(상보)",
+        "link": "https://view.asiae.co.kr/article/2020101009534390594"
+    },
+    {
+        "title": "WHO \"코로나19 신규 확진자 35만 명\"...또 최고치 경신",
+        "link": "http://www.newsis.com/view/?id=NISX20201010_0001192440&cID=10101&pID=10100"
     }
 ];
