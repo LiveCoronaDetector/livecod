@@ -17,12 +17,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-europe-54478320"
     },
     {
-        "title": "The Latest: India's caseload nears 7 million as pace slows",
-        "link": "https://www.taiwannews.com.tw/en/news/4027266"
+        "title": "Blow in Tube and Get Covid-19 Result in a Minute: India & Israel to Launch 'Game-changer' Test Soon",
+        "link": "https://www.news18.com/news/business/blow-in-tube-and-get-covid-19-result-in-under-a-minute-india-israel-to-launch-game-changer-test-soon-2947505.html"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+    },
+    {
+        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
-    },
-    {
-        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];

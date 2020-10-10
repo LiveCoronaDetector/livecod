@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
-        "link": "https://www.insight.co.kr/news/307050"
+        "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
+        "link": "https://view.asiae.co.kr/article/2020100418144021283"
     }
 ];
