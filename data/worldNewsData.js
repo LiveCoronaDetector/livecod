@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
-        "title": "Clashes erupt between ultra-Orthodox and police, youth set fire to city",
-        "link": "https://www.jpost.com/israel-news/clashes-erupt-between-ultra-orthodox-and-police-youth-set-fire-to-city-645128"
+        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
+        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
     },
     {
         "title": "Coronavirus: Spain imposes state of emergency on Madrid",

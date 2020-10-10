@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500016&wlog_tag3=naver"
     },
     {
-        "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
+        "title": "방역당국 \"코로나19 감소세지만…거리두기 실효성 방안 마련\"",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109931102006&ref=naver"
     },
     {
-        "title": "“코로나19 감소세라지만...” 방역당국이 말하는 불안 요소 셋",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500052&wlog_tag3=naver"
+        "title": "양주 군부대서 2명 코로나19 확진…부대원 300여명 전수조사",
+        "link": "http://yna.kr/AKR20201010020900504?did=1195m"
     }
 ];
