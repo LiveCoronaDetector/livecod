@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "North Korea's Kim Jong Un again claims country has no coronavirus cases",
+        "link": "https://www.foxnews.com/world/north-korea-kim-jong-un-coronavirus-icbm"
     },
     {
         "title": "Live Covid-19 Global Updates: The Latest News",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
-        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
+        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
     },
     {
-        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
-        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
+        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];
