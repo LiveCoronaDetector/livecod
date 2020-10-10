@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://www.insight.co.kr/news/307050"
     },
     {
-        "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
-        "link": "http://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700012.html"
+        "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
+        "link": "https://view.asiae.co.kr/article/2020100418144021283"
     }
 ];

@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-10-20-intl/index.html"
+        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
+        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
