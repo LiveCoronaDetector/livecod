@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7892202,
-        "사망자수": 218604,
-        "완치자수": 5057814
+        "확진자수": 7893170,
+        "사망자수": 218620,
+        "완치자수": 5058351
     },
     {
         "Name": "인도",
@@ -174,7 +174,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 320478,
         "사망자수": 9687,
-        "완치자수": 269500
+        "완치자수": 271800
     },
     {
         "Name": "파키스탄",
@@ -204,9 +204,9 @@ var marker = [
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "확진자수": 177998,
-        "사망자수": 9586,
-        "완치자수": 149420
+        "확진자수": 178117,
+        "사망자수": 9585,
+        "완치자수": 149524
     },
     {
         "Name": "네덜란드",
@@ -268,9 +268,9 @@ var marker = [
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "확진자수": 118054,
-        "사망자수": 2463,
-        "완치자수": 94391
+        "확진자수": 118841,
+        "사망자수": 2474,
+        "완치자수": 94962
     },
     {
         "Name": "도미니카 공화국",
@@ -508,9 +508,9 @@ var marker = [
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "확진자수": 47316,
-        "사망자수": 1012,
-        "완치자수": 29976
+        "확진자수": 48275,
+        "사망자수": 1045,
+        "완치자수": 30643
     },
     {
         "Name": "Ghana",
@@ -908,7 +908,7 @@ var marker = [
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "확진자수": 6319,
+        "확진자수": 6483,
         "사망자수": 77,
         "완치자수": 2199
     },
@@ -988,7 +988,7 @@ var marker = [
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "확진자수": 5062,
+        "확진자수": 5063,
         "사망자수": 83,
         "완치자수": 4894
     },
@@ -1004,9 +1004,9 @@ var marker = [
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "확진자수": 5004,
+        "확진자수": 5018,
         "사망자수": 106,
-        "완치자수": 4794
+        "완치자수": 4816
     },
     {
         "Name": "Rwanda",
@@ -1209,20 +1209,20 @@ var marker = [
         "완치자수": 1723
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "확진자수": 2254,
+        "사망자수": 60,
+        "완치자수": 1516
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "확진자수": 2251,
         "사망자수": 49,
         "완치자수": 1917
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "확진자수": 2241,
-        "사망자수": 60,
-        "완치자수": 1506
     },
     {
         "Name": "Yemen",
@@ -1244,9 +1244,9 @@ var marker = [
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "확진자수": 1907,
+        "확진자수": 1921,
         "사망자수": 49,
-        "완치자수": 1426
+        "완치자수": 1433
     },
     {
         "Name": "New Zealand",
@@ -1308,7 +1308,7 @@ var marker = [
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "확진자수": 921,
+        "확진자수": 922,
         "사망자수": 15,
         "완치자수": 890
     },
@@ -1420,7 +1420,7 @@ var marker = [
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "확진자수": 412,
+        "확진자수": 466,
         "사망자수": 8,
         "완치자수": 309
     },
@@ -1553,20 +1553,20 @@ var marker = [
         "완치자수": 70
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "확진자수": 65,
+        "사망자수": 0,
+        "완치자수": 37
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "확진자수": 64,
         "사망자수": 0,
         "완치자수": 64
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "확진자수": 62,
-        "사망자수": 0,
-        "완치자수": 37
     },
     {
         "Name": "마카오",

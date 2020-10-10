@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
+        "title": "Coronavirus: Why are infections rising again in US?",
+        "link": "https://www.bbc.com/news/election-us-2020-54423928"
     },
     {
         "title": "Trump warns Iran not to 'f--k around' with United States during 'Rush Limbaugh Show' appearance",
