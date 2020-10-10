@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100418144021283"
     },
     {
-        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
-        "link": "https://www.hankyung.com/life/article/2020100723567"
+        "title": "25만 추캉스족 제주 입도…코로나19 확진자 없어",
+        "link": "http://www.newsis.com/view/?id=NISX20201003_0001185294&cID=10813&pID=10800"
     }
 ];
