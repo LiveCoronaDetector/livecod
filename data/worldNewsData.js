@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Several regions sound alarm as US reports most Covid-19 daily cases in nearly 2 months",
-        "link": "https://www.cnn.com/2020/10/10/health/us-coronavirus-saturday/index.html"
+        "title": "'He became a hero': Bolsonaro sees popularity surge as Covid-19 spreads",
+        "link": "https://www.theguardian.com/global-development/2020/oct/10/jair-bolsonaro-brazil-coronavirus-aid"
     },
     {
-        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
-        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
+        "title": "Iran tightens COVID-19 curbs as infections continue to rise",
+        "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
     },
     {
         "title": "Coronavirus: Spain imposes state of emergency on Madrid",
