@@ -13,8 +13,8 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5936362_32640.html"
     },
     {
-        "title": "코로나19 72명 신규확진…지역발생 61명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
+        "title": "[속보] 코로나19 어제 72명 신규확진···사흘째 두 자릿수, 지역발생 61명",
+        "link": "https://www.sedaily.com/NewsView/1Z92SISO60"
     },
     {
         "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
@@ -23,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
-    },
-    {
-        "title": "강릉 16번째 코로나19 확진자 발생…도내 누적 확진자 225명으로 늘어",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100900009"
     },
     {
         "title": "병원發 집단감염에 확진자 증가…신규확진 72명, 국내발생 61명(종합2보)",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[속보] 코로나19 신규 확진자 54명, 이틀째 두자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
+    },
+    {
+        "title": "코로나 신규확진 72명…국내 발생 61명·해외유입 11명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090001.html"
     }
 ];

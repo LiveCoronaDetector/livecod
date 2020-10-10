@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/clashes-erupt-between-ultra-orthodox-and-police-youth-set-fire-to-city-645128"
     },
     {
-        "title": "Coronavirus: Spain declares emergency in Madrid as Berlin emerges as hotspot",
-        "link": "https://www.theguardian.com/world/2020/oct/09/coronavirus-spain-declares-emergency-in-madrid-as-berlin-emerges-as-hotspot"
+        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
+        "link": "https://www.bbc.com/news/world-europe-54478320"
     },
     {
         "title": "India's Covid-19 Outbreak Spreads Through Rural Areas",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Pfizer trying to defuse critics amid push for vaccine before Election Day",
+        "link": "https://www.politico.com/news/2020/10/09/coronavirus-vaccine-pfizer-election-day-428371"
     },
     {
-        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
-        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
         "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     }
 ];
