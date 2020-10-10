@@ -5,8 +5,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201010020951504?did=1195m"
     },
     {
-        "title": "강릉 16번 확진자, 서울 도봉구 확진자 접촉…접촉자 수십명(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201010_0001192728&cID=10805&pID=10800"
+        "title": "[2보]강릉서 코로나19 확진자 2명 잇따라 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100900019"
+    },
+    {
+        "title": "강릉서 코로나19 확진자 1명 발생…접촉자 다수(종합)",
+        "link": "http://yna.kr/AKR20201010029551062?did=1195m"
     },
     {
         "title": "강릉서 13일 만에 코로나19 확진자 발생",
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
     },
     {
-        "title": "“의료기관·지인모임 고리로 수도권·부산 코로나19 확산”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998815?division=NAVER"
+        "title": "코로나19 72명 신규확진…지역발생 61명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
     },
     {
-        "title": "“코로나19 감소세라지만...” 방역당국이 말하는 불안 요소 셋",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500052&wlog_tag3=naver"
-    },
-    {
-        "title": "울먹인 김정은 \"남녘, 코로나 극복해 손 맞잡자\" [전문]",
-        "link": "https://www.hankyung.com/politics/article/2020101038987"
+        "title": "`의료·지인모임` 등 수도권·부산 코로나19 확진자 증가",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109931102004&ref=naver"
     }
 ];

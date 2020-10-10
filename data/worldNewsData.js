@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
+        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
+        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
+        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+    },
+    {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
-    },
-    {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
-    },
-    {
-        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
-        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
     }
 ];
