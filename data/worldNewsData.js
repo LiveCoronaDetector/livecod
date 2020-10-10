@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
+        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];

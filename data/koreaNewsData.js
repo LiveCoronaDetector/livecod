@@ -5,24 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201010049551062?did=1195m"
     },
     {
-        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
-    },
-    {
         "title": "강릉서 13일 만에 코로나19 확진자 발생",
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4305220"
     },
     {
+        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
         "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
-    },
-    {
-        "title": "“코로나19 감소세라지만...” 방역당국이 말하는 불안 요소 셋",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500052&wlog_tag3=naver"
-    },
-    {
-        "title": "울먹인 김정은 \"남녘, 코로나 극복해 손 맞잡자\" [전문]",
-        "link": "https://www.hankyung.com/politics/article/2020101038987"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
@@ -31,6 +23,14 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 하루 신규 확진자 35만명\"…최고치 또 경신",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090022.html"
+    },
+    {
+        "title": "“코로나19 감소세라지만...” 방역당국이 말하는 불안 요소 셋",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500052&wlog_tag3=naver"
+    },
+    {
+        "title": "울먹인 김정은 \"남녘, 코로나 극복해 손 맞잡자\" [전문]",
+        "link": "https://www.hankyung.com/politics/article/2020101038987"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
