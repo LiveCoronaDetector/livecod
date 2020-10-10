@@ -217,6 +217,14 @@ var marker = [
         "완치자수": 0
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "확진자수": 148981,
+        "사망자수": 10151,
+        "완치자수": 20072
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
@@ -239,14 +247,6 @@ var marker = [
         "확진자수": 145848,
         "사망자수": 12175,
         "완치자수": 120511
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "확진자수": 143596,
-        "사망자수": 10126,
-        "완치자수": 19981
     },
     {
         "Name": "Bolivia",
@@ -1177,6 +1177,14 @@ var marker = [
         "완치자수": 1322
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "확진자수": 2427,
+        "사망자수": 35,
+        "완치자수": 1487
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
@@ -1191,14 +1199,6 @@ var marker = [
         "확진자수": 2385,
         "사망자수": 40,
         "완치자수": 1728
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "확진자수": 2373,
-        "사망자수": 34,
-        "완치자수": 1459
     },
     {
         "Name": "Sierra Leone",
@@ -1329,20 +1329,20 @@ var marker = [
         "완치자수": 651
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "확진자수": 703,
+        "사망자수": 22,
+        "완치자수": 622
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "확진자수": 699,
         "사망자수": 48,
         "완치자수": 623
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "확진자수": 699,
-        "사망자수": 22,
-        "완치자수": 620
     },
     {
         "Name": "Turks and Caicos",

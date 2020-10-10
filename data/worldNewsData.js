@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
         "title": "Clashes erupt between ultra-Orthodox and police, youth set fire to city",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
+        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
+        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
+    },
+    {
         "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54478320"
-    },
-    {
-        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     }
 ];
