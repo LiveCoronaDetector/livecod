@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
-        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
+        "title": "Spain invokes state of emergency to re-impose partial Covid lockdown in Madrid",
+        "link": "https://www.youtube.com/watch?v=muUXca__-sU"
     }
 ];
