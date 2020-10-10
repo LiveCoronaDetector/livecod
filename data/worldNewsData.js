@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
-        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
+        "title": "Several regions sound alarm as US reports most Covid-19 daily cases in nearly 2 months",
+        "link": "https://www.cnn.com/2020/10/10/health/us-coronavirus-saturday/index.html"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
-        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
-    },
-    {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     },
     {
-        "title": "UN: New daily record as COVID-19 cases hit more than 350,000",
-        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-8829cb4a56f09c43cdb74da0143f283a"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
+    },
+    {
+        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
     }
 ];
