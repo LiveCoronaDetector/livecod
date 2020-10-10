@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/wisconsin-is-battling-americas-worst-coronavirus-outbreak-and-the-states-broken-politics-is-partially-to-blame-143650745.html"
     },
     {
-        "title": "Iran tightens COVID-19 curbs as infections continue to rise",
-        "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
+        "title": "Coronavirus: Israel readies for first steps toward exiting lockdown",
+        "link": "https://www.jpost.com/israel-news/coronavirus-israel-readies-for-first-steps-toward-exiting-lockdown-645271"
     },
     {
         "title": "Germany tightens COVID-19 restrictions as numbers surge in Europe",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/north-korea-kim-jong-un-coronavirus-icbm"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-10-20-intl/index.html"
-    },
-    {
         "title": "Live Covid-19 Global Updates: The Latest News",
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
+        "title": "Operation Warp Speed COVID-19 Vaccine Contract Terms Unknown : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/10/10/922617939/call-for-administrations-covid-19-vaccine-contracts-to-be-disclosed"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     }
 ];
