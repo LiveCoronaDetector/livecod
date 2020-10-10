@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020100723567"
     },
     {
-        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
-        "link": "https://www.insight.co.kr/news/307050"
-    },
-    {
         "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
+    },
+    {
+        "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
+        "link": "https://www.insight.co.kr/news/307050"
     },
     {
         "title": "[巨與국감]국내 80세 이상 코로나19 확진자 치명율 ‘21.4%’",
