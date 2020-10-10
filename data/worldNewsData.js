@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
+        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
+    },
+    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
         "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
         "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
-    },
-    {
-        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];
