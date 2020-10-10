@@ -9,16 +9,16 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010082051550395"
     },
     {
+        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
         "title": "\"확진자 늘든지 말든지\" 한글날 연휴, 제주에 10만명 '우르르'",
         "link": "http://news.mt.co.kr/mtview.php?no=2020100816431315583"
     },
     {
         "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
         "link": "http://www.fnnews.com/news/202010091058299724"
-    },
-    {
-        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
         "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
@@ -29,12 +29,12 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
     },
     {
-        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
-        "link": "https://www.hankyung.com/life/article/2020100723567"
-    },
-    {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
+        "link": "https://www.hankyung.com/life/article/2020100723567"
     },
     {
         "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",

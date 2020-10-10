@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "With more than 1 million dead, who have been the victims of the coronavirus pandemic?",
-        "link": "https://www.wsws.org/en/articles/2020/10/10/mill-o10.html"
+        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     },
     {
-        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
-        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];

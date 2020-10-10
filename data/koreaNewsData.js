@@ -13,16 +13,16 @@ var koreaNewsData = [
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4305220"
     },
     {
+        "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
+        "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
+    },
+    {
         "title": "“코로나19 감소세라지만...” 방역당국이 말하는 불안 요소 셋",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500052&wlog_tag3=naver"
     },
     {
         "title": "울먹인 김정은 \"남녘, 코로나 극복해 손 맞잡자\" [전문]",
         "link": "https://www.hankyung.com/politics/article/2020101038987"
-    },
-    {
-        "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
-        "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
