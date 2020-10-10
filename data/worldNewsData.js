@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://theconversation.com/covid-19-examining-theories-for-africas-low-death-rates-147393"
     },
     {
-        "title": "'He became a hero': Bolsonaro sees popularity surge as Covid-19 spreads",
-        "link": "https://www.theguardian.com/global-development/2020/oct/10/jair-bolsonaro-brazil-coronavirus-aid"
+        "title": "Wisconsin is battling America's worst coronavirus outbreak, and the state's broken politics are partly to blame",
+        "link": "https://news.yahoo.com/wisconsin-is-battling-americas-worst-coronavirus-outbreak-and-the-states-broken-politics-is-partially-to-blame-143650745.html"
     },
     {
         "title": "Iran tightens COVID-19 curbs as infections continue to rise",
@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/10/germany-tightens-covid-19-restrictions-as-numbers-surge-in-europe"
     },
     {
-        "title": "Blow in Tube and Get Covid-19 Result in a Minute: India & Israel to Launch 'Game-changer' Test Soon",
-        "link": "https://www.news18.com/news/business/blow-in-tube-and-get-covid-19-result-in-under-a-minute-india-israel-to-launch-game-changer-test-soon-2947505.html"
+        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
+        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
-    },
-    {
         "title": "Live Covid-19 Global Updates: The Latest News",
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     },
     {
-        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
+        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
+        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     }
 ];
