@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
-        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
-        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
+        "title": "Clashes erupt between ultra-Orthodox and police, youth set fire to city",
+        "link": "https://www.jpost.com/israel-news/clashes-erupt-between-ultra-orthodox-and-police-youth-set-fire-to-city-645128"
     },
     {
         "title": "Coronavirus: Spain declares emergency in Madrid as Berlin emerges as hotspot",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
-        "title": "Covax: Covid vaccine global effort gets China's support",
-        "link": "https://www.theguardian.com/world/2020/oct/09/covax-vaccine-global-effort-gets-chinas-support"
-    },
-    {
-        "title": "Coronavirus cases spike to 50000 cases a day as COVID-19 fatigue sets in",
-        "link": "https://www.youtube.com/watch?v=l-pxJDULUfI"
-    },
-    {
-        "title": "Spanish government imposes state of emergency in virus-hit Madrid",
-        "link": "https://www.foxnews.com/world/spanish-govt-state-of-emergency-madrid-coronavirus"
-    },
-    {
         "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
     },
     {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+    },
+    {
         "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-09-20-intl/h_5ee0256c6c6a49f79438983abc07a1b3"
+    },
+    {
+        "title": "China Becomes Largest Economy To Join WHO-Backed Global COVID-19 Vaccine Initiative",
+        "link": "https://www.yahoo.com/news/china-becomes-largest-economy-join-034417894.html"
     }
 ];
