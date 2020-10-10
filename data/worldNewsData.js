@@ -5,12 +5,12 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
-        "title": "Coronavirus: Why are infections rising again in US?",
-        "link": "https://www.bbc.com/news/election-us-2020-54423928"
+        "title": "Canada at a tipping point in fight against coronavirus, says frustrated Prime Minister Trudeau",
+        "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
-        "title": "Clashes erupt between ultra-Orthodox and police, youth set fire to city",
-        "link": "https://www.jpost.com/israel-news/clashes-erupt-between-ultra-orthodox-and-police-youth-set-fire-to-city-645128"
+        "title": "Leading Iranian human rights advocate freed from prison amid fear of contracting coronavirus behind bars",
+        "link": "https://www.washingtonpost.com/world/2020/10/08/narges-mohammadi-released-from-prison-iran-coronavirus-human-rights-death-penalty/"
     },
     {
         "title": "Coronavirus: Spain imposes state of emergency on Madrid",
