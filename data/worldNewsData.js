@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/us-health-coronavirus-canada/canada-at-a-tipping-point-in-fight-against-coronavirus-says-frustrated-prime-minister-trudeau-idUSKBN26U202"
     },
     {
-        "title": "Coronavirus: Iran sets new record for deaths amid 'third wave'",
-        "link": "https://www.bbc.com/news/54452509"
+        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
+        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
         "title": "Coronavirus: Spain imposes state of emergency on Madrid",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "Pfizer trying to defuse critics amid push for vaccine before Election Day",
-        "link": "https://www.politico.com/news/2020/10/09/coronavirus-vaccine-pfizer-election-day-428371"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+    },
+    {
+        "title": "Coronavirus update: WHO warns of record single-day rise in global COVID-19 cases, while northeastern U.S. states heat up again",
+        "link": "https://www.marketwatch.com/story/coronavirus-update-who-warns-of-record-rise-in-global-covid-19-cases-in-a-single-day-and-northeastern-us-is-heating-up-again-2020-10-09"
     }
 ];

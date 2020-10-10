@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
     },
     {
-        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
-        "link": "https://www.hankyung.com/life/article/2020100723567"
-    },
-    {
         "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
+    },
+    {
+        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
+        "link": "https://www.hankyung.com/life/article/2020100723567"
     },
     {
         "title": "\"다시 두 자릿수\"···어제(7일) 코로나19 확진자 69명 발생",
