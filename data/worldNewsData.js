@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
     },
     {
-        "title": "Coronavirus: Berlin's first curfew in 70 years kicks in",
-        "link": "https://www.dw.com/en/new-berlin-coronavirus-restrictions-curfew/a-55226645"
+        "title": "Germany tightens COVID-19 restrictions as numbers surge in Europe",
+        "link": "https://www.aljazeera.com/news/2020/10/10/germany-tightens-covid-19-restrictions-as-numbers-surge-in-europe"
     },
     {
         "title": "Blow in Tube and Get Covid-19 Result in a Minute: India & Israel to Launch 'Game-changer' Test Soon",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
+        "title": "Live Covid-19 Global Updates: The Latest News",
+        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus: Health experts join global anti-lockdown movement",
-        "link": "https://www.bbc.com/news/health-54442386"
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+    },
+    {
+        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
+        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];

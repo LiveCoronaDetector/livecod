@@ -5,20 +5,8 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201010029500062?did=1195m"
     },
     {
-        "title": "[2보]강릉서 코로나19 확진자 2명 잇따라 발생",
-        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100900019"
-    },
-    {
-        "title": "강릉서 또 코로나19 확진자…하루에 2명(종합)",
-        "link": "http://yna.kr/AKR20201010049551062?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
         "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
-    },
-    {
-        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
@@ -27,6 +15,18 @@ var koreaNewsData = [
     {
         "title": "WHO \"코로나19 하루 신규 확진자 35만명\"…최고치 또 경신",
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090022.html"
+    },
+    {
+        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
+    },
+    {
+        "title": "[2보]강릉서 코로나19 확진자 2명 잇따라 발생",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100900019"
+    },
+    {
+        "title": "강릉서 또 코로나19 확진자…하루에 2명(종합)",
+        "link": "http://yna.kr/AKR20201010049551062?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",

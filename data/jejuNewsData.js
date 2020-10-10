@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
-        "link": "https://www.hankyung.com/life/article/2020100723567"
-    },
-    {
         "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
         "link": "https://view.asiae.co.kr/article/2020100418144021283"
+    },
+    {
+        "title": "\"장관 남편도 여행가는데…나는 제주도라도 가야겠다\" [신현보의 딥데이터]",
+        "link": "https://www.hankyung.com/life/article/2020100723567"
     }
 ];
