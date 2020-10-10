@@ -21,8 +21,12 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5936362_32640.html"
     },
     {
-        "title": "서울 코로나19 신규 확진 25명…사흘째 20명대",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998801?division=NAVER"
+        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
+    },
+    {
+        "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
+        "link": "http://yna.kr/AKR20201010025400004?did=1195m"
     },
     {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500016&wlog_tag3=naver"
     },
     {
-        "title": "방역당국 \"코로나19 감소세지만…거리두기 실효성 방안 마련\"",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109931102006&ref=naver"
-    },
-    {
-        "title": "양주 군부대서 2명 코로나19 확진…부대원 300여명 전수조사",
-        "link": "http://yna.kr/AKR20201010020900504?did=1195m"
+        "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
     }
 ];
