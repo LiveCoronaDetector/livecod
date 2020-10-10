@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
     },
     {
-        "title": "병원發 집단감염에 확진자 증가…신규확진 72명, 국내발생 61명(종합2보)",
-        "link": "http://www.newsis.com/view/?id=NISX20201010_0001192542&cID=10201&pID=10200"
-    },
-    {
         "title": "전세계 코로나19 일일 신규 확진자 35만 명 넘어…하루 기록 경신",
         "link": "https://imnews.imbc.com/news/2020/world/article/5936362_32640.html"
-    },
-    {
-        "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
-        "link": "http://yna.kr/AKR20201010025400004?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
     },
     {
         "title": "코로나19 72명 신규확진…지역발생 61명",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
     },
     {
+        "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
+        "link": "http://yna.kr/AKR20201010025400004?did=1195m"
+    },
+    {
         "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
     },
     {
-        "title": "확진자 3일 연속 100명 아래…수도권에 '집중'(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01308726625931608"
+        "title": "강릉 16번째 코로나19 확진자 발생…도내 누적 확진자 225명으로 늘어",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220100900009"
     },
     {
-        "title": "[속보] 코로나19 신규 확진자 54명, 이틀째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
+        "title": "병원發 집단감염에 확진자 증가…신규확진 72명, 국내발생 61명(종합2보)",
+        "link": "http://www.newsis.com/view/?id=NISX20201010_0001192542&cID=10201&pID=10200"
+    },
+    {
+        "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
+    },
+    {
+        "title": "[전문] 성북구청 341번째 확진자 발생...다나병원",
+        "link": "http://www.dailygrid.net/news/articleView.html?idxno=383608"
     }
 ];

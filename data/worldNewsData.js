@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
+        "title": "Coronavirus: Spain declares emergency in Madrid as Berlin emerges as hotspot",
+        "link": "https://www.theguardian.com/world/2020/oct/09/coronavirus-spain-declares-emergency-in-madrid-as-berlin-emerges-as-hotspot"
+    },
+    {
         "title": "Covid-19 Global News: Live Tracker",
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
         "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
         "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
-    },
-    {
-        "title": "Today Tonight: Spanish govt declares 15 days state of emergency to curb COVID-19 spread",
-        "link": "https://www.youtube.com/watch?v=Cjg3GKoiIyI"
     }
 ];
