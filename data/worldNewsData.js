@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/08/world/asia/india-covid-19-rural.html"
     },
     {
-        "title": "Coronavirus live news: France sets daily record 20,000 cases; Australian state of Victoria reports 14 new infections",
-        "link": "https://www.theguardian.com/world/live/2020/oct/10/coronavirus-live-news-france-sets-daily-record-20000-cases-australian-state-of-victoria-reports-14-new-infections"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
-    },
-    {
         "title": "Coronavirus: Spain imposes state of emergency on Madrid",
         "link": "https://www.bbc.com/news/world-europe-54478320"
+    },
+    {
+        "title": "China Joins WHO-Led Global Coronavirus Vaccine Effort As U.S. Sits It Out",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/09/922150504/china-joins-who-led-global-coronavirus-vaccine-effort-as-u-s-sits-it-out"
     }
 ];
