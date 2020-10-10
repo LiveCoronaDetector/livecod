@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
     },
     {
-        "title": "New COVID-19 cases surge across US, Europe",
-        "link": "https://www.foxbusiness.com/lifestyle/new-covid-19-cases-surge-across-us-europe"
+        "title": "Coronavirus: Berlin's first curfew in 70 years kicks in",
+        "link": "https://www.dw.com/en/new-berlin-coronavirus-restrictions-curfew/a-55226645"
     },
     {
         "title": "Blow in Tube and Get Covid-19 Result in a Minute: India & Israel to Launch 'Game-changer' Test Soon",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
-        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
-    },
-    {
         "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
         "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
+    },
+    {
+        "title": "Coronavirus: Health experts join global anti-lockdown movement",
+        "link": "https://www.bbc.com/news/health-54442386"
     }
 ];
