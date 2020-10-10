@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
     },
     {
+        "title": "강릉서 코로나19 확진자 발생",
+        "link": "http://yna.kr/AKR20201010029500062?did=1195m"
+    },
+    {
         "title": "전세계 코로나19 일일 신규 확진자 35만 명 넘어…하루 기록 경신",
         "link": "https://imnews.imbc.com/news/2020/world/article/5936362_32640.html"
     },
     {
-        "title": "[속보] 코로나19 어제 72명 신규확진···사흘째 두 자릿수, 지역발생 61명",
-        "link": "https://www.sedaily.com/NewsView/1Z92SISO60"
+        "title": "서울 코로나19 신규 확진 25명…사흘째 20명대",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998801?division=NAVER"
     },
     {
-        "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
-        "link": "http://yna.kr/AKR20201010025400004?did=1195m"
+        "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
+    },
+    {
+        "title": "코로나 신규확진 72명, 전날 휴일에도 확진자 증가",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500016&wlog_tag3=naver"
     },
     {
         "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201010_0001192542&cID=10201&pID=10200"
     },
     {
-        "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
-    },
-    {
         "title": "[속보] 코로나19 신규 확진자 54명, 이틀째 두자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
-    },
-    {
-        "title": "코로나 신규확진 72명…국내 발생 61명·해외유입 11명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090001.html"
     }
 ];

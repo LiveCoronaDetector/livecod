@@ -500,9 +500,9 @@ var marker = [
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "확진자수": 48617,
-        "사망자수": 1077,
-        "완치자수": 44097
+        "확진자수": 48924,
+        "사망자수": 1082,
+        "완치자수": 44227
     },
     {
         "Name": "Paraguay",
@@ -1326,7 +1326,7 @@ var marker = [
         "Name_en": "Diamond Princess",
         "확진자수": 712,
         "사망자수": 13,
-        "완치자수": 651
+        "완치자수": 659
     },
     {
         "Name": "Sint Maarten",
