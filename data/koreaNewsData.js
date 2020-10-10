@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201010034651530?did=1195m"
     },
     {
-        "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
-        "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
-    },
-    {
         "title": "강릉서 코로나19 확진자 발생…도내 13일 만에",
         "link": "http://www.newsis.com/view/?id=NISX20201010_0001192603&cID=10805&pID=10800"
     },
     {
-        "title": "코로나19 신규확진 72명…검사 건수 대비 양성률 급등[종합]",
-        "link": "https://www.hankyung.com/society/article/2020101030957"
+        "title": "코로나19 신규 확진자 72명…사흘째 두자릿수",
+        "link": "http://www.hani.co.kr/arti/society/rights/965214.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
+        "link": "http://www.inews24.com/view/1305927"
     },
     {
         "title": "전세계 코로나19 일일 신규 확진자 35만 명 넘어…하루 기록 경신",
