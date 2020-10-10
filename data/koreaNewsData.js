@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201010020951504?did=1195m"
     },
     {
+        "title": "강릉 16번 확진자, 서울 도봉구 확진자 접촉…접촉자 수십명(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201010_0001192728&cID=10805&pID=10800"
+    },
+    {
         "title": "`의료·지인모임` 등 수도권·부산 코로나19 확진자 증가",
         "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109931102004&ref=naver"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "서울 코로나19 신규 확진 25명…사흘째 20명대",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998801?division=NAVER"
-    },
-    {
-        "title": "코로나 확진자 트럼프 대중연설 나선다…전문가들 위험천만",
-        "link": "https://www.news1.kr/articles/?4082454"
     }
 ];
