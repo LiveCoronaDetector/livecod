@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.inews24.com/view/1305927"
     },
     {
-        "title": "WHO \"코로나19 하루 신규 확진자 35만명\"…최고치 또 경신",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090022.html"
-    },
-    {
         "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
+    },
+    {
+        "title": "WHO \"코로나19 하루 신규 확진자 35만명\"…최고치 또 경신",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090022.html"
     },
     {
         "title": "[2보]강릉서 코로나19 확진자 2명 잇따라 발생",

@@ -5,24 +5,24 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "Wisconsin is battling America's worst coronavirus outbreak, and the state's broken politics are partly to blame",
-        "link": "https://news.yahoo.com/wisconsin-is-battling-americas-worst-coronavirus-outbreak-and-the-states-broken-politics-is-partially-to-blame-143650745.html"
+        "title": "'He became a hero': Bolsonaro sees popularity surge as Covid-19 spreads",
+        "link": "https://www.theguardian.com/global-development/2020/oct/10/jair-bolsonaro-brazil-coronavirus-aid"
     },
     {
         "title": "Coronavirus: Israel readies for first steps toward exiting lockdown",
         "link": "https://www.jpost.com/israel-news/coronavirus-israel-readies-for-first-steps-toward-exiting-lockdown-645271"
     },
     {
-        "title": "Germany tightens COVID-19 restrictions as numbers surge in Europe",
-        "link": "https://www.aljazeera.com/news/2020/10/10/germany-tightens-covid-19-restrictions-as-numbers-surge-in-europe"
+        "title": "French coronavirus cases set new 24-hour record with nearly 27,000 infections",
+        "link": "https://www.france24.com/en/20201010-french-coronavirus-cases-set-new-24-hour-record-with-nearly-27-000-infections"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "North Korea's Kim Jong Un again claims country has no coronavirus cases",
-        "link": "https://www.foxnews.com/world/north-korea-kim-jong-un-coronavirus-icbm"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
         "title": "Live Covid-19 Global Updates: The Latest News",
