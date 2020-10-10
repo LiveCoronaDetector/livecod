@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
     },
     {
-        "title": "[전문] 성북구청 341번째 확진자 발생...다나병원",
-        "link": "http://www.dailygrid.net/news/articleView.html?idxno=383608"
+        "title": "[속보] 코로나19 신규 확진자 54명, 이틀째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010090939001&code=940100"
     }
 ];
