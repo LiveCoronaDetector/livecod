@@ -21,12 +21,12 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010091058299724"
     },
     {
-        "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
-    },
-    {
         "title": "'추캉스'에 25만명 찾은 제주, 확진자는 '제로'",
         "link": "https://view.asiae.co.kr/article/2020100317540796929"
+    },
+    {
+        "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
     },
     {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
