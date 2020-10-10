@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "Pfizer trying to defuse critics amid push for vaccine before Election Day",
-        "link": "https://www.politico.com/news/2020/10/09/coronavirus-vaccine-pfizer-election-day-428371"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
         "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+    },
+    {
+        "title": "UN: New daily record as COVID-19 cases hit more than 350,000",
+        "link": "https://apnews.com/article/virus-outbreak-archive-united-nations-8829cb4a56f09c43cdb74da0143f283a"
     }
 ];

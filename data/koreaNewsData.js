@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201010_0001192728&cID=10805&pID=10800"
     },
     {
-        "title": "`의료·지인모임` 등 수도권·부산 코로나19 확진자 증가",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109931102004&ref=naver"
-    },
-    {
         "title": "강릉서 13일 만에 코로나19 확진자 발생",
         "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=4305220"
     },
@@ -29,12 +25,16 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090022.html"
     },
     {
+        "title": "“의료기관·지인모임 고리로 수도권·부산 코로나19 확산”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998815?division=NAVER"
+    },
+    {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
     },
     {
-        "title": "코로나19 72명 신규확진…지역발생 61명",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
+        "title": "코로나 신규확진 72명, 전날 휴일에도 확진자 증가",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500016&wlog_tag3=naver"
     },
     {
         "title": "서울 코로나19 신규 확진 25명…사흘째 20명대",
