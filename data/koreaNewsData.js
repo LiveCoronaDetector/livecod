@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5936362_32640.html"
     },
     {
-        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
-    },
-    {
-        "title": "서울 신규 확진자 사흘째 20명대…누계 5천510명",
-        "link": "http://yna.kr/AKR20201010025400004?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 72명…사흘째 두 자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022348&ref=A"
     },
     {
-        "title": "코로나 신규확진 72명, 전날 휴일에도 확진자 증가",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201010500016&wlog_tag3=naver"
+        "title": "코로나19 72명 신규확진…지역발생 61명",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998799?division=NAVER"
     },
     {
-        "title": "양주 군부대서 2명 코로나19 확진…부대원 전수조사",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2020101002109957607002&ref=naver"
+        "title": "강릉서 16번째 코로나19 확진자 발생…강원 225명(종합)",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1419597"
+    },
+    {
+        "title": "서울 코로나19 신규 확진 25명…사흘째 20명대",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998801?division=NAVER"
+    },
+    {
+        "title": "코로나 신규확진 72명…국내 발생 61명·해외유입 11명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/10/2020101090001.html"
     }
 ];
