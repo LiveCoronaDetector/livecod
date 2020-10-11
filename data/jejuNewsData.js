@@ -29,15 +29,15 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
     },
     {
-        "title": "\"확진자 늘든지 말든지\" 한글날 연휴, 제주에 10만명 '우르르'",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020100816431315583"
-    },
-    {
         "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
         "link": "http://www.fnnews.com/news/202010091058299724"
     },
     {
         "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+    },
+    {
+        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
+        "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     }
 ];

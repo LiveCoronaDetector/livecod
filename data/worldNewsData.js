@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "French coronavirus cases set new 24-hour record with nearly 27,000 infections",
-        "link": "https://www.france24.com/en/20201010-french-coronavirus-cases-set-new-24-hour-record-with-nearly-27-000-infections"
+        "title": "QAnon Is Thriving in Germany. The Extreme Right Is Delighted.",
+        "link": "https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html"
     },
     {
         "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
     },
     {
-        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
-        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
+        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    },
+    {
+        "title": "Spain invokes state of emergency to re-impose partial Covid lockdown in Madrid",
+        "link": "https://www.youtube.com/watch?v=muUXca__-sU"
     }
 ];
