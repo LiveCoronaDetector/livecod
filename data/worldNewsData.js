@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "U.S. COVID-19 cases hit two-month high, 10 states report record increases",
-        "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
+        "title": "Covid-19 cases spike in US, with unwelcome testing and hospitalization trends",
+        "link": "https://www.vox.com/coronavirus-covid19/2020/10/11/21511641/covid-19-us-cases-update-testing-deaths-hospitalizations"
     },
     {
         "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/av/world-asia-54486121"
     },
     {
-        "title": "Covid: Australia in talks over quarantine-free travel",
-        "link": "https://www.bbc.com/news/world-australia-54499478"
+        "title": "Can we trust Chinese Covid-19 science?",
+        "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
+    },
+    {
+        "title": "Would herd immunity stop the spread of coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     }
 ];
