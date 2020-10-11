@@ -5,6 +5,10 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
+        "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
+        "link": "https://news.joins.com/article/olink/23485689"
+    },
+    {
         "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
         "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "추석연휴 제주 28만여 명 입도···신규확진자는 無",
-        "link": "https://view.asiae.co.kr/article/2020100418144021283"
     }
 ];
