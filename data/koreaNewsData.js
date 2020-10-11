@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
     },
     {
+        "title": "코로나19 신규 확진자 58명…나흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/965250.html"
+    },
+    {
         "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
         "link": "http://yna.kr/AKR20201011024500004?did=1195m"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "[단독]폭발물 신고 출동 경찰, 하필 둘러댄 게 \"코로나 방역\"",
         "link": "https://news.joins.com/article/olink/23485739"
-    },
-    {
-        "title": "코로나19 신규 확진자 58명…나흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/965250.html"
     },
     {
         "title": "코로나19 신규 확진자 58명…서울 19명·경기 18명",

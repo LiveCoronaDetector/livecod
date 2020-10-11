@@ -17,6 +17,10 @@ var jejuNewsData = [
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
     },
     {
+        "title": "한글날 연휴, 제주도 북적북적",
+        "link": "http://news.mk.co.kr/newsRead.php?no=1038679&year=2020"
+    },
+    {
         "title": "한글날 연휴 제주 10만명 출렁…코로나19 감염 없어",
         "link": "https://www.nocutnews.co.kr/news/5426056"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
-    },
-    {
-        "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
-        "link": "http://www.fnnews.com/news/202010091058299724"
     }
 ];
