@@ -9,16 +9,16 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     },
     {
-        "title": "Coronavirus: Israel readies for first steps toward exiting lockdown",
-        "link": "https://www.jpost.com/israel-news/coronavirus-israel-readies-for-first-steps-toward-exiting-lockdown-645271"
+        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
+        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
         "title": "French coronavirus cases set new 24-hour record with nearly 27,000 infections",
         "link": "https://www.france24.com/en/20201010-french-coronavirus-cases-set-new-24-hour-record-with-nearly-27-000-infections"
     },
     {
-        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
-        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
     {
-        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
-        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/oct/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];

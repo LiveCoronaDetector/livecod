@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23485689"
     },
     {
+        "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
+        "link": "http://www.fnnews.com/news/202010111225076069"
+    },
+    {
         "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
     },
@@ -17,8 +21,8 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
-        "title": "제주도, 자가격리 무단이탈 해외입국자 형사고발",
-        "link": "http://www.fnnews.com/news/202010082051550395"
+        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
     },
     {
         "title": "\"확진자 늘든지 말든지\" 한글날 연휴, 제주에 10만명 '우르르'",
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
-    },
-    {
-        "title": "서울시민 \"코로나 종식 후 해외여행 가고 싶다\"",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526625931280"
     },
     {
         "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
