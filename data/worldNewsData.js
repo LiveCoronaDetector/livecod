@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     },
     {
-        "title": "Coronavirus: Israel readies for first steps toward exiting lockdown",
-        "link": "https://www.jpost.com/israel-news/coronavirus-israel-readies-for-first-steps-toward-exiting-lockdown-645271"
+        "title": "Iran tightens COVID-19 curbs as infections continue to rise",
+        "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
     },
     {
         "title": "French coronavirus cases set new 24-hour record with nearly 27,000 infections",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "Operation Warp Speed COVID-19 Vaccine Contract Terms Unknown : Shots - Health News",
-        "link": "https://www.npr.org/sections/health-shots/2020/10/10/922617939/call-for-administrations-covid-19-vaccine-contracts-to-be-disclosed"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
         "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
         "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+    },
+    {
+        "title": "Paris hospitals postpone non-essential operations – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/08/coronavirus-live-news-brazil-cases-pass-5m-trump-calls-catching-covid-a-blessing-in-disguise"
     }
 ];
