@@ -5,8 +5,8 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
     },
     {
-        "title": "코로나19 신규 확진자 58명…나흘 연속 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/965250.html"
+        "title": "코로나19 신규 확진자 58명…서울 19명·경기 18명",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
     },
     {
         "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
@@ -17,6 +17,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010111527156887"
     },
     {
+        "title": "코로나19 신규 확진자 58명…나흘 연속 두 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/965250.html"
+    },
+    {
         "title": "대전서 ‘추석 연휴 모임’ 일가족 7명 코로나 확진",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101101077.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23485739"
     },
     {
-        "title": "코로나19 신규 확진자 58명…서울 19명·경기 18명",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
         "link": "https://www.ytn.co.kr/_ln/0103_202010111002161823"
     },
     {
-        "title": "[단독] UAE 원전 ‘코로나 비상’…한국인 확진자 발생 ‘쉬쉬’",
-        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015096568&code=61121111&cp=nv"
+        "title": "가족·확진자 접촉·깜깜이 감염 여전…서울 오늘 최소 22명 확진(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201011_0001193223&cID=10801&pID=14000"
     },
     {
-        "title": "코로나 거리두기 1단계로 완화 \"확산세 억제, 국민 피로감 고려\"",
-        "link": "https://www.nocutnews.co.kr/news/5426062"
+        "title": "[단독] UAE 원전 ‘코로나 비상’…한국인 확진자 발생 ‘쉬쉬’",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015096568&code=61121111&cp=nv"
     }
 ];
