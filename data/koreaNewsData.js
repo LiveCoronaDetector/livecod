@@ -13,6 +13,10 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010111527156887"
     },
     {
+        "title": "대전서 ‘추석 연휴 모임’ 일가족 7명 코로나 확진",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101101077.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[단독]폭발물 신고 출동 경찰, 하필 둘러댄 게 \"코로나 방역\"",
         "link": "https://news.joins.com/article/olink/23485739"
     },
@@ -33,11 +37,7 @@ var koreaNewsData = [
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015096568&code=61121111&cp=nv"
     },
     {
-        "title": "中 동방항공, 서울·상하이 노선 일주일 중단… 코로나19 확진자 8명 나와",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101100044.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "코로나19 신규확진자 58명… 사흘째 두 자릿수 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101100126.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나 거리두기 1단계로 완화 \"확산세 억제, 국민 피로감 고려\"",
+        "link": "https://www.nocutnews.co.kr/news/5426062"
     }
 ];
