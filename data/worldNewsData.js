@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
+        "title": "Operation Warp Speed COVID-19 Vaccine Contract Terms Unknown : Shots - Health News",
+        "link": "https://www.npr.org/sections/health-shots/2020/10/10/922617939/call-for-administrations-covid-19-vaccine-contracts-to-be-disclosed"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
