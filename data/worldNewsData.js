@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
     },
     {
-        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
-        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
+        "title": "Iran tightens COVID-19 curbs as infections continue to rise",
+        "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
     },
     {
-        "title": "Spain's PM defends Covid emergency lockdown in Madrid",
-        "link": "https://www.theguardian.com/world/2020/oct/11/spain-pm-sanchez-defends-covid-emergency-lockdown-in-madrid"
+        "title": "QAnon Is Thriving in Germany. The Extreme Right Is Delighted.",
+        "link": "https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds",
-        "link": "https://www.bbc.com/news/av/world-asia-54486121"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
         "title": "Covid: Australia in talks over quarantine-free travel",
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
+        "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
-        "title": "Covid-19 Live Updates: Trump Calls His Aggressive, Experimental Treatment ‘Pretty Routine’",
-        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+        "title": "Amateur hour at the Trump White House",
+        "link": "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "President's physician: Trump no longer a coronavirus transmission risk",
-        "link": "https://www.youtube.com/watch?v=6l2MpO0FszA"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];
