@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
     },
     {
-        "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
-        "link": "http://yna.kr/AKR20201011024500004?did=1195m"
-    },
-    {
         "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
         "link": "https://www.ytn.co.kr/_ln/0103_202010111002161823"
     },
     {
-        "title": "코로나19 신규확진자 58명… 사흘째 두 자릿수 발생",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101100126.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
+        "link": "http://yna.kr/AKR20201011024500004?did=1195m"
     },
     {
         "title": "인도, 코로나 누적 확진자 700만명 넘어서",
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
     },
     {
+        "title": "코로나19 신규확진자 58명… 사흘째 두 자릿수 발생",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101100126.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[종합] 코로나19 확진자 군부대, 지인 모임, 의료기관 중심으로 산발적 발생",
         "link": "http://www.fnnews.com/news/202010111447220086"
     },
     {
-        "title": "코로나 거리두기 1단계로 완화 \"확산세 억제, 국민 피로감 고려\"",
-        "link": "https://www.nocutnews.co.kr/news/5426062"
+        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
     }
 ];

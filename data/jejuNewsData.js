@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://www.nocutnews.co.kr/news/5426056"
     },
     {
+        "title": "제주 한글날 연휴에도 코로나 확진자 발생 없어",
+        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=152143"
+    },
+    {
         "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "'한글날 연휴' 공항 북적...코로나 지역 방역 고비",
         "link": "http://www.fnnews.com/news/202010091058299724"
-    },
-    {
-        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
     }
 ];

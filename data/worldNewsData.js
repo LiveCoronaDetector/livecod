@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "QAnon Is Thriving in Germany. The Extreme Right Is Delighted.",
-        "link": "https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html"
+        "title": "French coronavirus cases set new 24-hour record with nearly 27,000 infections",
+        "link": "https://www.france24.com/en/20201010-french-coronavirus-cases-set-new-24-hour-record-with-nearly-27-000-infections"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds",
-        "link": "https://www.bbc.com/news/av/world-asia-54486121"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
         "title": "Can we trust Chinese Covid-19 science?",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
     {
-        "title": "Would herd immunity stop the spread of coronavirus?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
-    },
-    {
-        "title": "White House Doctor Says Trump Is No Longer Contagious",
-        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
+        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
+        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
+        "link": "https://www.theguardian.com/world/ng-interactive/2020/oct/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     }
 ];
