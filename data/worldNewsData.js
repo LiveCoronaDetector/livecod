@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
     },
     {
-        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
-        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
+        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
+        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
     },
     {
         "title": "Spain's PM defends Covid emergency lockdown in Madrid",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+    },
+    {
+        "title": "Amateur hour at the Trump White House",
+        "link": "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
