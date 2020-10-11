@@ -9,16 +9,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
+        "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010111002161823"
     },
     {
         "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
         "link": "http://yna.kr/AKR20201011024500004?did=1195m"
-    },
-    {
-        "title": "코로나19 신규 확진자 58명...오늘 거리두기 단계 조정안 발표",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010111151142486"
     },
     {
         "title": "인도 코로나19 누적 확진자 700만명 넘어",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "강릉서 코로나19 확진자 발생",
         "link": "http://yna.kr/AKR20201010029500062?did=1195m"
+    },
+    {
+        "title": "코로나 거리두기 1단계로 완화 \"확산세 억제, 국민 피로감 고려\"",
+        "link": "https://www.nocutnews.co.kr/news/5426062"
     }
 ];

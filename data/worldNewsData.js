@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "Can we trust Chinese Covid-19 science?",
+        "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
     },
     {
-        "title": "Covid-19 Live Updates: White House Doctor Says Trump Is No Longer Contagious",
-        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
+        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
+        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Would herd immunity stop the spread of coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
     },
     {
-        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
-        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];
