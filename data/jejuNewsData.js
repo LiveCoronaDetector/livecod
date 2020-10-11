@@ -5,12 +5,12 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
-        "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
-        "link": "https://news.joins.com/article/olink/23485689"
-    },
-    {
         "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
         "link": "http://www.fnnews.com/news/202010111225076069"
+    },
+    {
+        "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
+        "link": "https://news.joins.com/article/olink/23485689"
     },
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",

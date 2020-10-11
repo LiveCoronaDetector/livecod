@@ -17,8 +17,8 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html"
     },
     {
-        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
-        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
+        "title": "Covid: India's coronavirus outbreak in 200 seconds",
+        "link": "https://www.bbc.com/news/av/world-asia-54486121"
     },
     {
         "title": "Can we trust Chinese Covid-19 science?",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
     },
     {
-        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
-        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+        "title": "White House Doctor Says Trump Is No Longer Contagious",
+        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
