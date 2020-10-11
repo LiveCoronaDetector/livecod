@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/spain-pm-sanchez-defends-covid-emergency-lockdown-in-madrid"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds",
-        "link": "https://www.bbc.com/news/av/world-asia-54486121"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
         "title": "Can we trust Chinese Covid-19 science?",
         "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
     },
     {
-        "title": "Would herd immunity stop the spread of coronavirus?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
-    },
-    {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+        "title": "Global economic recovery from Covid pandemic is fragile and patchy",
+        "link": "https://www.ft.com/content/7ecf6885-68f7-44a9-b3de-e9ce7c8b2fb0"
     }
 ];
