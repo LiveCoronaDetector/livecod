@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
     },
     {
-        "title": "Spain's PM defends Covid emergency lockdown in Madrid",
-        "link": "https://www.theguardian.com/world/2020/oct/11/spain-pm-sanchez-defends-covid-emergency-lockdown-in-madrid"
+        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
+        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds",
-        "link": "https://www.bbc.com/news/av/world-asia-54486121"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
-        "title": "Covid virus ‘survives for 28 days’ in lab conditions",
-        "link": "https://www.bbc.com/news/health-54500673"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
