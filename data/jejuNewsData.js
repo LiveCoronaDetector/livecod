@@ -13,6 +13,10 @@ var jejuNewsData = [
         "link": "http://www.fnnews.com/news/202010111225076069"
     },
     {
+        "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
+    },
+    {
         "title": "한글날 연휴 제주 10만명 출렁…코로나19 감염 없어",
         "link": "https://www.nocutnews.co.kr/news/5426056"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
-    },
-    {
-        "title": "제주도, 수도권 방문 이력 유증상자 코로나19 검사 무료 지원",
-        "link": "https://www.pressian.com/pages/articles/2020100618413141990?utm_source=naver&utm_medium=search"
     }
 ];

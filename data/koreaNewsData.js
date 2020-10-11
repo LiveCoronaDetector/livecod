@@ -13,8 +13,12 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201011024500004?did=1195m"
     },
     {
-        "title": "[종합] 코로나19 확진자 군부대, 지인 모임, 의료기관 중심으로 산발적 발생",
-        "link": "http://www.fnnews.com/news/202010111447220086"
+        "title": "인도, 코로나 누적 확진자 700만명 넘어서",
+        "link": "http://www.fnnews.com/news/202010111527156887"
+    },
+    {
+        "title": "전국 곳곳서 이어지는 코로나...의정부 마스터플러스병원, 대전 가족모임 등서...",
+        "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
     },
     {
         "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
@@ -25,19 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/11/2020101100126.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "인도, 코로나19 누적 확진자 700만명 돌파···미국 넘어설 듯",
-        "link": "https://www.sedaily.com/NewsView/1Z9395P3L8"
-    },
-    {
         "title": "[단독] UAE 원전 ‘코로나 비상’…한국인 확진자 발생 ‘쉬쉬’",
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015096568&code=61121111&cp=nv"
     },
     {
-        "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998818?division=NAVER"
+        "title": "[속보] 전북 150번째 확진자 발생…추석 안양 본가 다녀온 대학생",
+        "link": "https://www.news1.kr/articles/?4082864"
     },
     {
-        "title": "강릉서 코로나19 확진자 발생",
-        "link": "http://yna.kr/AKR20201010029500062?did=1195m"
+        "title": "[종합] 코로나19 확진자 군부대, 지인 모임, 의료기관 중심으로 산발적 발생",
+        "link": "http://www.fnnews.com/news/202010111447220086"
     }
 ];
