@@ -13,16 +13,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965250.html"
     },
     {
-        "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
-        "link": "http://yna.kr/AKR20201011024500004?did=1195m"
-    },
-    {
         "title": "대전서 추석 연휴 모임 일가족 7명 코로나19 확진…\"경로 조사\"(종합)",
         "link": "http://yna.kr/AKR20201011011951063?did=1195m"
     },
     {
-        "title": "전국 곳곳서 이어지는 코로나...의정부 마스터플러스병원, 대전 가족모임 등서...",
-        "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
+        "title": "서울 코로나19 신규 확진자 23명… 나흘째 20명대",
+        "link": "https://view.asiae.co.kr/article/2020101111251652738"
     },
     {
         "title": "일본 코로나 신규 확진 400명대…누적 9만명 넘어서",
@@ -31,6 +27,10 @@ var koreaNewsData = [
     {
         "title": "인도, 코로나 누적 확진자 700만명 넘어서",
         "link": "http://www.fnnews.com/news/202010111527156887"
+    },
+    {
+        "title": "전국 곳곳서 이어지는 코로나...의정부 마스터플러스병원, 대전 가족모임 등서...",
+        "link": "https://www.sedaily.com/NewsView/1Z9394Z9TE"
     },
     {
         "title": "미 코로나19 일일 확진자 나흘연속 5만명 넘겨",
