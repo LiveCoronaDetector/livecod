@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds",
-        "link": "https://www.bbc.com/news/av/world-asia-54486121"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
-        "title": "Can we trust Chinese Covid-19 science?",
-        "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Would herd immunity stop the spread of coronavirus?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
-        "title": "President's physician: Trump no longer a coronavirus transmission risk",
-        "link": "https://www.youtube.com/watch?v=6l2MpO0FszA"
+        "title": "White House Doctor Says Trump Is No Longer Contagious",
+        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
     },
     {
-        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
-        "link": "https://www.bbc.com/news/world-europe-54478320"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];

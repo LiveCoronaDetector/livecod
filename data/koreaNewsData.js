@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010111447220086"
     },
     {
-        "title": "대전서 추석 연휴 모임 일가족 7명 코로나19 확진…\"경로 조사\"(종합)",
-        "link": "http://yna.kr/AKR20201011011951063?did=1195m"
-    },
-    {
         "title": "미 코로나19 일일 확진자 나흘연속 5만명 넘겨",
         "link": "https://imnews.imbc.com/news/2020/world/article/5937700_32640.html"
+    },
+    {
+        "title": "코로나19 강릉 16번째 확진자 가족과 친구도 확진",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220101000006"
     }
 ];
