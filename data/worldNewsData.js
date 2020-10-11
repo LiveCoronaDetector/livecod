@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
+        "title": "U.S. COVID-19 cases hit two-month high, 10 states report record increases",
+        "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
     },
     {
-        "title": "President's physician: Trump no longer a coronavirus transmission risk",
-        "link": "https://www.youtube.com/watch?v=6l2MpO0FszA"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
+        "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
     },
     {
-        "title": "As New York City’s Covid-19 Lockdown Nears, Confusion and Anger Reign",
-        "link": "https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+    },
+    {
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];
