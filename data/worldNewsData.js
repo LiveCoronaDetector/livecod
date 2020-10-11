@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+        "title": "Covid-19 Live Updates: Trump Calls His Aggressive, Experimental Treatment ‘Pretty Routine’",
+        "link": "https://www.nytimes.com/2020/10/11/world/offering-few-details-the-white-house-doctor-says-trump-is-no-longer-contagious.html"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
         "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
-        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
+        "title": "Coronavirus: Spain imposes state of emergency on Madrid",
+        "link": "https://www.bbc.com/news/world-europe-54478320"
     }
 ];
