@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/av/world-asia-54486121"
     },
     {
-        "title": "Can we trust Chinese Covid-19 science?",
-        "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
