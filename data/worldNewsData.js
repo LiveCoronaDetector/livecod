@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
     },
     {
-        "title": "Iran tightens COVID-19 curbs as infections continue to rise",
-        "link": "https://www.aljazeera.com/news/2020/10/10/iran-tightens-covid-19-rules-as-infections-continue-to-surge"
+        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
+        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
         "title": "QAnon Is Thriving in Germany. The Extreme Right Is Delighted.",
@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
+        "title": "Coronavirus update: Latest news from around the world",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
-        "title": "Amateur hour at the Trump White House",
-        "link": "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
+        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     }
 ];
