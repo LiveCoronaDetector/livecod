@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
+        "title": "U.S. COVID-19 cases hit two-month high, 10 states report record increases",
+        "link": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN26V0GE"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
@@ -25,8 +25,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
     },
     {
-        "title": "White House Doctor Says Trump Is No Longer Contagious",
-        "link": "https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus"
+        "title": "Trump Prepares To Rally Despite COVID-19 Result | 10 News First",
+        "link": "https://www.youtube.com/watch?v=8leLGWjVtg0"
+    },
+    {
+        "title": "President's physician: Trump no longer a coronavirus transmission risk",
+        "link": "https://www.youtube.com/watch?v=6l2MpO0FszA"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",
@@ -35,9 +39,5 @@ var worldNewsData = [
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
-    },
-    {
-        "title": "Herd immunity letter signed by fake experts including 'Dr Johnny Bananas'",
-        "link": "https://www.theguardian.com/world/2020/oct/09/herd-immunity-letter-signed-fake-experts-dr-johnny-bananas-covid"
     }
 ];

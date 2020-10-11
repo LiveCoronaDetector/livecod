@@ -13,20 +13,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965250.html"
     },
     {
-        "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010111002161823"
-    },
-    {
         "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
         "link": "http://yna.kr/AKR20201011024500004?did=1195m"
     },
     {
-        "title": "인도, 코로나 누적 확진자 700만명 넘어서",
-        "link": "http://www.fnnews.com/news/202010111527156887"
-    },
-    {
-        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
+        "title": "대전서 추석 연휴 모임 일가족 7명 코로나19 확진…\"경로 조사\"(종합)",
+        "link": "http://yna.kr/AKR20201011011951063?did=1195m"
     },
     {
         "title": "전국 곳곳서 이어지는 코로나...의정부 마스터플러스병원, 대전 가족모임 등서...",
@@ -37,7 +29,15 @@ var koreaNewsData = [
         "link": "http://yna.kr/AKR20201011064800073?did=1195m"
     },
     {
-        "title": "\"코로나 확진자 나왔으니 한국행 노선 중단하라\" 중국 `내로남불` 논란",
-        "link": "http://news.mk.co.kr/newsRead.php?no=1038279&year=2020"
+        "title": "인도, 코로나 누적 확진자 700만명 넘어서",
+        "link": "http://www.fnnews.com/news/202010111527156887"
+    },
+    {
+        "title": "미 코로나19 일일 확진자 나흘연속 5만명 넘겨",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5937700_32640.html"
+    },
+    {
+        "title": "[단독]폭발물 신고 출동 경찰, 하필 둘러댄 게 \"코로나 방역\"",
+        "link": "https://news.joins.com/article/olink/23485739"
     }
 ];
