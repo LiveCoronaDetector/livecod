@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
     {
-        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/oct/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
-    },
-    {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+    },
+    {
+        "title": "A Coronavirus Vaccine Could Kill Half A Million Sharks, Conservationists Warn",
+        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/10/922398246/a-coronavirus-vaccine-could-kill-half-a-million-sharks-conservationists-warn"
     }
 ];

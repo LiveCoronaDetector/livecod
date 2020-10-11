@@ -13,12 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965250.html"
     },
     {
-        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
+        "title": "[속보] 서울 신규 확진자 나흘째 20명대…누계 5,533명",
+        "link": "https://view.asiae.co.kr/article/2020101111234349607"
     },
     {
-        "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",
-        "link": "http://yna.kr/AKR20201011024500004?did=1195m"
+        "title": "코로나19 신규 확진자 58명...오늘 거리두기 단계 조정안 발표",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010111151142486"
+    },
+    {
+        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
     },
     {
         "title": "양주 육군부대 코로나19 확진자 4명으로 증가…감염경로 파악 안돼",
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "[종합] 코로나19 확진자 나흘째 100명 미만...58명 증가, 서울 19명, 경기 18...",
         "link": "http://www.fnnews.com/news/202010110935486308"
-    },
-    {
-        "title": "코로나19 신규 확진자 58명...오늘 거리두기 단계 조정안 발표",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010111151142486"
     }
 ];
