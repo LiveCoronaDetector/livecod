@@ -17,12 +17,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/spain-pm-sanchez-defends-covid-emergency-lockdown-in-madrid"
     },
     {
-        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
-        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
+        "title": "Covid: India's coronavirus outbreak in 200 seconds",
+        "link": "https://www.bbc.com/news/av/world-asia-54486121"
     },
     {
-        "title": "Can we trust Chinese Covid-19 science?",
-        "link": "https://www.theguardian.com/science/2020/oct/11/china-coronavirus-covid-19-medical-research"
+        "title": "Covid virus ‘survives for 28 days’ in lab conditions",
+        "link": "https://www.bbc.com/news/health-54500673"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "Global economic recovery from Covid pandemic is fragile and patchy",
-        "link": "https://www.ft.com/content/7ecf6885-68f7-44a9-b3de-e9ce7c8b2fb0"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     }
 ];
