@@ -33,11 +33,11 @@ var jejuNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     },
     {
-        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
-    },
-    {
         "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
         "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
+    },
+    {
+        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
     }
 ];
