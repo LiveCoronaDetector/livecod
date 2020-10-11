@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
     },
     {
-        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
-    },
-    {
         "title": "코로나19 신규 확진자 58명…나흘 연속 두 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/965250.html"
+    },
+    {
+        "title": "코로나19 신규 확진자 58명…나흘째 두자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010111041001&code=940601"
     },
     {
         "title": "서울 신규 확진자 나흘째 20명대…누계 5천533명",

@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     },
     {
-        "title": "White House Blocked C.D.C. From Mandating Masks on Public Transit",
-        "link": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus"
+        "title": "Covid-19 cases in the US expected to surge in November and December, medical expert says",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-10-20-intl/h_ee973f276add6144d912b15e41ca0de7"
     },
     {
-        "title": "Paris hospitals postpone non-essential operations – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/08/coronavirus-live-news-brazil-cases-pass-5m-trump-calls-catching-covid-a-blessing-in-disguise"
+        "title": "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
+        "link": "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html"
     }
 ];
