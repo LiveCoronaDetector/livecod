@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/index.html"
     },
     {
+        "title": "Would herd immunity stop the spread of coronavirus?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/would-herd-immunity-stop-the-spread-of-coronavirus"
+    },
+    {
         "title": "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative",
         "link": "https://www.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
         "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
-    },
-    {
-        "title": "Covid vaccine tracker: when will a coronavirus vaccine be ready?",
-        "link": "https://www.theguardian.com/world/ng-interactive/2020/oct/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready"
     }
 ];
