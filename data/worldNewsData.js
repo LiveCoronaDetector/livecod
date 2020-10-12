@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
-        "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "China's Qingdao orders city-wide COVID-19 testing following new infections",
+        "link": "https://news.yahoo.com/mainland-china-reports-21-covid-004943058.html"
+    },
+    {
+        "title": "Virus that causes Covid-19 can survive up to 28 days on surfaces, scientists find",
+        "link": "https://www.theguardian.com/world/2020/oct/12/virus-that-causes-covid-19-can-survive-up-to-28-days-on-surfaces-scientists-find"
     }
 ];

@@ -1604,7 +1604,7 @@ var marker = [
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
-        "확진자수": 28,
+        "확진자수": 29,
         "사망자수": 0,
         "완치자수": 28
     },

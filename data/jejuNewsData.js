@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020101278367"
     },
     {
+        "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2173003"
+    },
+    {
         "title": "[단독] 재택근무일에 제주도 여행, 노트북까지 속일순 없었다",
         "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "추석‧한글날 연휴 40만명 다녀간 제주 확진자 ‘0명’",
         "link": "https://hankookilbo.com/News/Read/A2020101210590002247?did=NA"
-    },
-    {
-        "title": "제주렌트카 업계 “코로나19 거리두기 1단계에도 철저 소독관리”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];
