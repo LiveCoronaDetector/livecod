@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
+        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
+        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
         "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
+    },
+    {
         "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
         "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
-    },
-    {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     }
 ];

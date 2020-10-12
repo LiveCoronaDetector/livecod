@@ -5,6 +5,10 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
+        "link": "https://news.joins.com/article/olink/23486182"
+    },
+    {
         "title": "[속보]文대통령 \"코로나, 방역의 통제 속에 둘 수 있다\"",
         "link": "http://www.fnnews.com/news/202010121434230336"
     },
@@ -19,10 +23,6 @@ var koreaNewsData = [
     {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101201220.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
-        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
-        "link": "https://news.joins.com/article/olink/23486182"
     },
     {
         "title": "중국 57일만에 확진자 발생",
