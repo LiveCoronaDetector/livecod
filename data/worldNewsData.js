@@ -13,7 +13,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
+        "title": "Coronavirus live news: 'the second wave is here,' says French PM; Italy plans new social curbs",
         "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "COVID-19: What you need to know about the coronavirus pandemic on 12 October",
-        "link": "https://www.weforum.org/agenda/2020/10/covid-19-what-you-need-to-know-about-the-coronavirus-pandemic-on-12-october/"
-    },
-    {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/h_8112e7e2fb67855d02e4580a136ec63a"
     },
     {
         "title": "China to test entire city in 'five days' after six virus cases",

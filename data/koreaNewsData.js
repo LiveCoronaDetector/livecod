@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101201220.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
         "title": "[속보]文대통령 \"방역 완화, 코로나 통제 자신감에 근거한 것\"",
         "link": "https://www.sedaily.com/NewsView/1Z93QMTEBT"
     },
@@ -29,15 +33,11 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625932264"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
-    },
-    {
         "title": "대전서 어린이집 집단 감염 등 하루새 확진자 13명 발생",
         "link": "https://www.pressian.com/pages/articles/2020101212510550454?utm_source=naver&utm_medium=search"
     },
     {
-        "title": "내일부터 독감 백신 무료접종…\"코로나19와 예방수칙 동일\"(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03378406625932264"
+        "title": "강릉 코로나 확진자 6명 잇따라 발생…거리두기 2단계 지속",
+        "link": "http://www.kwnews.co.kr/nview.asp?aid=220101100159"
     }
 ];
