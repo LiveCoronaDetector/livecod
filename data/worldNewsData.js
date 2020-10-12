@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Mainland China reports 21 new COVID-19 cases",
-        "link": "https://www.arabnews.com/node/1747181/world"
-    },
-    {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
@@ -37,7 +33,11 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+        "title": "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
+        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+    },
+    {
+        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
     }
 ];
