@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
-        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
+        "title": "Coronavirus in Israel: Death toll rises over 2,000",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
         "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Covid-19 cases surging in Europe, triggering tightening restrictions",
-        "link": "https://www.nbcnews.com/news/world/covid-19-cases-surging-europe-triggering-tightening-restrictions-n1242911"
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     }
 ];

@@ -17,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
-    },
-    {
         "title": "코로나 잠복기 2주인데…중국 57일 만에 신규 확진 미스터리",
         "link": "http://news.mt.co.kr/mtview.php?no=2020101215474447706"
+    },
+    {
+        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
+        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
     },
     {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
