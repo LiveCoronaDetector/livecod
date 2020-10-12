@@ -29,8 +29,8 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
+        "title": "Coronavirus cases surge in center of US",
+        "link": "https://www.youtube.com/watch?v=fVBdhLWTHKw"
     },
     {
         "title": "Covid-19 Live Updates: Global Tracker",
