@@ -13,10 +13,6 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
     },
     {
-        "title": "코로나 잠복기 2주인데…중국 57일 만에 신규 확진 미스터리",
-        "link": "http://news.mt.co.kr/mtview.php?no=2020101215474447706"
-    },
-    {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101201220.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
+    },
+    {
+        "title": "코로나 국내 신규 확진 97명… 국내발생 68명·해외유입 29명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/10/12/2020101200853.html"
     }
 ];
