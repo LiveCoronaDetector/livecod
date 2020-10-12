@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
-        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
+        "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
+        "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "This Scary New COVID Symptom Worries Doctors",
-        "link": "https://www.yahoo.com/lifestyle/scary-covid-symptom-worries-doctors-141721853.html"
+        "title": "Covid-19 cases surging in Europe, triggering tightening restrictions",
+        "link": "https://www.nbcnews.com/news/world/covid-19-cases-surging-europe-triggering-tightening-restrictions-n1242911"
     }
 ];
