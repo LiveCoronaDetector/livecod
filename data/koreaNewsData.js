@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
-    },
-    {
         "title": "KDI \"코로나 재확산으로 경기부진 계속\"",
         "link": "http://www.fnnews.com/news/202010121131523384"
     },
@@ -21,12 +17,12 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
     },
     {
-        "title": "중국 57일만에 본토 확진자… 칭다오서 12명 양성(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193534&cID=10101&pID=10100"
-    },
-    {
         "title": "중국 57일만에 확진자 발생",
         "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
+    },
+    {
+        "title": "중국, 국경절 끝나자 57일만에 코로나 확진자…칭다오 12명 양성",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625932264"
     },
     {
         "title": "코로나19 어제 신규확진자 97명…지역발생만 68명",
@@ -37,7 +33,11 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23486182"
     },
     {
-        "title": "대전서 어린이집 집단 감염 등 하루새 확진자 13명 발생",
-        "link": "https://www.pressian.com/pages/articles/2020101212510550454?utm_source=naver&utm_medium=search"
+        "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
+    },
+    {
+        "title": "코로나 잠복기 2주인데…중국 57일 만에 신규 확진 미스터리",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020101215474447706"
     }
 ];
