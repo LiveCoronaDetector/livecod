@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
-        "link": "https://www.cnn.com/2020/10/12/europe/europe-restrictions-covid-intl/index.html"
+        "title": "Coronavirus live news: 'the second wave is here,' says French PM; Italy plans new social curbs",
+        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
         "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/h_8112e7e2fb67855d02e4580a136ec63a"
-    },
-    {
-        "title": "China to test entire city in 'five days' after six virus cases",
-        "link": "https://www.msn.com/en-us/news/world/china-to-test-entire-city-in-five-days-after-six-virus-cases/ar-BB19VD84?li=BBnbcA1"
-    },
-    {
         "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
+    },
+    {
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+    },
+    {
+        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
     }
 ];

@@ -5,12 +5,20 @@ var jejuNewsData = [
         "link": "https://www.ytn.co.kr/_ln/0103_202010121450075385"
     },
     {
+        "title": "“관광객 46만명에 코로나 0” 제주 추석·한글날 고비 넘겼다",
+        "link": "https://www.chosun.com/national/regional/jeju/2020/10/12/VS6M56R7KVA6BI7HTWJPSRHEXI/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "추석·한글날 연휴 46만명 제주 다녀갔지만…확진자 '제로'",
         "link": "https://www.hankyung.com/life/article/2020101278367"
     },
     {
         "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2173003"
+    },
+    {
+        "title": "추석‧한글날 연휴 40만명 다녀간 제주 확진자 ‘0명’",
+        "link": "https://hankookilbo.com/News/Read/A2020101210590002247?did=NA"
     },
     {
         "title": "[단독] 재택근무일에 제주도 여행, 노트북까지 속일순 없었다",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
-    },
-    {
-        "title": "추석‧한글날 연휴 40만명 다녀간 제주 확진자 ‘0명’",
-        "link": "https://hankookilbo.com/News/Read/A2020101210590002247?did=NA"
-    },
-    {
-        "title": "제주렌트카 업계 “코로나19 거리두기 1단계에도 철저 소독관리”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];
