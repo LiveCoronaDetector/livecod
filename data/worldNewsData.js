@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "COVID-19 LIVE UPDATES | SA out of the top 10 list of most Covid-19 cases in the world",
-        "link": "https://www.timeslive.co.za/news/south-africa/2020-10-12-covid-19-live-updates-worldwide-coronavirus-cases-cross-3735-million-death-toll-at-1073862/"
+        "title": "COVID-19: What you need to know about the coronavirus pandemic on 12 October",
+        "link": "https://www.weforum.org/agenda/2020/10/covid-19-what-you-need-to-know-about-the-coronavirus-pandemic-on-12-october/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
-    },
-    {
         "title": "China to test entire city in 'five days' after six virus cases",
         "link": "https://www.msn.com/en-us/news/world/china-to-test-entire-city-in-five-days-after-six-virus-cases/ar-BB19VD84?li=BBnbcA1"
+    },
+    {
+        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
+        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     }
 ];
