@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
-        "link": "https://news.joins.com/article/olink/23486182"
-    },
-    {
         "title": "[속보]文대통령 \"코로나, 방역의 통제 속에 둘 수 있다\"",
         "link": "http://www.fnnews.com/news/202010121434230336"
     },
@@ -21,12 +17,12 @@ var koreaNewsData = [
         "link": "http://news.mt.co.kr/mtview.php?no=2020101215474447706"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
-    },
-    {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101201220.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
+        "link": "https://news.joins.com/article/olink/23486182"
     },
     {
         "title": "중국 57일만에 확진자 발생",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "코로나19 어제 신규확진자 97명…지역발생만 68명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223065"
+    },
+    {
+        "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
     }
 ];

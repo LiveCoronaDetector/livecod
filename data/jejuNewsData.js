@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "추석·한글날 연휴, 제주 46만명 몰렸어도 ‘코로나 0명’진",
+        "link": "https://www.chosun.com/national/welfare-medical/2020/10/13/63MRCZIDYRE4LI3ZXJW7XNJD7M/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
         "link": "https://news.joins.com/article/olink/23485689"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
-    },
-    {
-        "title": "제주렌트카 업계 “코로나19 거리두기 1단계에도 철저 소독관리”",
-        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];
