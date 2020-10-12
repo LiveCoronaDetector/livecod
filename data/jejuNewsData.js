@@ -9,10 +9,6 @@ var jejuNewsData = [
         "link": "https://www.chosun.com/national/regional/jeju/2020/10/12/VS6M56R7KVA6BI7HTWJPSRHEXI/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "추석·한글날 연휴 46만명 제주 다녀갔지만…확진자 '제로'",
-        "link": "https://www.hankyung.com/life/article/2020101278367"
-    },
-    {
         "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2173003"
     },
@@ -39,5 +35,9 @@ var jejuNewsData = [
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
+    },
+    {
+        "title": "제주렌트카 업계 “코로나19 거리두기 1단계에도 철저 소독관리”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];

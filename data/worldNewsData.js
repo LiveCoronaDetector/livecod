@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     },
     {
-        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
-        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     }
 ];
