@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 8029041,
+        "확진자수": 8029451,
         "사망자수": 219972,
-        "완치자수": 5165950
+        "완치자수": 5166131
     },
     {
         "Name": "인도",
@@ -20,9 +20,9 @@ var marker = [
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "확진자수": 5096209,
-        "사망자수": 150555,
-        "완치자수": 4470165
+        "확진자수": 5103408,
+        "사망자수": 150689,
+        "완치자수": 4495269
     },
     {
         "Name": "러시아",
@@ -788,9 +788,9 @@ var marker = [
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "확진자수": 11022,
-        "사망자수": 69,
-        "완치자수": 10324
+        "확진자수": 11062,
+        "사망자수": 70,
+        "완치자수": 10337
     },
     {
         "Name": "Maldives",
@@ -1121,20 +1121,20 @@ var marker = [
         "완치자수": 2550
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "확진자수": 3521,
+        "사망자수": 104,
+        "완치자수": 2391
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "확진자수": 3515,
         "사망자수": 20,
         "완치자수": 853
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "확진자수": 3469,
-        "사망자수": 103,
-        "완치자수": 2318
     },
     {
         "Name": "Mali",
@@ -1321,6 +1321,14 @@ var marker = [
         "완치자수": 682
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "확진자수": 737,
+        "사망자수": 48,
+        "완치자수": 623
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -1335,14 +1343,6 @@ var marker = [
         "확진자수": 710,
         "사망자수": 22,
         "완치자수": 622
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "확진자수": 699,
-        "사망자수": 48,
-        "완치자수": 623
     },
     {
         "Name": "Turks and Caicos",
@@ -1476,9 +1476,9 @@ var marker = [
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "확진자수": 234,
+        "확진자수": 236,
         "사망자수": 2,
-        "완치자수": 209
+        "완치자수": 213
     },
     {
         "Name": "Cayman Islands",

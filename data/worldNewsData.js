@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/india-needs-to-revive-jobs-that-were-lost-to-coronavirus-pandemic.html"
     },
     {
-        "title": "Canadian detainees Spavor and Kovrig granted consular access",
-        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
+        "title": "Coronavirus back in China: Entire city of Qingdao being tested after just 12 COVID-19 cases found",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
         "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     }
 ];
