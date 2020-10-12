@@ -9,12 +9,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
-        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
+        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
+        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
-        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
+        "title": "Coronavirus digest: Germany mulls restrictions on traveling, partying",
+        "link": "https://www.dw.com/en/coronavirus-digest-germany-mulls-restrictions-on-traveling-partying/a-55238084"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
-    },
-    {
-        "title": "Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
-        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+        "title": "China's Qingdao orders city-wide COVID-19 testing following new infections",
+        "link": "https://news.yahoo.com/mainland-china-reports-21-covid-004943058.html"
     },
     {
         "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
         "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
+    },
+    {
+        "title": "WHO daily cases set new record at more than 350,000 – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
     }
 ];
