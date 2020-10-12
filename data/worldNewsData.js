@@ -17,27 +17,27 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/failures-at-austrian-ski-resort-helped-speed-up-spread-of-covid-19-in-europe"
     },
     {
-        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
-        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
+        "title": "Indian man who fasted to pray for Trump's COVID-19 recovery dies of cardiac arrest | TheHill",
+        "link": "https://thehill.com/blogs/blog-briefing-room/news/520666-indian-man-who-fasted-to-pray-for-trumps-covid-19-recovery-dies"
     },
     {
         "title": "Coronavirus back in China: Entire city of Qingdao being tested after just 12 COVID-19 cases found",
         "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
+        "title": "WHO says herd immunity strategy is 'simply unethical'",
+        "link": "https://www.nbcnews.com/health/health-news/who-says-herd-immunity-strategy-simply-unethical-n1243009"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
     },
     {
         "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
         "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     },
     {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     }
 ];

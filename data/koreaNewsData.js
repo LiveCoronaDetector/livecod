@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
     },
     {
-        "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
-        "link": "http://yna.kr/AKR20201012179200003?did=1195m"
+        "title": "중국, 국경절 끝나자 57일만에 코로나 확진자…칭다오 12명 양성",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625932264"
     },
     {
-        "title": "전북 152번 확진자 발생…전주 30대, 대전 387번과 접촉(종합)",
-        "link": "http://www.fnnews.com/news/202010130008047923"
+        "title": "코로나19 어제 신규확진자 97명…지역발생만 68명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223065"
     },
     {
-        "title": "[속보] 미국 코로나 확진자 800만명 돌파",
-        "link": "https://www.news1.kr/articles/?4084696"
+        "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
+        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
     }
 ];
