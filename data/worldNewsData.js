@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.vox.com/coronavirus-covid19/2020/10/11/21511641/covid-19-us-cases-update-testing-deaths-hospitalizations"
     },
     {
-        "title": "Netanyahu: Closure saved Israel from astronomical morbidity, mortality",
-        "link": "https://www.jpost.com/health-science/netanyahu-to-convene-pre-meeting-discussions-on-coronavirus-exit-strategy-645318"
+        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
+        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
     },
     {
         "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
@@ -25,12 +25,12 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+        "title": "Amateur hour at the Trump White House",
+        "link": "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",

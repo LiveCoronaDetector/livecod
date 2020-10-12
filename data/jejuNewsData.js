@@ -5,12 +5,20 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
+        "title": "추석·한글날 연휴 46만명 제주 찾았다…\"확진자는 없어\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010120151&t=NN"
+    },
+    {
         "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
         "link": "https://news.joins.com/article/olink/23485689"
     },
     {
         "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
         "link": "http://www.fnnews.com/news/202010111225076069"
+    },
+    {
+        "title": "[전문] 제주도 '제주형 뉴딜' 종합계획 확정 발표 기자회견문",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
     },
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
@@ -31,13 +39,5 @@ var jejuNewsData = [
     {
         "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
-    },
-    {
-        "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
-        "link": "http://www.segye.com/content/html/2020/10/03/20201003512772.html?OutUrl=naver"
-    },
-    {
-        "title": "제주도, 코로나19 자가격리 중 무단이탈 입국자 고발",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429460"
     }
 ];
