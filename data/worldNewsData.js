@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "Canada's Ambassador to China granted virtual consular access to detained Canadians",
-        "link": "https://www.cnn.com/2020/10/11/asia/canada-ambassador-china-access-spavor-kovrig-intl-hnk/index.html"
+        "title": "Canadian detainees Spavor and Kovrig granted consular access",
+        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "China's Qingdao orders city-wide COVID-19 testing following new infections",
-        "link": "https://news.yahoo.com/mainland-china-reports-21-covid-004943058.html"
+        "title": "Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
+        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
     },
     {
-        "title": "Virus that causes Covid-19 can survive up to 28 days on surfaces, scientists find",
-        "link": "https://www.theguardian.com/world/2020/oct/12/virus-that-causes-covid-19-can-survive-up-to-28-days-on-surfaces-scientists-find"
+        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
+        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
     }
 ];
