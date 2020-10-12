@@ -33,11 +33,11 @@ var koreaNewsData = [
         "link": "https://news.joins.com/article/olink/23486182"
     },
     {
-        "title": "셀트리온, 코로나19 항체치료제 ‘무증상 확진자’ 임상 시작",
-        "link": "https://www.sedaily.com/NewsView/1Z93Q6XL51"
-    },
-    {
         "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
+    },
+    {
+        "title": "셀트리온, 코로나19 항체치료제 예방임상 개시",
+        "link": "https://zdnet.co.kr/view/?no=20201012092519"
     }
 ];

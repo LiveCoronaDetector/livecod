@@ -13,12 +13,12 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23485689"
     },
     {
-        "title": "[전문] 제주도 '제주형 뉴딜' 종합계획 확정 발표 기자회견문",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
-    },
-    {
         "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
         "link": "http://www.fnnews.com/news/202010111225076069"
+    },
+    {
+        "title": "[전문] 제주도 '제주형 뉴딜' 종합계획 확정 발표 기자회견문",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
     },
     {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
