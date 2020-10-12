@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
+        "title": "Coronavirus live news: WHO warns new cases at highest level so far; 'second wave is here,' says French PM",
+        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
-        "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
-        "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
