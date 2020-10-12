@@ -21,8 +21,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "Canadian detainees Spavor and Kovrig granted consular access",
-        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
+        "title": "Canada's Ambassador to China granted virtual consular access to detained Canadians",
+        "link": "https://www.cnn.com/2020/10/11/asia/canada-ambassador-china-access-spavor-kovrig-intl-hnk/index.html"
+    },
+    {
+        "title": "Coronavirus: Liverpool faces 'tier 3' lockdown - pubs, bars and gyms expected to close",
+        "link": "https://uk.news.yahoo.com/coronavirus-liverpool-faces-tier-3-174900357.html"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
@@ -33,11 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
-        "title": "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
-        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
     }
 ];

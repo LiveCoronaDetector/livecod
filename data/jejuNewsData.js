@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020101210590002247?did=NA"
     },
     {
-        "title": "한글날 연휴 제주 10만명 출렁…코로나19 감염 없어",
-        "link": "https://www.nocutnews.co.kr/news/5426056"
+        "title": "제주렌트카 업계 \"코로나19 거리두기 1단계에도 철저 소독관리\"",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];
