@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Coronavirus in Israel: Death toll rises over 2,000",
+        "title": "As COVID-19 death toll passes 2,000, coronavirus cabinet to convene",
         "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/india-needs-to-revive-jobs-that-were-lost-to-coronavirus-pandemic.html"
     },
     {
-        "title": "China hits back at criticism over Canadian's detention",
-        "link": "https://www.youtube.com/watch?v=mFk8Sc1UUX8"
+        "title": "Canadian detainees Spavor and Kovrig granted consular access",
+        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
         "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
