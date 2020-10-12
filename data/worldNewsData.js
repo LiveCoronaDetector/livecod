@@ -13,12 +13,12 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
-        "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
-        "link": "https://www.cnn.com/2020/10/12/europe/europe-restrictions-covid-intl/index.html"
+        "title": "Failures at Austrian ski resort ‘helped speed up spread' of Covid-19 in Europe",
+        "link": "https://www.theguardian.com/world/2020/oct/12/failures-at-austrian-ski-resort-helped-speed-up-spread-of-covid-19-in-europe"
     },
     {
-        "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
-        "link": "https://www.cnbc.com/2020/10/12/india-needs-to-revive-jobs-that-were-lost-to-coronavirus-pandemic.html"
+        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
+        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
         "title": "Coronavirus back in China: Entire city of Qingdao being tested after just 12 COVID-19 cases found",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
-    },
-    {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
         "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
         "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
+    },
+    {
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     }
 ];
