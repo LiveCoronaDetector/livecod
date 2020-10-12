@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
     },
     {
+        "title": "40만 찾은 제주, 추석·한글날 연휴 코로나19 확진자 '제로'",
+        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3007681"
+    },
+    {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "한글날 연휴 제주 10만명 출렁…코로나19 감염 없어",
         "link": "https://www.nocutnews.co.kr/news/5426056"
-    },
-    {
-        "title": "제주 한글날 연휴에도 코로나 확진자 발생 없어",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=152143"
     },
     {
         "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",

@@ -9,35 +9,35 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
-        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
+        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
+        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
         "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
         "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
-        "title": "Global report: Trump no longer a Covid transmission risk, says doctor; India passes 7m cases",
-        "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
+        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
+        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "UPDATE 1-Trump, Trudeau discuss two detained Canadians; China grants virtual consular access",
-        "link": "https://ca.reuters.com/article/idUSL1N2H200C"
-    },
-    {
-        "title": "China to test entire city of Qingdao after COVID-19 cases emerge",
-        "link": "https://www.aljazeera.com/news/2020/10/12/china-to-test-entire-city-of-qingdao-after-covid-19-cases-appear"
+        "title": "Canada's Ambassador to China granted virtual consular access to detained Canadians",
+        "link": "https://www.cnn.com/2020/10/11/asia/canada-ambassador-china-access-spavor-kovrig-intl-hnk/index.html"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+    },
+    {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
+        "title": "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
+        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
     }
 ];
