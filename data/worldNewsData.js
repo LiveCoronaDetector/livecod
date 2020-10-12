@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus live news: 'the second wave is here,' says French PM; Italy plans new social curbs",
-        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
+        "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
+        "link": "https://www.cnn.com/2020/10/12/europe/europe-restrictions-covid-intl/index.html"
     },
     {
         "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
