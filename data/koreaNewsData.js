@@ -5,10 +5,6 @@ var koreaNewsData = [
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
-        "link": "https://news.joins.com/article/olink/23486182"
-    },
-    {
         "title": "KDI \"코로나 재확산으로 경기부진 계속\"",
         "link": "http://www.fnnews.com/news/202010121131523384"
     },
@@ -25,6 +21,10 @@ var koreaNewsData = [
         "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
     },
     {
+        "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
+        "link": "https://news.joins.com/article/olink/23486182"
+    },
+    {
         "title": "중국, 국경절 끝나자 57일만에 코로나 확진자…칭다오 12명 양성",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625932264"
     },
@@ -37,7 +37,7 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
+        "title": "코로나 국내 신규 확진 97명… 국내발생 68명·해외유입 29명",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/10/12/2020101200853.html"
     }
 ];

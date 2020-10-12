@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/india-needs-to-revive-jobs-that-were-lost-to-coronavirus-pandemic.html"
     },
     {
-        "title": "Canadian detainees Spavor and Kovrig granted consular access",
-        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
+        "title": "China hits back at criticism over Canadian's detention",
+        "link": "https://www.youtube.com/watch?v=mFk8Sc1UUX8"
     },
     {
         "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Covid: India's coronavirus outbreak in 200 seconds - BBC News",
-        "link": "https://www.youtube.com/watch?v=NAV3CmA5rBU"
+        "title": "This Scary New COVID Symptom Worries Doctors",
+        "link": "https://www.yahoo.com/lifestyle/scary-covid-symptom-worries-doctors-141721853.html"
     }
 ];
