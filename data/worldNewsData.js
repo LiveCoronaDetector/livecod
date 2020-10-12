@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "Covid-19 cases spike in US, with unwelcome testing and hospitalization trends",
-        "link": "https://www.vox.com/coronavirus-covid19/2020/10/11/21511641/covid-19-us-cases-update-testing-deaths-hospitalizations"
+        "title": "Canadian detained in China 'astonished' to learn about scale of Covid pandemic",
+        "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
         "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
