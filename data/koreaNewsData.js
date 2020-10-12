@@ -25,10 +25,6 @@ var koreaNewsData = [
         "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
     },
     {
-        "title": "셀트리온, 코로나19 항체치료제 예방임상 개시",
-        "link": "https://zdnet.co.kr/view/?no=20201012092519"
-    },
-    {
         "title": "코로나19 어제 신규확진자 97명…지역발생만 68명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223065"
     },
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
+    },
+    {
+        "title": "중국 57일만에 확진자 발생",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
     }
 ];

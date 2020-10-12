@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "Coronavirus cases in India top 7 million with peak nowhere in sight | DW News",
-        "link": "https://www.youtube.com/watch?v=T719EMUed9I"
+        "title": "COVID-19 LIVE UPDATES | SA out of the top 10 list of most Covid-19 cases in the world",
+        "link": "https://www.timeslive.co.za/news/south-africa/2020-10-12-covid-19-live-updates-worldwide-coronavirus-cases-cross-3735-million-death-toll-at-1073862/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
+        "title": "China to test entire city in 'five days' after six virus cases",
+        "link": "https://www.msn.com/en-us/news/world/china-to-test-entire-city-in-five-days-after-six-virus-cases/ar-BB19VD84?li=BBnbcA1"
     }
 ];
