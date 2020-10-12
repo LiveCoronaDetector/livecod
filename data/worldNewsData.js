@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
+    },
+    {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",

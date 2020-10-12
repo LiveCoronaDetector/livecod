@@ -9,6 +9,10 @@ var koreaNewsData = [
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5022583&ref=A"
     },
     {
+        "title": "中, 57일만에 본토에서 코로나19 확진(상보)",
+        "link": "http://news.mt.co.kr/mtview.php?no=2020101208425235503"
+    },
+    {
         "title": "코로나19 신규 확진자 58명...수도권 중심 확산 '여전'",
         "link": "https://www.ytn.co.kr/_ln/0103_202010111002161823"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "코로나19 강릉 16번째 확진자 가족과 친구도 확진",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220101000006"
-    },
-    {
-        "title": "대구시 \"'확진자 방문 피해' 소상공인 최대 300만원 지원\"",
-        "link": "https://news.imaeil.com/Economy/2020101112362339031"
     }
 ];

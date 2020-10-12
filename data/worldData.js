@@ -4,9 +4,9 @@ var marker = [
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "확진자수": 7990457,
-        "사망자수": 219693,
-        "완치자수": 5126351
+        "확진자수": 7991069,
+        "사망자수": 219695,
+        "완치자수": 5127299
     },
     {
         "Name": "인도",
@@ -174,7 +174,7 @@ var marker = [
         "Name_en": "Germany",
         "확진자수": 326291,
         "사망자수": 9702,
-        "완치자수": 273500
+        "완치자수": 274700
     },
     {
         "Name": "파키스탄",
@@ -985,6 +985,14 @@ var marker = [
         "완치자수": 3887
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 5078,
+        "사망자수": 107,
+        "완치자수": 2900
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -993,28 +1001,20 @@ var marker = [
         "완치자수": 4894
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "확진자수": 5051,
+        "사망자수": 107,
+        "완치자수": 4845
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "확진자수": 5043,
         "사망자수": 90,
         "완치자수": 3221
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "확진자수": 5035,
-        "사망자수": 107,
-        "완치자수": 4830
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 5023,
-        "사망자수": 106,
-        "완치자수": 2815
     },
     {
         "Name": "Rwanda",
@@ -1084,9 +1084,9 @@ var marker = [
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "확진자수": 3847,
+        "확진자수": 3864,
         "사망자수": 99,
-        "완치자수": 3079
+        "완치자수": 3089
     },
     {
         "Name": "Malta",
