@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
-        "title": "Covid-19 cases are rising sharply in parts of Europe",
-        "link": "https://www.youtube.com/watch?v=IFk0z8iaejg"
-    },
-    {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
+        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+    },
+    {
+        "title": "Covid: India's coronavirus outbreak in 200 seconds - BBC News",
+        "link": "https://www.youtube.com/watch?v=NAV3CmA5rBU"
     }
 ];

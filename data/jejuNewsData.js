@@ -9,6 +9,10 @@ var jejuNewsData = [
         "link": "https://www.chosun.com/national/regional/jeju/2020/10/12/VS6M56R7KVA6BI7HTWJPSRHEXI/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "추석 이어 한글날 연휴에도…제주도 11만명 다녀갔다",
+        "link": "https://view.asiae.co.kr/article/2020101111035629608"
+    },
+    {
         "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2173003"
     },
@@ -19,10 +23,6 @@ var jejuNewsData = [
     {
         "title": "[단독] 재택근무일에 제주도 여행, 노트북까지 속일순 없었다",
         "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "추석 이어 한글날 연휴에도…제주도 11만명 다녀갔다",
-        "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
         "title": "코로나19로 지친 14만명 몰린 제주…웰니스관광 15선 선정",
