@@ -25,10 +25,6 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/11/asia/canada-ambassador-china-access-spavor-kovrig-intl-hnk/index.html"
     },
     {
-        "title": "Coronavirus: Liverpool faces 'tier 3' lockdown - pubs, bars and gyms expected to close",
-        "link": "https://uk.news.yahoo.com/coronavirus-liverpool-faces-tier-3-174900357.html"
-    },
-    {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
+    },
+    {
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     }
 ];
