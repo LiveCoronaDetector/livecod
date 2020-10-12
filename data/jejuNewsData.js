@@ -25,6 +25,10 @@ var jejuNewsData = [
         "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
+        "title": "[사설] 코로나19 방역 ‘고삐’ 늦출 수 없다",
+        "link": "http://www.ihalla.com/read.php3?aid=1602514800693863043"
+    },
+    {
         "title": "추석·한글날 연휴, 제주 46만명 몰렸어도 ‘코로나 0명’진",
         "link": "https://www.chosun.com/national/welfare-medical/2020/10/13/63MRCZIDYRE4LI3ZXJW7XNJD7M/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
         "link": "http://www.fnnews.com/news/202010111225076069"
-    },
-    {
-        "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
-        "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
     }
 ];

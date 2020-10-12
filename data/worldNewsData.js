@@ -9,7 +9,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "As COVID-19 death toll passes 2,000, coronavirus cabinet to convene",
+        "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
         "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     }
 ];
