@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
+    },
+    {
+        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
+        "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
     },
     {
         "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
         "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
-        "title": "Watch live: World Health Organization holds a press briefing on the ongoing coronavirus outbreak",
-        "link": "https://www.cnbc.com/2020/10/12/watch-live-world-health-organization-holds-a-press-briefing-on-the-ongoing-coronavirus-outbreak.html"
+        "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
+        "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     }
 ];
