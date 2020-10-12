@@ -21,12 +21,12 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
-        "title": "Canadian detainees Spavor and Kovrig granted consular access",
-        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
+        "title": "UPDATE 1-Trump, Trudeau discuss two detained Canadians; China grants virtual consular access",
+        "link": "https://ca.reuters.com/article/idUSL1N2H200C"
     },
     {
-        "title": "China Ends Virus-Free Streak as Cluster in Port City Emerges",
-        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1f392400-0c44-11eb-87f6-9b03f7fb6303&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0xMi9jaGluYS1maW5kcy1jbHVzdGVyLWluLXFpbmdkYW8tY2l0eS1lbmRpbmctdmlydXMtZnJlZS1zdHJlYWs="
+        "title": "China to test entire city of Qingdao after COVID-19 cases emerge",
+        "link": "https://www.aljazeera.com/news/2020/10/12/china-to-test-entire-city-of-qingdao-after-covid-19-cases-appear"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
