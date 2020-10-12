@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/global-report-trump-no-longer-a-covid-transmission-risk-says-doctor-ireland-reports-record-cases"
     },
     {
-        "title": "Trump, Trudeau discuss two detained Canadians; China grants virtual consular access",
-        "link": "https://news.yahoo.com/trump-trudeau-discuss-issue-two-220513587.html"
+        "title": "Canadian detainees Spavor and Kovrig granted consular access",
+        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "Mainland China reports 21 new COVID-19 cases",
-        "link": "https://www.arabnews.com/node/1747181/world"
+        "title": "China Ends Virus-Free Streak as Cluster in Port City Emerges",
+        "link": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1f392400-0c44-11eb-87f6-9b03f7fb6303&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0xMi9jaGluYS1maW5kcy1jbHVzdGVyLWluLXFpbmdkYW8tY2l0eS1lbmRpbmctdmlydXMtZnJlZS1zdHJlYWs="
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
+    },
+    {
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     }
 ];

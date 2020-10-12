@@ -9,35 +9,35 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965362.html"
     },
     {
+        "title": "중국 57일만에 확진자 발생",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
+    },
+    {
+        "title": "아슬아슬한 '거리두기 1단계'…첫날 확진자 100명 육박",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
+    },
+    {
         "title": "[2보] 코로나19 어제 97명 신규확진…지역발생 68명·해외유입 29명",
         "link": "http://yna.kr/AKR20201012024300530?did=1195m"
-    },
-    {
-        "title": "거리두기 1단계 첫날…대구 신규확진자 0명(전문)",
-        "link": "https://news.imaeil.com/Society/2020101210193377973"
-    },
-    {
-        "title": "경남, 창원서 추석연휴 가족 접촉 60대 확진자 1명 발생(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193758&cID=10812&pID=10800"
     },
     {
         "title": "코로나 국내 신규 확진 97명… 국내발생 68명·해외유입 29명",
         "link": "http://health.chosun.com/site/data/html_dir/2020/10/12/2020101200853.html"
     },
     {
-        "title": "중국 57일만에 확진자 발생",
-        "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
+        "title": "경남, 창원서 추석연휴 가족 접촉 60대 확진자 1명 발생(종합)",
+        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193758&cID=10812&pID=10800"
+    },
+    {
+        "title": "셀트리온 코로나19 항체 치료제 'CT-P59' 예방효과 확인 임상 개시",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/12/2020101200957.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+        "title": "중국, 국경절 끝나자 57일만에 코로나 확진자…칭다오 12명 양성",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02223846625932264"
     },
     {
         "title": "셀트리온, 확진자 가족 1000명 대상 코로나 예방임상 시작",
         "link": "https://news.joins.com/article/olink/23486182"
-    },
-    {
-        "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
-        "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
-    },
-    {
-        "title": "셀트리온, 코로나19 항체치료제 예방임상 개시",
-        "link": "https://zdnet.co.kr/view/?no=20201012092519"
     }
 ];
