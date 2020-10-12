@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus live news: 'the second wave is here,' says French PM; Italy plans new social curbs",
-        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
+        "title": "Strict rules loom across Europe as second wave of Covid-19 intensifies",
+        "link": "https://www.cnn.com/2020/10/12/europe/europe-restrictions-covid-intl/index.html"
     },
     {
         "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
@@ -29,15 +29,15 @@ var worldNewsData = [
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
-        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
+        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
     },
     {
         "title": "Covid-19 Live Updates: Global Tracker",
         "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "Coronavirus cases set new single-day records in six U.S. states and worldwide",
+        "link": "https://www.nbcnews.com/news/us-news/coronavirus-cases-set-new-single-day-records-six-u-s-n1242828"
     }
 ];
