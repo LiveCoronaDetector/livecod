@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
-        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
+        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
+        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
     }
 ];
