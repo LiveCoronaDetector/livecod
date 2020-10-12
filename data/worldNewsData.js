@@ -9,28 +9,28 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
-        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
+        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
+        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
-        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
+        "title": "What we know about the three-tier COVID-19 restrictions",
+        "link": "https://news.sky.com/story/what-we-know-about-the-three-tier-covid-19-restrictions-12102221"
     },
     {
-        "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
-        "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
+        "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
+        "link": "https://www.cnbc.com/2020/10/12/india-needs-to-revive-jobs-that-were-lost-to-coronavirus-pandemic.html"
     },
     {
         "title": "Canadian detainees Spavor and Kovrig granted consular access",
         "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
+        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
+        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
-        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
-        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
         "title": "China is doubling down in the global push for a coronavirus vaccine",

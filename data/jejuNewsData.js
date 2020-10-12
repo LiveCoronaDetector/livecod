@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://hankookilbo.com/News/Read/A2020101210590002247?did=NA"
     },
     {
-        "title": "[전문] 제주도 '제주형 뉴딜' 종합계획 확정 발표 기자회견문",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
+        "title": "제주렌트카 업계 “코로나19 거리두기 1단계에도 철저 소독관리”",
+        "link": "https://cnbc.sbs.co.kr/article_hub/10000998975?division=NAVER"
     }
 ];
