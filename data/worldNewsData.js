@@ -25,8 +25,8 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Amateur hour at the Trump White House",
-        "link": "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
+        "title": "Mainland China reports 21 new COVID-19 cases",
+        "link": "https://www.arabnews.com/node/1747181/world"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
     },
     {
-        "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic as new global cases hit record",
-        "link": "https://www.cnbc.com/2020/10/09/watch-live-world-health-organization-holds-a-briefing-on-the-coronavirus.html"
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     }
 ];
