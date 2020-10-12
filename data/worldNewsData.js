@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "What we know about the three-tier COVID-19 restrictions",
-        "link": "https://news.sky.com/story/what-we-know-about-the-three-tier-covid-19-restrictions-12102221"
+        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
+        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
     },
     {
         "title": "India wants to boost economic growth again, but it has one big task ahead of it first",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
-        "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
-        "link": "https://www.theguardian.com/world/live/2020/oct/12/coronavirus-live-news-fauci-says-he-did-not-agree-to-appear-in-trump-ad-italy-plans-new-restrictions"
+        "title": "COVID-19 LIVE UPDATES | SA out of the top 10 list of most Covid-19 cases in the world",
+        "link": "https://www.timeslive.co.za/news/south-africa/2020-10-12-covid-19-live-updates-worldwide-coronavirus-cases-cross-3735-million-death-toll-at-1073862/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "China is doubling down in the global push for a coronavirus vaccine",
-        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
+        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
     },
     {
-        "title": "Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
-        "link": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     }
 ];

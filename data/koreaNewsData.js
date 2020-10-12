@@ -5,16 +5,16 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010121247039985"
     },
     {
-        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
-        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
-    },
-    {
         "title": "[속보]文대통령 \"방역 완화, 코로나 통제 자신감에 근거한 것\"",
         "link": "https://www.sedaily.com/NewsView/1Z93QMTEBT"
     },
     {
         "title": "文 “코로나 매우 예외적 선방… 방역완화, 자신감에 근거”",
         "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "최근 확진자 6명…강릉시 사회적 거리두기 2단계 1주일 연장(종합)",
+        "link": "http://yna.kr/AKR20201012141651062?did=1195m"
     },
     {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "https://zdnet.co.kr/view/?no=20201012092519"
     },
     {
-        "title": "[속보]강릉서 코로나19 확진자 3명 추가 발생",
-        "link": "https://www.nocutnews.co.kr/news/5426247"
-    },
-    {
         "title": "내일부터 독감 백신 무료접종…\"코로나19와 예방수칙 동일\"(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03378406625932264"
     },
     {
         "title": "현대카드, 여의도 본사서 코로나 확진자 발생",
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193830&cID=10401&pID=10400"
+    },
+    {
+        "title": "중국 57일만에 확진자 발생",
+        "link": "https://imnews.imbc.com/news/2020/world/article/5938310_32640.html"
     }
 ];
