@@ -25,12 +25,12 @@ var jejuNewsData = [
         "link": "http://www.jejuilbo.net/news/articleView.html?idxno=152143"
     },
     {
-        "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
-    },
-    {
         "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
+    },
+    {
+        "title": "한글날 연휴에도 제주도 놀러간다…또다시 방역 긴장",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01085686625931280"
     },
     {
         "title": "추석 연휴기간 25만 다녀간 제주도, 3일 현재까진 확진자 ‘0’",
