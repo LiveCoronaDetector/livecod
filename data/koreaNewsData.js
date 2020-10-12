@@ -9,16 +9,24 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201012_0001193534&cID=10101&pID=10100"
     },
     {
+        "title": "文 “코로나 매우 예외적 선방… 방역완화, 자신감에 근거”",
+        "link": "https://www.chosun.com/politics/blue_house/2020/10/12/FWQ5D3CEZBCSRCFLTZU33ZUQRE/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "中칭다오서 확진자 무더기 발견...당국 비상(종합)",
         "link": "http://www.fnnews.com/news/202010121247039985"
+    },
+    {
+        "title": "아슬아슬한 '거리두기 1단계'…첫날 확진자 100명 육박",
+        "link": "http://www.sisajournal.com/news/articleView.html?idxno=206201"
     },
     {
         "title": "셀트리온, 코로나19 항체치료제 예방임상 개시",
         "link": "https://zdnet.co.kr/view/?no=20201012092519"
     },
     {
-        "title": "文대통령 \"한국 매우 예외적 선방, 방역 완화는 코로나 통제 자신감\" (종합)",
-        "link": "https://view.asiae.co.kr/article/2020101215424323148"
+        "title": "[속보]강릉서 코로나19 확진자 3명 추가 발생",
+        "link": "https://www.nocutnews.co.kr/news/5426247"
     },
     {
         "title": "코로나 장기화에 내수붕괴...KDI “서비스업 중심 경기 부진 지속”",
@@ -29,15 +37,7 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03378406625932264"
     },
     {
-        "title": "[종합] 코로나19 확진자 5일째 두 자릿수...98명 증가, 서울 29명, 경기 17명",
-        "link": "http://www.fnnews.com/news/202010120936164261"
-    },
-    {
         "title": "코로나19 어제 신규확진자 97명…지역발생만 68명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223065"
-    },
-    {
-        "title": "양주서 일가족 4명 코로나19 양성…확진자 접촉(종합)",
-        "link": "http://yna.kr/AKR20201012036852060?did=1195m"
     }
 ];

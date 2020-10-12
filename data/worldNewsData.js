@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
     },
     {
-        "title": "Coronavirus digest: Germany mulls restrictions on traveling, partying",
-        "link": "https://www.dw.com/en/coronavirus-digest-germany-mulls-restrictions-on-traveling-partying/a-55238084"
+        "title": "Covid-19: Qingdao to test nine million for coronavirus in five days",
+        "link": "https://www.bbc.com/news/world-asia-54504785"
     },
     {
         "title": "India-Israel ‘30-second coronavirus test’ should be 'ready in days'",
@@ -33,11 +33,11 @@ var worldNewsData = [
         "link": "https://news.yahoo.com/mainland-china-reports-21-covid-004943058.html"
     },
     {
-        "title": "WHO discourages lockdowns as US hospitalizations climb; 11 states set records for new COVID-19 cases",
-        "link": "https://www.usatoday.com/story/news/health/2020/10/11/covid-hospitalizations-up-11-state-records-who-questions-lockdowns/5960078002/"
+        "title": "China is doubling down in the global push for a coronavirus vaccine",
+        "link": "https://www.cnn.com/2020/10/09/asia/china-covid-vaccine-global-race-intl-hnk/index.html"
     },
     {
-        "title": "WHO daily cases set new record at more than 350,000 – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/09/coronavirus-live-news-record-global-case-rise-washington-health-officials-ask-rose-garden-guests-to-get-tested"
+        "title": "Coronavirus world map: which countries have the most Covid cases and deaths?",
+        "link": "https://www.theguardian.com/world/2020/oct/11/coronavirus-world-map-which-countries-have-the-most-covid-cases-and-deaths"
     }
 ];
