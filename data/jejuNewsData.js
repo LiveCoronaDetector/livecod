@@ -5,6 +5,14 @@ var jejuNewsData = [
         "link": "https://www.hankyung.com/life/article/2020101278367"
     },
     {
+        "title": "추석·한글날 연휴 40만 방문한 제주, 신규 확진자 '0명'",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010121450075385"
+    },
+    {
+        "title": "[단독] 재택근무일에 제주도 여행, 노트북까지 속일순 없었다",
+        "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
         "title": "추석 이어 한글날 연휴에도…제주도 11만명 다녀갔다",
         "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
@@ -21,10 +29,6 @@ var jejuNewsData = [
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=429563"
     },
     {
-        "title": "40만 찾은 제주, 추석·한글날 연휴 코로나19 확진자 '제로'",
-        "link": "http://news.bbsi.co.kr/news/articleView.html?idxno=3007681"
-    },
-    {
         "title": "제주도 일부 공공시설 10월12일 재개, 코로나 기지개",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351761"
     },
@@ -35,9 +39,5 @@ var jejuNewsData = [
     {
         "title": "한글날 연휴 제주 10만명 출렁…코로나19 감염 없어",
         "link": "https://www.nocutnews.co.kr/news/5426056"
-    },
-    {
-        "title": "추캉스 28만명 찾은 제주, 확진자 ‘0’…아직은 ‘조마조마’",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010041542001&code=620116"
     }
 ];

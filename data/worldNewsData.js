@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Global Covid report: Italy set to introduce national restrictions; record deaths in Greece",
-        "link": "https://www.theguardian.com/world/2020/oct/12/global-covid-report-italy-set-to-introduce-national-restrictions-record-deaths-in-greece"
+        "title": "Amid coronavirus, Israel's preschools unlikely to restart Sunday",
+        "link": "https://www.jpost.com/israel-news/head-of-public-health-schools-unlikely-to-open-sunday-645362"
     },
     {
         "title": "Coronavirus live news: Fauci says he did not agree to appear in Trump ad; Italy plans new restrictions",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.jpost.com/health-science/india-israel-30-second-coronavirus-test-should-be-ready-in-days-645226"
     },
     {
-        "title": "Canada's Ambassador to China granted virtual consular access to detained Canadians",
-        "link": "https://www.cnn.com/2020/10/11/asia/canada-ambassador-china-access-spavor-kovrig-intl-hnk/index.html"
+        "title": "Canadian detainees Spavor and Kovrig granted consular access",
+        "link": "https://www.youtube.com/watch?v=Pmv_lAeEnPs"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://nypost.com/2020/10/11/who-warns-against-covid-19-lockdowns-due-to-economic-damage/"
     },
     {
-        "title": "Coronavirus update: Latest news from around the world",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
-    },
-    {
         "title": "Nearly 10,000 minks dead from Covid-19 outbreak at Utah fur farms",
         "link": "https://www.theguardian.com/world/2020/oct/11/utah-10000-minks-dead-from-coronavirus"
+    },
+    {
+        "title": "Coronavirus update: Latest news from around the world",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-11-20-intl/h_7ec2c3bb5ca5302206c6cf4598af5772"
     },
     {
         "title": "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission",
