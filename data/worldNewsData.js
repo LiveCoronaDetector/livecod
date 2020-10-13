@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "Covid: Australia in talks over quarantine-free travel",
-        "link": "https://www.bbc.com/news/world-australia-54499478"
+        "title": "China to test 9 million people as coronavirus cluster detected in city of Qingdao",
+        "link": "https://www.cnn.com/2020/10/12/asia/china-qingdao-coronavirus-golden-week-intl-hnk/index.html"
     },
     {
         "title": "Coronavirus live news: Russia reports record daily cases and deaths; Netherlands set for new restrictions",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
+        "title": "Dr. Marc Siegel: 'I'm so happy' to see WHO warning against coronavirus lockdowns",
+        "link": "https://www.foxnews.com/health/dr-siegel-who-coronavirus-lockdowns-reactions"
     }
 ];
