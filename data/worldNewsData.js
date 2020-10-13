@@ -13,8 +13,8 @@ var worldNewsData = [
         "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
-        "title": "Failures at Austrian ski resort ‘helped speed up spread' of Covid-19 in Europe",
-        "link": "https://www.theguardian.com/world/2020/oct/12/failures-at-austrian-ski-resort-helped-speed-up-spread-of-covid-19-in-europe"
+        "title": "The West is being left behind as it squanders Covid-19 lessons from Asia-Pacific",
+        "link": "https://www.cnn.com/2020/10/12/europe/coronavirus-asia-pacific-west-intl/index.html"
     },
     {
         "title": "Indian man who fasted to pray for Trump's COVID-19 recovery dies of cardiac arrest | TheHill",
@@ -29,7 +29,7 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     },
     {
-        "title": "Coronavirus live news: Trump 'tests negative' for Covid; Johnson & Johnson vaccine trial paused",
+        "title": "Coronavirus live news: Trump 'tests negative' for Covid; major vaccine trial paused",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     },
     {
