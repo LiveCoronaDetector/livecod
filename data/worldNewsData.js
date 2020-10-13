@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Iran sets record for coronavirus deaths, cases for second straight day | TheHill",
-        "link": "https://thehill.com/policy/international/520617-iran-sets-single-day-record-for-coronavirus-deaths-cases"
+        "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
+        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
     },
     {
         "title": "Failures at Austrian ski resort ‘helped speed up spread' of Covid-19 in Europe",
@@ -29,12 +29,12 @@ var worldNewsData = [
         "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     },
     {
-        "title": "Coronavirus live news: Trump tests negative for Covid; Johnson & Johnson vaccine trial paused",
+        "title": "Coronavirus live news: Trump 'tests negative' for Covid; Johnson & Johnson vaccine trial paused",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html"
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     },
     {
         "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
