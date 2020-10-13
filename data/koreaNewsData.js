@@ -5,20 +5,20 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
     },
     {
-        "title": "코로나 확진 102명…특별방역 종료 후 첫 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101300512.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
-    },
-    {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5024139&ref=A"
+    },
+    {
+        "title": "코로나19 신규 확진자 102명…엿새 만에 세 자릿수",
+        "link": "http://www.hani.co.kr/arti/society/health/965533.html"
     },
     {
         "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
         "link": "http://www.fnnews.com/news/202010130935340826"
     },
     {
-        "title": "'코로나19' 국내 신규 확진 102명…다시 세 자릿수",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=408063&class=33&grp="
+        "title": "코로나 확진 102명…특별방역 종료 후 첫 세 자릿수(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101300512.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "코로나 국내 신규 확진 102명… 다시 100명 대로",
@@ -29,15 +29,15 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201013_0001195215&cID=10803&pID=14000"
     },
     {
+        "title": "'코로나19' 국내 신규 확진 102명…다시 세 자릿수",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=408063&class=33&grp="
+    },
+    {
         "title": "확진자 100명 넘어…해외 유입 33명 중 러시아만 14명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166625932592"
     },
     {
-        "title": "대구시 \"신규확진자 1명…해외유입\"(전문)",
-        "link": "https://news.imaeil.com/Society/2020101310132692367"
-    },
-    {
-        "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
-        "link": "http://yna.kr/AKR20201012179200003?did=1195m"
+        "title": "[단독] 코로나19에 빈 필하모닉 내한 공연도 취소",
+        "link": "http://news.mk.co.kr/newsRead.php?no=1046272&year=2020"
     }
 ];
