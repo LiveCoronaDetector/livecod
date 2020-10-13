@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Coronavirus Israel live: Mass protests to resume outside Netanyahu's residence, activists announce",
-        "link": "https://www.haaretz.com/israel-news/coronavirus-israel-news-death-toll-cases-netanyahu-1.9225444"
+        "title": "5 things to know for October 13: Coronavirus, Supreme Court, Election 2020, Big Tech and Greece",
+        "link": "https://www.cnn.com/2020/10/13/us/five-things-october-13-trnd/index.html"
     },
     {
         "title": "The West is being left behind as it squanders Covid-19 lessons from Asia-Pacific",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
-    },
-    {
         "title": "Coronavirus live news: Russia reports record daily cases and deaths; Netherlands set for new restrictions",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/h_95464d6a892d7a14385ddb32264d28e3"
+    },
+    {
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     }
 ];
