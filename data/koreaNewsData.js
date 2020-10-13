@@ -9,10 +9,6 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965533.html"
     },
     {
-        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
-        "link": "http://www.osen.co.kr/article/G1111451528"
-    },
-    {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5024139&ref=A"
     },
@@ -33,11 +29,15 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101301083.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "부산항 러시아 선박서 16명 코로나 확진…4개월간 총 117명",
-        "link": "http://news.mk.co.kr/newsRead.php?no=1047971&year=2020"
-    },
-    {
         "title": "확진자 100명 넘어…해외 유입 33명 중 러시아만 14명(종합)",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166625932592"
+    },
+    {
+        "title": "[단독] 코로나19에 빈 필하모닉 내한 공연도 취소",
+        "link": "http://news.mk.co.kr/newsRead.php?no=1046272&year=2020"
+    },
+    {
+        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
+        "link": "http://www.osen.co.kr/article/G1111451528"
     }
 ];
