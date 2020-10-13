@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "Novel coronavirus can last 28 days on glass, currency, Australian study finds",
-        "link": "https://www.nbcnews.com/health/health-news/novel-coronavirus-can-last-28-days-glass-currency-australian-study-n1242909"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
-    },
-    {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
-    },
-    {
         "title": "Coronavirus live news: Russia reports record daily cases and deaths; Cristiano Ronaldo tests positive",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+    },
+    {
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+    },
+    {
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     }
 ];
