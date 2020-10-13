@@ -9,12 +9,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965533.html"
     },
     {
-        "title": "[속보]서울 코로나19 신규확진자 20명…전국 102명 급증 대비 완만한 안정세 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
-    },
-    {
         "title": "코로나 재확산 급한불 껐다…IMF, 韓성장률 -2.1%→-1.9% 상향",
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04326326625932592"
+    },
+    {
+        "title": "[속보]서울 코로나19 신규확진자 20명…전국 102명 급증 대비 완만한 안정세 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
     },
     {
         "title": "코로나19 신규확진 102명…6일 만에 다시 '세자릿수'",

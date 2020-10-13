@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://www.theafricareport.com/45557/covid-19-why-are-africas-low-death-rates-low/"
     },
     {
-        "title": "Canadian detained in China 'astonished' to learn about scale of Covid pandemic",
-        "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
+        "title": "NY Times reporter surprised America's coronavirus recovery apparently happening faster than expected",
+        "link": "https://www.foxnews.com/media/coronavirus-pandemic-recovery-optimistic-ny-times"
     },
     {
         "title": "Iran's coronavirus daily death tolls hit record highs as currency falls to historic low",
@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "China to test 9 million people as coronavirus cluster detected in city of Qingdao",
-        "link": "https://www.cnn.com/2020/10/12/asia/china-qingdao-coronavirus-golden-week-intl-hnk/index.html"
+        "title": "Novel coronavirus can last 28 days on glass, currency, Australian study finds",
+        "link": "https://www.nbcnews.com/health/health-news/novel-coronavirus-can-last-28-days-glass-currency-australian-study-n1242909"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
         "title": "Coronavirus live news: Russia reports record daily cases and deaths; Cristiano Ronaldo tests positive",
