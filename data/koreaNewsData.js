@@ -5,14 +5,6 @@ var koreaNewsData = [
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101300512.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
-        "link": "http://www.fnnews.com/news/202010130935340826"
-    },
-    {
-        "title": "[속보]서울 코로나19 신규확진자 20명…전국 102명 급증 대비 완만한 안정세 ...",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
-    },
-    {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5024139&ref=A"
     },
@@ -21,12 +13,16 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965533.html"
     },
     {
-        "title": "임시완, 코로나19 재검사 \"거주 아파트 확진자 발생...예방 차원\"(공식)",
-        "link": "https://www.ytn.co.kr/_sn/0117_202010131414285862"
+        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
+        "link": "http://www.fnnews.com/news/202010130935340826"
     },
     {
-        "title": "코로나 국내 신규 확진 102명… 다시 100명 대로",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/10/13/2020101300795.html"
+        "title": "[속보]서울 코로나19 신규확진자 20명…전국 102명 급증 대비 완만한 안정세 ...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
+    },
+    {
+        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
+        "link": "http://www.osen.co.kr/article/G1111451528"
     },
     {
         "title": "경기도, 코로나19 신규 확진자 38명…누적 4713명",
@@ -39,5 +35,9 @@ var koreaNewsData = [
     {
         "title": "[단독] 코로나19에 빈 필하모닉 내한 공연도 취소",
         "link": "http://news.mk.co.kr/newsRead.php?no=1046272&year=2020"
+    },
+    {
+        "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
+        "link": "http://yna.kr/AKR20201012179200003?did=1195m"
     }
 ];
