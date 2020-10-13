@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166625932592"
     },
     {
-        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
-        "link": "http://www.fnnews.com/news/202010130935340826"
-    },
-    {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5024139&ref=A"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
+        "link": "http://www.fnnews.com/news/202010130935340826"
     },
     {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세 자릿수",
@@ -21,23 +21,23 @@ var koreaNewsData = [
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
     },
     {
-        "title": "코로나 확진 102명…특별방역 종료 후 첫 세 자릿수(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101300512.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "코로나19 신규확진 102명…6일 만에 다시 '세자릿수'",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/13/2020101390026.html"
     },
     {
         "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
         "link": "http://www.osen.co.kr/article/G1111451528"
     },
     {
-        "title": "경기도, 코로나19 신규 확진자 38명…누적 4713명",
-        "link": "http://www.newsis.com/view/?id=NISX20201013_0001195215&cID=10803&pID=14000"
+        "title": "경기도 신규 확진자 38명… 의정부 재활병원·동두천 소모임 감염",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/13/2020101301083.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[단독] 코로나19에 빈 필하모닉 내한 공연도 취소",
-        "link": "http://news.mk.co.kr/newsRead.php?no=1046272&year=2020"
+        "title": "부산항 러시아 선박서 16명 코로나 확진…4개월간 총 117명",
+        "link": "http://news.mk.co.kr/newsRead.php?no=1047971&year=2020"
     },
     {
-        "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
-        "link": "http://yna.kr/AKR20201012179200003?did=1195m"
+        "title": "신규 확진자 102명...6일 만에 다시 세 자릿수",
+        "link": "https://www.ytn.co.kr/_ln/0103_202010130944590635"
     }
 ];
