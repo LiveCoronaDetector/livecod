@@ -25,12 +25,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
-    },
-    {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
     },
     {
         "title": "Coronavirus live news: Trump 'tests negative' for Covid; major vaccine trial paused",
@@ -39,5 +35,9 @@ var worldNewsData = [
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+    },
+    {
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     }
 ];
