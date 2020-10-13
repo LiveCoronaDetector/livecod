@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "Canadian detained in China 'astonished' to learn about scale of Covid pandemic",
-        "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
+        "title": "Dr. Fauci says U.S. faces 'a whole lot of trouble' as coronavirus cases rise heading into winter",
+        "link": "https://www.cnbc.com/2020/10/12/dr-fauci-says-us-is-facing-ce-as-coronavirus-cases-rise-heading-into-winter.html"
     },
     {
         "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
-    },
-    {
         "title": "Coronavirus live news: Trump 'tests negative' for Covid; major vaccine trial paused",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+    },
+    {
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     },
     {
         "title": "Covid-19 Live Updates: Global Tracker",
         "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
+        "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
+        "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     }
 ];
