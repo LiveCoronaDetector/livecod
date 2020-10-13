@@ -37,7 +37,7 @@ var jejuNewsData = [
         "link": "https://news.joins.com/article/olink/23485689"
     },
     {
-        "title": "[현장르포] 연휴 맞은 김포공항은 이미 포스트코로나",
-        "link": "http://www.fnnews.com/news/202010111225076069"
+        "title": "전국에서 가장 붐빈 제주 추석연휴…코로나19 '제로'",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=326375"
     }
 ];

@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.cnbc.com/2020/10/12/dr-fauci-says-us-is-facing-ce-as-coronavirus-cases-rise-heading-into-winter.html"
     },
     {
-        "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
+        "title": "Iran sets record for coronavirus deaths, cases for second straight day | TheHill",
+        "link": "https://thehill.com/policy/international/520617-iran-sets-single-day-record-for-coronavirus-deaths-cases"
     },
     {
         "title": "The West is being left behind as it squanders Covid-19 lessons from Asia-Pacific",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
     },
     {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     }
 ];
