@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+        "title": "More masks, less play: Europe tightens rules as virus surges",
+        "link": "https://apnews.com/article/virus-outbreak-pandemics-geneva-france-europe-40521fb6080e35bc4aae4144bf3652bc"
     }
 ];
