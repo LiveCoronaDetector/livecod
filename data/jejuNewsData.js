@@ -9,12 +9,12 @@ var jejuNewsData = [
         "link": "https://www.chosun.com/national/regional/jeju/2020/10/12/VS6M56R7KVA6BI7HTWJPSRHEXI/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "추석 이어 한글날 연휴에도…제주도 11만명 다녀갔다",
-        "link": "https://view.asiae.co.kr/article/2020101111035629608"
-    },
-    {
         "title": "추석연휴 전국서 제주도만 인구 이동량 증가",
         "link": "http://www.newsjeju.net/news/articleView.html?idxno=351874"
+    },
+    {
+        "title": "추석 이어 한글날 연휴에도…제주도 11만명 다녀갔다",
+        "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
         "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",

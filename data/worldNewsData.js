@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/12/asia/china-qingdao-coronavirus-golden-week-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
+        "title": "Coronavirus live news: Russia reports record daily cases and deaths; Cristiano Ronaldo tests positive",
+        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+    },
+    {
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     },
     {
         "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
         "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
-        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
-        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
-    },
-    {
-        "title": "Coronavirus live news: Russia reports record daily cases and deaths; Cristiano Ronaldo tests positive",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
     }
 ];
