@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://thehill.com/blogs/blog-briefing-room/news/520666-indian-man-who-fasted-to-pray-for-trumps-covid-19-recovery-dies"
     },
     {
-        "title": "China to test 9 million people as coronavirus cluster detected in city of Qingdao",
-        "link": "https://www.cnn.com/2020/10/12/asia/china-qingdao-coronavirus-golden-week-intl-hnk/index.html"
-    },
-    {
-        "title": "Coronavirus live news: Trump 'tests negative' for Covid; Johnson & Johnson vaccine trial paused",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+        "title": "Coronavirus back in China: Entire city of Qingdao being tested after just 12 COVID-19 cases found",
+        "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
         "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     },
     {
+        "title": "Coronavirus live news: Trump 'tests negative' for Covid; Johnson & Johnson vaccine trial paused",
+        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+    },
+    {
         "title": "Covid-19 Live Updates: Global Tracker",
         "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     },
     {
-        "title": "Coronavirus: Stanford doctors among leaders of global anti-lockdown movement",
-        "link": "https://www.mercurynews.com/2020/10/12/coronavirus-stanford-doctors-among-leaders-of-global-anti-lockdown-movement/"
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     }
 ];

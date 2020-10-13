@@ -977,6 +977,14 @@ var marker = [
         "완치자수": 4921
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 5163,
+        "사망자수": 108,
+        "완치자수": 2978
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
@@ -991,14 +999,6 @@ var marker = [
         "확진자수": 5116,
         "사망자수": 92,
         "완치자수": 3303
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "확진자수": 5078,
-        "사망자수": 107,
-        "완치자수": 2900
     },
     {
         "Name": "Equatorial Guinea",
@@ -1462,7 +1462,7 @@ var marker = [
         "Name_en": "Bhutan",
         "확진자수": 309,
         "사망자수": 0,
-        "완치자수": 288
+        "완치자수": 291
     },
     {
         "Name": "캄보디아",
