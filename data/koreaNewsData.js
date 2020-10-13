@@ -21,16 +21,16 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/13/2020101390026.html"
     },
     {
-        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
-        "link": "http://www.osen.co.kr/article/G1111451528"
-    },
-    {
         "title": "코로나 국내 신규 확진 102명… 다시 100명 대로",
         "link": "http://health.chosun.com/site/data/html_dir/2020/10/13/2020101300795.html"
     },
     {
         "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
         "link": "http://yna.kr/AKR20201012179200003?did=1195m"
+    },
+    {
+        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
+        "link": "http://www.osen.co.kr/article/G1111451528"
     },
     {
         "title": "칭다오 확진자 속출… 마스크 벗고 광둥성 간 시진핑",
