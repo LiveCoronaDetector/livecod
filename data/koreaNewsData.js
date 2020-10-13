@@ -13,12 +13,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965533.html"
     },
     {
-        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
-        "link": "http://www.fnnews.com/news/202010130935340826"
-    },
-    {
         "title": "[속보]서울 코로나19 신규확진자 20명…전국 102명 급증 대비 완만한 안정세 ...",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010131122001&code=940100"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 6일만에 세 자릿수...102명 증가, 서울 18명, 경기 3...",
+        "link": "http://www.fnnews.com/news/202010130935340826"
     },
     {
         "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.newsis.com/view/?id=NISX20201013_0001195215&cID=10803&pID=14000"
     },
     {
-        "title": "확진자 100명 넘어…해외 유입 33명 중 러시아만 14명(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166625932592"
-    },
-    {
         "title": "[단독] 코로나19에 빈 필하모닉 내한 공연도 취소",
         "link": "http://news.mk.co.kr/newsRead.php?no=1046272&year=2020"
+    },
+    {
+        "title": "확진자 100명 넘어…해외 유입 33명 중 러시아만 14명(종합)",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166625932592"
     },
     {
         "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
