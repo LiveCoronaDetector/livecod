@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Dutch bars and restaurants to close; Russia reports record daily cases – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
-    },
-    {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
-    },
-    {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
+    },
+    {
+        "title": "Letting COVID-19 spread to achieve herd immunity is \"unethical,\" WHO chief says",
+        "link": "https://www.cbsnews.com/news/covid-19-herd-immunity-unethical-world-health-organization/"
+    },
+    {
+        "title": "More masks, less play: Europe tightens rules as virus surges",
+        "link": "https://apnews.com/article/virus-outbreak-pandemics-geneva-france-europe-40521fb6080e35bc4aae4144bf3652bc"
+    },
+    {
+        "title": "Dutch bars and restaurants to close; Russia reports record daily cases – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     }
 ];
