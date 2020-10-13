@@ -5,12 +5,12 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010130935340826"
     },
     {
-        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
-        "link": "http://www.osen.co.kr/article/G1111451528"
-    },
-    {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세 자릿수",
         "link": "http://www.hani.co.kr/arti/society/health/965533.html"
+    },
+    {
+        "title": "[단독] 임시완, 거주아파트 코로나19 확진자 발생으로 '또' 검사..'런온' 일정...",
+        "link": "http://www.osen.co.kr/article/G1111451528"
     },
     {
         "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
