@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/12/canadian-detained-in-china-astonished-to-learn-about-scale-of-covid-pandemic"
     },
     {
-        "title": "Cabinet to rule on exit strategy as death toll crosses 2,000",
-        "link": "https://www.jpost.com/breaking-news/coronavirus-in-israel-1609-new-infections-823-in-serious-condition-645392"
+        "title": "COVID-19's moment of truth: Is losing inevitable?",
+        "link": "https://www.jpost.com/israel-news/covid-19-contradictions-is-losing-inevitable-645483"
     },
     {
         "title": "The West is being left behind as it squanders Covid-19 lessons from Asia-Pacific",
@@ -21,20 +21,20 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "Coronavirus back in China: Entire city of Qingdao being tested after just 12 COVID-19 cases found",
-        "link": "https://www.cbsnews.com/news/coronavirus-china-qingdao-being-tested-12-covid-19-cases-found/"
-    },
-    {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
         "title": "Coronavirus live news: Trump 'tests negative' for Covid; major vaccine trial paused",
         "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
+    },
+    {
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
         "title": "Covid-19 Live Updates: Global Tracker",
