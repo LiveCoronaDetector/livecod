@@ -33,8 +33,8 @@ var worldNewsData = [
         "link": "https://www.cbsnews.com/news/covid-19-herd-immunity-unethical-world-health-organization/"
     },
     {
-        "title": "Global report: Russia reels from record rise in Covid infections",
-        "link": "https://www.theguardian.com/world/2020/oct/13/global-report-russia-reels-from-record-rise-in-covid-infections"
+        "title": "Dutch bars and restaurants to close; Russia reports record daily cases – as it happened",
+        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
