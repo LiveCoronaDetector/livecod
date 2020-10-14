@@ -5,39 +5,39 @@ var koreaNewsData = [
         "link": "http://www.fnnews.com/news/202010140935422771"
     },
     {
-        "title": "[속보] 코로나 국내 신규 확진 84명… 국내발생 53명·해외유입 31명",
-        "link": "http://health.chosun.com/site/data/html_dir/2020/10/14/2020101400766.html"
-    },
-    {
-        "title": "부산 요양병원서 코로나 52명 집단 감염 발생",
-        "link": "https://www.pressian.com/pages/articles/2020101410030451533?utm_source=naver&utm_medium=search"
-    },
-    {
-        "title": "코로나19 어제 84명 신규확진…지역발생 53명",
-        "link": "http://www.etnews.com/20201014000027"
-    },
-    {
-        "title": "코로나 신규확진 84명…지역발생 53명·해외유입 31명",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20201014500022&wlog_tag3=naver"
-    },
-    {
-        "title": "확진자 100명 아래지만 집계 이후 부산서 52명 추가…'위험' 여전(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02099206625932920"
-    },
-    {
         "title": "코로나 비상 이탈리아 고강도 제한조치…실내외 파티 전면 금지(종합)",
         "link": "http://yna.kr/AKR20201013156851109?did=1195m"
     },
     {
-        "title": "부산의 한 요양병원서 직원·환자 52명 코로나19 확진…코호트 격리",
-        "link": "http://www.hani.co.kr/arti/area/yeongnam/965682.html"
+        "title": "신규 확진자 84명…부산 요양병원서 53명 집단감염",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5024923&ref=A"
     },
     {
         "title": "대구 신규확진 0명…일주일간 지역발생 확진자 0명(전문)",
         "link": "https://news.imaeil.com/Society/2020101410103864893"
     },
     {
-        "title": "코로나19 신규 확진자 102명…엿새 만에 세자릿수",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5024139&ref=A"
+        "title": "코로나19 신규확진 84명…국내발생 53명·해외유입 31명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/14/2020101490029.html"
+    },
+    {
+        "title": "간호사가 코로나 감염…부산 해뜨락 요양병원 52명 확진",
+        "link": "https://www.chosun.com/national/2020/10/14/I5MY32DQSZEQ5ORXSK5ND7FLIQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
+    },
+    {
+        "title": "코로나19 신규 확진자 84명…지역 발생 53명",
+        "link": "http://www.hani.co.kr/arti/society/health/965686.html"
+    },
+    {
+        "title": "부산 요양병원서 코로나 52명 집단 감염 발생",
+        "link": "https://www.pressian.com/pages/articles/2020101410030451533?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "[속보]서울 코로나19 신규확진자 23명…20명대 유지·일일평균 1982명 검사받...",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010141109001&code=940100"
+    },
+    {
+        "title": "대표팀 소집된 호날두, 코로나19 감염…\"현재 격리 중\"｜아침& 지금",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11973674"
     }
 ];

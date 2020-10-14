@@ -13,16 +13,16 @@ var worldNewsData = [
         "link": "https://www.cnn.com/2020/10/13/us/five-things-october-13-trnd/index.html"
     },
     {
-        "title": "Europe Reports Record-High 700000 COVID-19 Cases Last Week, WHO Says",
-        "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/13/923238485/europe-reports-record-high-700-000-covid-19-cases-last-week-who-says"
+        "title": "Dutch woman dies after catching Covid-19 twice, the first reported reinfection death",
+        "link": "https://www.cnn.com/2020/10/13/europe/covid-19-dutch-woman-reinfection-death-intl/index.html"
     },
     {
         "title": "Covid-19 prompts 'enormous rise' in demand for cheap child labour in India",
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "South Korean youth turn on China as Hong Kong, Covid-19 weigh on minds",
-        "link": "https://www.scmp.com/week-asia/people/article/3105363/young-south-koreans-turn-china-hong-kong-coronavirus-weigh-minds"
+        "title": "Covid: Australia in talks over quarantine-free travel",
+        "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
