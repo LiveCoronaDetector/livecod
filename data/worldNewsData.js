@@ -25,19 +25,19 @@ var worldNewsData = [
         "link": "https://www.scmp.com/week-asia/people/article/3105363/young-south-koreans-turn-china-hong-kong-coronavirus-weigh-minds"
     },
     {
+        "title": "The latest on the coronavirus pandemic: Live updates",
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-14-20-intl/index.html"
+    },
+    {
         "title": "Covid may cause sudden, permanent hearing loss – UK study",
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-may-cause-sudden-permanent-hearing-loss-uk-study"
     },
     {
-        "title": "Covid-19 Live Updates: White House Embraces 'Herd Immunity' Declaration",
+        "title": "Covid-19 Live Updates: White House Embraces ‘Herd Immunity’ Declaration",
         "link": "https://www.nytimes.com/live/2020/10/13/world/coronavirus-covid"
     },
     {
-        "title": "Dutch bars and restaurants to close; Russia reports record daily cases – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
-    },
-    {
-        "title": "Bars and restaurants to shut as Netherlands goes into partial lockdown",
-        "link": "https://www.euronews.com/2020/10/13/coronavirus-czechia-tightens-restrictions-after-recording-europe-s-highest-infection-rate"
+        "title": "Czech Republic Imposes New Measures to Fight COVID-19",
+        "link": "https://www.novinite.com/articles/206163/Czech+Republic+Imposes+New+Measures+to+Fight+COVID-19"
     }
 ];

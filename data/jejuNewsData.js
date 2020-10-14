@@ -21,6 +21,10 @@ var jejuNewsData = [
         "link": "https://view.asiae.co.kr/article/2020101111035629608"
     },
     {
+        "title": "코로나19가 가져온 ‘국가의 확장’… 개인의 자유는?",
+        "link": "http://www.segye.com/content/html/2020/10/14/20201014513521.html?OutUrl=naver"
+    },
+    {
         "title": "추석~한글날 연휴 제주 '50만명' 방문...코로나 청정 지켰다",
         "link": "http://www.jejunews.com/news/articleView.html?idxno=2173003"
     },
@@ -31,10 +35,6 @@ var jejuNewsData = [
     {
         "title": "[단독] 재택근무일에 제주도 여행, 노트북까지 속일순 없었다",
         "link": "https://www.chosun.com/economy/stock-finance/2020/10/12/TFEQKMARUFANRCQE4SOMFWTONQ/?utm_source=naver&utm_medium=original&utm_campaign=news"
-    },
-    {
-        "title": "코로나19가 가져온 ‘국가의 확장’… 개인의 자유는?",
-        "link": "http://www.segye.com/content/html/2020/10/14/20201014513521.html?OutUrl=naver"
     },
     {
         "title": "추석·한글날 연휴, 제주 46만명 몰렸어도 ‘코로나 0명’",
