@@ -29,12 +29,12 @@ var koreaNewsData = [
         "link": "http://www.hani.co.kr/arti/society/health/965686.html"
     },
     {
-        "title": "대구 신규확진 0명…일주일간 지역발생 확진자 0명(전문)",
-        "link": "https://news.imaeil.com/Society/2020101410103864893"
-    },
-    {
         "title": "부산 요양병원서 코로나 52명 집단 감염 발생",
         "link": "https://www.pressian.com/pages/articles/2020101410030451533?utm_source=naver&utm_medium=search"
+    },
+    {
+        "title": "대구 신규확진 0명…일주일간 지역발생 확진자 0명(전문)",
+        "link": "https://news.imaeil.com/Society/2020101410103864893"
     },
     {
         "title": "대표팀 소집된 호날두, 코로나19 감염…\"현재 격리 중\"｜아침& 지금",
