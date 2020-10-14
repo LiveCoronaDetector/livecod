@@ -9,8 +9,8 @@ var worldNewsData = [
         "link": "https://www.npr.org/sections/health-shots/2020/10/13/923253681/americans-are-dying-in-the-pandemic-at-rates-far-higher-than-in-other-countries"
     },
     {
-        "title": "Iran's coronavirus daily death tolls hit record highs as currency falls to historic low",
-        "link": "https://www.cnbc.com/2020/10/13/iran-coronavirus-record-high-daily-death-toll-rial-at-historic-low-.html"
+        "title": "5 things to know for October 13: Coronavirus, Supreme Court, Election 2020, Big Tech and Greece",
+        "link": "https://www.cnn.com/2020/10/13/us/five-things-october-13-trnd/index.html"
     },
     {
         "title": "Europe Reports Record-High 700000 COVID-19 Cases Last Week, WHO Says",
@@ -21,23 +21,23 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "Covid: Australia in talks over quarantine-free travel",
-        "link": "https://www.bbc.com/news/world-australia-54499478"
+        "title": "South Korean youth turn on China as Hong Kong, Covid-19 weigh on minds",
+        "link": "https://www.scmp.com/week-asia/people/article/3105363/young-south-koreans-turn-china-hong-kong-coronavirus-weigh-minds"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
     },
     {
-        "title": "Letting COVID-19 spread to achieve herd immunity is \"unethical,\" WHO chief says",
-        "link": "https://www.cbsnews.com/news/covid-19-herd-immunity-unethical-world-health-organization/"
+        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
+        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
     },
     {
-        "title": "Dutch bars and restaurants to close; Russia reports record daily cases – as it happened",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+        "title": "Czech Republic Imposes New Measures to Fight COVID-19",
+        "link": "https://www.novinite.com/articles/206163/Czech+Republic+Imposes+New+Measures+to+Fight+COVID-19"
     },
     {
-        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
-        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
+        "title": "Covid-19 Live Updates: Global Tracker",
+        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
     }
 ];
