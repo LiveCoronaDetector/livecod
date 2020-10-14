@@ -5,8 +5,8 @@ var worldNewsData = [
         "link": "https://qz.com/africa/1915794/scientists-on-how-africa-weathered-the-worst-of-covid-19/"
     },
     {
-        "title": "NY Times reporter surprised America's coronavirus recovery apparently happening faster than expected",
-        "link": "https://www.foxnews.com/media/coronavirus-pandemic-recovery-optimistic-ny-times"
+        "title": "Americans Are Dying In The Pandemic At Rates Far Higher Than In Other Countries",
+        "link": "https://www.npr.org/sections/health-shots/2020/10/13/923253681/americans-are-dying-in-the-pandemic-at-rates-far-higher-than-in-other-countries"
     },
     {
         "title": "Iran's coronavirus daily death tolls hit record highs as currency falls to historic low",
@@ -25,16 +25,16 @@ var worldNewsData = [
         "link": "https://www.bbc.com/news/world-australia-54499478"
     },
     {
-        "title": "Coronavirus live news: restrictions tighten in Europe; antibody treatment trial paused",
-        "link": "https://www.theguardian.com/world/live/2020/oct/14/coronavirus-live-news-restrictions-tighten-across-europe-global-cases-near-38m"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
     },
     {
-        "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
-        "link": "https://www.theguardian.com/world/2020/oct/12/who-chief-says-herd-immunity-approach-to-pandemic-unethical"
+        "title": "Letting COVID-19 spread to achieve herd immunity is \"unethical,\" WHO chief says",
+        "link": "https://www.cbsnews.com/news/covid-19-herd-immunity-unethical-world-health-organization/"
+    },
+    {
+        "title": "Global report: Russia reels from record rise in Covid infections",
+        "link": "https://www.theguardian.com/world/2020/oct/13/global-report-russia-reels-from-record-rise-in-covid-infections"
     },
     {
         "title": "WHO warns against COVID-19 lockdowns due to economic damage",
