@@ -25,6 +25,10 @@ var koreaNewsData = [
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/13/2020101390026.html"
     },
     {
+        "title": "대표팀 소집된 호날두, 코로나19 감염…\"현재 격리 중\"｜아침& 지금",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11973674"
+    },
+    {
         "title": "'확진자 늘어나더니'…영국, 코로나19 일일 사망자 100명 넘었다",
         "link": "http://yna.kr/AKR20201014002700085?did=1195m"
     },
@@ -35,9 +39,5 @@ var koreaNewsData = [
     {
         "title": "한국 수출 UAE 원전서 코로나 집단발병…확진자 파악 '뒷짐'",
         "link": "http://yna.kr/AKR20201012179200003?did=1195m"
-    },
-    {
-        "title": "칭다오 확진자 속출… 마스크 벗고 광둥성 간 시진핑",
-        "link": "http://www.fnnews.com/news/202010131803181808"
     }
 ];
