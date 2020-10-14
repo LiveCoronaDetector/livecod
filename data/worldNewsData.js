@@ -21,8 +21,8 @@ var worldNewsData = [
         "link": "https://www.theguardian.com/world/2020/oct/13/covid-19-prompts-enormous-rise-in-demand-for-cheap-child-labour-in-india"
     },
     {
-        "title": "Covid: Australia in talks over quarantine-free travel",
-        "link": "https://www.bbc.com/news/world-australia-54499478"
+        "title": "South Korean youth turn on China as Hong Kong, Covid-19 weigh on minds",
+        "link": "https://www.scmp.com/week-asia/people/article/3105363/young-south-koreans-turn-china-hong-kong-coronavirus-weigh-minds"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
@@ -37,7 +37,7 @@ var worldNewsData = [
         "link": "https://www.novinite.com/articles/206163/Czech+Republic+Imposes+New+Measures+to+Fight+COVID-19"
     },
     {
-        "title": "Covid-19 Live Updates: Global Tracker",
-        "link": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid"
+        "title": "WHO warns against COVID-19 lockdowns due to economic damage",
+        "link": "https://www.foxnews.com/world/who-coronavirus-lockdowns-economic-damage"
     }
 ];
