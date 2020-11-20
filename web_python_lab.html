@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script type="text/javascript">
+    globalThis.languagePluginUrl = 'https://pyodide-cdn2.iodide.io/v0.15.0/full/';
+  </script>
+  <script src="https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/BrowserFS/2.0.0/browserfs.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <style>
+  .disabled{
+    visibility: hidden;
+  }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Weniv world</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Code</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Lecture</a>
+        </li>
+
+      </ul>
+      <form class="form-inline mt-2 mt-md-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+
+  <div class="container mt-3">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Web Python Lab</h2>
+        <div id="repl-area">
+          <p id="loading" style="text-align:center;">필요한 리소스를 준비중에 있습니다. 3초 정도 소요됩니다.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    globalThis.iodide = {
+      output: {
+        element: (tagName) => {
+          let outputPane = document.createElement(tagName);
+          document.querySelector("#result-pane").appendChild(outputPane);
+          return outputPane;
+        }
+      }
+    };
+    let replArea = document.querySelector('#repl-area');
+
+    function add_block() {
+      let block = document.createElement('div');
+      let codeBlock = document.createElement('textarea');
+      let button = document.createElement('button');
+      let resultBlock = document.createElement('div');
+
+      button.textContent = '실행!';
+      button.classList.add('btn');
+      button.classList.add('mt-1');
+      button.classList.add('mb-1');
+      button.classList.add('btn-primary');
+      codeBlock.classList.add('form-control');
+      codeBlock.classList.add('mt-3');
+
+      button.addEventListener('click', () => execute_code_block(codeBlock, resultBlock));
+      block.appendChild(codeBlock);
+      block.appendChild(button);
+      block.appendChild(resultBlock);
+      replArea.appendChild(block);
+    }
+
+    async function execute_code_block(codeBlock, resultBlock) {
+      console.log('clicked');
+      let code = codeBlock.value;
+      console.log(code);
+      let result = await pyodide.runPythonAsync(code).catch(err => {
+        let errorBlock = document.createElement('div');
+        errorBlock.textContent = err;
+        resultBlock.appendChild(errorBlock);
+      });
+      let stdout = pyodide.runPython("sys.stdout.getvalue()")
+      let stdout_console = document.createElement('div');
+      stdout_console.innerText = stdout;
+      resultBlock.appendChild(stdout_console);
+      pyodide.runPython("sys.stdout.flush()");
+      add_block();
+    }
+
+    BrowserFS.configure({
+      fs: "LocalStorage"
+    }, async function(e) {
+      console.log("Storage initialized.");
+      console.log(languagePluginLoader);
+      //var fs = BrowserFS.BFSRequire('fs');
+      //fs.writeFileSync('test.txt', 'Python+WebAssembly is Awesome!');
+      languagePluginLoader.then(async () => {
+        console.log("Module loaded.");
+        let FS = pyodide._module.FS;
+        let PATH = pyodide._module.PATH;
+        console.log(FS.mount);
+        console.log(PATH);
+
+        // Create an Emscripten interface for the BrowserFS
+        var BFS = new BrowserFS.EmscriptenFS(FS, PATH);
+        // Create mount point in Emscripten FS
+        FS.createFolder(FS.root, 'data', true, true);
+        // Mount BrowserFS into Emscripten FS
+        FS.mount(BFS, {
+          root: '/'
+        }, '/data');
+        pyodide.runPython(`
+                    import sys
+                    from io import StringIO
+                    sys.stdout = StringIO()
+                `);
+        add_block();
+        document.getElementById('loading').classList.add('disabled');
+      });
+    });
+  </script>
+</body>
+
+</html>
